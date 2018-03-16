@@ -1,0 +1,267 @@
+Received: from BY1PR09MB0360.namprd09.prod.outlook.com (10.160.106.12) by
+ DM2PR09MB0368.namprd09.prod.outlook.com (10.160.247.24) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1282.10 via Mailbox Transport; Mon, 31 Jul 2017 21:49:53 +0000
+Received: from SN1PR09MB0815.namprd09.prod.outlook.com (10.162.101.149) by
+ BY1PR09MB0360.namprd09.prod.outlook.com (10.160.106.12) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.1304.22; Mon, 31 Jul 2017 21:49:52 +0000
+Received: from MWHPR09CA0021.namprd09.prod.outlook.com (10.173.97.31) by
+ SN1PR09MB0815.namprd09.prod.outlook.com (10.162.101.149) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.1304.22; Mon, 31 Jul 2017 21:49:50 +0000
+Received: from DM2GCC01FT010.eop-gcc01.prod.protection.outlook.com
+ (2a01:111:f400:7d01::206) by MWHPR09CA0021.outlook.office365.com
+ (2603:10b6:300:80::31) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.1.1304.22 via
+ Frontend Transport; Mon, 31 Jul 2017 21:49:50 +0000
+Authentication-Results: spf=none (sender IP is 164.82.1.21)
+ smtp.mailfrom=dccouncil.us; dcgovict.mail.onmicrosoft.com; dkim=none (message
+ not signed) header.d=none;dcgovict.mail.onmicrosoft.com; dmarc=none
+ action=none header.from=DCCOUNCIL.US;
+Received-SPF: None (protection.outlook.com: dccouncil.us does not designate
+ permitted sender hosts)
+Received: from hybrid.dc.gov (164.82.1.21) by
+ DM2GCC01FT010.mail.protection.outlook.com (10.97.3.132) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.1282.16 via Frontend Transport; Mon, 31 Jul 2017 21:49:49 +0000
+Received: from CWM-EXMR-108.dcgov.priv (10.86.51.18) by
+ CWM-EX-HS-22.dcgov.priv (10.82.51.37) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Mon, 31 Jul 2017 17:49:45 -0400
+Received: from CWM-EXMR-206.dcgov.priv (10.82.51.16) by
+ CWM-EXMR-108.dcgov.priv (10.86.51.18) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Mon, 31 Jul 2017 17:49:44 -0400
+Received: from smtp4-11.dc.gov (164.82.148.21) by CWM-EXMR-206.dcgov.priv
+ (10.82.51.16) with Microsoft SMTP Server id 15.0.1263.5 via Frontend
+ Transport; Mon, 31 Jul 2017 17:49:44 -0400
+Received: from mail.dccouncil.us (HELO dcc-exchange-01.council.local)
+ ([10.28.100.14])  by smtp4-11.dc.gov with ESMTP; 31 Jul 2017 17:49:42 -0400
+Received: from DCC-Exchange-2.Council.local (10.28.100.15) by
+ DCC-Exchange-1.Council.local (10.28.100.14) with Microsoft SMTP Server (TLS)
+ id 15.0.1178.4; Mon, 31 Jul 2017 17:49:41 -0400
+Received: from DCC-Exchange-2.Council.local ([fe80::9470:4f73:ec7e:556f]) by
+ DCC-Exchange-2.Council.local ([fe80::9470:4f73:ec7e:556f%19]) with mapi id
+ 15.00.1178.000; Mon, 31 Jul 2017 17:49:41 -0400
+From: "Mitchell, Katherine (Council)" <kmitchell@DCCOUNCIL.US>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>,
+ "Johnson, Dare (Council)" <djohnson@DCCOUNCIL.US>,
+	"Weil, Sonia (Council)" <sweil@DCCOUNCIL.US>,
+ "Marks, Laura (Council)"	<lmarks@DCCOUNCIL.US>
+Subject: RE: Proposed Legislation
+Thread-Topic: Proposed Legislation
+Thread-Index: AdKR7LaCRdBzLm+FTmmh8wFcxF7c5wAI3hBAACAyhpAAAafWcB3Z/ahgABG/MrA=
+Date: Mon, 31 Jul 2017 21:49:40 +0000
+Message-ID: <09ded0c630544d679bb4d7822c41383a@DCC-Exchange-2.Council.local>
+References: <1091ea71a4574a72ac06b7c16c843fb8@CWM-EXMR-107.dcgov.priv>
+ <db7bd58479c44751a8ae057ab1e8eaef@DCC-Exchange-1.Council.local>
+ <e37420bd33ee45a6ae5aa89f77941e57@CWM-EXMR-107.dcgov.priv>
+ <5bcf383462144b8ebd8fbb7097770cb3@DCC-Exchange-1.Council.local>
+ <DM2PR09MB03689A07514F63A3C7C00BE491B20@DM2PR09MB0368.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB03689A07514F63A3C7C00BE491B20@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.28.100.27]
+x-ironport-av: E=Sophos;i="5.41,304,1498536000";
+    d="dat'59?scan'59,208,59";a="316041466"
+x-crosspremisesheadersfilteredbysendconnector: DCC-Exchange-1.Council.local
+x-organizationheaderspreserved: DCC-Exchange-1.Council.local
+MIME-Version: 1.0
+Return-Path: kmitchell@dccouncil.us
+X-OrganizationHeadersPreserved: CWM-EX-HS-22.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ 2ce2ff7f-18b1-45cc-ef2a-08d4d85e11a5
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.82.1.21;IPV:NLI;CTRY:US;EFV:NLI;SFV:SFE;SFS:;DIR:INB;SFP:;SCL:0;SRVR:SN1PR09MB0815;H:hybrid.dc.gov;FPR:;SPF:None;LANG:en;;SKIP:1;
+X-Microsoft-Exchange-Diagnostics: 1;DM2GCC01FT010;1:B6TWRJnxq3QUQDhYmk00/6RCi/JdH8p9JDZgpI160WzvBv+HYN42G9O9n/25a/5L7f3QkejZTWk5u76cMWvadW/2fFN0cz0YZ3mx790dO30I2mRj1TsiAquqdTha2oJ8x1pmemgTWQBqSVH4TDRqc4pwr9Jp40yICOSRs+rn+E3ZmAxXCNl+REpx8nMkntppfjCscLpnL75su28qmBAjSlsrrR6cRaLKX7ZzQNJXL5sSzejwL4e1rndwk/D+gmz698I4rvycRirpiv/7di1eyL//gSk2rpbcBiVGwLS/pM33kIxFzZa/UG6GnlH4iKf7n1J1XErWwIZ2+4/NlbmA8YJr2h36Fd0fl2uc5VD5cebtf+Ofy8OK9MVAtko5R3jzZsJ13yKqUnoUdBETqyL/Y7V6IRZFqebmpAKykgrNZSGZeJf328bFrXsfiU5xiFCPqmywp329VlYnQGxKDg+bg5CJ4u2txP3HKOvidiLI3Zw9jNQhiLxR5ySzn6e+ydKEvVYpdffVWva++AyHx5MbaB6TQDJkTsXAg2NTW9Pe9CPzOQ6yk+GNia6jFLaMv5GzGagVv9TkGz/w1iI+sMTRNEcE4GMAyUV3728yjlmldW3lvMMgYszyGAeDemVkkgkZZgZ444nuTcsHDBHs/x6j+SFAykr9j6944W8nF1jJm5fBNjyCTsywPBrq/gu0/TIWCWJvke8M0wLondNq1N/YxOz6t7ybw3r8EIX8wRtyMsagobqs0ReZhLRoNrv0VbIydvZjDH64qaFG2ymlUZtG/u6pMAEuhKo71ICuFrYJJm/bAff2c0dp52xvGrG8OTDHymTnGKe+GsPtK+R96C3Fwh6bPrbYXqMYtnjc0Y//9wY=
+X-CrossPremisesHeadersPromoted:
+ DM2GCC01FT010.eop-gcc01.prod.protection.outlook.com
+X-CrossPremisesHeadersFiltered:
+ DM2GCC01FT010.eop-gcc01.prod.protection.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 2ce2ff7f-18b1-45cc-ef2a-08d4d85e11a5
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(2017030254152)(300000503095)(300135400095)(2017052603031)(201703131423075)(201703031133081)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:SN1PR09MB0815;
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;3:72yn5tlsRcSaj2Gp2XQ/+PSF5FNgRtCf4wzbOOxJqY6gO4Hq5jCT/1gBAAfO7d4IC8u+2eqk387gu13ezLejd2k4Tp/DPmfHHCDWDxQZsWx5wktVJjRZmtJgH+e2pU9aVHaOBUo+CuM4qW5xMzbqW5cFzFI2JZbNGwAggrFjVlGYIe8clxTOcialL+8A8W/rHCAfWD0kquQuwESxCrKjw+qF+iXTU34SERL0H/Hau2oNZkRnKpC9lBQq1hZnJgoJEZcFBUu7jgZizV0zflEvlrudzbbxnUGHDpB1g+9OHQ15EJrD48MKxLNnV5nYFVqhJlpmOcbmeicn7kaa3OmyC8EiJPX/7OEcqR+j/sePNHWHnqIV70z8rF9Wa+tx6kh47Q7Y2mlroq0BPMAd0qEaI9nviHplxKl85mvc2l9Y9+LNJUrYQQuZ7xXGbH9U8E4xSVT53os/OUg2eNQGtLTxWbKR/NkBq8ruqqtWMvGVnRVGoEwsBRrrEexirL82bD1Fhh1KH/w/ehEFfBNiggV5JHiA+A+BKocgWabSIDUrPytIeuy+xMe0q2+TTFdpgU+zP0yU0pwfiB9lZOl2OcHxdFHxFC4eRwQWaV5to6h3A5GaWeSNDgwBX2v0/PVprBL3IEtLS4B9wt3edNalsymKJuH3mM0S9Hpfk/5dI12HrRK2VsXQ5DuXZVXFysX7ukRFBqyGH/wFBTpit801nZmxyssOcHtAgU9WQaRIcAhtiJ6LYTIqXhFCMsZxrcqvYg7PWBNuO1AZkznZ2FnSzproMa4PnHpdsu4ufEQ1i9sXRhpPQjRfMZoI1lD3rl90IZvv4ZchsCVBfoxqhCWT1YlUjGfPFOeWLVjMRZearWF7gqn5oaBiXbzHsbmfWBbohGEsLXQ1wgTSlACXinLLdPJpKA==
+X-MS-TrafficTypeDiagnostic: SN1PR09MB0815:|BY1PR09MB0360:
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;25:Ktz6xcTx2tXa6chlG2llJnJrMPnC+9XGrFuPI5vgxXgFG5yAr5AzoF3TVsZJRogJh6a8Ju+ThaHxZpZ1cOaPt3IiWkfyvClnVhP9Sa50JPXFb19/0DJwSxBWSX1C8VbEL4Vp/4exHdkoiyNhcoCw4p5gLJAyNSKhDjkDQgt9uG7zapokFDr7hEWa4QbRPBB/BQyCEvRzH6cUyk1mlRuKcSRhqRreJE7B628TBObNBFSJx9DPuWqbzdFn7MeP0RMLIwCvA9nNLJ1e65KwWrRwnuprA3MXjSfQRI9QaeDtwQpnpP1hrgJE88C0bG1CQT2dEq3oKnKiq+/8Fl4BucAsmjZOiHUnkLkkIngIwplQ3WIme6Ywtp+TdbuqFmBkl7XOak/dPoxfTMPETyuMBaQv3+02SFBxzI5XEmxSVkLZxybiwn/8L1zLHV+4mf91qiAbLrQYsgTyXkLIDnmT5z9i2ztrAOGDXtCNNLHE4aCgOYI2DVdLk5OHVzmWnONwGOoLtRhkMX2bbl4eOEG7A6Aspe2VojrmY7EpbIohJGbdkSYvFVtfviQM53XjRjDY6kQeYuxkpvH+8X6pni0LMP1IyBWX2HTUdQ7lCHpB7y/v1GaUY6kG76AgbJPBJLk5mpqX+CgzYQRsQj7pvdbX3UQktkQlavcGoMtKNgM6+gSlgcoea6T5U1p1EhJO+mI9va9h0oJ8xjwBAn+wjPhh0TjvtL9QvEHo/cik8j7+3booASd/MLpVo6ufckdNp+/U0PECvbAg9Uj+DeoELcEiyKBgzudqBnxUMBE0PKLxhW+vN2DMwR/NfB0Mfjp/XWQ7i6KIgrz1Ed9Il2qiire1ujCiABdRIY2uOzkmVOBA7mwBw/jgPyhJUlCfZoeKpYr4+xlxSU7QyfNQ/HnQALYTXUUtZx+c32qN2WaIOuLoo/CqVXc=
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;31:4RZ1QV3Sw+aXrkHnJQQObXoOMY1qRuAdqP05XiGENh59MZ9FvlTqig/cFat4HwDl8dwbo/TIYMuMvKRqfHBI/ruM7fmHJ4/DNnL+laLfQ7yxMtXL5nI/2ID+eNkdJ8Wdws1y02qQom7nMt7Nx/l7l0QwEAswosE69hi9LUvPUyZt987VS5p0WH/AhNI/MN8Hq7UKE/24L6Or9sylDk+TNof6IM/rgGN4F4OUBDwsJRgJ0U0qzKzxFgK0ZiO+47MX7MvGl7yIMhgBRHxjtf5JANIWXP/VBOS9/3dKWIcLUljFnDAROkGLfGJS+DU26jixTtlJmbXEg6Q4vQwCzyJRZ8AMGTdeLuBfnBBFeIRIRR7rYVUT+sQIn4SzTO1wG5GUXZTHBDiZHEPUzxknwF340P3Via8rRORsB33moT16X/vgV1I3SkeitRY6McmH0Z8QUYgRfROZR6HesK1EXS6zQtqbE0JEeIoIxOAJKMeTf7U6SOzmyB2jpHKVUAXt4YkW/0mTGl4Aoan/oahrzoLJ3FDGmWXOr2/+RoKgi0OpYtErj1VatCnqU75I+Sw8VQ+/te6TiciRAgpXmxAm0xKCRUe6m1/QLdVIG1dlzkTLWRZnrDb72exbEmz7Nc46563PJQZAY3NrTVlcjSM4ni/AoXS+MD60/V8+tp3uRWmgYET5NbxSQGlunGROEgGbDqKh4wu8yVTr+UtHGP+K5rWg4OcB+lA/JUd2nkhVvFzkFwxdigM7usltG/d4UwWWC0bJ
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;20:iCKL6Amh277CGvvZqeC/jjVaxOwxFxOfFm0kq5HaH6HifZfG952uyn+zWEpEa5hrBc5ICf82GG4O9Yv7kfNRn/efMIXLGJ91svgtZhuWTTlblkNEGmuqrXgGfkXWUee2tfo6yxmUC2CXLdjUXXDGDGap8G2/GOJvq5PLYQBjA7c9zU2V6n4H4YCq+3xJPzXVkWBZ64L31ezqzFyRZa0FKZd+q+96shatMfeh68uylpamzuuYfqvkwdXsUCajVguBIB2BE9SYDSqz89Ggyax2NL//FJ2Dt8LYRZuB9Xgp8lBa/hYE6eOhUbWNJPxtOuZ/clxIO7CcsTYXCm8mKofYmSaqov9kfLu3Bs9jSGCeY3RkS4i1VuL/6kEnLiGj/AAJ4g9auKhnt/cFe0/QKHsErH1grfN1mbZSkZsljRD8u2a2xTTkV5yPc7xg9VvZ1k4vi98KcjdQyfWPidI0s8wHLG7GeoGDPoOOAKUrQwj/ErFxM5/TFAahbnvuPGh8Znb7
+X-Exchange-Antispam-Report-Test: UriScan:(31418570063057)(211936372134217)(21748063052155)(64217206974132)(68840517438536)(119230021023882);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(601004)(2401047)(13018025)(13016025)(8121501046)(100000703101)(100105400095)(93006095)(93003095)(10201501046)(3002001)(920507026)(920511095)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:SN1PR09MB0815;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:SN1PR09MB0815;
+X-Microsoft-Exchange-Diagnostics:
+ 1;SN1PR09MB0815;4:iKFinTYd5QmJR7RYEdJFtFI0jqVw2ypvjMju6u1yUw
+OPZJcjclfyzSo6wl/CokznpSyRzAbhcyBpXpTSt2bfh5xuD3Bl4YpVZW99OY
+vPUDBlQLHGHENtwKk1s3iZxBqhMaoKG0DtXMUAcDpeaJ1np3Plm5mmkGlhdw
+SM5/1stMuIcHJYx86BCd8W4ojRpkrz6yklmx3hVMtCwq03NneYf9uocI5LJN
+1gPRSod+loH8Llyf4omFFwIxXbcBeGpkb67NxGyUAG/4NrPigCsP+RnpXzwC
+RFTZHpDNcpUqSJAWVwCs1T+7IMseUUWr0bZA9mr6IsvUcV3yVqj3AaampYrs
+b0elQuzevNDAtuysFJOKl/UkDAxvzVU6XBWQmaUyNWyYO84z29ibp2dZ5AKR
+VqDBGMqQ/Klgn3/MiN84lT9eL6QMGK5nm506SN81nm9xoqW3OBdm+DFJ3OvB
+tpxzCUK+2jAEeUqU9rVfLdVFGSQyh9MNQ8bUWRs8XD/2ltIs/PrwMrr3vK0H
+fNghMprhwEoHoD/GLddm3f2GwlcO6IGoL2Gj4vfn4HOCgU+qpOigsdyu+dHD
+ivOn+oZ8H+Kefasq0/HguSw6EFGaj1yMEyQRXOrQNQ6lWTndrTiyG3niCzKS
+s2Z1NG+eblFj7IezPb/36m0NYeri1WMMC17sNBGtbU2d9O2EuAgrZRaRPESi
+8xP8hgeDboFVOxFayvCRpp8TWy8kXJSrtV0qR5jI9JRgb6xUg7l2VthfPPic
+VF9B78BtsW+TFB28z7CW04J+SO+2wI1ioaIWNCcd6kDp5d2aLZjbQ07mLb0v
+pstU9SThMxskheP5PTTC42Y8U2ZlYHu78oPGQ+2+cJLjL5EIBkMIfUFDqbqE
+Ekw/mdb7hW5tfXbJCPcVMnBx4DSPmoNVDzQGb4S2sMZh/S3XAOQBwcgbRIL7
+n16jjLPia+v8WK+02cDnstelupAUJtdvxq4u2dFeFAues9Xwk0xAKj91zZXK
+NJN0n+5OupH6NWGvHP6tYjROQeFnnQZ3ZAomT3QT0VHLHYbX8e8pjZVZAjE1EW96o=
+X-MS-Exchange-Organization-SCL: 0
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;23:DNXPN5kqkpbl+cj2ZXCiwoP+4s7JRIuMh3euiSJz4fMh235aUj/rzsHH4nBTp0U3/jxmTRBFCSvo53r52x8SiqQBhP25Y2KAC+uGJ12akYxGwBp49Q0PXC7O2RulDHjIC3iSRLkc/eI8upCFGb/ihlKeVyoRevhMNzFmLEIPEQw=
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;6:t5QHT9vSD6CsPz05KKi1nXXRuWxAzuTwpl63dPDRLTjiawsl+eCPNlkcR8KQisIssGza4ssC9k/PYyOm/bhGRMcK7F/ByRbOuR4/Kqdmm/kdGIQi/NEEBHliKW5O0nBI7ON5GiLx+M5nlLz+7feZvJD9+Sd89xnPhzjIKW+uDZv6sc0dyv2VUjoy6vXbmJ+Ah13jMYFWS9jX20PlcZxx/3kJXrvSrKXsVpdQ3uu8EgiS9Gh9uicdzu5c1nlRZAUNdrN+xmAYPnI1j26pW0jlEwa+rQ10xCe639j+jN/+a1GijRHrwZc6QZN0cWu2WEv5vneLUD8KLf0RoqlCfTOVfPMSQjK9pkIABdoGSD5S3qWO59nMesaNmBout1SSXA2y3JjgnlxHroWxlzj0uNeN4ti4MvM4VqR2B4hzq1Ml+VEclNTilaXsOpjlBNLxAqR7OeZmBv86rlQgWsPtrU/g1u/wglf29/pz+vEmvByO7mKUgd4Fsl4i3H4CHit7XJ1MF7H7SaHoppa6oTBCnn4CdmJZL3LeTHeDcbTduV2idl6W/Rl22S/QXiN0d4/4+E/kgRDEodOAKDSRZ7CqGIJzD0IHX6ALOxO7P6leo5iV2vOEJ2DZGMhezWBL6N3h4ezRbQ1aUhhayx+4lmsvc5MJocfM2ph3+4Bi4rJglwgsVxgEQeUKSvi0Ka73TGFL/6Kp0oHc/BJgHUsXmeKSxe0182Fl6QTkj9fA8LayWMfGpYVM3/fmXX47ms7nif3+TjPJ3zEK0bB5c9kI7ibuWdWwZENr4Bz91EV1hsTDwy3cuUJ/X8auQ4aRpwCQC7obbg2nQGNB5hRhmODfJhUuzgByEyjQKj/tswTx3Pz1eAFwjc76V9v70Bh5eG5chRayM9Mp2pZQeUi+/h5sOebLQrdh8g==
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;5:ILHRo9zKIHN+p+bkMpr4T5fHeYsj4h0wx7tdR7Jt2fg7JxjkY+gn+YLcqztNzkC12Yf/WJF+9Z/FxGBdDbKdJ/ZUVpUbabqCdC+r8DF6WwpnokRwV0VnIOD1WGjoa7Lpl65eb97AbLo7ZrpAO6AO0k+HGev29tsHF88V10v9hnehX7yemQeDEQ9TNMswk6KRQ8DGIuueuEC/guj/JmKquXo8M6/U3mwFlUDilMwOFVa/r9aWcunvPFGnB/WgW7wrVKxt8fy8doIbJ485Rqv83flvL8ade4tJQLVGAsZvVNXktgK4n6gwjUbINnCyf/je7Y4fPEDsvI3qU6IvCRu52i+HsHzr8OfUX3Dq0n9w/XQIU4qjieyMOubL5GdUrDtLumy26gx01UX8IKUVv2TiDlIde4IwV2HIvi4ZsctPFGNfMVnMDdbqw1uIdfxs+dHyH3tx1EmfsClybbYa1ju1b4Arm7JgREPni02e/jZ3F0OJcxvudvXni0nw2Kxd44UX;24:oaYVy8cIZ6QydLOr0dhRFQuEHVjZ8NkxUC91Nu2zKrGormzHM1Z1SyqbMLOZN9W/xyHScHEc/Dl7K93aSECrSw==
+SpamDiagnosticOutput: 1:3
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;7:+T2vwurJDmHgAamlQRjAH+MIHRpMjq4dnPzqCY6LGT+WlZ7b4xE/yMv/lOUDbhr0FefshszEVfbdy4k5rKSGpytJLMrpmpSz2esrBWe8QNioj84z1NX2qCZvLwY+LKPyf2vGSJRrPVbDAXzjE6sUMq3D/fQE3GnJiVzKUb2F9OrvQZ7u6WIxpJg4ilDBx0wnS4xwliRu9RSu/Rn2AtK3KGse6SyC2SW7Q5S45xjDTUSHFcnJl48sARnmDSkPZxvvQf5vMRltCNQe10+Q6Gx29eEoteJJo3A2t4Glsa7TVlCJw1vew4vdX7eJZilbRdH/V7AZpLAc8pqnoZgzerKDNz7xMNP5eM1DdRe6F3K+uk5JL+iFXhmUca8vJeWmNJX+3X4cijU1NqeLf7LcPlqmpqAt3xJ1sZCohGe68RV9qTRXQac6vW5q0Z3UrRlDChcStpYVZU4d4dX735DYEYvJYYrqmSs1CL3VgG131ulsPum5IV/vKbHTIMKaG8UIDXpXhoeHdd1U9r4memOZqZLEi9M0ND33/opVdZ/0FrkXhkN0E9WKrreZdhwluudqJvKzPyb/We7k8/VoCR9nvwcmji3tshuBojzgbuAClHgzJApx2u34IXaZmIKlU5dM5qq0eeF4TcmrGeJt8lykPa7+Mm6F1nIUC+lq5WR+nmP4n0BJZcCwAMSi4hsuxYBO+XdbdItEKmJI2ZOXintvEqBnZvZpVHOM1CNqH4plireFfyhqG97hSRPNjASSg6L2TtaX8wgNoX+6TFOxhoJQrKgr6GcnuonHj938+bwyQDL0wDeqjTdDwCu5oV9EU4U40JSUb7NoqAYFQnIzLmhFDeZbDpMNrOaYe40ggUtqOpfEjBI=
+X-Microsoft-Exchange-Diagnostics: 1;SN1PR09MB0815;20:91a31bwlAaIrYqpy/fmqA+wnC2keBv/34X64h7LDdan8mUY7FGBCugAl23ZyE7jwKBXNftgCRDnRKorHLwbJXgKwDaEqtApbz8K9LU0iRUYkYWlkQdy16HZFrRvZKBMj7gLA1zoMni6tNIaNpXengjUfaVtCMViqHhqMgouEyoU=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 31 Jul 2017 21:49:49.8976 (UTC)
+X-MS-Exchange-CrossTenant-Id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=8fe449f1-8b94-4fb7-9906-6f939da82d73;Ip=[164.82.1.21];Helo=[hybrid.dc.gov]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR09MB0815
+X-Microsoft-Exchange-Diagnostics: 1;BY1PR09MB0360;23:C9pCNuEvkm6RrD86ev0Xhur1VMGOoM+4/Bz8Cjsy/uZi2GR3k/DzKgugbkbbpRZ3iOhO1pqwXleeS1iWNTZC5Qq3bl5BjT78h4zg/gH2q2QJF2UJj+4fi0D7lPBdlNoESALFnDPuCXzH9m/sTLlKAW5Wxp097zf1zGxZzcLCLIY=
+X-MS-Exchange-Organization-AuthSource: CWM-EXMR-206.dcgov.priv
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.5427449
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1282.007
+X-Microsoft-Exchange-Diagnostics: 	1;DM2PR09MB0368;9:Gbh9z7Q1kyoaVpGFm/shQFBCereHdhGCFHUVYgMbCwMy7Gj304BOrcgiklPedYbcOXJEHdHcQDh3t8QshbfjtUIpmEpEX+S83BTYq1srwS3ZLcttFqrEeWBRlnClcebblgph4Nl77FoD+rDQADcCb5y84I1D1kQxxjtdz8jfdTOIhHz7qXWn7XEAapbUWrmeRgcO5/9Pgn/YI0XfpGnsBT/Ghdw+anx6DBZSQpp3s6mcdnJSQQU5/1Eu/jbqbnqZZ2QmVQJ/jwwpbIY0PRzTRjijZthGh26YVVbF9G105IJeYuad1cuVeBPXKZG+JU3I8MD1/tdU2BJ5qmoZgnjHd58UGcL+sJClu8jCKYkuzty6paHU8D33WnQFK00B2g6jT86cR/RtXHB1NxVd7IAxKT+NMTIFPf1XteZZvGVZ0YU=
+X-Microsoft-Exchange-Diagnostics: 	1;DM2PR09MB0368;27:U2aNQo6WgBdYT7AH6XkP+5BmnJVPTQDLTer/iioxz2HVAPbt6zKPvo3bWwGuiu7P//4Ecm9bFYdrmLGKGiBPTZ7Bq2Q3bGojCcIFAb8ov3QO6bZNg54HgL6bIvNgAhPZxWHL0hOz2VyKNHyrGtM1XQ==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Jack,
+
+We=E2=80=99d be happy to. Our scheduler, Dare, cc-ed, will identify some time=
+ on the Councilmember=E2=80=99s schedule. He wants to have a second hearing o=
+n the CCC, which I=E2=80=99m tentatively scheduling for November 2nd at 2 p.m=
+., along with B22-38 and B22-344.
+
+Thanks,
+
+Kate Mitchell, Esq.
+Committee Director
+Councilmember Charles Allen, Ward 6
+Chair, Committee on the Judiciary & Public Safety
+Council of the District of Columbia
+1350 Pennsylvania Ave., NW, Ste. 109
+Washington, DC 20004
+202.727.8275 (direct)
+kmitchell@dccouncil.us<mailto:kmitchell@dccouncil.us>
+
+Email us<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Maili=
+ng%20List> to be added to the Committee=E2=80=99s mailing list.
+www.charlesallenward6.com | @CMCharlesAllen<https://twitter.com/CMCharlesAlle=
+n> | facebook.com/charlesallendc/
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]
+Sent: Monday, July 31, 2017 9:54 AM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>; Flowers, Brian (BEGA) <br=
+ian.flowers@dc.gov>
+Subject: RE: Proposed Legislation
+
+Good morning, Kate, and happy recess!  I hope you=E2=80=99re enjoying the rel=
+ative calm so far.  Speaking of which, we=E2=80=99d like to set up a time to =
+discuss the CCC and the other pending bills that would amend the Ethics Act. =
+ Tameka, our new Chairperson, would also like to take that opportunity to mee=
+t Charles.
+
+I=E2=80=99m taking off, starting this Friday, until August 22, so we=E2=80=99=
+re generally available after that.  Let me know what works on your end.
+
+Thanks.
+
+
+Jack
+
+From: Mitchell, Katherine (Council) [mailto:kmitchell@DCCOUNCIL.US]
+Sent: Wednesday, March 01, 2017 9:32 AM
+To: Grimaldi, John J. (BEGA)
+Cc: Spagnoletti, Robert (BEGA); Sobin, Darrin (BEGA)
+Subject: RE: Proposed Legislation
+
+Hi Jack,
+
+Thanks for letting me know about the introduction. We have a good amount of t=
+ime, as budget won=E2=80=99t be over until mid-May, and we can pivot then bac=
+k to bills and summer planning.
+
+Thanks,
+
+Kate
+
+Kate Mitchell, Esq.
+Committee Director
+Councilmember Charles Allen, Ward 6
+Chair, Committee on the Judiciary & Public Safety
+Council of the District of Columbia
+1350 Pennsylvania Ave., NW, Ste. 109
+Washington, DC 20004
+202.727.8275 (direct)
+kmitchell@dccouncil.us<mailto:kmitchell@dccouncil.us>
+
+Email us<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Maili=
+ng%20List> to be added to the Committee=E2=80=99s mailing list.
+www.charlesallenward6.com | @CMCharlesAllen<https://twitter.com/CMCharlesAlle=
+n> | facebook.com/charlesallendc/
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]
+Sent: Wednesday, March 01, 2017 8:46 AM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US<mailto:kmitchell@DC=
+COUNCIL.US>>
+Cc: Spagnoletti, Robert (BEGA) <robert.spagnoletti@dc.gov<mailto:robert.spagn=
+oletti@dc.gov>>; Sobin, Darrin (BEGA) <darrin.sobin@dc.gov<mailto:darrin.sobi=
+n@dc.gov>>
+Subject: FW: Proposed Legislation
+
+Good morning, Kate.
+
+The deed is done.  See attached, the =E2=80=9Csubstantially similar=E2=80=9D =
+2017 version of the CCC.  We likely have a bit more tweaking to do.  Any feel=
+, then, of when we should have that completed?
+
+Thanks.
+
+Jack
+
+From: Robinson, Ericka (COUNCIL) [mailto:EROBINSON@DCCOUNCIL.US]
+Sent: Tuesday, February 28, 2017 5:16 PM
+To: Grimaldi, John J. (BEGA)
+Subject: RE: Proposed Legislation
+
+Thanks
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]
+Sent: Tuesday, February 28, 2017 1:08 PM
+To: Robinson, Ericka (COUNCIL) <EROBINSON@DCCOUNCIL.US<mailto:EROBINSON@DCCOU=
+NCIL.US>>
+Subject: Proposed Legislation
+
+Good afternoon, Ms. Robinson.
+
+Thanks again you for speaking with me yesterday.  This is just a heads-up tha=
+t I will drop by your office in a short while to file the original of the att=
+ached bill (along with a transmittal letter signed by our Board Chairman) and=
+ to complete a filing sheet.
+
+
+Jack Grimaldi
+Senior Attorney Advisor
+D.C. Board of Ethics and Government Accountability
+441 4th Street, N.W.,  Suite 830 South
+Washington, D.C.  20001
+Main:  (202) 481-3411
+Direct:  (202) 741-2129
+
+
+
+Just like our city, Sustainable DC is evolving! Help us update the plan by te=
+lling us what you care about most in this easy 3-minute survey.<https://docs.=
+google.com/forms/d/e/1FAIpQLSdAD451htG6I4GqSTucXRHhrupb4E-3kpZfE2R-XHBJt47PqQ=
+/viewform?c=3D0&w=3D1> Learn more and get involved by visiting http://www.sus=
+tainabledc.org/in-dc/sdc2-0/.<http://www.sustainabledc.org/in-dc/sdc2-0/>

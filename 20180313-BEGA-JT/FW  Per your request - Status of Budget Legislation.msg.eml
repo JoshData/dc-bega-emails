@@ -1,0 +1,107 @@
+Received: from DM2PR09MB0638.namprd09.prod.outlook.com (10.161.253.142) by
+ CY4PR0901MB2196.namprd09.prod.outlook.com (52.132.100.11) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.386.5; Thu, 4 Jan 2018 17:40:56 +0000
+Received: from DM2PR09MB0638.namprd09.prod.outlook.com
+ ([fe80::f121:823a:24ad:2499]) by DM2PR09MB0638.namprd09.prod.outlook.com
+ ([fe80::f121:823a:24ad:2499%18]) with mapi id 15.20.0366.009; Thu, 4 Jan 2018
+ 17:40:55 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+Subject: FW: Per your request - Status of Budget Legislation
+Thread-Topic: Per your request - Status of Budget Legislation
+Thread-Index: AdOFguCUSJHjFauzRh6Ntvku7PcuogAADvGg
+Date: Thu, 04 Jan 2018 17:40:55 +0000
+Message-ID: <DM2PR09MB0638F50C6EC868689018F347911F0@DM2PR09MB0638.namprd09.prod.outlook.com>
+References: <CY1PR09MB0220A2EA53CC9EFABAFB8B44E21F0@CY1PR09MB0220.namprd09.prod.outlook.com>
+In-Reply-To: <CY1PR09MB0220A2EA53CC9EFABAFB8B44E21F0@CY1PR09MB0220.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM2PR09MB0638.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ f20d7b59-130d-41c7-3e0a-08d5539a4f01
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY4PR0901MB2196;5:CWEcIrCExMR+3zkyaqto+80/5aoZl7etD7VqCpEIa0nJLsWTr7xyySemM/D4Ulm3sixTENQoYSqB30TIBt0kAHlgpmexI7mEgEjA3+QPWI8CdftUV2j5oQbzYAJaG4lP5N4kZabipv2Txx5Zby84lESZqS8lEbfbsdQh//FG3Nk=;24:MsX2LtF4M18IgEs9CCxg+wmW2Dd4y+DTDUu/1H8sazfRZGatXa9dmSJ676g3Dup/MvFrr3u5cGDMxdvmg8ixQUew8i62r6cYGkIFWuGYEf0=;7:fBRp0G5ZNAwTOZjryrSVzi1QhvNM72mdYv+CI+oROiaKK40nvD5KFe2sQ4e3z0wnstBvGWJl2WBZoiQkBMhSv/DkwIYH5Ix5iIU5p+6tVd0sT5CKtk+APvcjxEew1DkTXwSaJX7dDfAxZ8tBcnOhBp5tTJZWD30ztvhOq9980NFxUXtj6ATPTO0aPluUEu5NBFhNloEKvoW/SvPXZFgnAgcZwyZ+d2qELVKrm4nM7ftthvS//kP3fXEuRiRpWRoy;20:W6XxdGvK2aa8YyxeMN/NgIHREw+a9VU4fY6RoqdRvpRi3I5s8i55ILT4FPaZ6qWnZtnKjLvrRNqaFHs0QjB1v113iZ94HWXeKhpnLVJgpRPVOWdbJh0YDYcwANNXpjcYi1U2gXrZGu7894IC5lj6fIkimSp6VTGVWVdt7ZCs0y0=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CY4PR0901MB2196;H:DM2PR09MB0638.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: f20d7b59-130d-41c7-3e0a-08d5539a4f01
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(5600026)(4604075)(3008032)(2017052603307)(7153060);SRVR:CY4PR0901MB2196;
+x-ms-traffictypediagnostic: CY4PR0901MB2196:
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(93006095)(93001095)(3231023)(944501075)(3002001)(10201501046)(201708071742011);SRVR:CY4PR0901MB2196;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:CY4PR0901MB2196;
+x-microsoft-antispam-message-info: vOm7ZM+gEvJjYWqhXKR6bQHe3rF6r88lF8jS88Rp5ISYwCK10JFgHe1RIMTUfR99R9yK28keDT2bF1WqYF7Q6A==
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+FYI
+
+=20
+
+From: Gracyalny, Patricia (OCFO)=20
+Sent: Thursday, January 04, 2018 12:39 PM
+To: Grimaldi, John J. (BEGA)
+Cc: Tseng, David (OCFO)
+Subject: Per your request - Status of Budget Legislation
+
+=20
+
+=20
+
+FISCAL YEAR 2019 BUDGET
+
+CITATION AND LINK
+
+STATUS
+
+Fiscal Year 2019 Budget Submission Requirements Resolution of 2017
+
+Resolution 22-339
+
+ View Enrollment
+<http://lims.dccouncil.us/Download/39263/PR22-0627-Enrollment.pdf>  =20
+
+Became effective on December 5, 2017.
+
+Mayor=E2=80=99 Budget is due on March 21, 2018.
+
+=20
+
+=20
+
+Patricia Gracyalny
+
+Assistant General Counsel
+
+Office of the General Counsel
+
+Office of the Chief Financial Officer
+
+202.727.0871
+
+202.724.4217  fax
+
+=20
+
+CONFIDENTIALITY NOTICE: This e-mail message, including any attachments,
+is intended only for the person or entity to which it is addressed and
+contains information which may be confidential, legally privileged,
+proprietary in nature, or otherwise protected by law from disclosure.
+If you received this message in error, you are hereby notified that
+reading, sharing, copying, or distributing this message, or its
+contents, is prohibited.  If you have received this message in error,
+please telephone or reply to me immediately and delete all copies and
+backups of this message.
+
+=20
+

@@ -1,0 +1,367 @@
+Received: from BN6PR09CA0082.namprd09.prod.outlook.com (2603:10b6:404:dc::20)
+ by DM5PR0901MB2197.namprd09.prod.outlook.com (2603:10b6:4:78::39) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.77.7; Thu, 12 Oct
+ 2017 15:43:46 +0000
+Received: from DM2GCC01FT008.eop-gcc01.prod.protection.outlook.com
+ (2a01:111:f400:7d01::200) by BN6PR09CA0082.outlook.office365.com
+ (2603:10b6:404:dc::20) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.77.7 via Frontend
+ Transport; Thu, 12 Oct 2017 15:43:46 +0000
+Authentication-Results: spf=fail (sender IP is 164.82.32.34)
+ smtp.mailfrom=dcbar.org; dcgovict.mail.onmicrosoft.com; dkim=pass (signature
+ was verified)
+ header.d=DistrictofColumbiaBar.onmicrosoft.com;dcgovict.mail.onmicrosoft.com;
+ dmarc=none action=none header.from=dcbar.org;
+Received-SPF: Fail (protection.outlook.com: domain of dcbar.org does not
+ designate 164.82.32.34 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.82.32.34; helo=hybrid.dc.gov;
+Received: from hybrid.dc.gov (164.82.32.34) by
+ DM2GCC01FT008.mail.protection.outlook.com (10.97.3.193) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.20.77.10 via Frontend Transport; Thu, 12 Oct 2017 15:43:46 +0000
+Received: from CWM-EXMR-202.dcgov.priv (10.82.51.12) by
+ CWM-EX-HS-13.dcgov.priv (10.86.51.38) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 12 Oct 2017 11:43:21 -0400
+Received: from CWM-EXMR-201.dcgov.priv (10.82.51.11) by
+ cwm-exmr-202.dcgov.priv (10.82.51.12) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 12 Oct 2017 11:43:21 -0400
+Received: from smtp3.dc.gov (164.82.148.121) by CWM-EXMR-201.dcgov.priv
+ (10.82.51.11) with Microsoft SMTP Server id 15.0.1263.5 via Frontend
+ Transport; Thu, 12 Oct 2017 11:43:21 -0400
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: A0AOAQC8jN9ZhzcpL2haAxkBAQEBAQEBAQEBAQcBAQEBAYJvIiApVxBfBAsgBwePBo10gj15gX6CXJIPA1wHAQIjUoRGAoUVAQIBAQEBAQITAQEBCA0JCCgvhR0BAQEBAwUgCAESAQEHMAEPAgEIEQQBAQYBAQEKFQcCBRABDAIMFAkIAQEEDgQBBgIBBYhAgTgDFQEIB55fAosJgxKDCQEBBYQsGINhAQEBAQEBAQEBAQEBAQEBAQEBAQEBDgcIgSGCDINYgWqCNUAEMYMegWkMCQoMCQQECYJiGYIyiDSBf2eNT4UiA4M7hl0BBno5hwqHeEKFKYp2jDeBAIgHAgICAgkCEweBOQ+BVoEFhVwfgXN2AYpHAYEQAQEB
+X-IPAS-Result: A0AOAQC8jN9ZhzcpL2haAxkBAQEBAQEBAQEBAQcBAQEBAYJvIiApVxBfBAsgBwePBo10gj15gX6CXJIPA1wHAQIjUoRGAoUVAQIBAQEBAQITAQEBCA0JCCgvhR0BAQEBAwUgCAESAQEHMAEPAgEIEQQBAQYBAQEKFQcCBRABDAIMFAkIAQEEDgQBBgIBBYhAgTgDFQEIB55fAosJgxKDCQEBBYQsGINhAQEBAQEBAQEBAQEBAQEBAQEBAQEBDgcIgSGCDINYgWqCNUAEMYMegWkMCQoMCQQECYJiGYIyiDSBf2eNT4UiA4M7hl0BBno5hwqHeEKFKYp2jDeBAIgHAgICAgkCEweBOQ+BVoEFhVwfgXN2AYpHAYEQAQEB
+Received: from mail-dm3nam03on0055.outbound.protection.outlook.com (HELO
+ NAM03-DM3-obe.outbound.protection.outlook.com) ([104.47.41.55])  by
+ smtp3.dc.gov with ESMTP/TLS/AES256-SHA; 12 Oct 2017 11:43:19 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=DistrictofColumbiaBar.onmicrosoft.com; s=selector1-dcbar-org;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=SCsjUSKSBcam76mp8AW8ATRydyRSqV+QJtfcNWFHYrk=;
+ b=j9b4s/hwsTx1OrvbnVCZUhmGXyvVr/X96xISj+jzn60uDSW7dSGx98sUw5+sK7RP4U11aSJ8Y1iNc6QOwUe03KAVS0rCz+1T9JEjCurTTtjMPqtMqZnpcCqwbETwKjTdzLdHVRuKDce6pqdjbh0kYjKksbRwTuofL6U1T8x3eaY=
+Received: from BL2PR01MB418.prod.exchangelabs.com (10.141.90.147) by
+ BL2PR01MB417.prod.exchangelabs.com (10.141.90.141) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.77.7; Thu, 12 Oct 2017 15:43:17 +0000
+Received: from BL2PR01MB418.prod.exchangelabs.com
+ ([fe80::9533:af3a:8210:1992]) by BL2PR01MB418.prod.exchangelabs.com
+ ([fe80::9533:af3a:8210:1992%14]) with mapi id 15.20.0077.021; Thu, 12 Oct
+ 2017 15:43:16 +0000
+From: Robert Spagnoletti <RSpagnoletti@dcbar.org>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ Robert Spagnoletti	<RSpagnoletti@dcbar.org>
+Subject: RE: TESTIMONY - Ethics Reform Act of 2015 and CCC Establishment Act -
+ 7-8-15
+Thread-Topic: TESTIMONY - Ethics Reform Act of 2015 and CCC Establishment Act
+ - 7-8-15
+Thread-Index: AdC5fnwxfBHIXpuPTVOVJFKatSCFWIURBKNAAAGE6gwAI0Uu6wA3L6oA
+Date: Thu, 12 Oct 2017 15:43:16 +0000
+Message-ID:
+ <BL2PR01MB4181869A261F7687BA5B516CE4B0@BL2PR01MB418.prod.exchangelabs.com>
+References: <7EE4594AB646074FAD421850008389D07C0DA557@Exchange01.schertlerlaw.com>,<DM2PR09MB0368940A6D4B931A0C17ACB791750@DM2PR09MB0368.namprd09.prod.outlook.com>,<2C85E949-2C34-481E-A6CF-83345C4EEC17@dcbar.org>
+ <DM2PR09MB036870B35935DEB62023DA73914A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB036870B35935DEB62023DA73914A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: spf=none (sender IP is )
+ smtp.mailfrom=RSpagnoletti@dcbar.org; 
+x-originating-ip: [66.162.10.1]
+x-ms-publictraffictype: Email
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BL2PR01MB417;6:tB6nff4eUzcL7k8bv/xBxnGnPNUGrCBwbialLX/+SHsW6lnnq/kgETZkBOZsWy2J1RRbUeX2e9Jelwpjmm5o/gKv3bgVD24ZP8jr0Qgdtfja74RdIzL41lTHW1rke8EksF9ikOdRsSacIHe1czaB7cJ1svaEBymgQl2KzA5kn6zZTK45NubGUZJ5CPsFNZHE1rDbC6n27mODguP6Pf9wlPGMyuXkT6Ns+joMP2xhrCgCohp2e6PWnjFp0+uC6wxzkiUWlV2rVjxrjG7v7IGSNRPEAHzilDaefAlG9rr8N0rjUMBHitOYYLhzGVOuq+O8pH21KJzfaXGEdSGBcq5KsA==;5:YyKn/jCqKXlf/24X7/Lb1r2WYK8ITyZcXUy8jShIq9g+FwYLpqH7Gxop4k/7pDR9YKXQiELgU8VIFbc4YrmuRZjikmfyrlCjhdKdOBCyZidxGUb2jOhDX++M5NsBHkft+oYMlLESCta0AsQvwu7NmQ==;24:Ve5qML4fdVWcKuasxYescT7VkbBRfsQ0ENcRFSR/XH5AZKJQ41E/glo8QRUpCH8x+qePScxLpybV917I1CotrtIvIptExpJt1yu4MJwyX5Y=;7:nLpClw+c0Tfy3XO4S8KnPLJFxubDDvf3ORDzvTPiFvf4C+tsVjkccbFjG0fBwtgIqaoNbDpZsKsMdKRdqcOsMyXmNM1SNSWPcjJeJdpH9Mv0CX/1/uY4gDN0WyBbjy5wgaAyaS4L0Qf/3zMF9bCgGUVUHcEhLcymKPe4L0nk5uUx9txPz9FQr+flU+JmVyydtyMdxTB22KtNnY+gT3SIVq0oeFXJ43mRs61wqRHHX90=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+X-Forefront-Antispam-Report-Untrusted: SFV:SKI;SCL:-1;SFV:NSPM;SFS:(10009020)(39830400002)(346002)(376002)(5423002)(43784003)(377424004)(43234003)(24454002)(189002)(199003)(377454003)(6916009)(6436002)(25786009)(72206003)(3660700001)(450100002)(80792005)(3280700002)(2950100002)(14454004)(149424003)(74316002)(478600001)(6246003)(53546010)(790700001)(48184004)(733005)(3846002)(4326008)(102836003)(66066001)(5660300001)(105586002)(19609705001)(5250100002)(106356001)(5003630100001)(229853002)(6506006)(7696004)(5890100001)(6306002)(54556002)(54896002)(9686003)(230783001)(7736002)(54356999)(76176999)(316002)(189998001)(99936001)(54906003)(50986999)(8676002)(33656002)(99286003)(86362001)(1680700002)(236005)(93886005)(8936002)(53386004)(2906002)(107886003)(101416001)(68736007)(6116002)(53936002)(606006)(55016002)(97736004)(2900100001)(81156014)(81166006)(15669805003);DIR:OUT;SFP:1101;SCL:1;SRVR:BL2PR01MB417;H:BL2PR01MB418.prod.exchangelabs.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+X-MS-Office365-Filtering-Correlation-Id: d39575ca-1d4a-437c-e3b3-08d51188067b
+X-Microsoft-Antispam-Untrusted: UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254152)(2017052603199)(49563074)(201703131423075)(201703031133081)(201702281549075);SRVR:BL2PR01MB417;
+X-MS-TrafficTypeDiagnostic: BL2PR01MB417:|DM5PR0901MB2197:
+x-exchange-antispam-report-test: UriScan:(31418570063057)(112262337231475)(21748063052155)(81160342030619)(64217206974132);UriScan:(148322886591682)(31418570063057)(116415991822766)(112262337231475)(81227570615382)(21748063052155)(81160342030619)(64217206974132);
+x-microsoft-antispam-prvs:
+ <BL2PR01MB4171E79EA4D45CDC2FAEEFCCE4B0@BL2PR01MB417.prod.exchangelabs.com>
+x-exchange-antispam-report-cfa-test:
+ BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101
+)(100105300095)(100000702101)(100105100095)(102415395)(60404
+50)(2401047)(5005006)(8121501046)(100000703101)(100105400095
+)(93006095)(93001095)(10201501046)(3002001)(6041248)(2017031
+31423075)(201702281528075)(201703061421075)(201703061406153)
+(20161123560025)(20161123555025)(20161123562025)(20161123564
+025)(20161123558100)(6072148)(201708071742011)(100000704101)
+(100105200095)(100000705101)(100105500095);SRVR:BL2PR01MB417
+;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(10000080110
+1)(100110300095)(100000802101)(100110100095)(100000803101)(1
+00110400095)(100000804101)(100110200095)(100000805101)(10011
+0500095);SRVR:BL2PR01MB417;BCL:0;PCL:0;RULEID:(100000700101)
+(100105000095)(100000701101)(100105300095)(100000702101)(100
+105100095)(102415395)(2401047)(8121501046)(3002001)(10201501
+046)(93006095)(93003095)(100000703101)(100105400095)(2017080
+71742011)(100000704101)(100105200095)(100000705101)(10010550
+0095);SRVR:DM5PR0901MB2197;BCL:0;PCL:0;RULEID:(100000800101)
+(100110000095)(100000801101)(100110300095)(100000802101)(100
+110100095)(100000803101)(100110400095)(100000804101)(1001102
+00095)(100000805101)(100110500095);SRVR:DM5PR0901MB2197;
+x-forefront-prvs: 04583CED1A
+received-spf: None (protection.outlook.com: dcbar.org does not designate
+ permitted sender hosts)
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+MIME-Version: 1.0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2PR01MB417
+Return-Path: RSpagnoletti@dcbar.org
+X-OrganizationHeadersPreserved: CWM-EX-HS-13.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ d39575ca-1d4a-437c-e3b3-08d51188067b
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped:
+ DM2GCC01FT008.eop-gcc01.prod.protection.outlook.com
+X-Forefront-Antispam-Report:
+ CIP:164.82.32.34;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(29803
+00002)(1110001)(339900001)(3190300001)(489007)(43784003)(377
+454003)(24454002)(377424004)(189002)(199003)(43234003)(54230
+02)(53546010)(66926002)(66066001)(733005)(61614004)(956001)(
+72206003)(81156014)(81166006)(229853002)(99286003)(55016002)
+(99936001)(260700001)(230783001)(1096003)(8936002)(8676002)(
+5003630100001)(189998001)(54906003)(16586007)(5890100001)(97
+736004)(80792005)(2950100002)(84326002)(606006)(48184004)(14
+9424003)(6506006)(85426001)(5250100002)(2900100001)(67866002
+)(575784001)(86362001)(33656002)(5660300001)(1680700002)(432
+6008)(68736007)(93886005)(105606002)(14454004)(7696004)(6326
+6004)(53936002)(7736002)(106466001)(107886003)(25786009)(509
+86999)(54356999)(76176999)(74316002)(236005)(54896002)(79070
+0001)(54556002)(102836003)(6116002)(356003)(45080400002)(384
+6002)(15974865002)(9686003)(6306002)(53386004)(6862004)(6246
+003)(512954002)(15669805003);DIR:INB;SFP:;SCL:1;SRVR:DM5PR09
+01MB2197;H:hybrid.dc.gov;FPR:;SPF:Fail;PTR:InfoDomainNonexis
+tent;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;DM2GCC01FT008;1:KnG9YdU0DAY5G8Ovr2QPfLWMeTvshPo+cIeUw2velDP6PksIVyW89SJEPQXVuyYYgnX46tSwsi3fvdZ7ER2sB9toh6EytLCA4jyo3xUvhsYA31jOkZpx/avzs/xelWPr
+X-CrossPremisesHeadersPromoted:
+ DM2GCC01FT008.eop-gcc01.prod.protection.outlook.com
+X-CrossPremisesHeadersFiltered:
+ DM2GCC01FT008.eop-gcc01.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthSource: cwm-exmr-201.dcgov.priv
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: dc.gov
+X-DkimResult-Test: Passed
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254152)(3001016)(2017052603199)(49563074)(201703131423075)(201703031133081);SRVR:DM5PR0901MB2197;
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;3:Fm/L7ihbCHDE0nkiDEPlW/KEZ20Ja+bJNedNtpbv87XO63x32PowfzDBWdrl/EtS0ONj9o2YTkYfT1jbol12CEwxwyVXXLRPWFpRzr5fBGXp8BBSSKuasanVMpHGpeL0niEOUZ79nsIgAY0g0Mh328+TyMWfrPa2fSxZBp21vFaKFmgwgZeLwJ3nkHNkIKIbE177LPPfxfpkLjn39pqS8vlJw8niz7KuIyAKfFZMAeH1ft7bSaiuB7i24gXvv5wIsz20DSf+4KC8I+uypux/xNpD/tWHNLG95DLgA+CUylT09tUDeSuffCfsW1ttJfR6oDAgkOYWWzRcIIsEhhd4znBvCCxB33J48pgbDUAaDsA=;25:gdKaaBUgBHdydMOW12OpucBr8fii6E+zolejL7c0amLxOJV6hTdY2fSJ5VLeZB7tAAzw1sbuSF0TRwa96v33K7vkJtji+Kwn6/fWRG214IC2qDn/KTVDSemYd4fmrZlFW+g29NQqblUs/tifuV8uPAB2k/O+hqF7p51QC9bSM0B3x0zqVQlL0o7gw+rolj3jXqX2Tl16jGmW9YOOr0fXCpEmWOJRygfvwk4M0Ae1wC4QjMR7SJPSjfBStHEUmKZakzjtH2uUHjY3ADbz7bXVAGvVzxgzyLAWpjasSXGlsFOoVwgxG28vOSfVR5qP5jGn3pLnu8jYym8dx4vqy/bzag==
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;31:A/hwX8ujGx5QKNybPq8wspQWWxv8LvSxypQlhKyyGRkcEzu4QOEuXzr5BdkrDOPuDSUZchVPo5pG/RpiRkKLbW4W3LUiBI9FiW7gOeCMzwuNkVAO2Jlex4AEUGw08VD/c781VCAIeXXW98fST/psYgtS2Ym29hcBKyJyU8nHzcweQ3H+jkYVlkiXA9rsoPZzZKMmA//Bn3woDHPBAaE7TQVnGXc9+M20eF2FP99WSVo=;20:7P2LBd0uPGAtCYBa8BIKjHyopazxn7w3ynjt0/5tvD3/gtM+LEhq/kTVs+1zm4X05Vg8TN/nRRBVAfRSYAeATqMeuzk/nWkkICxcwCo3UliiLK9ptIA5gaJh/hTGv96ezKkVtdRWGTwdqJj2UAJZ6sMymU+a5Vsux0wexM5z34pcQGxNPOecHbNVBtjF5tyPN7o1yZEU61Wi5k8onLiAD3euC9aOYp8jlCZ/H2De9qBIbTPbY8/5bfozLQq1MflIquCp6bi6IDX2AOFH8hPq1QD153rP8RkXABFL1R/Jz2HbmD33JS4wxF/ZLTtTKNFf+8bgwtdOBttmy21W+6fYp43JWPuSPkZrV2RykkONb4ziFdN6lPJBBjDeIhxo4UTXFD/Q6wzm/YHEnLL3GgdUjpg5LpeNlfKyLRdGTheA4iFODbHUjpOgG5PysbCSa7jYSh6lY04CHi0sS0tzbxVPNMhLGbGS0ynurywcBe2NuONCIh1Tsbnyu0qSPe67r4QU
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;4:ffHTuLEBkHlYAI0SkkQZn9t6kevVfYTaf3bELcOmpVIx+ve4Y927GB30z9U1q+STvCWoxAaZQMo8pA1hgS0vLvnrZNZyg38L8QN0D8e267sCTFWF5lfZiE/YOBoMNLNeMudIkD/zAGOucCxNBHsKaLkk7/dMwiCuGKRjejJ398gqA8r23aOv5Mkwh0L0T8S3+XU7PYGEwPbvEk6SqCMALiqk5sNzQ9su/1Qg3RLFDq+tD3W541H3fGDcIBIyZkJZdVu1PmGErwzAl1jsQE407KzMTCfQoZDWnIlmJGQ5xXCic+Kj21FTJ4y6aFkuJzF+VPVJp9Uwknw9NtoGdakXSagvndOGEamaB66kN1KEb+wneWlyldSmh5yKrvlHzsql6PHZdwxSqPMblezvIq4oSuvWBRpBo0/0j/x+f5KynTBUjTfxslNEhcFbFWqMWVfai1NimI7kINbbpAojRIh0sEyAxv7jf51G8V8kkJD48F9yrVUmc6LfnNTij6Hc6z8z5wRmp2w6mukJxMXcmRuSzqLIBK+iViP6usxK/3zrHp8=
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics:
+ 1;DM5PR0901MB2197;23:bjQKWbj1SOErE45X5mTfkXeVGL40U3YIVr67qpz
+Ow+xVK1oIWZLTzQ4aJN1GKc4++E+14vVnBE+beOd+P7wuyLYE38Pq/d8M6x6
+Swr7Dfbyz1BL2qz5vtby37iH1NUmEJI8Fdi8KpWLmXhvYfnne73I9YtEVfk+
+WSyZ4di1Cm5UQzsfkNRIj+rZrWsqlchU2iV7/U4dtCDEKwa0GlKD1epzIEHs
+X45FSuIx09CC4p68YpvG0XoUihFI6UrCzvXK/ca0LXVBsZ7ryD9Q3D9yXaXh
+BmBiS0/Af8jZNZS5V5E2tZUgQ6RItT2TE+RE2qBw5mXroS5Etv4VR7xUDPcG
+dtG2wn2JyyQEvAiovzaHA82CaknJPpuAIMsX0ehAD5JR7l+1q+dMmRqBvMUp
+MGKq5q/vqsyRrs/twyJeIWaz0cTVrpv9mCIz1luyfqvqvGHGxXqBxfOZ88aY
+n/gaS5YZrKgVI4ctv49lsFzSbTj+QFJghgtVe4fs0mklXIGW0u3tl/owg3il
+6ATlwXQ8IerkJyH8UWoRmlSiJiz1SbQZDw4a8Su2IbNc81c69pCyxjX673XZ
+YilzFRbzhsuYAh9/Mz8p5GO5N2xHu5Hf6DOj6QqLiKe1H0rZdbDvVI0OmbN6
+QSDErxmb55FwNVEE+fexlGMr7EsTT0J8hLJI/Fp2cxaZHazxSwcnLfRssRZd
+nMqIw/aI5QkYQHG6r2GpxwYInQdpCT+/oaofc1uLj5xs33ChWKNKN5GQLfqB
+871lV8whUAOyULThjd+FDGvdRmGxmlnKMbbMqTD1QJ7gtwmZujhfwLKLs6o6
+txvYifqFymiIt+XP8/nYJALJQrZuXQGoJETohj2pd4PFR4tH4VjqsFFZQz3r
+ardJkahOe6KJex1HNMMzG/poeVFN3el9hP0pto0+J3mrFvSFnOr9T9c2c7cG
+JH6TdMx3YgQtbCRQmY8zYKoq8KhXIJv491lZ0sBMt5yRj8lwt2pAVSORqCU6
+dIuZVkJa4FRf+8cpjiOvtGlhRbVO/qoZ/Z53stPsGsAA4Lvx0TB+DsIz0vCf
+RxEAtkyoE+5D+K63HwwalhOVrB5lNQPbxA5s3rB6IJ/hHDjYIQOicZCaHVZu
+dScjIxn6d85l18+GB4DTfrZcWD62qrPQ9a8neabU9CQ5m1cQES6fXNis9Ow3
+ERs8oFbqiGYTav/eH+sdmqPbWuFMk20wChEAnVo8QYoV397RUQjS4kPyeZLN
+9b/uO2UYdWJqjImip6mf9J8jm9FPMTgoEnR0eUodHSQSTRJoJeN3ttS4Js9B
+27yVeQonr31KLG74q5CCxjAtMvAS27W0DRTS5v0qbfVMV62rBej6DrlsguGn
+b98UlqqOvy9Z3bjn6CBIPVN+CTRikZI6+xrzKdzKW9LNG6E3iviCiFdOsqqG
+bQOJww2bqDtVmrfWcPhtlddK8NPdXMTu07y8Magb53HIRsqpigS9sC3EHAsk
+uliHgqrbAnQhWstm+luwWP6ifQ8F13uizQSo1qfgMJzOBGYctEXErPIngq9t
+7FHyAcaUH8lQquK/RuX4YK7GeME8NobPVOFaiCR4LNHDnIlE9yuOHpqeCUal
+15T09sQ0yn9LsbcrryhTtbJaoSnKkfWWPgxbNXCohZBgYuz8rtCBdWqPvN2z
+zHjEKiV1FQPSCxcp4zyuKhsdsmJTQjMcBOLm3ZycPV8UFYnqq2pUzGKOsd7O
+oiXILV9OUiRCFNPzLrIJXHDxfus6hNkyeSXkV1v1e7mPwWdmNZ6sb+KY531+
+C7ac7BFV3UYor7OaOoob3bXNjMW8kSuiL7CEg4FkIMpAE1stSiEzdmjAVT2P
+ANd6goE0SFYi2T0IG9ttIYPFTdr2rFUunSXd9TwF2dCLsB7695tOBlYII2Jm
+P8W4GClVE+PSTHP+0yuJ3rh0EDYMEibOT5FvraH1U3F7zATD1ER8x2v2Icwx
+O4Qsxwzo9Gy6aQ6eV2mzBvzs7
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;6:wEidbaRdw4Nr2WthfLuTM7+67waxKUwNdlArHGE1h1EXF0UKs2u86HBh0ZpO3eBOYvuFgS3bJbRBZ00C4b15lmyIFpvPbTLLtINSuDW7f918j2st5IdAiZt+tKYlKXPEyXN2itHg+nvBY+JP/30ucBNmLuvxZx7tmpqQivnIYm4LuV7aEYzRG5oWqXJojHJmIctXEaQVG76PDJqALBXQHngnat8IU/Hq1Es/so3RQhL1ccJyQJEV2lB7HS1+JDLLJIWIHlBzeff05CjnLR7ifSHYX7ue9mNHWd1nOEaLqjKwMgKVJ3OtUqOXixiM3gJJnQQqtvkjRQfJMfoG7CckKQ==;5:RJjfCSROsyNQzHx8o1JXNJyXCiu/xSryExmZPLn40Et87v07KcTgItewWmqC4NnC8MQW/HGfZhnaEfqS/96mYJ/fxk2xS5MSGVynWtMMcog17/pc9xMVI7dudvpAsHQ88VmuwYczPy0m5YK7hisj+g==;24:/dhVmN5G83KpwEgVm6gTrIrWTXVcBjz0ts7xVro30ja40nWRfYxjrDe2loo5TPd2o3sDKysKc92sxUgANIg+1WsQUTGgz2rv8PRmoKTpW8M=;7:5cmTK/TOslN+7ddhdsrHsPvj7UZi/Cw6kAUsiQYsXtbUd6TJlY5zTbDa1eRZemqapKDBreNqt/1meJIjVBxE+cqvU0Bu81ldoBn8NMv+5bs1kprDKyNR+ty34OpxbRuIRfIcn/XTuOa1/qQS5IcMyx13wNsabBLUa7qmwS8MiQiIL+iaytI+2rg+uCzCXrw8hOKV4wrpZXi4t/SSPIK18zZ6SQOw3b3Pukxvvpc2RmM=
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;20:8mb4FXSs8LLA7wJfJT7zgSv8rC9vq/6SqXeYwx6K80ULZ1ztpIhl0FN8/1NDvK+xIloFoPZ0Ft9kZByW908+2Q5zjRirzlUrS6mu7VDpVEVFnpGzFwkjP5ezZ5zB9otXX0Itus7F04l6XenmFNNVSVjjJxw4W3ax1ozb6XDh+GA=
+Content-Type: multipart/mixed; boundary="===============4452487217472553546=="
+
+--===============4452487217472553546==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks, Jack.  I=E2=80=99ll give Joanne a call today or tomorrow and report
+back.=20
+
+=20
+
+Hope all is well, Tameka!
+
+=20
+
+DCBar symbol_smallest <http://www.dcbar.org/>=20
+
+Robert J. Spagnoletti
+
+Chief Executive Officer
+
+District of Columbia Bar
+
+1101 K Street NW, Suite 200
+
+Washington, DC 20005
+
+(: 202.737.4700 x3220
+
+8: rspagnoletti@dcbar.org <mailto:rspagnoletti@dcbar.org>=20
+
+ www.dcbar.org <http://www.dc.org/>=20
+
+  Twitter <https://twitter.com/DC_Bar>
+LinkedIn<http://www.dcbar.org/images/social_media_icons/linkedin.png>
+Facebook<http://www.dcbar.org/images/social_media_icons/facebook.png>=20
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]=20
+Sent: Wednesday, October 11, 2017 11:52 AM
+To: Robert Spagnoletti <RSpagnoletti@dcbar.org>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>
+Subject: Re: TESTIMONY - Ethics Reform Act of 2015 and CCC Establishment
+Act - 7-8-15
+
+=20
+
+Bob, to follow-up on our meeting, see attached memo from the Acting
+Director and General Counsel of the federal OGE.  Armao may well apply
+some of the thoughts expressed in the memo in an editorial urging
+passage of the CCC as a demonstration of the Council's "commitment to
+ethics in Government."=20
+
+=20
+
+Thanks again for your continuing support.
+
+=20
+
+Jack
+
+=20
+
+________________________________
+
+From: Robert Spagnoletti <RSpagnoletti@dcbar.org>
+Sent: Tuesday, October 10, 2017 4:32 PM
+To: Grimaldi, John J. (BEGA)
+Subject: Re: TESTIMONY - Ethics Reform Act of 2015 and CCC Establishment
+Act - 7-8-15=20
+
+=20
+
+Thanks!  Great seeing you today.=20
+
+Sent from my iPhone
+
+On Oct 10, 2017, at 3:52 PM, Grimaldi, John J. (BEGA)
+<John.Grimaldi@dc.gov> wrote:
+
+	Bob, here=E2=80=99s your testimony.  Also attached is a copy of the
+hearing notice for Nov. 2. =20
+
+	=20
+
+	Thanks.
+
+	=20
+
+	Jack
+
+	=20
+
+	From: Robert Spagnoletti [mailto:bspagnoletti@schertlerlaw.com]=20
+	Sent: Wednesday, July 08, 2015 9:03 AM
+	To: Sobin, Darrin (BEGA); Grimaldi, John J. (BEGA); Flowers,
+Brian (BEGA)
+	Cc: Spagnoletti, Robert (BEGA)
+	Subject: TESTIMONY - Ethics Reform Act of 2015 and CCC
+Establishment Act - 7-8-15
+
+	=20
+
+	Here is a draft =E2=80=9Creading=E2=80=9D version of my opening remarks lead=
+ing
+to the powerpoint.  =20
+
+	The new school year is here and every day is a new opportunity
+for our students to learn and grow. We all have a role to play in
+ensuring students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov to learn more.
+
+	<TESTIMONY - Ethics Reform Act of 2015 and CCC Establishment Act
+- 7-8-15.docx>
+
+	<Judiciary Public Safety Committee Public Hearing Notice Ethics
+Lobbying Bills 11-2-17.docx>
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov to learn more.
+
+
+--===============4452487217472553546==
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="image001.jpg"
+MIME-Version: 1.0
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIg==
+ISYrNy8mKTQpISIwQTE0OTs+Pj4lLkRJQzxINz0+O//bAEMBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ow==
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8AAEQgAKQCQAwEiAAIRAQ==
+AxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQ==
+AgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDRA==
+RUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqysw==
+tLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQ==
+AQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEw==
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaYw==
+ZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyA==
+ycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APZqKK4zx54huNOa2sbC4Q==
+oZz+9kdDyF6Afic/lUykoq50YehLEVFTjuzrbmf7NA0vkyzEdEiXLGsuXXL5MlPDt+6/70efy3Vxug==
+H4n8Sanq1rYLfAiRxvJhQkKOWPT0q1458R3kWrDT7C7kgSFP3pjbBZjzjPsMfnWbqXVz0YZbONZUZA==
+k21fd6L8DoB420uJmjv4rrT5lXPl3EJBP0xnNYeo/EliSum2QA7SXB/9lH+NV/Cd+NeEug6zm6jaMg==
+8EjnLoR1Abr7j6VZ0DwVHa6hd3OrAPb2bkRBx8sgAzvPtjt659KnmnJaHR9XweHlL20dV0vo/T/gmA==
+zav4u1lTJC168Z/59oiq/mB/Wsa7OoxSbb5rtHPacsCfzrc1rxtqN7csmnztZ2iHEYjGGYepPb6CqA==
+ReJtTA8u8m/tC3b78F0N4Yex6g+4rJ27nr0Y1YxuqcV5Lf8AKxSsvttxdxW1pPMJZXCLtkI5NevpeQ==
+p+lWsVtc6lChiQKWnnAZsDqcmuM8P6Lp/inU7u9msRDpsKrFDboxTnHOSpGffnnNcLqWhaR4k+LKaA==
+ejWMVvYwuI7gxcBgnMjf+y/lW9KNlc8HN8R7SoqaVrb+r/yPa18RaG7BV1nT2Y9ALpM/zrQR1kQOjA==
+GU9CpyDWPF4N8MQ2n2VNA07ycY2m2Uk/UkZry2aebwD8WYdL0WeUabdyw77IuWQCQ4IAPQg8g9e1bA==
+eKe2Uzzot+zzE3ZxjcM1HeXlvp9lNeXUqxQQIXkduigDJr558ZHVdQmh8cPD9kh1G5IskAwyrGBsYw==
+7nBP4emKAPo2qs2pWFtIY5763icdVeVVI/Amo9E1FNX0Oy1JCCt1AknHYkZI/OvNvjimkw6VZZs4Pw==
+tK4n3CYIN/lqvzZPUjlRQB6Ymq6dIQI9QtXJ/uzKf61aBBGRyDXCeD/hroFn4YtF1XR7W5vp4hJcPA==
+0e4gtztGemBgcelcppd7d+C/i6fDmn3Msmk3M6p9lkcusYdQwxnoVJ/LrQB7JLKkELzSMFSNSzE9gA==
+614tq+ovq2q3F8+f3r5UH+FegH5V3/xC1b7JpK6fG2Jbw4bHZB1/M4H5159ZQ6fIc315LAAfuxQbyQ==
+H1yMVzVZXdj6fJ6Cp03Xkt9F6f8AD/kdX4Dto7Gyv/EFyMRwoUQn0HLY/QVx11cyXl3NdTHMkzl2+g==
+k12tzr/hefw9/YkMt7bQAABliyTg559cnrWDBH4Vt5PMnutQvQOREsIjB+pzUy2SR14eclUqVZwd3g==
+yt0W3kbHw60qWS/l1V1KwxIY4yf4mPXH0H866jxDcDUPCF/Lp8nnBo2AZOcgNhsfgDXEat4yuLyyGg==
+fp1uun2QXbtQ/MV9M9h9PzqLw14rn8P7oGi+0WbnJjzgqfVf8KpTilynLWweIrT+ste8mrR8l59znw==
+pQrMwVVLMxwAO5rqb658FXrm4WDULaRuWSBQBn6HIH4U/QLGHUr0/wBhaeIzAQzXl/J5hj9CqDA3cQ==
+3zWfLrY9J4u0HOUWrd9P6+RuaveJ4B+HUkqkC6WPZH/tTv8A4Hn6LXC/CXdo6Xms3Oj6teSXY8uGew==
+e28xSgOWOc9S38qr/Eu5uNV8Taf4QsbmW6eGQeZJI2S9xJjk9gFXHA6ZNezaTpsGj6Ta6bbDENrEsQ==
+r74HX8etdiVkfE1ZOc3Ju9zitU+K0UF0NOstGuor6ThP7VItIwfcseaj8K/Dy+/4SM+LPFF7Fd6g7Q==
+5sUUHMaNjAOe+BwAOB71v/EPTdN1DwVqR1JUC28DSxSsOY3A+XB9zge+cVwfwx1TxPe+DdU0zSGhkg==
+e2kRbWS6kIW3Dg7scHOMZA6c/hTMzc8YXzeLNebwvaiaTTNOAudZe3Usz45WFQOpPp/hVD4g63peuw==
+4JlsbPS9Vha0KSQF9NkjjQLwQSRhRtJrp/hz4VvfC2jXUWptFJfXV000ssbl94wMZJA56/nXUXdtHQ==
+5ZzWswzHPG0bj1BGD/OgDhvg1qn27wV9jZsvYTtFj/ZPzL/6ER+FcldyL4++M0cOfM0/T3x6qUiOWw==
+/vp+PpitDwr4I8d+Ef7QSxOnSJewmP5rhhsYZ2SD5eoyeO9a3ww8Bap4T1DULrVhbl5okjiaKQvxkg==
+WzwP9mgDS1P4l6WJTp/h2OTXdUcHy4LZTtBHdmPGB3xWb4J8Aalb+IJfFXiiaOTU5WZ44UO4Rs3BJA==
+9MgcADgCua+JmiXPhDxZa+LdHHlRzzb2wPlSYdQfZxn/AMer1fw5r1p4l0O21WzPyTL86Z5jcfeU+w==
+g0AeZeK9Rk1HX7ieRXSND5cQdSvyjvz68n8ax85r2bXf+PI/SvKtS/4+z/vVx1I2Z9ll+LVWmoqNkg==
+8zOBycDk+grSsvD2sagR9m0+dlP8bLsX8ziuy8G/w12tVCnzK5zYvNpUZuEYnndh8NruTDahexwjug==
+Qjc35nj+ddDa+BNAt1G+2e4b+9LIT+gwK6Oit1TijxauY4qpvK3poY//AAiXh8jH9lQfkax5tVPh2A==
+Lq00Dwfqk8odtu2MLE7dM7i2cceldhRVKKXQ5ZV6s1yyk2vU8H8OaR4y0jxh/wAJHfeE7q/mZpHcFw==
+VCGfqw56jJA+tenHxbrBh3J4J1cyf3WeED89/wDSuqopmR5VreheP/iBMlvqEFvoWlK27yWlEjN7sA==
+X7x9BwK7zwt4YsPCejrp1jubnfLK/wB6Vz1J/oOwrZooAKKKKACiiigCjrGkWWvaXPpuoQ+bbzrhhg==
+cEHsQexB5BrjPDHw81rwfrDyaV4hjfTpiDLbXFuSWH4MBux3GPpXoNFAH//Z
+
+--===============4452487217472553546==--

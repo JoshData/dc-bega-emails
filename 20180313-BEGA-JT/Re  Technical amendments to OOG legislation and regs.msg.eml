@@ -1,0 +1,153 @@
+Received: from BLUPR09MB0931.namprd09.prod.outlook.com (10.162.89.20) by
+ SN4PR0901MB2208.namprd09.prod.outlook.com (10.167.151.148) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.345.14; Wed, 20
+ Dec 2017 19:29:17 +0000
+Received: from BLUPR09MB0931.namprd09.prod.outlook.com ([10.162.89.20]) by
+ BLUPR09MB0931.namprd09.prod.outlook.com ([10.162.89.20]) with mapi id
+ 15.20.0323.018; Wed, 20 Dec 2017 19:29:16 +0000
+From: "Hughes, Traci (BEGA)" <traci.hughes@dc.gov>
+To: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+CC: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>,
+ "Hutcheson, Norma (BEGA)" <norma.hutcheson@dc.gov>,
+ "Wade, Shomari (BEGA)"	<shomari.wade@dc.gov>,
+ "Wade, Shomari Brock"	<Shomari.Wade@troutmansanders.com>
+Subject: Re: Technical amendments to OOG legislation and regs
+Thread-Topic: Technical amendments to OOG legislation and regs
+Thread-Index: AQHTdelNS4YdLFI7REiz+olhMsHiOqNMnHwJgAAIN6w=
+Date: Wed, 20 Dec 2017 19:29:16 +0000
+Message-ID: <BLUPR09MB09314D6B465D20E089EB0A76EA0C0@BLUPR09MB0931.namprd09.prod.outlook.com>
+References: <BLUPR09MB09317DC3F51BE11CAE2D2074EA0B0@BLUPR09MB0931.namprd09.prod.outlook.com>,<DM5PR0901MB2200306E4A09AC2E189DA187E60C0@DM5PR0901MB2200.namprd09.prod.outlook.com>
+In-Reply-To: <DM5PR0901MB2200306E4A09AC2E189DA187E60C0@DM5PR0901MB2200.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: BLUPR09MB0931.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ b0493e6a-963d-4c91-b84b-08d547dff571
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [96.231.0.95]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN4PR0901MB2208;5:MSwtORheATvbgdcr51dZaGPXC0WQA7deHKUhPEcdTkBECzvm909pUNo7V5Ibwmbr/7r+XBB5C+pEWgKtJXNS7TsK84vdRF5St1+j3dOFb+lsWg/FrpjQ7gTJgThKd5J57UBDjIGkB+AU9/hr6bYsRzRJuFdofc8wNgwLd3tpAss=;24:BjszQrebTFKxFaOLBhNIJ6BXEM2/nCeAwFWC6ch5lhNtKQwX1s90yeRnvbwrPKqlwVsdykfHz/bKrNieJb6O8YJ1o2ZzOjT+GZZru61WiwQ=;7:aSxhu/r0+FYU1KLlAFL7MNLrT4Od7man9loEezMa1h/lI5dHVVklrRYufIv87S48/tAngErAY3feA9Yz7+9eKKPx3sgPx0sCYt5rhuZWizLyXIZ8Mi1mTshDuEpTnppg3LnmjQXOAEomTEPiMuQ2gMIPhYIS4WZqihK8y7Hu8FVSugj8nimIQDljQlw6sRrMW7VfjZzqmdT5aHxADwgaveZKLDzo5ywaur1ziTA0d1RNDsjPRiP/YVqy4oaeS9V/;20:p9IF6/NHj3UE00VLe8YYspLXhQAeKf/kFPSJBdLje3K20xquWGAK1HXBkdZ+PX/9btTYLtSTK30ezIGbaa7xaSfXl35CTVxnl1ifzgSSFSMmGMyZpsav1itWxp3JfPTDTcSp9VOQkVWUhMe1H3R4fR3SG2n9DF1bV8iFuOCbL1E=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN4PR0901MB2208;H:BLUPR09MB0931.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: b0493e6a-963d-4c91-b84b-08d547dff571
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(5600026)(4604075)(2017052603307)(7153060);SRVR:SN4PR0901MB2208;
+x-ms-traffictypediagnostic: SN4PR0901MB2208:
+x-exchange-antispam-report-test: UriScan:(209352067349851)(31418570063057);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(3002001)(93006095)(93001095)(10201501046)(3231023)(201708071742011);SRVR:SN4PR0901MB2208;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN4PR0901MB2208;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Yes, of course.
+
+As I noted when we spoke on last Friday, the regs had already been
+submitted for the 12/22 publication. I just checked online, and the
+proposed amendments have been published. There is a 30 day commend
+period, so there is still time for board input.
+
+
+
+
+Regarding the legislation, it was my intent to have the board review
+prior to submitting to CM Allen. =20
+
+
+
+
+I have included both in my update for tomorrow's meetings. I omitted the
+inclusion of the amendments in my update items on the agenda, and will
+ask that the topic be added to the agenda before final adoption at the
+start of the meeting.
+
+
+
+
+Traci
+
+
+
+________________________________
+
+From: Collier, Tameka (BEGA)
+Sent: Wednesday, December 20, 2017 1:59 PM
+To: Hughes, Traci (BEGA)
+Cc: Grimaldi, John J. (BEGA); Hutcheson, Norma (BEGA); Wade, Shomari
+(BEGA); Wade, Shomari Brock
+Subject: Fw: Technical amendments to OOG legislation and regs=20
+=20
+Traci-
+
+I've copied Jack and the Board.  I want to have a chance to discuss the
+proposed regulations and amendments with them before you move forward.
+Will you wait to push these until after we've had a chance to weigh in?
+Thanks.=20
+
+Tameka=20
+________________________________
+
+From: Hughes, Traci (BEGA)
+Sent: Friday, December 15, 2017 4:13:28 PM
+To: Collier, Tameka (BEGA)
+Subject: Technical amendments to OOG legislation and regs=20
+=20
+
+
+
+
+Tameka,=20
+
+
+
+
+As discussed, attached is the draft bill and the regulations.
+
+
+
+
+Traci
+
+
+                      =20
+
+cid:image005.png@01D1739F.38B02FC0 <http://www.open-dc.gov/>=20
+
+Traci L. Hughes, Esq., Director
+District of Columbia Office of  Open Government
+
+  Board of Ethics and Government Accountability
+
+p: 202.481.3406 |e: traci.hughes@dc.gov |w: open-dc.gov|a: 441 4th
+Street NW, Suite 830 South, Washington, DC 20001
+
+cid:image006.jpg@01D1739F.38B02FC0 <http://twitter.com/DCOPENGOV>=20
+
+=20
+
+=20
+
+=20
+
+=20
+
+Confidentiality Notice: This transmission and any documents which may
+accompany it, contain information which is intended only for the use of
+the individual or entity to which it is addressed, and which may contain
+information that is privileged, confidential and otherwise exempt from
+applicable law. If the reader or this message is not the intended
+recipient or the employee or agent responsible for delivering the
+message to the intended recipient, any disclosure, dissemination,
+distribution, copying or other use of this communication or its
+substance is prohibited. If you have received this communication in
+error, please immediately notify the sender immediately by email to
+arrange for the destruction of the communication or its return.
+
+

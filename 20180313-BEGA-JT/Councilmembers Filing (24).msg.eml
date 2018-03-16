@@ -1,0 +1,81 @@
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com (10.172.39.10) by
+ DM5PR09MB1484.namprd09.prod.outlook.com (10.173.171.138) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.239.5; Fri, 17 Nov 2017 16:16:00 +0000
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) by
+ DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) with mapi id
+ 15.20.0239.007; Fri, 17 Nov 2017 16:16:00 +0000
+From: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+To: "Efros, Ellen (Council)" <eefros@DCCOUNCIL.US>,
+ "Walter, Zachary (Council)" <zwalter@DCCOUNCIL.US>,
+ "Smith, Nyasha (Council)"	<NSmith@DCCOUNCIL.US>,
+ "Mendelson, Phil (COUNCIL)" <PMENDELSON@DCCOUNCIL.US>,
+	"Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+CC: "Stewart-Mitchell, Asia (BEGA)" <asia.stewart-mitchell@dc.gov>
+Subject: Councilmembers Filing
+Thread-Topic: Councilmembers Filing
+Thread-Index: AdNfB1lAv4ncWOIKSyCs/3QldtcW1AAt0vnA
+Date: Fri, 17 Nov 2017 16:15:59 +0000
+Message-ID: <DM5PR09MB13707AB30EBAFF8FF18D9404832F0@DM5PR09MB1370.namprd09.prod.outlook.com>
+References: <SN1PR09MB0894E2021F1F735F2C9FE84C822E0@SN1PR09MB0894.namprd09.prod.outlook.com>
+In-Reply-To: <SN1PR09MB0894E2021F1F735F2C9FE84C822E0@SN1PR09MB0894.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM5PR09MB1370.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 00eccd27-d6cd-4c1d-7c17-08d52dd67de1
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: DCCOUNCIL.US; dkim=none (message not signed)
+ header.d=none;DCCOUNCIL.US; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;DM5PR09MB1484;7:ptq/l86Td06IJqtDVZZ/TrhLfd6QXx16PB8YISzCMYakOX+TQlZugHWuMNgz+4AhJv6/9DBzWUviW+OLSo71aC936p+DReS8AubAm3GYdzLphUpHIL82twfFpddXR+2x+117PTf1/n0P/svZ+7HB+hrg9j4kFvFOtp4Q2XAtzVgg8ZejPe972m97fxNWsN44nv5nf6fwsuTKtJteu/AFktyy90b8M5vvYnXMPLgvuMkYoRgfw05l830UBounIfC3;20:GmtCsVfvwvj3Y5w03+Ro8WcAvVnJyynTKRA06hq2zeOFHRgfJULvhF47mjm9NzQtitrRCF/N+Nl+/RHGiv9xxGi5mtcuwssvsRhAos5q4xU3WyGPSHFrLCAmPMe1NZidAe9rJ4XrHfKYie/FECwLzplDhdsDweSfD39TV+fi/rU=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;
+x-ms-office365-filtering-correlation-id: 00eccd27-d6cd-4c1d-7c17-08d52dd67de1
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603258);SRVR:DM5PR09MB1484;
+x-ms-traffictypediagnostic: DM5PR09MB1484:
+x-exchange-antispam-report-test: UriScan:(227612066756510)(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(3231022)(93006095)(93001095)(10201501046)(3002001)(100000703101)(100105400095)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:DM5PR09MB1484;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:DM5PR09MB1484;
+x-forefront-antispam-report: SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM5PR09MB1484;H:DM5PR09MB1370.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning colleagues,
+
+=20
+
+The following link provides public access to the Councilmembers=E2=80=99
+November 15 Financial Disclosure Statements.  Note that Councilmember
+Gray requested and received an extension to file his November 15
+Statement.
+
+=20
+
+http://bega.dc.gov/service/financial-disclosure-statements
+
+=20
+
+If you have any questions, please let me know.
+
+=20
+
+Brian K. Flowers
+
+Interim Director/General Counsel, BEGA
+
+Desk: 202.481.3407
+
+Cell: 202.309.4254
+
+=20
+
+Take 5 Minutes to nominate an exemplary DC Government employee or team
+for the 17th Annual Cafritz Awards <https://www.cafritzawards.org/>
+(DEADLINE is NOV. 30)!
+

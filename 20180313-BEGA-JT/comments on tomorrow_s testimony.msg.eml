@@ -1,0 +1,132 @@
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com (10.172.39.10) by
+ CY4PR0901MB2195.namprd09.prod.outlook.com (52.132.98.154) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.178.6; Wed, 1 Nov 2017 19:36:58 +0000
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) by
+ DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) with mapi id
+ 15.20.0197.013; Wed, 1 Nov 2017 19:36:57 +0000
+From: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>,
+ "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+Subject: comments on tomorrow's testimony
+Thread-Topic: comments on tomorrow's testimony
+Thread-Index: AdNTSL3xUdGcIES3TxusslACJc38RQ==
+Date: Wed, 01 Nov 2017 19:36:57 +0000
+Message-ID: <DM5PR09MB1370D7BE5A80C05A109930DB835F0@DM5PR09MB1370.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM5PR09MB1370.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ b4fb9065-d7b8-4a20-8087-08d5215fea3f
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY4PR0901MB2195;5:XYMFWyASyEAV/s1RsLfsSWDrEpqS0IJh2oW3cSh3rRJC14/zVYGrI1M1vtcWuXQY9osXnITCIG52GwSWJmlJuObHdkrHDLFh6FePLtSkZQ8SyLLSlKH2eTjNH1LPWniRu7wJTNd8Ra5dP/lBHhOas1RlHVeZr7T5v0iWdjfycYI=;24:6bT+pP2wsonePUwFmAzBm1QBcRKt/vSL+Vvp/FUKu5qsm+5t67zrMPsbKg5HvVu8ZZnwTXLA8B53Yng/VtUDPb7s+8jviNgURmGoUnSUZl4=;7:3/X1z3Cw93SSoEFNesRpkBfUlIRYmywbIHfz2eIkYdjjcEAN1ts57udI01ZLodOKOfKi9OuszG7YsmTQv/7WfCgnUllPcFg5dIKRjm8zi+KZ3fSW919iSWYAe3OII1HWkCX+hdk8YXfpUOn0hyTv1VnfThp9KR2x/hlu+57fIljWn12J2WD9/O92fKFhA2t0j2COLBhUgra3klNeKljUe9dyFwU3MMuWr9yTaM85FagWZ10f5BIbzp4f/2LLBNGK;20:ub+PdXG9kzm33rSmqE3xFllfMv1rAd9jcCi+5nCq7nteCzW1haCLcmcm78NHc5C+cRVDYiHm+QurENogLc8X4ccH5G97cxZFUy02K/3XXhBG2RYc1mZ4LTNVT92gowtr09uv15ecZZAes+ycyfjfDoAK5NdbWdK5WmHLmMmSLF4=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CY4PR0901MB2195;H:DM5PR09MB1370.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: b4fb9065-d7b8-4a20-8087-08d5215fea3f
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(4534020)(4602075)(2017052603199);SRVR:CY4PR0901MB2195;
+x-ms-traffictypediagnostic: CY4PR0901MB2195:
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(3231020)(93006095)(93001095)(100000703101)(100105400095)(10201501046)(3002001)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:CY4PR0901MB2195;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CY4PR0901MB2195;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+I don=E2=80=99t have any substantive comments on the testimony.  I would note
+that the title of the Board Chair is =E2=80=9CChairperson.=E2=80=9D  D.C. Cod=
+e =C2=A7
+1-1162.03(c). That was changed from =E2=80=9CChairman=E2=80=9D in the 2017 Bu=
+dget
+Support Act.   I would also recommend paginating the testimony, so that
+if there are questions on it during the testimony, it will be easier to
+pinpoint the location in the testimony.
+
+=20
+
+Janet has prepared a summary of other jurisdictions that have
+procurement lobbying statutes.  It will be available tomorrow.  That was
+an issue that was raised at the Bar meeting this afternoon =E2=80=93 who would
+be required to register if the bill was adopted.  CM Allen again
+distanced himself from the monthly lobbyist registration requirement,
+but did mention that he might advocate quarterly filing.  Our e-filing
+system would make it easier to do that.  There were no other significant
+issues raised at that meeting.  Most of the focus was on campaign
+finance reform.
+
+=20
+
+Brian K. Flowers
+
+General Counsel, BEGA
+
+Desk: 202.481.3407
+
+Cell: 202.309.4254
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Wednesday, November 01, 2017 12:11 PM
+To: Collier, Tameka (BEGA); Flowers, Brian (BEGA)
+Subject: Re: CCC
+
+=20
+
+Here's a redline of the testimony.
+
+________________________________
+
+From: Grimaldi, John J. (BEGA)
+Sent: Wednesday, November 1, 2017 9:57:25 AM
+To: Collier, Tameka (BEGA); Flowers, Brian (BEGA)
+Subject: Re: CCC=20
+
+=20
+
+Here's a first attempt at a revised PowerPoint,
+
+________________________________
+
+From: Collier, Tameka (BEGA)
+Sent: Wednesday, November 1, 2017 9:27:39 AM
+To: Grimaldi, John J. (BEGA); Flowers, Brian (BEGA)
+Subject: CCC=20
+
+=20
+
+Jack/Brian
+
+=20
+
+Please provide edits and comments on the attached testimony.  I don't
+plan to read the entire testimony but wanted to have it on the record.
+Couple of things:
+
+=20
+
+1.	Should I reference the other two bills?
+2.	I'll send an updated powerpoint once I figure out how to edit
+the title page.
+3.	I don't see Bob on the list to testify...change of plans?
+4.	I don't see my name on the list to testify...change of plans?=20
+5.	Brian and I spoke yesterday on the pushback from ANCs.  I think
+it best addressed during live testimony.  Let me know if you think it
+should be highlighted in written testimony too.
+
+=20
+
+Thanks,
+
+Tameka
+
+=20
+

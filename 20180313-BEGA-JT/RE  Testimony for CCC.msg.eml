@@ -1,0 +1,154 @@
+Received: from CY1PR09MB0314.namprd09.prod.outlook.com (10.160.158.13) by
+ CY4PR09MB1368.namprd09.prod.outlook.com (10.172.67.14) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.282.5; Thu, 7 Dec 2017 19:50:44 +0000
+Received: from CY1PR09MB0314.namprd09.prod.outlook.com ([10.160.158.13]) by
+ CY1PR09MB0314.namprd09.prod.outlook.com ([10.160.158.13]) with mapi id
+ 15.20.0302.010; Thu, 7 Dec 2017 19:50:44 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>,
+ "Collier, Tameka (BEGA)"	<tameka.collier@dc.gov>
+Subject: RE: Testimony for CCC
+Thread-Topic: Testimony for CCC
+Thread-Index: AdNsm0yI9XtwQsW2RQeH0usJY0fKkQCCXmsgADurjcAAABEPKQAAB3CA
+Date: Thu, 07 Dec 2017 19:50:44 +0000
+Message-ID: <CY1PR09MB0314D2BB87BD3949D1EC96F291330@CY1PR09MB0314.namprd09.prod.outlook.com>
+References: <33dc8c2831a343a19713e620101ae717@DCC-Exchange-1.Council.local>
+ <6224522c299d4d41bfbbb0fe47f39921@DCC-Exchange-1.Council.local>,<CY1PR09MB031413EB56BBB03B27D1626791330@CY1PR09MB0314.namprd09.prod.outlook.com>
+ <DM5PR09MB1370B5E679954A77E86F7C2383330@DM5PR09MB1370.namprd09.prod.outlook.com>
+In-Reply-To: <DM5PR09MB1370B5E679954A77E86F7C2383330@DM5PR09MB1370.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: CY1PR09MB0314.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ e764e846-2889-4f37-c328-08d53dabcdec
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY4PR09MB1368;5:L7t5i0hvMUcaDun8ioZg+qe6BS6fZi9RrlXUsI5++P371oZU+CktKQ+0dW4M55cNTDfGWnvlJHjOGSsIq2pwxWHN/JQc9a16YokEBTlpvI5Tdx/5sKmZ8ECwt1lLVN5Li1oCEiQ4CVvInuVFTTUv9Y2TRf7zi5xFdwyPvBPqhJ0=;24:aW5GLn6esGFQp4HD0rcF++yJX8SchxigRv5wtkSwWcbRRf1ZprAGoxNfPIjI0+0JJfUqokAjk8gRpPSP8MwqzoH61k5Fu3K42nIr6vg5z7o=;7:FufnGJEef0g3XZ0R1g5MAToVvJ75Y4eRsfzfI1d0cbtQqVSZwHHncvBRnNImPnvozsi1Iso0npGR4a097C3f0ALqjXUQnRy+fzMxgkbCogtM4iaGTET4TCx2q7m5FwFXqyOidcrlisAKZyuO3+iWhkxgO6Y70rRFTtsaofw0Xuz6WcMEDmbDDaqLwhJ2mUN6d5pKLxbVYBeVpVefLVJ0/OIb3dTj1fmpalY2ltlpy1tZzJbRUPutM0dEqZUhEadA;20:cyi+N/DhbDS2smYJoyMaAYipZJSBE3/TpCzMBL/1Ovf2c7SkeVecha9jssxhAjm6eV4w22iNyfVuU9BqUETqaLE4UX5t2CoA9syd/WT1FmHXKi4mF6I8WL8B32rj8mt6hxnEcCnHMOvWKW3GnFvvovajLXWFHcM6Ur/OHFE7s6A=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CY4PR09MB1368;H:CY1PR09MB0314.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: e764e846-2889-4f37-c328-08d53dabcdec
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603304);SRVR:CY4PR09MB1368;
+x-ms-traffictypediagnostic: CY4PR09MB1368:
+x-exchange-antispam-report-test:
+ UriScan:(31418570063057)(21748063052155)(64217206974132);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(93006095)(93001095)(3002001)(3231022)(10201501046)(201708071742011);SRVR:CY4PR09MB1368;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:CY4PR09MB1368;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+No.  I asked for it so that we can consider the testimony/comments as we
+make further revisions to the bill.
+
+=20
+
+Haven=E2=80=99t opened each one, but most of the comments appear to be from
+ANCs. =20
+
+=20
+
+From: Flowers, Brian (BEGA)=20
+Sent: Thursday, December 07, 2017 2:44 PM
+To: Grimaldi, John J. (BEGA); Collier, Tameka (BEGA)
+Subject: Re: Testimony for CCC
+
+=20
+
+That's quite a bit.  Are we expected to respond to it?
+
+=20
+
+________________________________
+
+From: Grimaldi, John J. (BEGA)
+Sent: Thursday, December 7, 2017 2:42 PM
+To: Collier, Tameka (BEGA); Flowers, Brian (BEGA)
+Subject: FW: Testimony for CCC=20
+
+=20
+
+FYI
+
+=20
+
+From: Weil, Sonia (Council) [mailto:sweil@DCCOUNCIL.US]=20
+Sent: Wednesday, December 06, 2017 10:14 AM
+To: Grimaldi, John J. (BEGA)
+Subject: FW: Testimony for CCC
+
+=20
+
+Hi Jack,
+
+=20
+
+In the meantime, here is all of the testimony that came in by email.
+
+=20
+
+Thanks,
+
+Sonia
+
+=20
+
+Sonia Weil
+
+Legislative Counsel
+
+Committee on the Judiciary & Public Safety
+
+Chair, Councilmember Charles Allen, Ward 6
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202-724-8197
+
+sweil@dccouncil.us
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Judiciary (Council)=20
+Sent: Sunday, December 03, 2017 8:06 PM
+To: Weil, Sonia (Council) <sweil@DCCOUNCIL.US>
+Subject: Testimony for CCC
+
+=20
+
+Hi Sonia,
+
+=20
+
+Attaching all the testimony I received for the CCC and the lobbyist
+bills for when you close the record.
+
+=20
+
+Thanks,
+
+=20
+
+Kate
+
+=20
+

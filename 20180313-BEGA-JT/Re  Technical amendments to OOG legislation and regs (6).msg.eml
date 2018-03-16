@@ -1,0 +1,106 @@
+Received: from DM5PR0901MB2200.namprd09.prod.outlook.com (10.167.110.148) by
+ BY1PR09MB0934.namprd09.prod.outlook.com (10.162.144.16) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.302.9; Fri, 15 Dec 2017 23:09:36 +0000
+Received: from DM5PR0901MB2200.namprd09.prod.outlook.com
+ ([fe80::295c:ae10:fd2d:6477]) by DM5PR0901MB2200.namprd09.prod.outlook.com
+ ([fe80::295c:ae10:fd2d:6477%13]) with mapi id 15.20.0302.017; Fri, 15 Dec
+ 2017 23:09:34 +0000
+From: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+To: "Hughes, Traci (BEGA)" <traci.hughes@dc.gov>
+Subject: Re: Technical amendments to OOG legislation and regs
+Thread-Topic: Technical amendments to OOG legislation and regs
+Thread-Index: AQHTdelNS4YdLFI7REiz+olhMsHiOqNFB6Zt
+Date: Fri, 15 Dec 2017 23:09:34 +0000
+Message-ID: <DM5PR0901MB22007EC1338911FC2B4185C1E60B0@DM5PR0901MB2200.namprd09.prod.outlook.com>
+References: <BLUPR09MB09317DC3F51BE11CAE2D2074EA0B0@BLUPR09MB0931.namprd09.prod.outlook.com>
+In-Reply-To: <BLUPR09MB09317DC3F51BE11CAE2D2074EA0B0@BLUPR09MB0931.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+ DM5PR0901MB2200.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 75a98c4c-4555-4730-eeee-08d54410e80b
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [2600:387:3:801::c3]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY1PR09MB0934;5:JsvLnejmslO9ArTplIO3JoA1KuBMLr0bkGERfjv+8HpXNzWGh9Fn3fQfryerylwakGMRU2S1SiSo6x2IfYKqUawJEGeQo91PkM6HuAUIAFhAtc8/j7v03sakECLQDNiDVDgZOpNjr1LFVQY0SfVPn2YGm+OJsyOI8CjWduUPY9E=;24:+BNGf901nmN+/CV5Yg8JjaneI8WORsxOx6lvGCqm6uAL01JHzJN59XvWvTvpkBd+aFiila31sPnlucXeIYU0DpDJaA1+jzZ9Ox2Gol/QwPU=;7:aKxLh2LWrKn5uJcz3j3YTTfP2Aj3OBbJBEarGNWB8MifcLyPJkLLVlYAJUC2amPHfDmTzLbM3KV6FhgGuaZl9IpthTSK7CbgFljre0fS/MdrJQAu4AintFp39sRziybXrYEQPBfVCKse6vut7C3V7QNalB0aEcEowVaFIXHSaUVyRi+7kTNmLKXIibGUjD0lUK91f08zi8dgtC09qfB5ChODq4AzNwEWGfePrcsS1/1i5Mj2v+pi9tX9sIhLNzWZ;20:I82YKfNBXem7XAlOJylDPrC8l1CytIsA8iIQkM3gRxwKQ7swGWueUoUlqOiwyAYwPZA+07KFWZTF9diJqwPza1fzuVdPswgKL5a3UOjlf8aiXH8FLk/188Ee9WpTl8YQbTvSPIiUlXe41tx7gsjOH7ya8JKgS436uagbeK57W1I=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY1PR09MB0934;H:DM5PR0901MB2200.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 75a98c4c-4555-4730-eeee-08d54410e80b
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603307);SRVR:BY1PR09MB0934;
+x-ms-traffictypediagnostic: BY1PR09MB0934:
+x-exchange-antispam-report-test: UriScan:(31418570063057);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(10201501046)(93006095)(93001095)(3231023)(3002001)(201708071742011);SRVR:BY1PR09MB0934;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:BY1PR09MB0934;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks!=20
+________________________________
+
+From: Hughes, Traci (BEGA)
+Sent: Friday, December 15, 2017 4:13:28 PM
+To: Collier, Tameka (BEGA)
+Subject: Technical amendments to OOG legislation and regs=20
+=20
+
+
+
+
+Tameka,=20
+
+
+
+
+As discussed, attached is the draft bill and the regulations.
+
+
+
+
+Traci
+
+
+                      =20
+
+cid:image005.png@01D1739F.38B02FC0 <http://www.open-dc.gov/>=20
+
+Traci L. Hughes, Esq., Director
+District of Columbia Office of  Open Government
+
+  Board of Ethics and Government Accountability
+
+p: 202.481.3406 |e: traci.hughes@dc.gov |w: open-dc.gov|a: 441 4th
+Street NW, Suite 830 South, Washington, DC 20001
+
+cid:image006.jpg@01D1739F.38B02FC0 <http://twitter.com/DCOPENGOV>=20
+
+=20
+
+=20
+
+=20
+
+=20
+
+Confidentiality Notice: This transmission and any documents which may
+accompany it, contain information which is intended only for the use of
+the individual or entity to which it is addressed, and which may contain
+information that is privileged, confidential and otherwise exempt from
+applicable law. If the reader or this message is not the intended
+recipient or the employee or agent responsible for delivering the
+message to the intended recipient, any disclosure, dissemination,
+distribution, copying or other use of this communication or its
+substance is prohibited. If you have received this communication in
+error, please immediately notify the sender immediately by email to
+arrange for the destruction of the communication or its return.
+
+

@@ -1,0 +1,76 @@
+Received: from MWHPR09MB1376.namprd09.prod.outlook.com (10.172.51.14) by
+ SN4PR0901MB2205.namprd09.prod.outlook.com (10.167.151.145) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.345.14; Thu, 21
+ Dec 2017 01:08:17 +0000
+Received: from MWHPR09MB1376.namprd09.prod.outlook.com ([10.172.51.14]) by
+ MWHPR09MB1376.namprd09.prod.outlook.com ([10.172.51.14]) with mapi id
+ 15.20.0323.018; Thu, 21 Dec 2017 01:08:16 +0000
+From: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+To: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Wolfingbarger, Brentton (BEGA)" <Brentton.Wolfingbarger2@dc.gov>
+CC: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+Subject: Re: Draft Agenda
+Thread-Topic: Draft Agenda
+Thread-Index: AQHTefSTgbit9QRbckW57CuM6tMqW6NM/A/K
+Date: Thu, 21 Dec 2017 01:08:16 +0000
+Message-ID: <MWHPR09MB13761385E69D6DEB1904B0AD830D0@MWHPR09MB1376.namprd09.prod.outlook.com>
+References: <DM5PR0901MB22004170A2A8660E889E768DE60D0@DM5PR0901MB2200.namprd09.prod.outlook.com>
+In-Reply-To: <DM5PR0901MB22004170A2A8660E889E768DE60D0@DM5PR0901MB2200.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: MWHPR09MB1376.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 90fa6bcc-5a52-416b-0da2-08d5480f50f2
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [66.44.7.142]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN4PR0901MB2205;5:ABrLkmWSqIGqLU3MVl4hoy6g2kwWutodDGVDtuBA/3oWPL7p04nYlKAA8tn/p97Nu/s3Phvxb9ROFCRCU4bdhTQ0uZfHlEi5YsBCNbQ37ZNbO7oiWT2yBeNRydWliJnuTE3DjcAefg7n5+Ox22d2DjSt76a7veIFA+B7nVfbpoA=;24:cVgplnHn8CLQkoznPumEEho05hYOjca9eaG0U/u+hWVq9+rhYF+JB8TrY3iet2u/DWdvHUeXysa2MrokJL1C4LcuC8qOD5zySBQ/b+j9ZQU=;7:1KnGeIe0uTJ3CjXCqLiUKs/dSy7WRIg96+AcXWveLVQjmUyfs6YLgP3Dfec8IjmXp2EUlopEbzTB3s+uYE/TnC1Y2IwrvRu6GzSyw2Ec2O0iF/StinycWS1mK2Ey4SNLvl+mIHfwagwcMXhn79/A4eg0Xn7nFp3/Z4O1kGvluquyE1HMNnNxgvfWoel6VxJi6tQu5NIoh27li0Ulhrru/qy688oEbLL0xbnwfeb/T1aP/JFtf9ytmMkc+T5Bp3yy;20:N8e9BVT4BibatTF2oPncGSsD23CnjTE4+P2weSD0dRvBlU54YUhbGg49aAA5LrZ1+36N759IDG5rVqMk+hjXaYSnmEWpiEB7CP/LmL+N4M6vHvyUMkyPdHrkumeNb9/RZGx54LD6D/8goVeW8K+MBnU289TH8w0fG6oecNTk4n8=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN4PR0901MB2205;H:MWHPR09MB1376.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 90fa6bcc-5a52-416b-0da2-08d5480f50f2
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603307)(7153060);SRVR:SN4PR0901MB2205;
+x-ms-traffictypediagnostic: SN4PR0901MB2205:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(3002001)(93006095)(93001095)(10201501046)(3231023)(201708071742011);SRVR:SN4PR0901MB2205;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN4PR0901MB2205;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Are you referring to the meeting notes?  The agenda is on the website. =20
+
+
+
+
+http://bega.dc.gov/sites/bega/files/event_content/attachments/12-21-17%2
+0-%20MEETING%20AGENDA.pdf
+
+
+
+
+
+--Brian
+
+
+
+________________________________
+
+From: Collier, Tameka (BEGA)
+Sent: Wednesday, December 20, 2017 7:45 PM
+To: Flowers, Brian (BEGA); Wolfingbarger, Brentton (BEGA)
+Cc: Grimaldi, John J. (BEGA)
+Subject: Draft Agenda=20
+=20
+
+I'm reviewing materials in the Dropbox but do not see the draft agenda
+for tomorrow's meeting.  Pls advise.  Thanks.=20
+
+

@@ -1,0 +1,93 @@
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com (10.160.247.24) by
+ DM2PR09MB0352.namprd09.prod.outlook.com (10.160.247.17) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.1385.9; Thu, 31 Aug 2017 15:35:17 +0000
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::5801:642d:da9d:6128]) by DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::5801:642d:da9d:6128%15]) with mapi id 15.01.1385.015; Thu, 31 Aug
+ 2017 15:35:16 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "Cavendish, Betsy (EOM)" <betsy.cavendish@dc.gov>
+CC: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+Subject: Comprehensive Code of Conduct
+Thread-Topic: Comprehensive Code of Conduct
+Thread-Index: AdMibFJrpXrrqgrYR0SrcYj3fnLh7A==
+Date: Thu, 31 Aug 2017 15:35:16 +0000
+Message-ID: <DM2PR09MB03685D2D69A5E8622AC3657B919D0@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM2PR09MB0368.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ e987bd8b-aaad-4050-03d2-08d4f085e11c
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;DM2PR09MB0352;5:HvFos8zqh06WhiZd+30AnCMdsz2y9cqjtbeS+YI885OEHk4oy8LJg9kfgMpwzbkouGTeQXoW1ynYpzuFnIsCLiRqGlMrHlC34B9F8PhSHDROf5sP9nuTqH0idZZxdah3UCeA+RaZLAbsbqTEnf0KyA==;24:Lj9zPfZRrYeMIv/bV0drSO72lOAsv+XNHehriGdj0MKn1DIrk/W0j+UbDYcS8INt02p0TDig59HvV6+2N9UFVTTVyJJHNZE0u7bnPYUhVR0=;7:Ulqx8aAhW8vB4YlcVh/YYFw9lHxqXVT9/7YZDggfoEa702PfQ1Cwr8iji4o/PmQNxfS0oK+harmJPNAk/FeGlX/yAqaGR4Dne8afQkzbpmgXPzq+0cf4IjXoc7YIm+oBualx9CUFlpjnB4zN0BOPq7Kg/bhd42N80J3jbtjiLKZOn9SJf7RcHsz19cC+eKv5K00JIj445Svveu/6Rfblhh22A8wDt96kduZOOYTdjBU=;20:dZwY6j5RQO6DHJnt/Bg9ZV5i0tTQD3nOlDaSXHWn3eBwN+TCXk6Z7F8eNt6BPDvCL6sStdawYmaWsJbqjOgsbREgeBvCgxEHff8VIfv7HgR7+YOn08SaaFjOuyd28fexNNRoa14XLBIaBe4CxcfiE8sDAS5W8uJ2zRtCbb2+Tl8=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ld-processed: 8fe449f1-8b94-4fb7-9906-6f939da82d73,ExtAddr
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR09MB0352;H:DM2PR09MB0368.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: e987bd8b-aaad-4050-03d2-08d4f085e11c
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(2017030254152)(300000503095)(300135400095)(2017052603199)(201703131423075)(201703031133081)(201702281549075)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:DM2PR09MB0352;
+x-ms-traffictypediagnostic: DM2PR09MB0352:
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(601004)(2401047)(8121501046)(93006095)(93001095)(10201501046)(3002001)(100000703101)(100105400095)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:DM2PR09MB0352;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:DM2PR09MB0352;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning, Betsy.
+
+=20
+
+As you may well know, BEGA=E2=80=99s bill to establish the CCC lapsed at the =
+end
+of Council Period 21, despite the Council=E2=80=99s directive that we propose
+the legislation.  However, undaunted, we re-introduced a substantially
+similar bill (Bill 22-136) through the Chairman on February 28.
+
+=20
+
+We=E2=80=99d like to meet with you to discuss the bill in advance of what =E2=
+=80=93 we
+hope =E2=80=93 will be a committee hearing on November 2.  Please, then, sugg=
+est
+a few good times to get together in the next few weeks. =20
+
+=20
+
+Thanks.
+
+=20
+
+=20
+
+Jack Grimaldi
+
+Senior Attorney Advisor
+
+D.C. Board of Ethics and Government Accountability
+
+441 4th Street, N.W.,  Suite 830 South
+
+Washington, D.C.  20001
+
+Main:  (202) 481-3411
+
+Direct:  (202) 741-2129
+
+=20
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+

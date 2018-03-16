@@ -1,0 +1,318 @@
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com (10.160.247.24) by
+ MWHPR0901MB2203.namprd09.prod.outlook.com (10.167.238.159) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.77.7; Tue, 19 Sep
+ 2017 22:04:29 +0000
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::a813:1aff:b129:19fd]) by DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::a813:1aff:b129:19fd%18]) with mapi id 15.20.0056.016; Tue, 19 Sep
+ 2017 22:04:26 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "Mitchell, Katherine (Council)" <kmitchell@dccouncil.us>
+CC: "Weil, Sonia (Council)" <sweil@DCCOUNCIL.US>,
+ "Collier, Tameka (BEGA)"	<tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+Subject: Re: BEGA Legislation
+Thread-Topic: BEGA Legislation
+Thread-Index: AdMtk1AhtMI8q9W3TuqK5rW4mv/fWAD9rQaAAAIy95M=
+Date: Tue, 19 Sep 2017 22:04:26 +0000
+Message-ID: <DM2PR09MB0368D891CE3569BBAE97DC8D91600@DM2PR09MB0368.namprd09.prod.outlook.com>
+References: <DM2PR09MB0368E101E20619C9D3B156FC916F0@DM2PR09MB0368.namprd09.prod.outlook.com>,<4b74edddf07e4e71affde0c47e90dfda@DCC-Exchange-2.Council.local>
+In-Reply-To: <4b74edddf07e4e71affde0c47e90dfda@DCC-Exchange-2.Council.local>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM2PR09MB0368.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 21b271ae-cd79-48a1-eaf4-08d4ffaa649d
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: DCCOUNCIL.US; dkim=none (message not signed)
+ header.d=none;DCCOUNCIL.US; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [173.73.192.58]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;MWHPR0901MB2203;5:42WoCyOQN7d7V+sBWGVGSLmiZV3qU3etks6k8FX3Q+p/xbXHiM1nA96KLlc2z/B/ahk+/7oj/bVdKEB8AGSAlFFkcRCy86PQzVSCMPJdHVuhrj6yHdzT10oqdbuiknNTpmZSRMU+1yYH2w8051s2ZQ==;24:gBkqf41ArtCbTmiAUk2iysfsYYnhgw4vuuqo9tSVYggRRjOhK1sVp2Yzx7UofsgDgGkS5B3yKPGNEVRn4/HWnq8n0myliuo1Rfvfs1Xmcz4=;7:Cd3XlazehuIHcJCqbgafqoD1RdbMUaE5doc8PK3aqtyxpHlXFnSXOg+S9nc//X0iDLA2TSCvwTbukW4vX+i72nhKmFhRWl79GLI2ddaBes4fwiaxjoxE/3NwP09qllHyAVh1BiRwVyOQFc2emhaeUll3j0rPKtIoZxwAD8hlE/xyEVibgGI1fq2OBG5Vu2sRjL7G9AVg7pt1yG3KWL52mSTHfmJ3UAcFkRrpCRmp0dU=;20:lPYCU2RfXeQQXTnX6QuKPR8Pv/uv84uRNvNTZZPKS4GZJE9ynTNrKe87fdLGRmOprhfsrg6r3LdbnbdWcQo3i0Bm+USObN/ed/UBk1mJLQT781dV+ITuqLga1nMG+BmsqNkj8QM/bOSFj3ywplHcwdt9JbXB19Kkbl/4jcjR5pY=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:MWHPR0901MB2203;H:DM2PR09MB0368.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 21b271ae-cd79-48a1-eaf4-08d4ffaa649d
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(2017030254152)(300000503095)(300135400095)(2017052603199)(201703131423075)(201703031133081)(201702281549075)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:MWHPR0901MB2203;
+x-ms-traffictypediagnostic: MWHPR0901MB2203:
+x-exchange-antispam-report-test: UriScan:(31418570063057)(64217206974132);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(100000703101)(100105400095)(93006095)(93001095)(3002001)(10201501046)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:MWHPR0901MB2203;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:MWHPR0901MB2203;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks to you all!  I'll touch base with Sonia on Thursday (I'm out
+tomorrow) to discuss final language. =20
+
+
+
+
+
+Jack
+
+
+
+________________________________
+
+From: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Sent: Tuesday, September 19, 2017 4:58 PM
+To: Grimaldi, John J. (BEGA)
+Cc: Weil, Sonia (Council)
+Subject: RE: BEGA Legislation=20
+=20
+
+Hi Jack,
+
+=20
+
+CM Allen will move the emergency bill at the next legislative meeting on
+October 3. Sonia will prepare it for you. We also have a bill coming out
+of Committee in the next month or so =E2=80=93 B22-255 =E2=80=93 that=E2=80=
+=99s being converted
+into an omnibus bill, so we can tuck the permanent into that.
+
+=20
+
+Thanks,
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]=20
+Sent: Thursday, September 14, 2017 3:56 PM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Subject: RE: BEGA Legislation
+
+=20
+
+Thanks, Kate.  Got your message.  Certainly willing to discuss final
+language.
+
+=20
+
+Jack
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Thursday, September 14, 2017 3:33 PM
+To: 'kmitchell@dccouncil.us'
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); 'Weil, Sonia
+(Council) (sweil@DCCOUNCIL.US)'
+Subject: RE: BEGA Legislation
+
+=20
+
+Sorry, my goof! Meant to attach the emergency bill, not an earlier
+version of the dec.  Dec(2) is the revised version that we=E2=80=99d like to
+discuss. =20
+
+=20
+
+Also, consider whether an amendment to require a majority of members for
+quorum purposes.  We=E2=80=99re not wedded to three.
+
+=20
+
+Thanks.
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Thursday, September 14, 2017 3:19 PM
+To: 'kmitchell@dccouncil.us'
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); 'Weil, Sonia
+(Council) (sweil@DCCOUNCIL.US)'
+Subject: RE: BEGA Legislation
+
+=20
+
+Kate, here=E2=80=99s a revised quorum package.  Please give me a call to
+discuss. =20
+
+=20
+
+I=E2=80=99m also attaching a copy of R22-163, which I can explain when we tal=
+k.
+
+=20
+
+Thanks.
+
+=20
+
+Jack
+
+Direct:  (202) 741-2129
+
+=20
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Monday, September 11, 2017 9:56 AM
+To: kmitchell@dccouncil.us <mailto:kmitchell@dccouncil.us>=20
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Weil, Sonia (Council)
+(sweil@DCCOUNCIL.US <mailto:sweil@DCCOUNCIL.US> )
+Subject: RE: BEGA Legislation
+
+=20
+
+Re the emergency, Kate, we=E2=80=99ll huddle and get back to you.  Thanks.
+
+=20
+
+Jack
+
+=20
+
+________________________________
+
+From: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Sent: Sunday, September 10, 2017 5:28:03 PM
+To: Grimaldi, John J. (BEGA)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Weil, Sonia (Council)
+Subject: Re: BEGA Legislation=20
+
+=20
+
+Hi Jack,
+
+=20
+
+Many thanks for the CCC materials. Super helpful as Sonia preps for the
+hearing.
+
+=20
+
+Re the emergency, from what I can recall, we didn't amend the quorum
+requirement when we increased the board size because of our fear that
+the Executive would delay in sending qualified nominees to us (as is
+always the case). I wouldn't want to put you in a bind where you have
+one or two vacancies and all your sitting members have to attend every
+meeting. Either way, can you make the case why it's an emergency? I'm
+generally a bit skittish of emergencies.
+
+=20
+
+Thanks much,
+
+=20
+
+Kate
+
+________________________________
+
+From: Grimaldi, John J. (BEGA) <John.Grimaldi@dc.gov>
+Sent: Friday, September 8, 2017 10:17 AM
+To: Mitchell, Katherine (Council)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Weil, Sonia (Council)
+Subject: BEGA Legislation=20
+
+=20
+
+Good morning, Kate.
+
+=20
+
+In follow-up to our meeting on August 29, I=E2=80=99m attaching the latest
+(redlined) version of the CCC bill and a clean copy of the accompanying
+section-by-section analysis.  The redlining reflects revisions to the
+bill made since the legislation was initially filed in 2015 (Bill
+21-250) and, as such, also reflects the differences between the latest
+version and the re-introduced Bill 22-136.  We=E2=80=99ll likely make a number
+of other revisions and will send them along as well in advance of the
+November 2 hearing as possible.
+
+=20
+
+The quorum package is intended to address what was likely an oversight
+(that is, increasing the Ethics Board=E2=80=99s quorum requirement) when the
+size of the Board was increased from three members to five.  See the
+dec.  We=E2=80=99re wondering (hoping, actually) if the Councilmember would
+introduce the package for us.  The package doesn=E2=80=99t include a permanent
+bill because we figure we could put the substantive amending provision
+in the CCC bill.  Please call if you have any questions or concerns.
+
+=20
+
+Thanks. =20
+
+=20
+
+=20
+
+Jack Grimaldi
+
+Senior Attorney Advisor
+
+D.C. Board of Ethics and Government Accountability
+
+441 4th Street, N.W.,  Suite 830 South
+
+Washington, D.C.  20001
+
+Main:  (202) 481-3411
+
+Direct:  (202) 741-2129
+
+=20
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+

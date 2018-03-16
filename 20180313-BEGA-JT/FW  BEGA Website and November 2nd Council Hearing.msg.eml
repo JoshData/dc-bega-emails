@@ -1,0 +1,92 @@
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com (10.172.39.10) by
+ DM2PR09MB0365.namprd09.prod.outlook.com (10.160.247.18) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.178.6; Wed, 1 Nov 2017 18:52:02 +0000
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) by
+ DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) with mapi id
+ 15.20.0197.013; Wed, 1 Nov 2017 18:52:01 +0000
+From: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+Subject: FW: BEGA Website and November 2nd Council Hearing
+Thread-Topic: BEGA Website and November 2nd Council Hearing
+Thread-Index: AQHTUzzBvUZwudVhyEq1PXampMTE46L/3lZA
+Date: Wed, 01 Nov 2017 18:52:01 +0000
+Message-ID: <DM5PR09MB137080C74F1BE1C98447367C835F0@DM5PR09MB1370.namprd09.prod.outlook.com>
+References:
+ <CAA9LDrrfZC5cNUBi7G31yma3a-qhZchaOJp=6nPoPyK7z6XknQ@mail.gmail.com>
+In-Reply-To:
+ <CAA9LDrrfZC5cNUBi7G31yma3a-qhZchaOJp=6nPoPyK7z6XknQ@mail.gmail.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM5PR09MB1370.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 93f4a2e4-36a9-4c5b-2b1a-08d52159a34a
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;DM2PR09MB0365;5:0d+w0CCVdciQtcdbmJrnRHyLo9eLN4DvAYKudji8G/KfToKAbaPWQbNIZG4Yf2SPj8mBVQh38MPpl4PSODVdvSaqm7KgLq69AjqQTR25HBkkjtAQgLYAhRcX1gaPHcZND0pIyqtljsya1OKE3zXKe9Cfit7Uho6k+Ft3uUzMJew=;24:RXIDi+3OppTeoQoft7pBfEDPdHyPzgKuiIP6mqNqqwiPjW2X23jZNQL/TyEjYC2yxPAOnPt624ZhZP+Ay84MDWqANBzpGze60MoQGwI1Dt4=;7:jVMfIfmfwUfeBw0QeDJ4xLwFuTrlWWmIrtCV3wHyODpxmdxfjWWYUH17/rgKhUsBiAzFn+Px52qCnAG+KQ8aeICZgG1U4xEvj4KbMp5IOOz4IpbEZesZmjv2YQY8FM4JftrvzaOHZ33fN4+KiCVKXTL4+S2KDoCGJ/SXNep9Bd8vdKz5zIXBoMaC3lfCI7SjW9Y+dAxYdyAfVc7sc18jMaU3tov2NOUvzE/ggLCxd9q8erb5o8x3eksqjSqYzNLx;20:Is/KyXCfKyfnVIoJHndG0It+ALWdgiXnnkUIfwN0UOiGsu3LXH0eleiMz8/1hhM0qDDOcBFLV1bfd89eqWNQiTofjgCIyiOJDRO9ZXf8RCPpFFVADqjjVfU0jKBvRsJ55mXHS1zUpn0eft3gLP8mPjSWJSyU4o0k+hraJmn0M30=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR09MB0365;H:DM5PR09MB1370.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 93f4a2e4-36a9-4c5b-2b1a-08d52159a34a
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(4534020)(4602075)(2017052603199);SRVR:DM2PR09MB0365;
+x-ms-traffictypediagnostic: DM2PR09MB0365:
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(100000703101)(100105400095)(3002001)(93006095)(93001095)(10201501046)(3231020)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:DM2PR09MB0365;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:DM2PR09MB0365;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Jack =E2=80=93 can you provide Dorothy with the section-by-section?
+
+=20
+
+Thanks
+
+=20
+
+Brian K. Flowers
+
+General Counsel, BEGA
+
+Desk: 202.481.3407
+
+Cell: 202.309.4254
+
+=20
+
+From: Dorothy Brizill [mailto:dcwatch@gmail.com]=20
+Sent: Wednesday, November 01, 2017 2:11 PM
+To: Flowers, Brian (BEGA)
+Subject: BEGA Website and November 2nd Council Hearing
+
+=20
+
+I am sorry that I wasn't able to make the meeting you held on October
+24th to discuss the BEGA website.  I hope that you did get the email
+that I sent detailing some of my concerns.  As always, I would be happy
+to meet with you or your staff at any time in the near future to further
+discuss the website.
+
+=20
+
+On a separate matter, I plan to attend and possibly testify at the
+November 2nd Council hearing on Bills 22-0038, 22-0136, and 22-0344.  I
+tried to contact John Grrimaldi today but he isn't in the office.  Do
+you have a background paper and/or annotated version of the
+Comprehensive Code of Conduct bill???
+
+=20
+
+Thanks.
+
+Dorothy Brizill
+

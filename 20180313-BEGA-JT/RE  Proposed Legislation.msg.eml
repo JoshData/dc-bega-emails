@@ -1,0 +1,361 @@
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com (10.160.247.24) by
+ BY1PR09MB0808.namprd09.prod.outlook.com (10.162.143.26) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.1304.22; Thu, 3 Aug 2017 17:03:43 +0000
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::e9c4:d60c:561a:3456]) by DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::e9c4:d60c:561a:3456%18]) with mapi id 15.01.1304.025; Thu, 3 Aug 2017
+ 17:03:41 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "'Johnson, Dare (Council)'" <djohnson@DCCOUNCIL.US>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>,
+ "Weil, Sonia (Council)" <sweil@DCCOUNCIL.US>,
+	"Mitchell, Katherine (Council)" <kmitchell@DCCOUNCIL.US>
+Subject: RE: Proposed Legislation
+Thread-Topic: Proposed Legislation
+Thread-Index:
+ AdKR7LaCRdBzLm+FTmmh8wFcxF7c5wAI3hBAACAyhpAAAafWcB3Z/ahgABG/MrAAX9qmgAAtCe7w
+Date: Thu, 03 Aug 2017 17:03:41 +0000
+Message-ID: <DM2PR09MB0368ADC3DD9412D7B92E4FFE91B10@DM2PR09MB0368.namprd09.prod.outlook.com>
+References: <1091ea71a4574a72ac06b7c16c843fb8@CWM-EXMR-107.dcgov.priv>
+ <db7bd58479c44751a8ae057ab1e8eaef@DCC-Exchange-1.Council.local>
+ <e37420bd33ee45a6ae5aa89f77941e57@CWM-EXMR-107.dcgov.priv>
+ <5bcf383462144b8ebd8fbb7097770cb3@DCC-Exchange-1.Council.local>
+ <DM2PR09MB03689A07514F63A3C7C00BE491B20@DM2PR09MB0368.namprd09.prod.outlook.com> <09ded0c630544d679bb4d7822c41383a@DCC-Exchange-2.Council.local>
+ <60145d65d92144a78c884202e2b29ac6@DCC-Exchange-2.Council.local>
+In-Reply-To: <60145d65d92144a78c884202e2b29ac6@DCC-Exchange-2.Council.local>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM2PR09MB0368.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 0182c8ad-fd3b-4bd0-159a-08d4da91978c
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: DCCOUNCIL.US; dkim=none (message not signed)
+ header.d=none;DCCOUNCIL.US; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY1PR09MB0808;20:Ayzohz/yMqSEkP9EbS1pAJ6Yx2bpGCf94bXlQPxfqJfYcP/wvSIPpyx7m03USUGqg3tbfS5/2CbwCFpfuqf4aRQ0KPJnsmcn7sucbO9pIVvxaXnLLFHcKn3fSFwwBm8C5R572ymdePvFFXvgjOxm8ac1VZ2YG4N9X/FEA7MFUx4=
+x-ld-processed: 8fe449f1-8b94-4fb7-9906-6f939da82d73,ExtAddr
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY1PR09MB0808;H:DM2PR09MB0368.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 0182c8ad-fd3b-4bd0-159a-08d4da91978c
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(2017030254152)(300000503095)(300135400095)(2017052603031)(201703131423075)(201703031133081)(201702281549075)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:BY1PR09MB0808;
+x-ms-traffictypediagnostic: BY1PR09MB0808:
+x-exchange-antispam-report-test: UriScan:(31418570063057)(211936372134217)(21748063052155)(64217206974132)(119230021023882);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(601004)(2401047)(8121501046)(100000703101)(100105400095)(93006095)(93001095)(10201501046)(3002001)(920507026)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:BY1PR09MB0808;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BY1PR09MB0808;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks, Dare. =20
+
+=20
+
+Let=E2=80=99s go for 8/23, from 10 am =E2=80=93 11 am.  If that slot is no lo=
+nger open,
+then 8/29, from 2 pm =E2=80=93 3 pm, would work for us.
+
+=20
+
+Jack
+
+=20
+
+From: Johnson, Dare (Council) [mailto:djohnson@DCCOUNCIL.US]=20
+Sent: Wednesday, August 02, 2017 3:42 PM
+To: Grimaldi, John J. (BEGA)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Weil, Sonia
+(Council); Mitchell, Katherine (Council)
+Subject: RE: Proposed Legislation
+
+=20
+
+Hello Mr. Grimaldi,
+
+=20
+
+My name is Dare Johnson and I=E2=80=99m Councilmember Charles Allen=E2=80=99s=
+ interim
+scheduler while Myisha is out on maternity leave.  As requested here are
+a couple of dates after August 22nd that CM Allen has currently
+available.  Please advise which date and timeframe is convenient for you
+& your staff to meet and if the time is still available I will confirm
+the meeting with you and add it to his calendar. =20
+
+=20
+
+=C2=B7        Weds, 8/23:  10 am =E2=80=93 11 am
+
+=C2=B7        Thurs, 8/24:  10:30 am
+
+=C2=B7        Fri, 8/25:       10:30 am =E2=80=93 11:30 am or 2 pm to 4 pm
+
+=C2=B7        Tues, 8/29:    2 pm =E2=80=93 4 pm
+
+=C2=B7        Tues, 9/12:    10 am =E2=80=93 4 pm
+
+=20
+
+Sincerely,
+
+=20
+
+Dare Johnson
+
+Office of Councilmember Charles Allen, Ward 6
+
+Committee on the Judiciary & Public Safety
+
+The Wilson Building
+
+1350 Pennsylvania Avenue, NW  Suite 110
+
+Washington, DC  20004
+
+djohnson@dccouncil.us=20
+
+202.727.8231=20
+
+www.charlesallenward6.com <http://www.charlesallenward6.com>=20
+
+**********************************
+
+=20
+
+From: Mitchell, Katherine (Council)=20
+Sent: Monday, July 31, 2017 5:50 PM
+To: Grimaldi, John J. (BEGA) <john.grimaldi@dc.gov>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>; Flowers, Brian
+(BEGA) <brian.flowers@dc.gov>; Johnson, Dare (Council)
+<djohnson@DCCOUNCIL.US>; Weil, Sonia (Council) <sweil@DCCOUNCIL.US>;
+Marks, Laura (Council) <lmarks@DCCOUNCIL.US>
+Subject: RE: Proposed Legislation
+
+=20
+
+Hi Jack,
+
+=20
+
+We=E2=80=99d be happy to. Our scheduler, Dare, cc-ed, will identify some time=
+ on
+the Councilmember=E2=80=99s schedule. He wants to have a second hearing on the
+CCC, which I=E2=80=99m tentatively scheduling for November 2nd at 2 p.m., alo=
+ng
+with B22-38 and B22-344.
+
+=20
+
+Thanks,
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]=20
+Sent: Monday, July 31, 2017 9:54 AM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>; Flowers, Brian
+(BEGA) <brian.flowers@dc.gov>
+Subject: RE: Proposed Legislation
+
+=20
+
+Good morning, Kate, and happy recess!  I hope you=E2=80=99re enjoying the
+relative calm so far.  Speaking of which, we=E2=80=99d like to set up a time =
+to
+discuss the CCC and the other pending bills that would amend the Ethics
+Act.  Tameka, our new Chairperson, would also like to take that
+opportunity to meet Charles.
+
+=20
+
+I=E2=80=99m taking off, starting this Friday, until August 22, so we=E2=80=99=
+re
+generally available after that.  Let me know what works on your end.
+
+=20
+
+Thanks.
+
+=20
+
+=20
+
+Jack
+
+=20
+
+From: Mitchell, Katherine (Council) [mailto:kmitchell@DCCOUNCIL.US]=20
+Sent: Wednesday, March 01, 2017 9:32 AM
+To: Grimaldi, John J. (BEGA)
+Cc: Spagnoletti, Robert (BEGA); Sobin, Darrin (BEGA)
+Subject: RE: Proposed Legislation
+
+=20
+
+Hi Jack,
+
+=20
+
+Thanks for letting me know about the introduction. We have a good amount
+of time, as budget won=E2=80=99t be over until mid-May, and we can pivot then
+back to bills and summer planning.=20
+
+=20
+
+Thanks,
+
+=20
+
+Kate
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us <mailto:kmitchell@dccouncil.us>=20
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]=20
+Sent: Wednesday, March 01, 2017 8:46 AM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Cc: Spagnoletti, Robert (BEGA) <robert.spagnoletti@dc.gov>; Sobin,
+Darrin (BEGA) <darrin.sobin@dc.gov>
+Subject: FW: Proposed Legislation
+
+=20
+
+Good morning, Kate.
+
+=20
+
+The deed is done.  See attached, the =E2=80=9Csubstantially similar=E2=80=9D =
+2017
+version of the CCC.  We likely have a bit more tweaking to do.  Any
+feel, then, of when we should have that completed?
+
+=20
+
+Thanks.
+
+=20
+
+Jack=20
+
+=20
+
+From: Robinson, Ericka (COUNCIL) [mailto:EROBINSON@DCCOUNCIL.US
+<mailto:EROBINSON@DCCOUNCIL.US> ]=20
+Sent: Tuesday, February 28, 2017 5:16 PM
+To: Grimaldi, John J. (BEGA)
+Subject: RE: Proposed Legislation
+
+=20
+
+Thanks=20
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]=20
+Sent: Tuesday, February 28, 2017 1:08 PM
+To: Robinson, Ericka (COUNCIL) <EROBINSON@DCCOUNCIL.US>
+Subject: Proposed Legislation
+
+=20
+
+Good afternoon, Ms. Robinson.
+
+=20
+
+Thanks again you for speaking with me yesterday.  This is just a
+heads-up that I will drop by your office in a short while to file the
+original of the attached bill (along with a transmittal letter signed by
+our Board Chairman) and to complete a filing sheet.
+
+=20
+
+=20
+
+Jack Grimaldi
+
+Senior Attorney Advisor
+
+D.C. Board of Ethics and Government Accountability
+
+441 4th Street, N.W.,  Suite 830 South
+
+Washington, D.C.  20001
+
+Main:  (202) 481-3411
+
+Direct:  (202) 741-2129
+
+=20
+
+=20
+
+Just like our city, Sustainable DC is evolving! Help us update the plan
+by telling us what you care about most in this easy 3-minute survey.
+<https://docs.google.com/forms/d/e/1FAIpQLSdAD451htG6I4GqSTucXRHhrupb4E-
+3kpZfE2R-XHBJt47PqQ/viewform?c=3D0&w=3D1>  Learn more and get involved by
+visiting http://www.sustainabledc.org/in-dc/sdc2-0/.
+<http://www.sustainabledc.org/in-dc/sdc2-0/>=20
+

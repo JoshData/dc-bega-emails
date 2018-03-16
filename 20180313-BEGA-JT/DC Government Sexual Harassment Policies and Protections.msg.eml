@@ -1,0 +1,208 @@
+Received: from CWM-EX-HS-11.dcgov.priv (10.86.51.34) by
+ CWM-EXJS-201.dcgov.priv (10.82.51.197) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Tue, 19 Dec 2017 09:33:26 -0500
+Received: from gcc01-CY1-obe.outbound.protection.outlook.com (164.82.40.16) by
+ CWM-EX-HS-11.dcgov.priv (10.86.51.34) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5 via Frontend Transport; Tue, 19 Dec 2017 09:33:25 -0500
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) by
+ SN1PR09MB1103.namprd09.prod.outlook.com (10.166.68.145) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.323.15; Tue, 19 Dec 2017 14:33:15 +0000
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) by
+ SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) with mapi id
+ 15.20.0323.018; Tue, 19 Dec 2017 14:33:14 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: DC Government Sexual Harassment Policies and Protections
+Thread-Topic: DC Government Sexual Harassment Policies and Protections
+Thread-Index: AQHTeNUKzPgWCsZEmkWUMKyLCFFuAw==
+Date: Tue, 19 Dec 2017 14:33:14 +0000
+Message-ID: <SN1PR09MB1104892B6DBEC8436ABAD25EF50F0@SN1PR09MB1104.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-originating-ip: [164.82.84.23]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1PR09MB1103;5:9aA+yVCQkLH4ELgW+9naqqHNwsnXCaMeo4fu0MmTG7OQ5Yr+iyMuEs3PJFWAbaZWt0VJiGQKS88R0vREn6w45irw1nsZt/uI4nS1yLzI9+bkACi0QwoIIz/tB+y0M06FVb1ss6ra4BkAys2nP3q0z7djIQuBgLudBSF9KKLU88Y=;24:/G7O3YPD5/yH5lSNWn7P3ZWplABF3bIolpRzF9MFtqzdP3P920R97ZtSiB5OonEHDOPcbxQpAXPY3LBGAODGgU7J6I3Go3zKa+zyRSYACzg=;7:OTSyahzehhpEVs4BFXSim8CmqDufy54gXU7zsQXJCYWznn4nFXaNmcEv8LQZiJYjv/F43nMHNsZSIgTYi5z5NN4lDU0LKxi4yZ9g7GH763C9dyRQxgGuePsBTUGZk9oS6CaLK3fLvcIjRMxs/v13lfflMJNXHZO7mf8G5Jj0xN5HH8nJk4J7muVE2eL3O8GsdSXjKhmgV85qfVBvQashqVmxi9qxId2p8HtBqmnEEn2iKWj5BrHvV0GbAe6grbrw;20:X7c4TRCQLvrvMdICqyIMh/drJcQeyxAOxLnajoIEJ+snSarZeswrE3k2zz256ZQEWkh4tZsyvc51dwBNWqJlGUUnyRSNT+odcZqSWq5UkbzaH+pKLAiqT1BIe4JB8yM0W32hPl1k15gAxN/V48cI4KDn0dBbMIJN/vmxmuLgEGo=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN1PR09MB1103;H:SN1PR09MB1104.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 9cc69c7f-12f3-47ab-d66d-08d546ed7060
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603307)(49563074);SRVR:SN1PR09MB1103;
+x-ms-traffictypediagnostic: SN1PR09MB1103:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415395)(9101524173)(2401047)(8121501046)(3002001)(3231023)(10201501046)(93006095)(93001095)(201708071742011);SRVR:SN1PR09MB1103;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN1PR09MB1103;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ 9cc69c7f-12f3-47ab-d66d-08d546ed7060
+X-MS-Exchange-CrossTenant-originalarrivaltime: 19 Dec 2017 14:33:14.7037 (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR09MB1103
+X-OrganizationHeadersPreserved: SN1PR09MB1103.namprd09.prod.outlook.com
+Return-Path: Mayor.Bowser@dc.gov
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SN1PR09MB1104.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-antispam-report: SFV:SKI;SCL:-1;
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-CrossPremisesHeadersPromoted: CWM-EX-HS-11.dcgov.priv
+X-CrossPremisesHeadersFiltered: CWM-EX-HS-11.dcgov.priv
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-Organization-Network-Message-Id:
+ aca68caf-216e-4871-9fc3-08d546ed775b
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+BCC: <AllPersonnel.ExcludingDCCouncil@dc.gov>
+Content-Type: multipart/mixed; boundary="===============3884736233002407054=="
+
+--===============3884736233002407054==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Colleagues,
+
+=20
+
+Given the much needed national discussion about sexual harassment and
+sexual violence, I wanted to take this moment to remind all DC
+Government managers and employees about our sexual harassment policies
+and the protections provided by District laws. At DC Government, we will
+not tolerate any acts of unlawful discrimination or harassment, we lead
+by example, and we are committed to providing employees, contractors,
+and the public with a safe environment.=20
+
+=20
+
+We know that this topic can be difficult to talk about and address, but
+you are protected by the law and we are here to support you. Under the
+DC Human Rights Act
+<https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachm
+ents/LawsAndRegs-HumanRightsAct-1977-English.pdf> , it is unlawful for
+an employer or employee in the District to create a hostile environment
+based on any protected characteristic covered in the law. For more
+information on sexual harassment, how to file a complaint, and the
+protections and resources available to all employees and managers visit
+dchr.dc.gov/sexual-harassment <https://dchr.dc.gov/sexual-harassment> .=20
+
+=20
+
+We are going to ensure that every DC Government employee is clear about
+our expectations, policies, and laws. To do this, we will:
+
+*	distribute the updated Mayor=E2=80=99s Order that I signed this week;
+*	identify a highly skilled professional at every agency to be
+trained in investigating allegations of sexual harassment by January 18,
+2018;
+*	train all employees on related laws and policies by February 28,
+2018; and
+*	complete response training for all managers and supervisors by
+March 14, 2018.
+
+Sexual harassment violates our DC values, we take all claims of
+harassment seriously, and we remain committed to providing a safe
+working environment for all employees.  =20
+
+=20
+
+Thank you for your dedication and service,
+
+
+
+
+
+=20
+
+ Mayor Muriel Bowser=20
+
+
+
+--===============3884736233002407054==
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="MMB+signature.png"
+MIME-Version: 1.0
+
+iVBORw0KGgoAAAANSUhEUgAAALQAAABcCAMAAADwBG/vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjw==
+C/xhBQAAAwBQTFRFAAAAAQEBAgICAwMDBAQEBQUFBgYGBwcHCAgICQkJCgoKCwsLDAwMDQ0NDg4ODw==
+Dw8QEBARERESEhITExMUFBQVFRUWFhYXFxcYGBgZGRkaGhobGxscHBwdHR0eHh4fHx8gICAhISEiIg==
+IiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NQ==
+NjY2Nzc3ODg4OTk5Ojo6Ozs7PDw8PT09Pj4+Pz8/QEBAQUFBQkJCQ0NDRERERUVFRkZGR0dHSEhISQ==
+SUlKSkpLS0tMTExNTU1OTk5PT09QUFBRUVFSUlJTU1NUVFRVVVVWVlZXV1dYWFhZWVlaWlpbW1tcXA==
+XF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vbw==
+cHBwcXFxcnJyc3NzdHR0dXV1dnZ2d3d3eHh4eXl5enp6e3t7fHx8fX19fn5+f39/gICAgYGBgoKCgw==
+g4OEhISFhYWGhoaHh4eIiIiJiYmKioqLi4uMjIyNjY2Ojo6Pj4+QkJCRkZGSkpKTk5OUlJSVlZWWlg==
+lpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqQ==
+qqqqq6urrKysra2trq6ur6+vsLCwsbGxsrKys7OztLS0tbW1tra2t7e3uLi4ubm5urq6u7u7vLy8vQ==
+vb2+vr6/v7/AwMDBwcHCwsLDw8PExMTFxcXGxsbHx8fIyMjJycnKysrLy8vMzMzNzc3Ozs7Pz8/Q0A==
+0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4w==
+5OTk5eXl5ubm5+fn6Ojo6enp6urq6+vr7Ozs7e3t7u7u7+/v8PDw8fHx8vLy8/Pz9PT09fX19vb29w==
+9/f4+Pj5+fn6+vr7+/v8/Pz9/f3+/v7////isF19AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAOX0lEQQ==
+VHhe1ZptgbQ6DIWxgIVawAIWsIAFLGABC1jAAhawgIW9zzlpmdn5WmZn3x83O0Cbpu1pmqYpbPX1Pw==
+pH8Kes/P7/SY+w79M9B7wbYrFRmSO0n9fUT/DnTc88OAS/Jj+ofmESj3bV3maZqXddsy52PcAv0Xgw==
+vyM3ui1T36ZaVNWpaYd5c9mHBvILTZ/tb1+nvqkr0KbUQAKf0rRc6v8W+SvQ39u8WkIPO4P57bf0TQ==
+BeJ2WLCLDe1u6zp1qW7GlWaQ+D2d17S7edXXMSI9lj6BuOmXA14U7lNXN1MMH1OxtbxNJ0EbybYeyA==
+7ig7Bzs1tDyg5dTN0mkU+w7BmJq6pyVlHrf1I71h02vfzzn5gIS1IJy7ukp9LDrT96HuY1a20ua8SQ==
+b4Aeqqp/NZ3WMc91wDJaQw5kBZhywVm6evxe9hadAu3W976qmqVkvxOcYAJ8abGM8VrL+VGEWJVfWw==
+n4Q6l71L5zW9AaaeC4Y7El/XhFhnkxWoQKlbeYbRb1/oWhIueJdOL8SvTR4MU7yhgyEsmDNSWmYZ7w==
+QS6NVB5Jk1gh34XO0mlN72tio2BOlTbnmuBs4s7sfCPZJ2K5xLjX1OC9g/smnTePheVVdc9mFK6BaA==
+XJG+pTvuXPWP5E7Qj6CjWe4zm7BAPyPUtrZVPXkJFrHH4nAZ2dp0v1T1eU0DuquY0WfEDod/GQTIuQ==
+h3RhkxqT1uIv6DzoqUpDSuF9r6hksJuJNUg2DPpGDLpI5uSaXkzcKzoHWv2MdT2m2o76Ma1NlVR8BQ==
+5AGmYKnBrz108D6dtGmeA/aaHjhq5X1hHOFcwjv8TNs/A11oH+o0t9WUszeE2ta6arSpgDd+rwmBrQ==
+Qwe/oZOgAcUqnFOAfoBo10zMcohRqHu5bugQYm6e6OAHOr8Qe4Kg5pFqgAAGBtQJi3/CFLh0y/db2g==
+97ZimL+gU6CNoau6WTb9mPaulr0DP8PIyaegKCAweLGuX9B5m0bTS1PdxQuCJgCpao+CA3mm69xVmg==
+wOAfgyacbtnJ7zVtT7Gz9RBzKJNHoZ/IMjeUmUud4gTzLp0BbVSAbgjhHoZ5oBy1gTtmKnRJ31URwQ==
+nF5tsK/oLfNgsUnT30CELgm209T1w7ys67oJvdn58Y0OztZ5A/0FnQOttvuqYXO591GUEfykepj1xg==
+oE5N0/bDOB0vlER32MRgB/2dx3tD013Veke8pQBdMwd6HQNwEyfbbpiW7en8cy6r6vV+OGfoBrReRg==
+7Hq14r8r2r/GmoAJaGK7WItOylRmAsC+L/M0jpx/6zbpxAA1HaHqjrUYvNt0FdVFC5mbr6MkWo3rEQ==
+3Wq6iN/Js+OlPl0t90NCVdgOSwmz3qwbA+jbRq/wWq3dS3PKGCuHnGv/6R4N13Sp8IAuoLOYh/qoEg==
+sUdbK8JRURRHStJ9lYeDTlmTDu71ImwaMBnOMiGfpd2GwoJyBpBwPJwTgpx+TPc2fVX9G6HM5uq4xQ==
+I37qAEfAVMdwv/B+F8vfORlcxyT5gUERxxxM02EV5f6U7jRturR24Q5MdfFRuocMl7C22T6Vw4tYDA==
+EHpMtY4zSllal2zc8xEc0yHix8E+SJzC/a5puLmrC4mnBwusenbqB4IOIapq9wfo0srEuTHXCo7kdA==
+MhM3DzR4XNF3NGO2s0p+oxvzkMA2TnqnFfJHjQBdVhtsi7oYKTR9SHIkP9zCdrwHCYb/+I1xmsy69g==
+b9+WcRjHpRj6NRWZTHc2vWlHTkOZuuhHCYE2mMym721Z1QVJQkCN0y3vjp1caRvxfHrf5AKRVYn7LA==
+a0DZKPTLYdylulZ1c/PDlB/Q/UJkIcl4jcZ/InLqXy8gL3X3vuY8LcI8NJ4sW1zJNrUFc7Qjh60m8Q==
+dq32FbNjGMhqP206T5N4NhUVu2ZIuZXvoC0kX1QNTbxzyTV157glk45aEBy9MojzNObhRNQx6H2dpQ==
+ujSRtBXl3sE3JmIvJ3XjISZm1EzIbEOnDxzBt0iuGSzTnaYJ54gYl7qO8YoRwj3qKbVMdlux5LAdBQ==
+bComNwJ6Gzu0nPoSFfrhbmUyZfTbNo8Tm71V0gZYz4YkJUF2XSg/lqzJoC2cEwpzUXPKhwpj0pNY2g==
+R5OQiUb3Ua90VRvQtggV6v1HJ8h179PU0YTvMxMpJ+SmJr3URG6lAfsYYWOOxnGcAU+FrWdbTaMbPw==
+6NA0Am4UubZqaET7iDh6cOG5HP0GKwvHhqzeFXsEL5YspG8Be8TYtBBzvDI5BF4oULVkJ22H4bczDQ==
+zDGqtY+4K8lAWTZaYXW8uIr2r80jcyjiFDLPtT2ABfmtmG+dNHrlQi5PmUXmHHso2Nr6CPYUpTZNNw==
+LgwnZOO7xuCPcjAG7/BwCQ/w27H2F2ZCQ2lavcBWtx3Tcbgtk0A7o1u+WIpJ7kBJFQmztkO4mqcidQ==
+/EmgroCSS3A/VaqPOLVOXlr585HjJ9PWNjIffqvnhgMjTdCTPtopcm3WkTYmvfPOYUquGpp2JnP5rQ==
+clXHq2j2OEbfYB/ZGoM0Js+9awDaCd045KZhmudlnsfeUSrOV5AvDRBLwfGyEZyNIq1Eb/rxjWRtqw==
+UbY0+LuJdoELAdrq8g8M2fRwmp4t0TaTa2ecct/gwmAss2zBklFbG0r24WqJwOroBHiujwPWqGvctg==
+RNqk9kmEIIufsSUtSB9DN5ZouzEClidWdHNgqlSTYRcIutMOS6RuZw57RJdyBOzEPUhwIf2Oe6rzhA==
+l5/cLAu3fLG/bOroYNsW/JmmX9F1VsaUgWzDoBBw/yJ+Ylgd48PHe6dB4WxCzcbBtOrdlm6mCoS4FQ==
+7530mTEwYEQ5dzStjiDNgGZbvbhn3xgd7jXGp9tq58Q+zr7QdPpnA++P+qqs/z8Y3IJQdyy2jgHLQA==
+ZMTajkBESzTDCXTDVTaY77KgprpDDIaGknd29adb2DRnDX/WCxYPufoBewgFGbJ0OdAM5kqLNISHNg==
+5KllnWnx6VWODrb4MPrqh+44czFp9FDPK9plFtj5GRYmzGBZszF8wGr/RzbJ9Dst0c3qsb+TiOH5Vg==
+yZDpToE6HI9ao1AAsM4D5+oZ25G0d2rWmBDJwdoLMDIY6HdOHBGsUFF5+nTO+XZHo/W8oQpWC01v0g==
+tDxCByQBwe4aJlqoqdw4yvSOC7GI1b9B6Gab5o57aOQtgjlT13uZLcZPLXAFk5uUh1UqqOoXB2aJqw==
+xququ3bAXTQNHDx02w0Kct2lvnrNcqUdwTaIGETqA7v65eTjgMCgBTnmXcXJ39ENo1xflarg1DBWNg==
+U3FW1JiPHnFl3I2/VtKOXJJjTqwELY8OjKSgcAj7vhK9LBru0cjKUZE2mUEIJ6bqWK29P+t9QaWsSw==
+6mm1apIFWx6k2IYhHCRNu10qpA7NjDIpRqc+M1x+1vFEck4J04alzY0ByN43Vhsa1PYSpHdkOSmyMw==
+0HToozmT32vnjjFrmlKrLOBQSKv14A9kemehWlJladcJrryNk1rckih55R2SQThfWTE7Ql7K+zx0EQ==
+EZFGvbWiDxWpu7p8FCCOG+SiUydlXKhuZGiM2WO3+/anBKyQOVk5xqBFkhrTOC04JfrAIbm7DBraNw==
+valo2n6UxqL/K6I1aVpKV4nvNtdMe1fLm7pEW4W3xGUa7UEIUZka/1sQffDop23qW/nodVRevkgfdQ==
+CL0k37KRqpZGAPR418YEIaguDVo9hYvAvQaQsAxTZuCrDh6Jkj547BdhVAxQZqCtRE6THh1VMxnLrA==
+0Bl9hT9wlxg8k6dyrANFMuBwtewI+NOAf6FOwC6avqJszN/ImoZc5mKliiAP7MPfMsXt8NbyIQBuRw==
+hxJZDopUuV/x8SjdpMC0Yw2k1OV/cmFPDpckan2gOkADwQjifkOw2A+0ATmtXxbzPVg+CERy9SFLKg==
+lSkWUZUdMA82DCXJyIo11JFwR/9JdJTpthJrrMutTZuKpDOmkhToknMzJZWJLSq+upCKPzMzsYiUNg==
+UsMoZTmjFEP1qoxgK4srqVR+Bl0txNxWlH+XgrDp8HUqyaXIXsk5/jBes69LnPFGVbh60qOzhccMsQ==
+B3uSVMWlF4EQdvLWpouQOzen8AroYLjBIhD8neMLZn+pGSJZ6NJlFOS078pnRn76rirf5cx4shAfEQ==
+W6y3ySekxhEhnihuPPj/hH4EXTpn8vHDz6FQom1au66SsfIf0R+M5pym1ZE1LUC3VFiUYSCyIVKvoQ==
+fQj8TfN41ht8jYewza8vJPYhsFd0AnTuPd6EXPK3ZFvGiBR1PJqQgz4fzXlNczZ5bqhCYjA6PzxFfQ==
+MD/Efd6mJ79WdPqmT2c9C2DlFMTxqwiJ6/SF8Qf0I+ijl/kINx8SuML96+tF7Lb3ohfOs2ZO0WnzUA==
++BVYfiICnzhEAM0D0aFNWXPy9RGdBE0/qz+M576fkc2B89rVwc73qPeq5jt0XtPEphHmvSYJcOTzgQ==
+GiKKoFLBfQD/sZmXdBa0j+PZ5z3v0ri4La3fsBxHGx4B/G/o/EKUC3b0lfNPSfD0HtTvRAOsa/mnXA==
+3D6gc5p2x/oqEdnXFDAHznf+RkbecHPiL+i8eSiwiPe0rwlkRqiXWs1UDGTVmwCng5HZv6PTC9H/nw==
+oVPiT90dBrTLslt9asTIy4nvI7CFToNGWTUHrgIoHtck1hXbWb2ZTv28LIM9zzGeD+kE6EDD0dI+rw==
+cE7Rvs4+lAOdMznVinl/Rm+YB0dbvTv8gYo2tQkqta1D1zXlP1VcppsTv6U3FqIc9QvQVzBysjzYxQ==
+VS9r+Urut/Sepo8viU/ovujKzf0B2kwnbVqEpt/4f+dsHrYWEk4eTX1I75jH0GIeLzzA4wLGGS9qnA==
+4+7EY9mT9IZ54KmF+QkdmOJ+kcuZi5lcF/6OfgT9pK9f9vsp3KAzmqan0pmfJ3u+qhZ0st7PdNo8/g==
+rsvP6TzoQgZ/egRFOlc4Xe8FfX39B+Lo1xpV3+x4AAAAAElFTkSuQmCC
+
+--===============3884736233002407054==--

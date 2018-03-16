@@ -1,0 +1,700 @@
+Received: from mwhpr09cu002.internal.outlook.com by
+ BLUPR09MB0931.namprd09.prod.outlook.com with HTTP via
+ BL2PR09CA0032.NAMPRD09.PROD.OUTLOOK.COM; Tue, 25 Jul 2017 14:32:14 +0000
+Received: from MWHPR09MB1423.namprd09.prod.outlook.com ([10.173.50.9]) by
+ MWHPR09MB1423.namprd09.prod.outlook.com ([10.173.50.9]) with mapi id
+ 15.01.1282.020; Tue, 25 Jul 2017 14:32:14 +0000
+From: "Neal, Louis (OAH)" <Louis.Neal@dc.gov>
+To: "Hughes, Traci (BEGA)" <traci.hughes@dc.gov>
+CC: "Natale, Vanessa (OAH)" <vanessa.natale@dc.gov>
+Subject: Re: Draft Notice and Agenda
+Thread-Topic: Draft Notice and Agenda
+Thread-Index: AdMEwHfZQKlNiTSzQKWTnRiX2B6yGgAioQ58AADda1AAAGGzxQAAtYrU
+Date: Tue, 25 Jul 2017 14:32:13 +0000
+Message-ID: <B1C52E28-5271-4337-9BDF-7314687B4D31@dc.gov>
+References: <MWHPR09MB1423DA7769E68D671FE19D30E9BB0@MWHPR09MB1423.namprd09.prod.outlook.com>
+ <BLUPR09MB0931E877D29CE2738FFD5906EAB80@BLUPR09MB0931.namprd09.prod.outlook.com>,<MWHPR09MB14231CF256F3BD1B9A79F8CFE9B80@MWHPR09MB1423.namprd09.prod.outlook.com>,<BLUPR09MB0931C091A4C1372736EB32D6EAB80@BLUPR09MB0931.namprd09.prod.outlook.com>
+In-Reply-To: <BLUPR09MB0931C091A4C1372736EB32D6EAB80@BLUPR09MB0931.namprd09.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <B1C52E28-5271-4337-9BDF-7314687B4D31@dc.gov>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: MWHPR09MB1423.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [2607:fb90:6486:ae62:d5e0:a2ce:dccf:f8ed]
+X-MS-Exchange-Organization-Network-Message-Id: 1d691797-b973-4c25-d99a-08d4d369f164
+X-MS-PublicTrafficType: Email
+X-Microsoft-Exchange-Diagnostics: 1;MWHPR09MB1423;35:u2sSzJP4QeYpgis1ZAqb8BWSb5K1e7+fy1RvcLte0HZ8KNzIGsXePZxKehxk7N+dGDPScxx0c2Q1616JRfuPLvBQdRTsRIPcIBSdm1d9fmR31T02gHVu6rUFlNJQVkFK;20:bkYEfOrPBSVhFX2JKBUIlvclWuQYmPH0NmJKQZShY+sCsjp0GhSpcLYlAt3dsuutTS9X546sZ58g2cLmGbR8PoAf64v/wsedv1gwaQSkGfGEiXwNsn/2s6pQxqiXDDGoqq9OfBPNd3cucDZDL+cP2xKvl1GnoIX5+0Zxa2UTtFtwjCb0Yl2Oinx4UXX1hkDCeQuiEmYYG/xCtTFEctGmArSMvhfTfPv85O/TRKAjVA427Px3wlG1yegpeGqrdSTg/nmJE80SioIkN1Qd0cKRxZmHSnNT3eIVYtmEq1pm3uJeQPNbYUIZdTHvHoLNy76NKz6cZTrDw/ItrjYxqEQHVrBlco6m3YVGGFAFWc/i6cir7W473d7Nqz831nwS26H59GA6If7mpny6MYrR4UOzvwvEWT2eG1ymxG4YXI/o+Ss=
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-MS-Exchange-Organization-Antispam-Report: SFV:SKI;SCL:-1;
+X-Forefront-Antispam-Report: SFV:SKI;SCL:-1;
+Return-Path: Louis.Neal@dc.gov
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2673965
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1282.007
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR09MB0931;9:PDiyRolTsx9uz9zK5QFmkT4xxWUZ0xD2Wa8KVj8ScclPpwDVjo3o/wXzEDBSDdKfbGnKagI82+YsK3e7Mef8MWGlVA1/LsjetK8+Ww8HYokfFyOwkCoQJWdZgEiwG4oEgBEBoKrTpucrzD9cKzYPeykZLuKgc+5j11xBwe+df9pC2ieP+WxzRWkWWkANnTzwLDh8KLVAk3Ct/sqBE37n/ZUYqDrzjWTKbaaP1+Wia+sA+8cUtpcIMS9GLJFzVsiT21/cYRNY+m10Qo4VBhkGA6Z3IgxB5GVi9YqQQXrh8gWNrscFsER83UUOOFR/emsuEGivTRUO0w9Eydm5hCtjV441Ra2Ag3edtuT7Q53vccDFILUEzq4/qsgp0ULWBOo6P2aQxb9elhRGxrd33iy3Mw==
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR09MB0931;27:qacv5DUyudHmZy6qErcTswPA1oHzrUb8TPgWWdyw6+UDl6MmqP9SYhzj6wOtRa4yf0FbMIi9M+CqWLACwAzd5fpB+SxLwqv4wiNvakoajgOcGPqwuWopgnvOMQSB5GdnWDGKzqE6GzJV9P1ZIH4BOQ==
+Content-type: multipart/mixed;
+	boundary="B_3602071475_585983418"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3602071475_585983418
+Content-type: multipart/alternative;
+	boundary="B_3602071475_617479795"
+
+
+--B_3602071475_617479795
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+OK. Thank you, Traci!
+
+Sent from my iPhone
+
+On Jul 25, 2017, at 10:16 AM, Hughes, Traci (BEGA) <traci.hughes@dc.gov> wr=
+ote:
+
+Yes, that is correct, the meeting (at minimum) must be recorded on audio. D=
+oes OAH have a digital recorder? I suggest you have two on hand to keep the =
+open and closed sessions separate.=20
+
+
+From: Neal, Louis (OAH)
+Sent: Tuesday, July 25, 2017 10:05 AM
+To: Hughes, Traci (BEGA)
+Cc: Natale, Vanessa (OAH)
+Subject: RE: Draft Notice and Agenda=20
+=20
+Hi, Traci =E2=80=93
+
+=20
+
+Thank you again so very much for your help with all of this.  We really wan=
+t to do things the right way.
+
+=20
+
+I do have one question =E2=80=93 we planned to have the meeting in our large conf=
+erence room, as we have in the past.  Because of the technical problems that=
+ we have  experienced with audio in our past two meetings, we intended to ta=
+ke written minutes of the meeting in both the open and closed portions.  But=
+ if I understand you correctly, we MUST have an audio recording of the meeti=
+ng?
+
+=20
+
+Louis.
+
+=20
+
+From: Hughes, Traci (BEGA)=20
+Sent: Tuesday, July 25, 2017 9:59 AM
+To: Neal, Louis (OAH)
+Cc: Natale, Vanessa (OAH)
+Subject: Re: Draft Notice and Agenda
+
+=20
+
+Hi Louis --
+
+=20
+
+Please see attached recommended edits. =20
+
+Also, please remind the public body that the entire meeting, both open and =
+closed sessions must be recorded on audio. Of course, only the public portio=
+ns of the meeting will be published no the websites.
+
+=20
+
+Thank you.=20
+
+=20
+
+Traci
+
+From: Neal, Louis (OAH)
+Sent: Monday, July 24, 2017 5:06 PM
+To: Hughes, Traci (BEGA)
+Cc: Natale, Vanessa (OAH)
+Subject: Draft Notice and Agenda=20
+
+=20
+
+Hi, Traci =E2=80=93
+
+=20
+
+I=E2=80=99m taking you up on y our offer.  Would you mind taking a look at the at=
+tached draft Notice and Agenda for a meeting we=E2=80=99re scheduling?  Thanks!
+
+=20
+
+Louis.
+
+=20
+
+Louis L. Neal, Jr.
+
+Deputy General Counsel
+
+D.C. Office of Administrative Hearings
+
+441 4th Street, NW
+
+Washington, DC 20001-2714
+
+Louis.Neal@dc.gov
+
+oah.dc.gov
+
+Telephone: 202-724-3672
+
+Fax: 202-442-4789
+
+=20
+
+CONFIDENTIALITY NOTICE
+
+This message is being sent by or on behalf of a lawyer.  The information co=
+ntained in and transmitted with this message is: 1) subject to the attorney-=
+client privilege; 2) attorney  work-product; 3) confidential; 4) proprietary=
+; and/or 5) otherwise legally exempt from disclosure.  This message is inten=
+ded exclusively for the individual or entity to which it is addressed.  If y=
+ou are not the named addressee, you are not authorized to read,  print, reta=
+in, copy or disseminate this message or any part of it.  You are hereby noti=
+fied that any dissemination, distribution, copying or use of or reliance upo=
+n the information contained in and transmitted with this message by or to an=
+yone other than the  recipient designated above by the sender is unauthorize=
+d and strictly prohibited.  If you have received this message in error, plea=
+se notify the sender immediately by e-mail and delete all copies of the mess=
+age.
+
+=20
+
+=20
+
+Just like our city, Sustainable DC is evolving! Help us update the plan by =
+telling us what you care about most in this easy 3-minute survey. Learn more=
+ and get involved by visiting http://www.sustainabledc.org/in-dc/sdc2-0/.
+
+Just like our city, Sustainable DC is evolving! Help us update the plan by =
+telling us what you care about most in this easy 3-minute survey. Learn more=
+ and get involved by visiting http://www.sustainabledc.org/in-dc/sdc2-0/.
+
+Just like our city, Sustainable DC is evolving! Help us update the plan by =
+telling us what you care about most in this easy 3-minute survey. Learn more=
+ and get involved by visiting http://www.sustainabledc.org/in-dc/sdc2-0/.
+
+Just like our city, Sustainable DC is evolving! Help us update the plan by =
+telling us what you care about most in this easy 3-minute survey. Learn more=
+ and get involved by visiting http://www.sustainabledc.org/in-dc/sdc2-0/.
+
+Just like our city, Sustainable DC is evolving! Help us update the plan by =
+telling us what you care about most in this easy 3-minute survey. Learn more=
+ and get involved by visiting http://www.sustainabledc.org/in-dc/sdc2-0/.
+
+
+--B_3602071475_617479795
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body dir=3D"auto">
+<div>OK. Thank you, Traci!<br>
+<br>
+Sent from my iPhone</div>
+<div><br>
+On Jul 25, 2017, at 10:16 AM, Hughes, Traci (BEGA) &lt;<a href=3D"mailto:trac=
+i.hughes@dc.gov">traci.hughes@dc.gov</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000080;font-fam=
+ily:Cambria,Georgia,serif;" dir=3D"ltr">
+<p>Yes, that is correct, the meeting (at minimum) must be recorded on audio=
+. Does OAH have a digital recorder? I suggest you have two on hand to keep t=
+he open and closed sessions separate.&nbsp;</p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" color=3D"#=
+000000" style=3D"font-size:11pt"><b>From:</b> Neal, Louis (OAH)<br>
+<b>Sent:</b> Tuesday, July 25, 2017 10:05 AM<br>
+<b>To:</b> Hughes, Traci (BEGA)<br>
+<b>Cc:</b> Natale, Vanessa (OAH)<br>
+<b>Subject:</b> RE: Draft Notice and Agenda</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;; color:#1F497D">Hi, Traci =E2=80=93</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;; color:#1F497D">Thank you again so very much=
+ for your help with all of this.&nbsp; We really want to do things the right=
+ way.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;; color:#1F497D">I do have one question =E2=80=93 w=
+e planned to have the meeting in our large conference room, as we have in th=
+e past.&nbsp; Because of the technical problems that we have
+ experienced with audio in our past two meetings, we intended to take writt=
+en minutes of the meeting in both the open and closed portions.&nbsp; But if=
+ I understand you correctly, we MUST have an audio recording of the meeting?=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;; color:#1F497D">Louis.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<div>
+<div style=3D"border:none; border-top:solid #B5C4DF 1.0pt; padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt; font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-size:10=
+.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Hughes, Traci =
+(BEGA)
+<br>
+<b>Sent:</b> Tuesday, July 25, 2017 9:59 AM<br>
+<b>To:</b> Neal, Louis (OAH)<br>
+<b>Cc:</b> Natale, Vanessa (OAH)<br>
+<b>Subject:</b> Re: Draft Notice and Agenda</span></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div id=3D"divtagdefaultwrapper">
+<p><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:na=
+vy">Hi Louis --</span></p>
+<p><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:na=
+vy">&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:na=
+vy">Please see attached recommended edits. &nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:na=
+vy">Also, please remind the public body that the entire meeting, both open a=
+nd closed sessions must be recorded on audio. Of course, only the public por=
+tions of the meeting will be published no the websites.</span></p>
+<p><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:na=
+vy">&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:na=
+vy">Thank you.&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:na=
+vy">&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:na=
+vy">Traci</span></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span style=
+=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color:navy">
+<hr size=3D"2" width=3D"98%" align=3D"center">
+</span></div>
+<div id=3D"divRplyFwdMsg">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt; font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;; color:black">From:</span></b><span style=
+=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; =
+color:black"> Neal, Louis (OAH)<br>
+<b>Sent:</b> Monday, July 24, 2017 5:06 PM<br>
+<b>To:</b> Hughes, Traci (BEGA)<br>
+<b>Cc:</b> Natale, Vanessa (OAH)<br>
+<b>Subject:</b> Draft Notice and Agenda</span><span style=3D"font-family:&quo=
+t;Cambria&quot;,&quot;serif&quot;; color:navy">
+</span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Cambria&quot;,&quot;ser=
+if&quot;; color:navy">&nbsp;</span></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">Hi, Traci =E2=80=93</span>=
+</p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">I=E2=80=99m taking you up =
+on y our offer.&nbsp; Would you mind taking a look at the attached draft Not=
+ice and Agenda for a meeting we=E2=80=99re scheduling?&nbsp; Thanks!</span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">Louis.</span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D""><b><span style=3D"font-size:13.0pt; font-family=
+:&quot;Bodoni MT&quot;,&quot;serif&quot;; color:#17365D">Louis L. Neal, Jr.<=
+/span></b><span style=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-family:&quot;Bodoni MT&quot=
+;,&quot;serif&quot;; color:#17365D">Deputy General Counsel</span><span style=
+=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-family:&quot;Bodoni MT&quot=
+;,&quot;serif&quot;; color:#17365D">D.C. Office of Administrative Hearings</=
+span><span style=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-family:&quot;Bodoni MT&quot=
+;,&quot;serif&quot;; color:#17365D">441 4<sup>th</sup> Street, NW</span><spa=
+n style=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-family:&quot;Bodoni MT&quot=
+;,&quot;serif&quot;; color:#17365D">Washington, DC 20001-2714</span><span st=
+yle=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-family:&quot;Bodoni MT&quot=
+;,&quot;serif&quot;; color:navy"><a href=3D"mailto:Louis.Neal@dc.gov">Louis.Ne=
+al@dc.gov</a></span><span style=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-family:&quot;Bodoni MT&quot=
+;,&quot;serif&quot;; color:navy"><a href=3D"http://oah.dc.gov">oah.dc.gov</a><=
+/span><span style=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-family:&quot;Bodoni MT&quot=
+;,&quot;serif&quot;; color:#17365D">Telephone: 202-724-3672</span><span styl=
+e=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-family:&quot;Bodoni MT&quot=
+;,&quot;serif&quot;; color:#17365D">Fax: 202-442-4789</span><span style=3D"col=
+or:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"font-size:10.0pt; font-family:&q=
+uot;Georgia&quot;,&quot;serif&quot;; color:#2E2E2E"><img naturalheight=3D"60" =
+naturalwidth=3D"80" border=3D"0" width=3D"80" height=3D"60" id=3D"Picture_x0020_1" alt=
+=3D"Office of Administrative Hearings logo" tabindex=3D"0" src=3D"cid:image001.png=
+@01D3052D.88BBE9C0"></span><span style=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D""><b><span style=3D"font-size:10.0pt; color:navy"=
+>CONFIDENTIALITY NOTICE</span></b><span style=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><b><span style=3D"font-size:10.0pt; color:navy"=
+>This message is being sent by or on behalf of a lawyer.&nbsp; The informati=
+on contained in and transmitted with this message is: 1) subject to the atto=
+rney-client privilege; 2) attorney
+ work-product; 3) confidential; 4) proprietary; and/or 5) otherwise legally=
+ exempt from disclosure.&nbsp; This message is intended exclusively for the =
+individual or entity to which it is addressed.&nbsp; If you are not the name=
+d addressee, you are not authorized to read,
+ print, retain, copy or disseminate this message or any part of it.&nbsp; Y=
+ou are hereby notified that any dissemination, distribution, copying or use =
+of or reliance upon the information contained in and transmitted with this m=
+essage by or to anyone other than the
+ recipient designated above by the sender is <i>unauthorized and strictly p=
+rohibited</i>.&nbsp; If you have received this message in error, please noti=
+fy the sender immediately by e-mail and delete all copies of the message.</s=
+pan></b><span style=3D"color:navy"></span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D""><span style=3D"color:navy">&nbsp;</span></p>
+</div>
+<p><i><span style=3D"font-family:&quot;Cambria&quot;,&quot;serif&quot;; color=
+:navy">Just like our city, Sustainable DC is evolving! Help us update the pl=
+an by telling us what you care about most in this easy 3-minute
+<a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSdAD451htG6I4GqSTucXRHhru=
+pb4E-3kpZfE2R-XHBJt47PqQ/viewform?c=3D0&amp;w=3D1">
+survey.</a> Learn more and get involved by visiting <a href=3D"http://www.sus=
+tainabledc.org/in-dc/sdc2-0/">
+http://www.sustainabledc.org/in-dc/sdc2-0/.</a></span></i><span style=3D"font=
+-family:&quot;Cambria&quot;,&quot;serif&quot;; color:navy"></span></p>
+</div>
+</div>
+<p><i>Just like our city, Sustainable DC is evolving! Help us update the pl=
+an by telling us what you care about most in this easy 3-minute
+<a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSdAD451htG6I4GqSTucXRHhru=
+pb4E-3kpZfE2R-XHBJt47PqQ/viewform?c=3D0&amp;w=3D1">
+survey.</a> Learn more and get involved by visiting <a href=3D"http://www.sus=
+tainabledc.org/in-dc/sdc2-0/">
+http://www.sustainabledc.org/in-dc/sdc2-0/.</a></i></p>
+</div>
+<p><i>Just like our city, Sustainable DC is evolving! Help us update the pl=
+an by telling us what you care about most in this easy 3-minute
+<a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSdAD451htG6I4GqSTucXRHhru=
+pb4E-3kpZfE2R-XHBJt47PqQ/viewform?c=3D0&amp;w=3D1">
+<span style=3D"color:#0000ff"><u>survey.</u></span></a> Learn more and get in=
+volved by visiting
+<a href=3D"http://www.sustainabledc.org/in-dc/sdc2-0/"><span style=3D"color:#00=
+00ff"><u>http://www.sustainabledc.org/in-dc/sdc2-0/.</u></span></a></i></p>
+</div>
+</div>
+</div>
+<p><i>Just like our city, Sustainable DC is evolving! Help us update the pl=
+an by telling us what you care about most in this easy 3-minute
+<a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSdAD451htG6I4GqSTucXRHhru=
+pb4E-3kpZfE2R-XHBJt47PqQ/viewform?c=3D0&amp;w=3D1">
+<span style=3D"color:#0000ff;"><u>survey.</u></span></a> Learn more and get i=
+nvolved by visiting
+<a href=3D"http://www.sustainabledc.org/in-dc/sdc2-0/"><span style=3D"color:#00=
+00ff;"><u>http://www.sustainabledc.org/in-dc/sdc2-0/.</u></span></a></i></p>
+</div>
+</blockquote>
+<p><i>Just like our city, Sustainable DC is evolving! Help us update the pl=
+an by telling us what you care about most in this easy 3-minute
+<a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSdAD451htG6I4GqSTucXRHhru=
+pb4E-3kpZfE2R-XHBJt47PqQ/viewform?c=3D0&amp;w=3D1">
+<span style=3D"color:#0000ff;"><u>survey.</u></span></a> Learn more and get i=
+nvolved by visiting
+<a href=3D"http://www.sustainabledc.org/in-dc/sdc2-0/"><span style=3D"color:#00=
+00ff;"><u>http://www.sustainabledc.org/in-dc/sdc2-0/.</u></span></a></i></p>
+</body>
+</html>
+
+
+--B_3602071475_617479795--
+
+
+--B_3602071475_585983418
+Content-type: image/png; name="image001.png";
+ x-mac-creator="4F50494D";
+ x-mac-type="504E4766"
+Content-ID: <image001.png@01D3052D.88BBE9C0>
+Content-disposition: inline;
+	filename="image001.png"
+Content-transfer-encoding: base64
+
+
+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
+--B_3602071475_585983418
+Content-type: image/png; name="image001.png";
+ x-mac-creator="4F50494D";
+ x-mac-type="504E4766"
+Content-ID: <image001.png@01D3052D.88BBE9C0>
+Content-disposition: inline;
+	filename="image001.png"
+Content-transfer-encoding: base64
+
+
+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
+--B_3602071475_585983418--
+

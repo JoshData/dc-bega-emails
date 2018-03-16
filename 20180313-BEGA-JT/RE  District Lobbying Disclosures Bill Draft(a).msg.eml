@@ -1,0 +1,398 @@
+Received: from BN3PR09MB0356.namprd09.prod.outlook.com (10.160.115.153) by
+ DM2PR09MB0368.namprd09.prod.outlook.com (10.160.247.24) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.56.11 via Mailbox Transport; Tue, 19 Sep 2017 18:07:52 +0000
+Received: from BN6PR09MB1364.namprd09.prod.outlook.com (10.172.22.19) by
+ BN3PR09MB0356.namprd09.prod.outlook.com (10.160.115.153) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.77.7; Tue, 19 Sep 2017 18:07:51 +0000
+Received: from CY4PR09CA0092.namprd09.prod.outlook.com (10.172.133.158) by
+ BN6PR09MB1364.namprd09.prod.outlook.com (10.172.22.19) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.77.7; Tue, 19 Sep 2017 18:07:50 +0000
+Received: from CY1GCC01FT003.eop-gcc01.prod.protection.outlook.com
+ (2a01:111:f400:7d02::200) by CY4PR09CA0092.outlook.office365.com
+ (2603:10b6:903:c7::30) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.56.8 via Frontend
+ Transport; Tue, 19 Sep 2017 18:07:50 +0000
+Authentication-Results: spf=none (sender IP is 164.82.32.34)
+ smtp.mailfrom=dccouncil.us; dcgovict.mail.onmicrosoft.com; dkim=none (message
+ not signed) header.d=none;dcgovict.mail.onmicrosoft.com; dmarc=none
+ action=none header.from=DCCOUNCIL.US;
+Received-SPF: None (protection.outlook.com: dccouncil.us does not designate
+ permitted sender hosts)
+Received: from hybrid.dc.gov (164.82.32.34) by
+ CY1GCC01FT003.mail.protection.outlook.com (10.97.0.166) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.20.35.14 via Frontend Transport; Tue, 19 Sep 2017 18:07:50 +0000
+Received: from CWM-EXMR-109.dcgov.priv (10.86.51.19) by
+ CWM-EX-HS-11.dcgov.priv (10.86.51.34) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Tue, 19 Sep 2017 14:07:32 -0400
+Received: from CWM-EXMR-203.dcgov.priv (10.82.51.13) by
+ cwm-exmr-109.dcgov.priv (10.86.51.19) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Tue, 19 Sep 2017 14:07:31 -0400
+Received: from smtp4-11.dc.gov (164.82.148.21) by CWM-EXMR-203.dcgov.priv
+ (10.82.51.13) with Microsoft SMTP Server id 15.0.1263.5 via Frontend
+ Transport; Tue, 19 Sep 2017 14:07:31 -0400
+Received: from mail.dccouncil.us (HELO dcc-exchange-01.council.local)
+ ([10.28.100.15])  by smtp4-11.dc.gov with ESMTP; 19 Sep 2017 14:07:31 -0400
+Received: from DCC-Exchange-1.Council.local (10.28.100.14) by
+ DCC-Exchange-2.Council.local (10.28.100.15) with Microsoft SMTP Server (TLS)
+ id 15.0.1178.4; Tue, 19 Sep 2017 14:07:30 -0400
+Received: from DCC-Exchange-1.Council.local ([fe80::c56d:d73c:a7e:47ac]) by
+ DCC-Exchange-1.Council.local ([fe80::c56d:d73c:a7e:47ac%19]) with mapi id
+ 15.00.1178.000; Tue, 19 Sep 2017 14:07:30 -0400
+From: "Porcello, Michael (Council)" <mporcello@DCCOUNCIL.US>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>
+Subject: RE: District Lobbying Disclosures Bill Draft
+Thread-Topic: District Lobbying Disclosures Bill Draft
+Thread-Index: AdKAwyqqmPc4xzjARlehw6nomeN3SwAhN2cDADGKsMIEKwq5MAACUoQwAAAUVgAAABFRoCWC8NEAAf1LUeAAKFrvYAAC4E8w
+Date: Tue, 19 Sep 2017 18:07:30 +0000
+Message-ID: <6e4031dbe5594b9fa4e6ddfd6e4d4147@DCC-Exchange-1.Council.local>
+References: <b73d2fb05b584bf59ccc3e6628f6c8ed@DCC-Exchange-1.Council.local>,<6CDFC372-D629-48A7-9697-42C5C7C134AA@dc.gov> <59d11d996cad4a489468ae3204892cd7@CWM-EXMR-107.dcgov.priv>
+ <7b62d77760e84594aa0b344a4c9f3e1d@CWM-EXMR-210.dcgov.priv>
+ <a7573b893d0a4bdd8c4ba5214ef7246c@DCC-Exchange-1.Council.local>
+ <9ccde4f56c454b9aa240ea84aff4338e@CWM-EXMR-210.dcgov.priv>
+ <c30b6019e0d842f88cf4f4187b8f9b76@DCC-Exchange-1.Council.local>
+ <DM2PR09MB0368185CC45B8000B181E08491950@DM2PR09MB0368.namprd09.prod.outlook.com> <2a0405e0dc594a2f9701275cc3fae509@DCC-Exchange-1.Council.local>
+ <DM2PR09MB03680AC1565DBCAC3263BBC291600@DM2PR09MB0368.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB03680AC1565DBCAC3263BBC291600@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.28.100.27]
+x-ironport-av: E=Sophos;i="5.42,418,1500955200";
+    d="dat'59?scan'59,208,59";a="321425040"
+x-crosspremisesheadersfilteredbysendconnector: DCC-Exchange-2.Council.local
+x-organizationheaderspreserved: DCC-Exchange-2.Council.local
+MIME-Version: 1.0
+Return-Path: mporcello@dccouncil.us
+X-OrganizationHeadersPreserved: CWM-EX-HS-11.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ abdb5b50-51a5-4804-388a-08d4ff89571c
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.82.32.34;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(2980300002)(428002)(3190300001)(189002)(53824002)(52144002)(377454003)(52014003)(199003)(108616004)(5890100001)(5250100002)(93886005)(97736004)(24736003)(16586007)(606006)(5003630100001)(15974865002)(14454004)(68736007)(84326002)(53546010)(4326008)(260700001)(790700001)(3846002)(102836003)(6116002)(450100002)(86362001)(189998001)(236005)(512954002)(9686003)(551944002)(54896002)(53936002)(6306002)(5660300001)(7066003)(54356999)(1096003)(8936002)(105586002)(8676002)(2900100001)(33646002)(54906002)(55016002)(7696004)(53946003)(6246003)(356003)(229853002)(2950100002)(50986999)(6916009)(53386004)(74482002)(81166006)(106466001)(81156014)(19627405001)(101416001)(76176999)(63266004)(7736002)(98436002)(80162004)(80862006)(75396010)(579004);DIR:INB;SFP:;SCL:1;SRVR:BN6PR09MB1364;H:hybrid.dc.gov;FPR:;SPF:None;PTR:InfoDomainNonexistent;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;CY1GCC01FT003;1:j5RbbF/yY1XW1KhLBhgRhVOdS2cgEwg66sJT2jcDVn99Qr5YEzHZsBsd9yANNDAVvBL0BU5Ij7bzkZTIkIjSQ6z+cTE6mANam1RWNHOotaQ3h525jr9/Uw6/A4xXj0oy
+X-CrossPremisesHeadersPromoted:
+ CY1GCC01FT003.eop-gcc01.prod.protection.outlook.com
+X-CrossPremisesHeadersFiltered:
+ CY1GCC01FT003.eop-gcc01.prod.protection.outlook.com
+X-MS-Office365-Filtering-Correlation-Id: abdb5b50-51a5-4804-388a-08d4ff89571c
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(2017030254152)(300000503095)(300135400095)(2017052603199)(201703131423075)(201703031133081)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:BN6PR09MB1364;
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1364;3:BkQwiF0NLb6qw3VwO/wwyGLMN4yyvu4pbFU8GYz4tObjol6kTwP1gTVXLbdrPLvoQuO10ftguU1Bk47seVW3ioxWJGrtooj3zDVh4zgHArT7pMBEvkzd4VToQWd63FCbdmh5WIRGof07YwSd1V+Fr9X+DlWyNAyQ96PIEPCOzNFTsyr/hjrPdabDXrZ62LFbotfQM5FRkxlpH3lJwPb47pSwIx5oDMJTwBB16glm76p07V8qHWrjg8sfN2uZaxo3My4ekTLxYR/F3ZedqgEAcfarWIyJru6hWAuW6Hok4c3d0SHoYznzZ7opKD6i/zrtIM7l0u8SMba+U0etj5xr7Ofm5dNGGiD8oE19Ju7iTjc=;25:Scceub77/Ev8stB3ySYIc9NNB41Me28/iW0LX1mgaGlDJ+6WLyp+7Bxl5IA9/eGrtyrq8SZ4BjQHMFP+XCLsI1F6QiRjNuadJGlRI5c2FJiB39Yhs2POakXli3x8m1vrnSgS2kguG/eBjMt1yj62/qk1U2pJzazxGY9JnIriyloIRhl5SXq2AetRRKgW0fxL9/cqlZB8NH8avvp8iKBiwfQFX/jyYdbFYdGRHwFf8PdcyEe8QosfOvPcexsqE2Tdu3pG1miud4jcWFTttb6KkGbl67Pe5TxeFF4dnW9IN2DWdMN05xVTYXYXJDeCujzP8GYAYluEyOUaADPSS3feFQ==
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: BN6PR09MB1364:|BN3PR09MB0356:
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1364;31:LsmB8Q06nnOX5YYVMEivfMyALS2kifhXaVxezQ9r88igENO72vq3CQ3NZxcRF3wwYdFkVPdHtJnGAIkzq1g74W6UjmJeVyt94gzM/tjkfYdmQ/mubWbyJJnUN3Fs5aWz2q49zQz60b0OoLt4kISM8T30hta1/ZN+Y2ffhIqRpJFTTk6U8sm8WcoHkDmN5VOkGPQRxbuTX+OyySEOM8A5DNkw8CEw2EUm0rb0VIWQzEw=;20:fEHL5yb41QkhIOx4RUWhq3niVEDNb/pnx9C3rGsVDrNdvvfS0BHS5l2dLMVS3jctAggLpDSF6jvTxEMXz1DH2V2OEyyvOvShCqMsJkrkqO/5Typ7kaKbjvUYPCZQpovS6/4ms9A0P4eep/KWLzZx/QSQBiR8TEKS1mT2wuLQSfkqjWEPWj0X0ixlODRhxv+wak1yD4Hnh2ntDy0GKFCsEyxPyiiwCdQhjiUha1VsUtLgWni7xYK0IgTWZI1F0bxwOGABKIXsFY82AD2dGz9uEYFrtmRRuRPgsl4uXFHnP9Sf1eyAF8vvNtBdVIYuVKlqeMRRop5GCiDeL8ETN9RlVYvb/gQoN7F/VVNmT52vLUMJbVr68jwPPaRACAh0lhKdffd3gRC9x2Fqj92vMDV0iotVpRQZXBHw8jsRY/2sdpvBu0h+mM6QEA6QOG2SCXoLuzbPnLQph9GJ7eHEoawtbJz/2IxYbb+jmBbhHGcHt/BDekwXTmxsK/F74uDmtju1
+X-Exchange-Antispam-Report-Test: UriScan:(148322886591682)(31418570063057)(86561027422486)(81227570615382)(21748063052155)(64217206974132);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(2401047)(8121501046)(10201501046)(3002001)(93006095)(93003095)(100000703101)(100105400095)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:BN6PR09MB1364;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BN6PR09MB1364;
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1364;4:e0FtgIYdySX2t/2mDZtad/+HGcKIwSK16UVJnrbvrSaOvf5KIjzp/T3EVmCyM3Jjo0JhfT3UbjecLIX6edQ3ckcpl70KY7Flw3b2MgsaOSKxIqHT7Kme0RAeLCfuM86sR4qGUBqR4Zz0sop1QcIptO5jaez4ndGmpWIKpIxCqTRfrXcyrIILUCrD3TJFQ0wazSYXiDPGXuPhMli4UwhXbFnnS+X3Ck21z+jSjP8XtRpioWbzt9/7epIV5B1FfBgBVdy3cQIgpjvFa1W+/GyqNoqPs9n8iisQCJ0XK9I60yd5J+hQmfsQHwQ713h5494zOOq/NopqAstCSokEvFFQzvf/TsR9gKRqHsH7bfeYYQMR6WRTmDcxZENDWH/C1OZhB4lZUBeLqOk34sSNAEBerF5E5uEP3aWhcyxVPSAhRCpqeU2fBIy9JDQOIRnHM6ieJAW/wMsdaq2iaTbCx3wo3Q==
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics:
+ 1;BN6PR09MB1364;23:4R+MMvAzrtVeOOrSCVS4tgsdGBYxC4w7FkKiKcz15
+OsPkwUeUKCBaJo0sXwe00o38YMtSvjGkPWtkbKV1wFtNeFcSgq7+KPGmohvQ
+UYrjtADEFcSdAPaXTbuddi7wPKuuzGHs9ew6Pny6HumeKv6lKrXsf+qKD6xf
+EorH72IQa27RDATIBy5Mad/+0b25C7UCwDch7OhBNKXDocssmhxw9BOx0JWu
+G01U2vfHYq6qBd0nhtep0rTqF2C8r+qqJAfhIvA6JlImLjsgQnELLlm3AT/E
+16LnT6BtiX3qJZuesmy88Y2Y1WhM2sZiLIES8J+l2TddOulol1jDOlhgIXB+
+QGHpAo6ghkjOyKCxSmYm0Jf3Szp0tDyfYZ0WZhf0mkRSi+UQPb1WE8inI1yg
+zRyyWf8Keg/N6tuUCfQryqQmIDVkZZvboymBUg/PBBAYLMZ2/Sm8Dx1YBtmA
+JyWZfsVoJUQeeCZ2Lmhlh41xQ0ui6SBIg53dZ9iYNhA3Kw4CEITVHekQDbVj
+lIZMu5HhN+5gB5YmjGloCz53Fpap/iwCFs1hFPrdN7Mzw94WIT2ssGVWBnKx
+yzAHwBBDUjLD5OvWRTulyWcNh5Q+AQyndj+dGgDnAo6Bf2l56cXFmdpu5YlU
+epo6K9YdWOxJ2pNyL94tERAEsM7G8hJsIZIj0YwBsf/wwwYcqGHcFEvZQIHD
+wzEZYV9/vihikmc6b+VJhqoIhm/v+Jv/Cv3HJ09i4uU641DZ/lwe21t6hIEi
+Atp4ORlGCUpbNw1OqT1fJzSEf6gGeT76zLNmgB2m8e5FAA5lhGBbJELc5E3k
+HG84Hyb9PkpA/AyndPUkSsuMcx6GRyP2iuaVbYHWgqaXc3DI8cm/x9J4eU0m
+S6L+X1a2Xl+7jSuT9W9S5NWYEX3fQfy9YKv/xGjiDcyXPXKW0MPZRyGRQ2dO
+46uq1s149BihSeAPu+Lp6UfuYRBvAqzK7KIWRxSEHW+bC/+9lUaqiRq9Qr6U
+FpU6Z0fYuMKgqgHECatA0I/ukXoqJFcTznokRtm+G5ZoKDlvrtfeH6/BK+OO
+HV9iXl3DzLsbJst4yTXqWly0Yk9XzQROkf33pXUSIe90L93KziG2X+GPt6J7
+4VRDyQlehtm9IYOOrxVzd/uF5WC0BTjmNhpKP75uEd+w+5jxjZ/VpK7PVAKZ
+rDfpjqe1RP5kzuwfUuSrrCFoBufaWcaXldPmKMAMvmkCNietkrIYFVCBxhEa
+6n2gcnzv27m0OHqcZW7AeejDhVS4nAUstm8Y+vqxwlfobfN7skjRqrrUHgyd
+hfQtgSIXUm7uXTz/SVZH8LJOlMLhpQRWxmyCnBWpVk8pQJXm4MpR4ynZE8KZ
+elTqPCfYpSypDA6AVBTGOAFE5M9XpLjuaPL2WmMiy4MfQjbWEoubJWJ3EYfF
+ggoN6ceHh5Ye61OxP5ahtQGDveGdNRUxXlvogI5O+2WgcsxU/H7+qUE9dcmo
+/xWpfeDgvS4dosWRVebyw8kc8wYF9DIRfAAJQ42w8seHtIs6IxLGlseJJEfa
+FEErG6eVsB+AZRHwm/fJDZHAALXOC3tUoXUhvuKi4GyGQoO7Qzn6QVH6G2D5
+v/yN8Fkhsgi5PcSXl3hEXMVeSqQ8qRyGpgrLxf9VZf2KRagzhwCQzj/5Ogxz
+GbEVFVhstf6Z8aH3kA+7i5p4n1jnK+oy/XXt3e1YB+vkR4=
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1364;6:+AkZhIhpJ0QkOUjCtKISS/SyUKJRcMKkFTfnlB0r8cdkc4ya+HfCz/gzi5nsS/iwVPSiJ6aUdYCvDTJT9tQPEpmh16VdCD8Dmfwuh7R4UlIdYhQUgmMyJq56TWYO+AWDkTLXSzpcHajKDAO1SHpbg1i2ogeJY3xfFYlF4u7PRHDSbKpNTUQeqTht/fvkCtL6iOVbdi5gMOABg5nUqGMPjpEqyN6PvktzyjiHCpOYGySf3ofLrcaDUz99zOcDilRkO661Bfv7GdRCQI2fXmOb55/2odQ/c9rM35+IUBCQ1405AXHnlQn4OmdYFyDobdatn28ZsjwolkVcxnGZx9k4Lw==;5:0UD2HwpspwEvnHEzPbn6s/peLB+fvNrofyJrMViMVxgliEJvjLpWmHb2ApgtoQlqHCyqUD5e+Z9njyXjco17fbQZABHAgYUr/8ZAl2plRQhL7u1LU4+X6norEJ2XN2h1cP9hqWbNWd37VLr7LCZ+JQ==;24:RvihhERKeDyplbWjdRjRpGMqhgldE73r2m2KpwJP2PMZh4jewEhuS/1fO9jUPjMJIZCcQ/S+4CCCPnzzjhJ1Y/iuzgBWLCJlwsezgDhC4cY=;7:Wh+5CEH/Ub10QiDgY6KCov7oKI28ARKg49V6BGZXUqJP/yW7JEq93Q0Fr41/BDAJTIREzv5tBKoHuMbIvmuFleia6AJfWAXRP6GxAKY+iYkyNaV/z3DaVzFesIpyeeNycptwQxik1xr6THuLyspexaK1+MO+YZpAuiW65CJ6iizsqaAdEicC7D7TUZc1Gq7KhlfcxWJEkGFHLoRRUeB14W89seGH2kEi1jVXK6+Af1I=
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1364;20:16KRhi9ZoSZGCgio9aCJMNjRpsLokHH+VtuyE88calJM8W1jMmignON31UVSs57NBKrLCUQAgIcxEINmsxSjW45qBJIPV6lSdFkBxHVyFO5lxE3Vd8+RwcqMmb/P4KROoeCYsBZfRt/qUy6Q3xgzgqnQLv8eAWb2aaSQtMsf5rE=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 19 Sep 2017 18:07:50.1120 (UTC)
+X-MS-Exchange-CrossTenant-Id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=8fe449f1-8b94-4fb7-9906-6f939da82d73;Ip=[164.82.32.34];Helo=[hybrid.dc.gov]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN6PR09MB1364
+X-Microsoft-Exchange-Diagnostics: 1;BN3PR09MB0356;23:GDmo4quVR5iLSSQKdBlSSO2joI7M7JPY9ccHcexZZlJP1JIbWuu0sHGDcQiNIe/NNpwqmLroY/X4vX++xX2oM4uphRCmLiTPx/aZuWRQNn/OS8aVL5+3/vBYOEyqdEASPij7NAhh6/zlt1DJeG+hHA==
+X-MS-Exchange-Organization-AuthSource: CWM-EXMR-203.dcgov.priv
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.4235929
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.0056.000
+X-Microsoft-Exchange-Diagnostics: 	1;DM2PR09MB0368;9:k8UTEtwFgsjbJm/xnwvg+bByvv5mYEZTKS6cmqmdfASD8iC0RJo6WOCuIAxUD7d4SUb1npMO6wcLb7yYQBnazL1JKpsMnquC/QuOyTNb9P6g6ECN6U+an8rj7EiOBjQM
+X-Microsoft-Exchange-Diagnostics: 	1;DM2PR09MB0368;27:FWFRd7p+ewOkSWSIiIrmRqP2j8zzIYUrrhNBDIVinulNXmEMVOrZzI7u9JUiYME5/jaApwSvli52LvMEh8OMFUC4qe24RzY6yatNNa9lb3hfhtgTGQ5BurGKdgmEftlu
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi John =E2=80=93 I am free at 3pm or later. Feel free to come by once you=E2=
+=80=99re free and we can chat.
+
+Best,
+
+M
+
+Michael Porcello | Legislative Counsel
+Councilmember Mary M. Cheh (Ward 3)
+Council of the District of Columbia
+Tel: (202) 724-8062 | Fax: (202) 724-8118
+
+For legislative news and updates, follow our office on Twitter at @MaryCheh<h=
+ttps://twitter.com/marycheh>, =E2=80=98like=E2=80=99 us on Facebook<https://w=
+ww.facebook.com/cmmarycheh/>, or join Mary=E2=80=99s mailing list on www.mary=
+cheh.com<http://www.marycheh.com/>.
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]
+Sent: Tuesday, September 19, 2017 12:48 PM
+To: Porcello, Michael (Council) <mporcello@DCCOUNCIL.US>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>; Flowers, Brian (BEGA) <br=
+ian.flowers@dc.gov>
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+No problem, Michael.  We=E2=80=99ll all be in the Wilson Building next Monday=
+ (Sept. 25) for a 2:00 p.m. meeting, so we=E2=80=99d be available to meet, sa=
+y, any time after 3:00 to discuss the bill.  Hope that works on your end.
+
+Thanks.
+
+Jack
+
+From: Porcello, Michael (Council) [mailto:mporcello@DCCOUNCIL.US]
+Sent: Monday, September 18, 2017 5:30 PM
+To: Grimaldi, John J. (BEGA)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA)
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+Hi John,
+
+Sorry for the delay in responding. Would you all be available at the end of t=
+his week, or early next week, to meet to discuss B22-136?
+
+M
+
+Michael Porcello | Legislative Counsel
+Councilmember Mary M. Cheh (Ward 3)
+Council of the District of Columbia
+Tel: (202) 724-8062 | Fax: (202) 724-8118
+
+For legislative news and updates, follow our office on Twitter at @MaryCheh<h=
+ttps://twitter.com/marycheh>, =E2=80=98like=E2=80=99 us on Facebook<https://w=
+ww.facebook.com/cmmarycheh/>, or join Mary=E2=80=99s mailing list on www.mary=
+cheh.com<http://www.marycheh.com/>.
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]
+Sent: Friday, September 08, 2017 2:59 PM
+To: Porcello, Michael (Council) <mporcello@DCCOUNCIL.US<mailto:mporcello@DCCO=
+UNCIL.US>>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov<mailto:tameka.collier@dc.go=
+v>>; Flowers, Brian (BEGA) <brian.flowers@dc.gov<mailto:brian.flowers@dc.gov>>
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+Good afternoon, Michael.
+
+As you may know, Darrin left BEGA in July =E2=80=93 Brian is the Interim Dire=
+ctor =E2=80=93 but I=E2=80=99m writing to confirm our continuing willingness =
+to testify in favor of Bill 22-344.
+
+Coincidentally, our own bill (Bill 22-136) also has been noticed for hearing =
+on Nov. 2.  See attached Notice.  Needless to say, we=E2=80=99d appreciate Co=
+uncilmember Cheh=E2=80=99s support.  Let me suggest, then, that we get togeth=
+er in the near future to discuss the bills.  I know our Chairperson, Tameka C=
+ollier, who will likely be presenting the testimony, would appreciate the opp=
+ortunity to meet you and the Councilmember in any event.
+
+Please, then, suggest a few good times for a meeting.
+
+Thanks.
+
+
+Jack Grimaldi
+Senior Attorney Advisor
+D.C. Board of Ethics and Government Accountability
+441 4th Street, N.W.,  Suite 830 South
+Washington, D.C.  20001
+Main:  (202) 481-3411
+Direct:  (202) 741-2129
+
+From: Porcello, Michael (Council) [mailto:mporcello@DCCOUNCIL.US]
+Sent: Wednesday, March 01, 2017 2:45 PM
+To: Sobin, Darrin (BEGA)
+Cc: Grimaldi, John J. (BEGA); Flowers, Brian (BEGA); Foster, Janet (BEGA)
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+Wonderful. We will be in touch.
+
+M
+
+Michael Porcello | Legislative Counsel
+Councilmember Mary M. Cheh (Ward 3)
+Council of the District of Columbia
+Tel: (202) 724-8062 | Fax: (202) 724-8118
+
+For legislative news and updates, follow our office on Twitter at @MaryCheh<h=
+ttps://twitter.com/marycheh>, =E2=80=98like=E2=80=99 us on Facebook<https://w=
+ww.facebook.com/cmmarycheh/>, or join Mary=E2=80=99s mailing list on www.mary=
+cheh.com<http://www.marycheh.com/>.
+
+From: Sobin, Darrin (BEGA) [mailto:darrin.sobin@dc.gov]
+Sent: Wednesday, March 01, 2017 2:43 PM
+To: Porcello, Michael (Council) <mporcello@DCCOUNCIL.US<mailto:mporcello@DCCO=
+UNCIL.US>>
+Cc: Grimaldi, John J. (BEGA) <john.grimaldi@dc.gov<mailto:john.grimaldi@dc.go=
+v>>; Flowers, Brian (BEGA) <brian.flowers@dc.gov<mailto:brian.flowers@dc.gov>=
+>; Foster, Janet (BEGA) <janet.foster@dc.gov<mailto:janet.foster@dc.gov>>
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+I would be happy to do it.
+
+Darrin P. Sobin
+Director of Government Ethics
+Board of Ethics and Government Accountability
+441 4th Street, N.W.,  Suite 830 South
+Washington, D.C.  20001
+Tel. 202-481-3411
+
+From: Porcello, Michael (Council) [mailto:mporcello@DCCOUNCIL.US]
+Sent: Wednesday, March 01, 2017 2:42 PM
+To: Sobin, Darrin (BEGA)
+Cc: Grimaldi, John J. (BEGA); Flowers, Brian (BEGA); Foster, Janet (BEGA)
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+Fantastic. Thanks so much for this, Darrin.
+
+This is thinking far ahead in the bill process, but, once the bill is introdu=
+ced and a hearing is set, it would be great to have someone in your office te=
+stify about the need for the bill. I=E2=80=99ll keep you updated as that proc=
+ess moves forward.
+
+Best,
+
+Michael
+
+Michael Porcello | Legislative Counsel
+Councilmember Mary M. Cheh (Ward 3)
+Council of the District of Columbia
+Tel: (202) 724-8062 | Fax: (202) 724-8118
+
+For legislative news and updates, follow our office on Twitter at @MaryCheh<h=
+ttps://twitter.com/marycheh>, =E2=80=98like=E2=80=99 us on Facebook<https://w=
+ww.facebook.com/cmmarycheh/>, or join Mary=E2=80=99s mailing list on www.mary=
+cheh.com<http://www.marycheh.com/>.
+
+From: Sobin, Darrin (BEGA) [mailto:darrin.sobin@dc.gov]
+Sent: Wednesday, March 01, 2017 1:37 PM
+To: Porcello, Michael (Council) <mporcello@DCCOUNCIL.US<mailto:mporcello@DCCO=
+UNCIL.US>>
+Cc: Grimaldi, John J. (BEGA) <john.grimaldi@dc.gov<mailto:john.grimaldi@dc.go=
+v>>; Flowers, Brian (BEGA) <brian.flowers@dc.gov<mailto:brian.flowers@dc.gov>=
+>; Foster, Janet (BEGA) <janet.foster@dc.gov<mailto:janet.foster@dc.gov>>
+Subject: FW: District Lobbying Disclosures Bill Draft
+
+Michael,
+
+Apologies, but I don=E2=80=99t think we got back to you on this after our Boa=
+rd meeting a couple of weeks ago.  See below and attached.  The Board had no =
+objection to the CM=E2=80=99s Bill.
+
+Darrin P. Sobin
+Director of Government Ethics
+Board of Ethics and Government Accountability
+441 4th Street, N.W.,  Suite 830 South
+Washington, D.C.  20001
+Tel. 202-481-3411
+
+From: Grimaldi, John J. (BEGA)
+Sent: Wednesday, February 08, 2017 8:28 AM
+To: Sobin, Darrin (BEGA)
+Cc: Flowers, Brian (BEGA); Foster, Janet (BEGA)
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+
+See attached comparative print. I'm comfortable with the revised version of t=
+he CCC definition of "administrative decision" and their proposed amendment t=
+o "legislative action."
+
+
+
+________________________________
+From: Sobin, Darrin (BEGA)
+Sent: Tuesday, February 7, 2017 8:42 AM
+To: Grimaldi, John J. (BEGA)
+Cc: Foster, Janet (BEGA)
+Subject: Fwd: District Lobbying Disclosures Bill Draft
+
+Here it is
+
+Sent from my iPhone
+
+Begin forwarded message:
+From: "Porcello, Michael (Council)" <mporcello@DCCOUNCIL.US<mailto:mporcello@=
+DCCOUNCIL.US>>
+Date: February 6, 2017 at 4:53:02 PM EST
+To: "Foster, Janet (BEGA)" <janet.foster@dc.gov<mailto:janet.foster@dc.gov>>,=
+ "Sobin, Darrin (BEGA)" <darrin.sobin@dc.gov<mailto:darrin.sobin@dc.gov>>
+Cc: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov<mailto:Brian.Flowers@dc.gov=
+>>
+Subject: District Lobbying Disclosures Bill Draft
+Hi Darin and Janet,
+
+I wanted to reach out to you all with a draft of the legislation related to u=
+pdating the District=E2=80=99s lobbying disclosure laws to include procuremen=
+t actions so as to fall in line with other jurisdictions. I=E2=80=99m hoping =
+you all might take a look at what I=E2=80=99ve drafted up, and tell me if you=
+ think it adequately addresses the issues you identified in your recent lette=
+r. Feel free to red line or give me a call to discuss any changes or issues w=
+ith the text, as drafted.
+
+As I mentioned to Janet, there is no rush on getting edits back to me =E2=80=
+=93 we would likely introduce any legislation next month at the earliest.
+
+Thanks for any thoughts.
+
+Best,
+
+Michael
+
+Michael Porcello | Legislative Counsel
+Councilmember Mary M. Cheh (Ward 3)
+Council of the District of Columbia
+Tel: (202) 724-8062 | Fax: (202) 724-8118
+
+For legislative news and updates, follow our office on Twitter at @MaryCheh<h=
+ttps://twitter.com/marycheh>, =E2=80=98like=E2=80=99 us on Facebook<https://w=
+ww.facebook.com/cmmarycheh/>, or join Mary=E2=80=99s mailing list on www.mary=
+cheh.com<http://www.marycheh.com/>.
+
+PUBLIC SAFETY SURVEY: Let us know about your experiences and opinions regardi=
+ng public safety in Washington, DC. Take the 10-minute survey Here<http://www=
+.surveygizmo.com/s3/3128951/00cdba37fc5e>. #SaferStrongerDC
+PUBLIC SAFETY SURVEY: Let us know about your experiences and opinions regardi=
+ng public safety in Washington, DC. Take the 10-minute survey Here<http://www=
+.surveygizmo.com/s3/3128951/00cdba37fc5e>. #SaferStrongerDC
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+=00

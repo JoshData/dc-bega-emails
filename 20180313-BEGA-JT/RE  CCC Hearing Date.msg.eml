@@ -1,0 +1,189 @@
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com (10.160.247.24) by
+ CY4PR09MB1365.namprd09.prod.outlook.com (10.172.67.11) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.178.6; Fri, 27 Oct 2017 15:49:27 +0000
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::b5ef:81b4:ff42:d5b4]) by DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::b5ef:81b4:ff42:d5b4%17]) with mapi id 15.20.0178.007; Fri, 27 Oct
+ 2017 15:49:26 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "'Mitchell, Katherine (Council)'" <kmitchell@DCCOUNCIL.US>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>
+Subject: RE: CCC Hearing Date
+Thread-Topic: CCC Hearing Date
+Thread-Index: AdMmTlLi8Tb9QL1wTV+yceYnQzq5HgABcMwwAAPi0XAKNdNn0A==
+Date: Fri, 27 Oct 2017 15:49:26 +0000
+Message-ID: <DM2PR09MB0368FCBD2343BD228AA26CA7915A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+References: <dc188b9b10cb48568a883ee673eea77a@DCC-Exchange-1.Council.local>
+ <DM2PR09MB0368350B7E25C6620571E7BF91960@DM2PR09MB0368.namprd09.prod.outlook.com> <190452d34e14410bbe9ed443caca6be2@DCC-Exchange-1.Council.local>
+In-Reply-To: <190452d34e14410bbe9ed443caca6be2@DCC-Exchange-1.Council.local>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM2PR09MB0368.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ e7b3dfea-0f32-4ee8-cb13-08d51d524d2e
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=John.Grimaldi@dc.gov; 
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY4PR09MB1365;20:3vDhPGvmUfxOhfR/QtV2WCwKwY1D0GuATiL/biN9u/D3EZKfo0bCOv1Jav2DQU6M8x3kNfD3pecHehY07wrINI84ZM/1UjmnmlvYkLbFtI4d2ogxbYyRsUtWvL6PhxiGKdZdLGltW2faUQ6eCoJ58rUm+ztKMUza76KZX7lTQH8=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:NSPM;SFS:(10009020)(346002)(376002)(53754006)(189002)(199003)(106356001)(66066001)(105586002)(53386004)(81156014)(5660300001)(81166006)(54906003)(8936002)(2950100002)(6916009)(2906002)(4326008)(14454004)(55016002)(6306002)(229853002)(6246003)(97736004)(7116003)(7696004)(3660700001)(8676002)(236005)(54896002)(9686003)(53936002)(99286003)(74316002)(3280700002)(33656002)(101416001)(478600001)(6436002)(6116002)(72206003)(316002)(7736002)(189998001)(6506006)(25786009)(68736007)(2900100001)(86362001)(5890100001)(3480700004)(606006)(5250100002)(3846002)(50986999)(76176999)(102836003)(790700001)(53546010)(54356999)(15669805003);DIR:OUT;SFP:1101;SCL:1;SRVR:CY4PR09MB1365;H:DM2PR09MB0368.namprd09.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+x-ms-office365-filtering-correlation-id: e7b3dfea-0f32-4ee8-cb13-08d51d524d2e
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(4534020)(4602075)(2017052603238);SRVR:CY4PR09MB1365;
+x-ms-traffictypediagnostic: CY4PR09MB1365:
+x-exchange-antispam-report-test:
+ UriScan:(31418570063057)(21748063052155)(64217206974132);
+x-microsoft-antispam-prvs: <CY4PR09MB13659283BCE08335D7238BB0915A0@CY4PR09MB1365.namprd09.prod.outlook.com>
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(6040450)(2401047)(8121501046)(5005006)(10201501046)(100000703101)(100105400095)(3231020)(3002001)(93006095)(93001095)(6041248)(20161123562025)(20161123564025)(20161123555025)(20161123558100)(201703131423075)(201702281528075)(201703061421075)(201703061406153)(20161123560025)(6072148)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:CY4PR09MB1365;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CY4PR09MB1365;
+x-forefront-prvs: 0473A03F3F
+received-spf: None (protection.outlook.com: dc.gov does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning, Kate.
+
+=20
+
+Just checking in to see how many hundreds of folks have signed up so far
+to testify in support of the CCC.  J
+
+=20
+
+Thanks.
+
+=20
+
+Jack
+
+=20
+
+From: Mitchell, Katherine (Council) [mailto:kmitchell@DCCOUNCIL.US]=20
+Sent: Tuesday, September 05, 2017 12:26 PM
+To: Grimaldi, John J. (BEGA)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA)
+Subject: RE: CCC Hearing Date
+
+=20
+
+Thanks, everyone. Attached is the notice.
+
+=20
+
+Kate
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us <mailto:kmitchell@dccouncil.us>=20
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]=20
+Sent: Tuesday, September 05, 2017 10:35 AM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>; Flowers, Brian
+(BEGA) <brian.flowers@dc.gov>
+Subject: RE: CCC Hearing Date
+
+=20
+
+Thanks, Kate.  Works for us.
+
+=20
+
+Jack
+
+=20
+
+From: Mitchell, Katherine (Council) [mailto:kmitchell@DCCOUNCIL.US]=20
+Sent: Tuesday, September 05, 2017 9:55 AM
+To: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Grimaldi, John J.
+(BEGA)
+Subject: CCC Hearing Date
+
+=20
+
+Hi all,
+
+=20
+
+Just confirming that the morning of 11/2 would work well for everyone
+for a hearing on B22-38, B22-136, and B22-344.
+
+=20
+
+Best,
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us <mailto:kmitchell@dccouncil.us>=20
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+

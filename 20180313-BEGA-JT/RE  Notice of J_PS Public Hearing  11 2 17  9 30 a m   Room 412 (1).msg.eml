@@ -1,0 +1,370 @@
+Received: from DM2PR09MB0320.namprd09.prod.outlook.com (10.160.96.153) by
+ CY1PR09MB0314.namprd09.prod.outlook.com (10.160.158.13) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.302.9 via Mailbox Transport; Wed, 6 Dec 2017 15:00:44 +0000
+Received: from DM5PR0901MB2197.namprd09.prod.outlook.com (10.167.106.167) by
+ DM2PR09MB0320.namprd09.prod.outlook.com (10.160.96.153) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.282.5; Wed, 6 Dec 2017 15:00:43 +0000
+Received: from BN3PR09CA0049.namprd09.prod.outlook.com (2603:10b6:400:3::17)
+ by DM5PR0901MB2197.namprd09.prod.outlook.com (2603:10b6:4:78::39) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.302.9; Wed, 6 Dec
+ 2017 15:00:42 +0000
+Received: from DM2GCC01FT005.eop-gcc01.prod.protection.outlook.com
+ (2a01:111:f400:7d01::206) by BN3PR09CA0049.outlook.office365.com
+ (2603:10b6:400:3::17) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.302.9 via Frontend
+ Transport; Wed, 6 Dec 2017 15:00:42 +0000
+Authentication-Results: spf=none (sender IP is 164.82.32.34)
+ smtp.mailfrom=dccouncil.us; dcgovict.mail.onmicrosoft.com; dkim=none (message
+ not signed) header.d=none;dcgovict.mail.onmicrosoft.com; dmarc=none
+ action=none header.from=DCCOUNCIL.US;
+Received-SPF: None (protection.outlook.com: dccouncil.us does not designate
+ permitted sender hosts)
+Received: from hybrid.dc.gov (164.82.32.34) by
+ DM2GCC01FT005.mail.protection.outlook.com (10.97.3.0) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.20.282.5 via Frontend Transport; Wed, 6 Dec 2017 15:00:41 +0000
+Received: from CWM-EXMR-203.dcgov.priv (10.82.51.13) by
+ CWM-EX-HS-12.dcgov.priv (10.86.51.37) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Wed, 6 Dec 2017 10:00:21 -0500
+Received: from CWM-EXMR-209.dcgov.priv (10.82.51.19) by
+ CWM-EXMR-203.dcgov.priv (10.82.51.13) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Wed, 6 Dec 2017 10:00:20 -0500
+Received: from smtp4-11.dc.gov (164.82.148.21) by CWM-EXMR-209.dcgov.priv
+ (10.82.51.19) with Microsoft SMTP Server id 15.0.1263.5 via Frontend
+ Transport; Wed, 6 Dec 2017 10:00:20 -0500
+Received: from mail.dccouncil.us (HELO dcc-exchange-01.council.local)
+ ([10.28.100.15])  by smtp4-11.dc.gov with ESMTP; 06 Dec 2017 10:00:20 -0500
+Received: from DCC-Exchange-1.Council.local (10.28.100.14) by
+ DCC-Exchange-2.Council.local (10.28.100.15) with Microsoft SMTP Server (TLS)
+ id 15.0.1178.4; Wed, 6 Dec 2017 10:00:19 -0500
+Received: from DCC-Exchange-1.Council.local ([fe80::dca7:5359:a45a:5cee]) by
+ DCC-Exchange-1.Council.local ([fe80::dca7:5359:a45a:5cee%19]) with mapi id
+ 15.00.1178.000; Wed, 6 Dec 2017 10:00:19 -0500
+From: "Weil, Sonia (Council)" <sweil@DCCOUNCIL.US>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>,
+ "Mitchell, Katherine (Council)" <kmitchell@DCCOUNCIL.US>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+Thread-Topic: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+Thread-Index:
+ AdNTDE4dduG/BoMbQ7aeHlSqeXWYFwACo6qgAADdNCAABDtHPgAAUYWQAAgEr0EF10flAAD+Ks9A
+Date: Wed, 06 Dec 2017 15:00:18 +0000
+Message-ID: <fbbe48ac44274721ac91229b7d325f94@DCC-Exchange-1.Council.local>
+References: <8660edc5461d4c7c8e871e72a8dd6aba@DCC-Exchange-1.Council.local>
+ <DM5PR09MB1370975DC852CF2E4711DC20835F0@DM5PR09MB1370.namprd09.prod.outlook.com>,<55b250798ab84888a2e7a2e256f37a35@DCC-Exchange-1.Council.local>
+ <DM2PR09MB0368DC40AFAE01C50CD413AD915F0@DM2PR09MB0368.namprd09.prod.outlook.com>,<30b822a194804e8fba85e81d00407080@DCC-Exchange-1.Council.local>
+ <DM2PR09MB03689EF087E61CDEC32BF02E915F0@DM2PR09MB0368.namprd09.prod.outlook.com>
+ <CY1PR09MB0314C45EAFAD6CAE3060BE9B91390@CY1PR09MB0314.namprd09.prod.outlook.com>
+In-Reply-To: <CY1PR09MB0314C45EAFAD6CAE3060BE9B91390@CY1PR09MB0314.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.28.100.27]
+x-ironport-av: E=Sophos;i="5.43,368,1503374400";
+    d="dat'59?scan'59,208,59";a="330923724"
+x-octo-header: Internal_DC_Relay
+x-crosspremisesheadersfilteredbysendconnector: DCC-Exchange-2.Council.local
+x-organizationheaderspreserved: DCC-Exchange-2.Council.local
+MIME-Version: 1.0
+Return-Path: sweil@dccouncil.us
+X-OrganizationHeadersPreserved: CWM-EX-HS-12.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ 47e6306a-6cb4-479d-0749-08d53cba1e87
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.82.32.34;IPV:NLI;CTRY:US;EFV:NLI;SFV:SFE;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM5PR0901MB2197;H:hybrid.dc.gov;FPR:;SPF:None;LANG:en;;SKIP:1;
+X-Microsoft-Exchange-Diagnostics: 1;DM2GCC01FT005;1:NxL329CkNubNqr3TdGZxy1LnhmkIrN0luZzz7GsVy+3vlPK+IDiMwfkJFHt/4peEd0Ul3tEHczA7Mga4CzEEGA4wPR4xhGrwswuQUE4CyIITOt7HgJUxzWktXtAaKOc0
+X-CrossPremisesHeadersPromoted:
+ DM2GCC01FT005.eop-gcc01.prod.protection.outlook.com
+X-CrossPremisesHeadersFiltered:
+ DM2GCC01FT005.eop-gcc01.prod.protection.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 47e6306a-6cb4-479d-0749-08d53cba1e87
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(4534020)(4602075)(4627115)(201703031133081)(2017052603286);SRVR:DM5PR0901MB2197;
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;3:NjnpedFfrGpjpDYx8ck+qy2DW7NOhsqE1PqXreAU7N1iMH1dpX4Ont0Lay568gFsuU6aGMoJS0PbrR5jh83PJSY/Q28E2pEOGF7wdeTLNEvRkaUwtA/fdj+NtX2U6/Rw7FBMkwEeW5yG37So/9Iex5iPnXQojwptp/nkLbNseLbUeUjvSFDuHQTdG47TlM59+vLB+889NbYo/TVBW+p3/u9FBqE/a+6RxKwLwuf482zAdD/7AxKFnoN7h3/JORWxhocufK8YvWDsYKqg2EKBEQJS1cy3KduCakogXvVzApB5UByc3L6+9HHn/UVOGMAOYy+hN74h7EHF7t3p/pSUiwhz4g5fF0ZhPR0+kHbmiBk=;25:nCJm+ZeJVkhD/qJUB14daypVLqcVateVNv2bfgsgHeXqdYqTtOHi8iQzD704nv5FkQxNGQLOgfTF6QER8eZ6FKuAry3DYXmpHtRuo7ILfaWWHDizak2/ExLJGegUgBvP6FwnWfXhe6Z+N+IZLB+UZ9H4g+sQT6YAgu4xpQqmvrDRyZ5fjhRYImXJlk6B2Zx0IuRM+6KPZ6vVCctaJr3sGvI5dK1wzS6orf1vip8Qy5NteICOXvmSlZrUB6J5eMo4RUlThafFBSMb1g2dHaFNxQcnGF8xGWXiBONnZk1pcFyiPyht4YajCx4VJoFFTtVDGf13aeb/qgXOSlKYBscd5w==
+X-MS-TrafficTypeDiagnostic: DM5PR0901MB2197:|DM2PR09MB0320:
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;31:WxB+9ITD4Xm0PpDFzgB+z+q7UrQr52sWu+Lp/3a7SL26jsj5A0EP1YQGGtFXZuqCr+3+WoeK/ohrv+2nEy4uIxwgZ2txA+/8GzCKIDKfll34ttcMCYIQSxWP+LPOCehGJ0bPh4UXHa5K6eH0ruGdRC1jnADrseusMGvj4mG4qes2wmEPZnvsO4wAKAEmAyuM2C0uE4Z/ZxH6H7mXDC+fTxxo2EW/NcZDTkqbb71kjG4=;20:52kKPygvZGyqi5uUkTf3N1hrrWTv69R+0o9nPGOKe2mBRQ50NbvH0B9s5Z4KVcNxJHtT3clLDygltV87yGenalnoCUK87j3QSeci3sgPYKTNP9PdkGfKLFd/3FbI8242bBQdGvLniaP48QJu/HyscoKCqR/ljqNQNFV2YlGiROlwLlNUT+NHCzknOzrFxH4TYGNuJ0sR438cI1xe+M2ad9dCxkPnrCYURYpUXEzz+Ep1ixRuuTWI/JYBQYigWEiCPetPCrewLWh7qp8ImS5NSbyaPt9Dl7d3NzHy4BLlDh387FTpKA3j9Nz3/T+F7TP+ImUgPnJdLnEYuLhHELtN7r2wzM9yawADZ5rgP7B413JLx9okL4Bus5DNhsbhKL8sxPzb0zxUpwSgHjbDKFi8y4SBiFutJeURFP2L75D9xk/KlS1K3d1dzmGY+/aedsei3nxxqljE7lCHVIchTPrJqFozKogtxVq4QRvA3VxuKTAtlODrhW1RcgQq9QUMHvpaYFYDLcBx6HruentDbyHw9h6BpN5lHVe28wsJjgji/M33CQ6TKqM2od/dceiehQs9ai8omfSr+oEd5V0pG64ZhYgDyPiX3RYf1Nl2Vu+AWSE=
+X-MS-Exchange-Organization-SCL: -1
+X-Exchange-Antispam-Report-Test:
+ UriScan:(31418570063057)(21748063052155)(64217206974132)(211171220733660);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(2401047)(8121501046)(3231022)(12181506113)(3002001)(10201501046)(93006095)(93003095)(201708071742011);SRVR:DM5PR0901MB2197;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:DM5PR0901MB2197;
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;4:Lvs2N6BKdit3t+RPPTuyDEOUWDRSxMZvRSfJuQZqK68KKylFRbUYgmSk5/b1JYG7XfWYA/j+Px27STaIN3VSC3zLA5+mofP+6ne7KK3SPSmzhVd3A4ZRp8YjVqUTrg/5zgIS+UIiXWkknDgB+uqEFvrFHEUo0yUrrESJEFEC5MhJwuOmTTjw1P30sG8i6EJqg31nuFw/5CG/5waRKZ5KCGBnszp0L1pIGahYwnDkVAfD3qy7Jcx6NOGbcMpyb+6GHUwUjXA1ER5L4LvdgQj1IsDtwfCdFoYJDGEu64Z3YlaIt77svEJ7tQ1SGiOVGjAIW2JmOOyo5QOA6p09U9rO7vdJiS17UuH5cvwxTnHhI6yrAnqLm77Sep49z1M8ouiSJnijAkMyeSijHIm23F1lnkXKGElPh5wB0JvA++jdeC8=;23:gWQb2qa+dN7Z2Jhzo8EibhIeOSLxtlsLaUnya01wvqZPEw7Yj67rKsOmpXLQELFnQxDNY3DXEU9GkisMVvnbspuRk7p3Xke0Zd96eXhL+eKUZqQxiDLT98ZsPBOICvrb4GZIWaKm/n6JHJheQX8TxYEfB7NEx98r8OVpZsvizOiuTj/mCEbF4tE56suqEpbk
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;6:Mo+GWiSyNXT54KQGi0iisQg8p8Smle1r4dqu0L+M/9jX8AllkVVSY4Z5RD0JlvzLUtYfTp2mGB3Q3IsOrjqCsG6EpPpH/OIG5mxlm5EgKF3kkkPjM4tXEj0zmG2iFqwGXwMRSsvzdutaTPtlO7LgisCf4UuEDKMMZmoDuaQfSrAFEWxfenTMSD0LB8R4Sp5SAOPOJY9Nx8nw+ovdiLibcKPztuIY45yrVU+eJv7cwh/EMz7gl5VoUS5v/P/nErV4fVrnEYk+M2y2M88eEkevmycbn6/JcjfGEMZWB4bJxBXsdjGFLG9MgqkABykMloBp33DrgISlnie402VXJNkIhQuzPiqfBwvWpiQbmhN5H+s=;5:OuWKfIflb0kW3L8/83RFuFUUTrYwiXb/bHp/pIcRgJiCAIv0LHb0fNpl9cRrVW48TmsyG8xGtnYq278SAPpaeAQ2MxG9YemkfycpQAshnRX3+WM9GzLks4nRPcnzJkQPke0GddxvLG32Kz0S5YrghjcyryGLmBt0mQsZA8YIDWA=;24:m4sudDhhGwyoO2lhsLrCbkFXPTlgKXr4vpMyOnA6HnJ86xNiuZxkh0Ziu+2N0F3gWau0AyFoVHF46kWkAdu+QqjigRDMKYTMd3KwkvNCSNU=;7:79O+qBgF32ZfEYcy3OSuF6OI2IPexbdN0FOhn+Du5olNJ9EVH5jHmIgrc5wE/NwSQq4uwGu4FSGXZ7VxII1gsjgFVJTDhC1Q1ZbGbW9P80AEjp5mOwjyPBMTwIa4muQ0xMCzu89s7txtxOMZqQIBBYrFiQxrnYVvoI56ahYzq1zoCA6HOf86AplDCoLmxfJOQVViZG5KmOLKh9rc9s3EKzUGyLf0+2swczak5Gocr+Gi7TTM9b1kIBs2As5hBLMs
+SpamDiagnosticOutput: 1:3
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR0901MB2197;20:/MP6lc4Fpqvf3ERY+PCR4iv2kN8Z+u4VDN3jYqBkh7qWbBLBiZ1vKaiXkt9iesPsE1ocjGf3FnZmf20vG0ns7R3xDJ/LoblAhesV4ajddStKJWHJUERAvOLUTwPMKR0rv8esbMOUg1djSgFZy+639eDnlrW/pBEalmSxLLk8BbM=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 06 Dec 2017 15:00:41.4198 (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ 47e6306a-6cb4-479d-0749-08d53cba1e87
+X-MS-Exchange-CrossTenant-Id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=8fe449f1-8b94-4fb7-9906-6f939da82d73;Ip=[164.82.32.34];Helo=[hybrid.dc.gov]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR0901MB2197
+X-Microsoft-Exchange-Diagnostics: 1;DM2PR09MB0320;23:sfBbJ6gsaj1uznqqkVcmFBD6AkT9cG5Hqw9a5j6FuiYesQCrlfhVhgEAnbgqdLxOo0UkK2EHgBYKsV8SW/xTsPhB2zgUZ7Hh6si8Z4H9feYXRB+6zoVYA0CAtvbasnfiGHVc5DyOeFLHTH2nDo9P22Gqy15tWD3PS01WvFNo6OGkOWvF0/YBNDtOfGbL/+Cb
+X-MS-Exchange-Organization-AuthSource: cwm-exmr-209.dcgov.priv
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.1093002
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.0302.000
+X-Microsoft-Exchange-Diagnostics: 	1;CY1PR09MB0314;9:1geGtQaXIuuBBYJQOMUt4VdcLTALY7JA332OKiE9MfakMR8FaObWBZiFHIdOMGEb1W5OhKzorbHJ44c8n6aZ/dIxivdMb3k53pPz9wTR0899w4qbfh5LWDLkPf7DmC5u
+X-Microsoft-Antispam-Message-Info: 	MK2iRCH56EvrhLxO1bZhK53MEGMyvKW2SgTNGS4sYlI8eOK7vKfFFml9GneZS0AVm3s0TDse57RTZz9aoOXnkUwvZc3eF+oI7nRw9xR3wAQVJN81kBaJTdaPiJ4tz3nOuALVhjJ5Tetn7i6htloJYUZvpu9aNsj+vMYTjz1cw3PGNUamQn8sUrWsoyjSj0CDwPwOw6YgB5neHfM47vUJlN6ed/UaTM3Dfg4LYsik7zEcv7eVpcGS8aJxJ7OsJVdAtUafJ9NftrUjaQdfOtHnGrOSoBuTvp2xziMBWQ8dbu8=
+X-Microsoft-Exchange-Diagnostics: 	1;CY1PR09MB0314;27:0AdQiew7dd+ero6M4k8UDnMXU8a0h+3hlUgZ8fHbj3XB63DXKwIHaV4lu7JnIl7xX6zm0uX4apizbpO5abSTLgmV7Jvv1V744vCex45jIuSNnGhiw45zPKzfGroYrT1e
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Jack,
+
+We have the CCC on our spring calendar for markup in April. I am in the proce=
+ss of scanning in all of the testimony and will send you a copy when I am don=
+e.
+
+Thanks,
+Sonia
+
+Sonia Weil
+Legislative Counsel
+Committee on the Judiciary & Public Safety
+Chair, Councilmember Charles Allen, Ward 6
+Council of the District of Columbia
+1350 Pennsylvania Ave., NW, Ste. 109
+Washington, DC 20004
+202-724-8197
+sweil@dccouncil.us<mailto:sweil@dccouncil.us>
+Email us<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Maili=
+ng%20List> to be added to the Committee=E2=80=99s mailing list.
+www.charlesallenward6.com | @CMCharlesAllen<https://twitter.com/CMCharlesAlle=
+n> | facebook.com/charlesallendc/
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]
+Sent: Friday, December 01, 2017 8:47 AM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>; Flowers, Brian (BEGA) <br=
+ian.flowers@dc.gov>; Weil, Sonia (Council) <sweil@DCCOUNCIL.US>
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+Good morning, Kate.
+
+Just touching base.  Now that the record is closed on the CCC, we were wonder=
+ing about next steps.  Also, can we get copies of all the testimony?  We=E2=
+=80=99d especially like to see what those folks who didn=E2=80=99t testify at=
+ the hearing had to say, so that we can factor their comments into decisions =
+about revising the bill and the accompanying section-by-section analysis.
+
+Thanks.
+
+Jack
+
+From: Grimaldi, John J. (BEGA)
+Sent: Wednesday, November 01, 2017 4:26 PM
+To: Mitchell, Katherine (Council)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA)
+Subject: Re: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+
+Kate, here are e-copies of the PowerPoint and Tameka's testimony.  I'll bring=
+ a thumb drive with the PowerPoint on it (just in case) and 20 hard copies of=
+ the testimony.
+
+
+
+Thanks.  See you in the morning.
+
+
+
+Jack
+
+________________________________
+From: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US<mailto:kmitchell@=
+DCCOUNCIL.US>>
+Sent: Wednesday, November 1, 2017 12:14 PM
+To: Grimaldi, John J. (BEGA)
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+
+I=E2=80=99d prefer 20. Thanks.
+
+
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us<mailto:kmitchell@dccouncil.us>
+
+
+
+Email us<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Maili=
+ng%20List> to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen<https://twitter.com/CMCharlesAlle=
+n> | facebook.com/charlesallendc/
+
+
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]
+Sent: Wednesday, November 01, 2017 12:06 PM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US<mailto:kmitchell@DC=
+COUNCIL.US>>; Flowers, Brian (BEGA) <brian.flowers@dc.gov<mailto:brian.flower=
+s@dc.gov>>; Judiciary (Council) <Judiciary@DCCOUNCIL.US<mailto:Judiciary@DCCO=
+UNCIL.US>>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov<mailto:tameka.collier@dc.go=
+v>>
+Subject: Re: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+
+
+Thanks, Kate.  How many hard copies do you need for Tameka's testimony?
+
+
+
+Jack
+
+________________________________
+
+From: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US<mailto:kmitchell@=
+DCCOUNCIL.US>>
+Sent: Wednesday, November 1, 2017 10:04:30 AM
+To: Flowers, Brian (BEGA); Judiciary (Council)
+Cc: Grimaldi, John J. (BEGA); Collier, Tameka (BEGA)
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+
+
+Ah. Got it. Thanks, Brian.
+
+
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us<mailto:kmitchell@dccouncil.us>
+
+
+
+Email us<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Maili=
+ng%20List> to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen<https://twitter.com/CMCharlesAlle=
+n> | facebook.com/charlesallendc/
+
+
+
+From: Flowers, Brian (BEGA) [mailto:Brian.Flowers@dc.gov]
+Sent: Wednesday, November 01, 2017 9:42 AM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US<mailto:kmitchell@DC=
+COUNCIL.US>>; Judiciary (Council) <Judiciary@DCCOUNCIL.US<mailto:Judiciary@DC=
+COUNCIL.US>>
+Cc: Grimaldi, John J. (BEGA) <john.grimaldi@dc.gov<mailto:john.grimaldi@dc.go=
+v>>; Collier, Tameka (BEGA) <tameka.collier@dc.gov<mailto:tameka.collier@dc.g=
+ov>>
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+
+
+Kate =E2=80=93 I believe that our Chairperson, Tameka Collier is testifying o=
+n behalf of BEGA.
+
+
+
+Brian K. Flowers
+
+Interim Director/General Counsel, BEGA
+
+Desk: 202.481.3407
+
+Cell: 202.309.4254
+
+
+
+From: Mitchell, Katherine (Council) [mailto:kmitchell@DCCOUNCIL.US]
+Sent: Wednesday, November 01, 2017 8:26 AM
+To: Judiciary (Council)
+Subject: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+
+
+Good morning,
+
+
+
+Tomorrow, Thursday, November 2, the Committee on the Judiciary & Public Safet=
+y will convene a public hearing to consider the following measures:
+
+
+
+1.    Bill 22-0038, the =E2=80=9CLobbyist Activity Reporting Transparency Ame=
+ndment Act of 2017=E2=80=9D
+
+2.    Bill 22-0136, the =E2=80=9CComprehensive Code of Conduct of the Distric=
+t of Columbia Establishment and BEGA Amendment Act of 2017=E2=80=9D and
+
+3.    Bill 22-0344, the =E2=80=9CLobbying Disclosure Amendment Act of 2017=E2=
+=80=9D
+
+
+
+The hearing will begin at 9:30 a.m. in Room 412. A draft agenda and witness l=
+ist is attached. Please let me know if you have any questions.
+
+
+
+Best,
+
+
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us<mailto:kmitchell@dccouncil.us>
+
+
+
+Email us<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Maili=
+ng%20List> to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen<https://twitter.com/CMCharlesAlle=
+n> | facebook.com/charlesallendc/
+
+

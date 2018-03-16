@@ -1,0 +1,398 @@
+Received: from CWM-EX-HS-23.dcgov.priv (10.82.51.38) by
+ cwm-exmr-201.dcgov.priv (10.82.51.11) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 14 Dec 2017 13:29:33 -0500
+Received: from CWM-EX-HS-21.dcgov.priv (10.82.51.21) by
+ CWM-EX-HS-23.dcgov.priv (10.82.51.38) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 14 Dec 2017 13:29:33 -0500
+Received: from gcc01-CY1-obe.outbound.protection.outlook.com (164.82.9.71) by
+ CWM-EX-HS-21.dcgov.priv (10.82.51.21) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5 via Frontend Transport; Thu, 14 Dec 2017 13:29:32 -0500
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) by
+ SN1PR09MB1103.namprd09.prod.outlook.com (10.166.68.145) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.302.9; Thu, 14 Dec 2017 18:28:59 +0000
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) by
+ SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) with mapi id
+ 15.20.0302.017; Thu, 14 Dec 2017 18:28:58 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: A Safer, Stronger Holiday Season
+Thread-Topic: A Safer, Stronger Holiday Season
+Thread-Index: AdN0+VMRcL3yPFUKQAqZ07SNgorA5AADzn7W
+Date: Thu, 14 Dec 2017 18:28:58 +0000
+Message-ID: <SN1PR09MB1104D2DF112973E3BD6C7C28F50A0@SN1PR09MB1104.namprd09.prod.outlook.com>
+References: <BN6PR09MB12016D55F39D0C276D9B8C7AEB0A0@BN6PR09MB1201.namprd09.prod.outlook.com>
+In-Reply-To: <BN6PR09MB12016D55F39D0C276D9B8C7AEB0A0@BN6PR09MB1201.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1PR09MB1103;20:hcaQryhZNEuUIptZdiF46asA6J8trfX1GifP1YcUJ3cFwstwZo6cpTSf2tP46pLaKsFCGeszuT8GHw6Fx3rSn7dZEjP6SNz4A9+uX+dzhxUEGDW7W4zwguh/v/0xN7W3MAi8xU5PtA5w6b3hZFphYC6X9Yn7Z+irvN9iWe5mLe4=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN1PR09MB1103;H:SN1PR09MB1104.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 8127abdd-b7b4-45ce-c4a5-08d543208a72
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603307);SRVR:SN1PR09MB1103;
+x-ms-traffictypediagnostic: SN1PR09MB1103:
+x-exchange-antispam-report-test: UriScan:(148322886591682)(277860510277777)(20558992708506)(278428928389397)(209352067349851)(28212336023702)(192374486261705)(31418570063057)(280730625643796)(160423301992630);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(3002001)(10201501046)(93006095)(93001095)(3231023)(201708071742011);SRVR:SN1PR09MB1103;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN1PR09MB1103;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ 8127abdd-b7b4-45ce-c4a5-08d543208a72
+X-MS-Exchange-CrossTenant-originalarrivaltime: 14 Dec 2017 18:28:58.2334 (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR09MB1103
+X-OrganizationHeadersPreserved: SN1PR09MB1103.namprd09.prod.outlook.com
+Return-Path: Mayor.Bowser@dc.gov
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SN1PR09MB1104.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-antispam-report: SFV:SKI;SCL:-1;
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-CrossPremisesHeadersPromoted: CWM-EX-HS-21.dcgov.priv
+X-CrossPremisesHeadersFiltered: CWM-EX-HS-21.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ f3ba71bd-cb48-407a-b7f0-08d543209f20
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+BCC: <All.Personnel@dc.gov>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+________________________________
+
+=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2358/green-header-hr_original.gif?1308456195>=20
+
+ Newsletter
+Banner<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/03/1252064/1249919/mmb-newsletter-banner-march-2017-01_crop.jpg>=20
+
+@TeamMuriel  <https://twitter.com/MayorBowser>=20
+
+	=20
+
+=20
+
+Muriel Bowser Ward 4 <https://www.facebook.com/MayorMurielBowser>=20
+
+	=20
+
+=20
+
+Instagram  <https://www.instagram.com/mayor_bowser/>=20
+
+	=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+John A. Wilson Building
+
+
+1350 Pennsylvania Avenue, NW, Washington, DC 20004
+
+
+Phone: (202) 727-2643
+Email: muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>=20
+
+=20
+Chief of Staff:
+John Falcicchio <mailto:john.falcicchio@dc.gov>=20
+
+City Administrator:
+Rashad Young <mailto:rashad.young@dc.gov>=20
+
+Director of the Mayor's Office of Legal Counsel:
+Mark Tuohey
+
+Senior Advisor:
+Beverly Perry
+<mailto:beverly.perry@dc.gov> =20
+Director of Mayor's Office of Community Affairs:
+Charon Hines <mailto:Charon.Hines@dc.gov>=20
+
+Director of Mayor's Office of Community Relations and Services:
+Tommie Jones <mailto:tommie.jones@dc.gov>=20
+<mailto:gregoryn.jackson@dc.gov> =20
+Scheduling Requests:
+mayor.dc.gov/page/invite-mayor <http://mayor.dc.gov/page/invite-mayor>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+December 14, 2017 | Vol. 3, Issue 50
+
+
+Letter from the Mayor
+
+
+Dear Washingtonians,
+
+Last week, while highlighting the work of our Robbery Intervention Task
+Force
+<https://mayor.dc.gov/release/mayor-bowser-highlights-success-robbery-in
+tervention-task-force> , I was proud to report that our Safer, Stronger
+DC <https://mayor.dc.gov/page/saferstronger>  plan is working. We still
+have work to do, but year-to-date, Washington, DC has seen a 23 percent
+decrease in violent crime, a 27 percent decrease in robberies, a 28
+percent decrease in burglaries, and a 10 percent decrease in overall
+crime.
+
+So, how are we doing this? With your help.=20
+
+Among the many initiatives included in the initial Safer, Stronger DC
+plan was legislation to create a Private Security Camera Incentive
+Program. Eventually launched in February 2016, this program provides
+rebates and vouchers for the purchase, installation, and registration of
+private security camera systems. In under two years, the program has
+already built a network of nearly 8,000 cameras across all eight wards
+of the District. And we still know that more homes and neighborhoods
+could benefit from this program.
+
+This holiday season, learn more about the Private Security Camera
+Incentive Program and let DC Government bring you the gift of home
+security. Get started on helping us build a safer, stronger DC HERE
+<https://ovsjg.dc.gov/service/private-security-camera-system-incentive-p
+rogram> .
+
+santa gif
+<https://www.facebook.com/MayorMurielBowser/videos/1778724995494262/>=20
+
+=20
+
+Sincerely,=20
+
+ Muriel
+Bowser<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+013/03/159474/165038/bowser-sig-better_original_crop.jpg>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+In This Week's Newsletter:
+
+
+*	Register Today for Mayor Bowser's Fit DC Fresh Start 5K Run/Walk
+*	Community Stormwater Solutions Grant
+*	New Release: FY18 Green Book
+*	#FITDC Friday: Hydrospinning
+*	A District Minute
+*	Pathways to the Middle Class: Metropolitan Police Department,
+Crime Analyst
+
+
+Register Today for Mayor Bowser's Fit DC Fresh Start 5K Run/Walk
+
+
+ Fit DC
+5k<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2017/
+12/1697530/1661257/fitdc5k_crop.png>=20
+
+ =20
+
+Join Mayor Bowser on New Year's Day at the Fit DC Fresh Start 5K and
+take a step toward better health in 2018! This year's 5K will be at
+Anacostia Park as we kickoff the celebration of the park's 100th
+anniversary. Registration begins at 9:00 a.m. and the walk/run begins at
+10:00 a.m.
+
+Register HERE
+<https://www.eventbrite.com/e/mayor-muriel-bowsers-fit-dc-fresh-start-5k
+-tickets-39963038524> .
+
+Back to Top
+
+
+Community Stormwater Solutions Grant
+
+
+=20
+Grants<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/12/1697836/1661258/stormwatergrants_crop.png>=20
+
+The Department of Energy and Environment (DOEE) is now accepting
+proposals for the Community Stormwater Solutions Grants. These grants
+provide start-up funding for community-oriented projects that improve
+the District=E2=80=99s waterways. A special focus of this year=E2=80=99s gran=
+ts are
+projects that support the =E2=80=9CYear of the Anacostia,=E2=80=9D which comm=
+emorates
+the 100th anniversary of Anacostia Park.
+
+A total of $200,000 is available and DOEE anticipates awarding multiple
+grants of up to $20,000 each. Applications must be submitted online by
+6:00 p.m. on January 26, 2018. Attend a pre-application informational
+meeting to learn about the grant:
+
+*	Thursday, December 14 at 1:00 p.m.: DOEE Headquarters (1200
+First Street, NE)=20
+*	Monday, January 8 at 6:30 p.m.: Anacostia Library (1800 Good
+Hope Road, SE)=20
+*	Tuesday, January 9 at 6:30pm: Shaw Library (1630 7th Street, NW)
+*	Thursday, January 11 at 1:00 p.m.: DOEE Headquarters (1200 First
+Street, NE) =20
+
+Learn more HERE
+<https://doee.dc.gov/service/community-stormwater-solutions-grants> .
+
+Back to Top
+
+
+New Release: FY18 Green Book
+
+
+=20
+Greenbook<https://content.govdelivery.com/attachments/fancy_images/DCWAS
+H/2017/12/1697818/1661259/greenbook_crop.png>=20
+
+=20
+
+This week, Mayor Bowser announced the Fiscal Year 2018 (FY18) Small
+Business Enterprise (SBE) spending goal
+<https://mayor.dc.gov/release/mayor-bowser-releases-fy18-green-book-anno
+unces-new-small-business-enterprise-spending-goal>  and unveiled this
+year=E2=80=99s Green Book: SBE Opportunity Guide. First published in 2015, the
+Green Book helps SBEs navigate the local government procurement process
+by providing an agency-by-agency overview of SBE spending availability.
+
+In Fiscal Years 2016 and 2017, the Bowser Administration surpassed SBE
+spending targets with record expenditures. In FY17, the Administration
+committed to spend $564 million with SBEs and surpassed that goal by
+more than $150 million. This year, Mayor Bowser committed to spending
+$656 million with SBEs.
+
+Download the Green Book HERE
+<https://business.dc.gov/sites/default/files/Green%20Book_Final_PRINTABL
+E%20LOW-res%20version_20171212.pdf> .
+
+Back to Top
+
+
+#FITDC Friday: Hydrospinning
+
+
+ FITDC
+Friday<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/12/1697796/1661260/hydrospin_crop.png>=20
+
+=20
+
+Don't let the cold weather slow down your workouts! Throughout December,
+the Department of Parks and Recreation (DPR) is showcasing some of the
+District's best water-based fitness programs at DPR classes that are
+free and open to the public.
+
+Join us tomorrow at 6:00 p.m. at the Barry Farm Recreation and Aquatics
+Center to learn about hydrospinning. Sign up for a class HERE
+<https://aquafitdcfridayhydrospinreturn.splashthat.com/> .
+
+Back to Top
+
+
+A District Minute
+
+
+district minute video
+<https://www.youtube.com/watch?v=3DMP2YxLdRBnE&feature=3Dyoutu.be>=20
+
+This week=E2=80=99s District Minute
+<https://www.youtube.com/watch?v=3DMP2YxLdRBnE&feature=3Dyoutu.be>  features
+stories about the Robbery Intervention Task Force, the ribbon-cutting
+ceremony at the new West End Library, and the TIERific public charter
+school celebration.=20
+
+
+Pathways to the Middle Class: Metropolitan Police Department, Crime
+Analyst
+
+
+ Job
+Search<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/12/1683793/1648740/job-posting_crop.png>=20
+
+The Metropolitan Police Department (MPD) is the primary law enforcement
+agency for Washington, DC. MPD's mission is to protect DC's residents
+and visitors through high-quality community policing, state-of the-art
+information technology, and a commitment to innovation.
+
+MPD has an opening for a crime analyst. This position is responsible for
+researching and developing complex statistical information on a variety
+of police data and generating statistical summary reports for various
+officials within the department. All details regarding this vacancy,
+including qualifications, can be found by visiting the job announcement
+<https://careers.dc.gov/psp/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_
+SEARCH_FL.GBL?Page=3DHRS_APP_JBPST_FL&Action=3DU&FOCUS=3DApplicant&SiteId=3D1=
+&Jo
+bOpeningId=3D1997&PostingSeq=3D1> .=20
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/02/1
+0564/modern-green-footer-shadow_original.jpg?1308456094>=20
+
+Mayor Muriel Bowser
+
+John A. Wilson Building | 1350 Pennsylvania Avenue, NW | Washington DC,
+20004=20
+
+(202) 727-2643
+
+muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>  | mayor.dc.gov
+<http://mayor.dc.gov>  | @mayorbowser
+
+________________________________
+
+DC Flag <http://dc.gov>=20
+
+STAY CONNECTED:
+
+Visit us on Facebook <https://www.facebook.com/MayorMurielBowser>=20
+
+Visit us on Twitter <https://twitter.com/MayorBowser>=20
+
+Instagram Logo <https://www.instagram.com/mayor_bowser/>=20
+
+ Visit us on YouTube
+<https://www.youtube.com/channel/UCMPbW-rxSm1ke9PkqDZWO3g> =20
+
+ Sign up for email updates
+<https://public.govdelivery.com/accounts/DCWASH/subscriber/new> =20
+
+=09
+Questions? Contact Us
+<http://dc.gov/page/feedback-complaints-and-appeals>=20
+
+SUBSCRIBER SERVICES:=20
+
+We are Washington DC <http://dc.gov> =20
+
+=20
+
+=20
+
+|  Help <https://subscriberhelp.govdelivery.com/>=20
+
+=20
+
+=20
+
+=20
+
+=20
+

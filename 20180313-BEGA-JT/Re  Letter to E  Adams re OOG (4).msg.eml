@@ -1,0 +1,106 @@
+Received: from DM5PR0901MB2200.namprd09.prod.outlook.com (10.167.110.148) by
+ BY2PR09MB0310.namprd09.prod.outlook.com (10.160.66.12) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.218.12; Mon, 13 Nov 2017 22:01:00 +0000
+Received: from DM5PR0901MB2200.namprd09.prod.outlook.com
+ ([fe80::81a:5203:9e0a:efc8]) by DM5PR0901MB2200.namprd09.prod.outlook.com
+ ([fe80::81a:5203:9e0a:efc8%13]) with mapi id 15.20.0218.015; Mon, 13 Nov 2017
+ 22:00:59 +0000
+From: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+To: "Cavendish, Betsy (EOM)" <betsy.cavendish@dc.gov>
+CC: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+Subject: Re: Letter to E. Adams re OOG
+Thread-Topic: Letter to E. Adams re OOG
+Thread-Index: AdNcjY8KlMHnsxqmRO6gsGXzWsVjKwAADKA4AAE3vOAABwp5lwAEUjSQAAJ/1gY=
+Date: Mon, 13 Nov 2017 22:00:58 +0000
+Message-ID: <DM5PR0901MB22004C2ADDF5C5C605FA698FE62B0@DM5PR0901MB2200.namprd09.prod.outlook.com>
+References:
+ <72D60EE5D185C744AEF1E551D364D3BA41B70A83@umechpahe.easf.csd.disa.mil>
+ <DM5PR0901MB220049C0A9BE91B8B4D52906E62B0@DM5PR0901MB2200.namprd09.prod.outlook.com>,<BN1PR09MB0305CBC58A026B909695790D912B0@BN1PR09MB0305.namprd09.prod.outlook.com>
+ <DM5PR0901MB220053610101379E0C691DBDE62B0@DM5PR0901MB2200.namprd09.prod.outlook.com>,<DM2PR09MB0352EF7A4A888C63BB33180F932B0@DM2PR09MB0352.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB0352EF7A4A888C63BB33180F932B0@DM2PR09MB0352.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+ DM5PR0901MB2200.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ c8caa652-150a-4834-3757-08d52ae205c3
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [137.9.121.123]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY2PR09MB0310;5:gZS8ktNNG464qunDmKKw3h3gP3SjBqeiQlUiAwp+sTIGAofPA2RXFZ8CcTy7+z35wpnzK1J9XLXNuKtLlYtsq8bA73qTV//1S+0Pi8O9FWgEnG+o1agush8UVv/8yEv0SX5mdvDkgBQXsA83xz6rFPfE5Dw06jXvOVev8kFNmus=;24:71Mfez6cGhdcxGCmm18zzWCtZ3rIYTApHF3Zs2LfDn7vJz84TiN8+mc+n56TvvohwbwWFZHuTP2FPTVzMhEj7td3M/uIPbIh7fv7Xp5wUfw=;7:Bv/bccZ5B9qFPEZylBg/GlC3Cj0R35zJ6YPO714/O/BdBeY4ZcxT8birjrqpppYeIk3QCASZbYUph3eL6vPcC6HLrdqZIEhUV5Wk4hppUmgWdAkV8YnpW8hwefFAckBS9+pV2IahJ3+G08UFWgapIQPbHlMpLNsERNI2SbvcgMKalEEz1FVVvtwpITROp+lqGTJe8NIgJro2QaScjWTu8v+XQtje3mX1GoZ388vXrlaAZywNTKaQZwblvM7xvy4I;20:qy7IiE0u2171cajBbRWx8y5p8cZihqKxo34e/kRwxSKKzFA7g2y2uTjnpz8N9+ibQ1LwJPnoSM4T8ET7tKJqykkD6zexktCUlmFop39v9EjraK+HAnoYJ7FN3Pt0qXMVb6W/8BsZeltYT3bllMb2hG2Roqel26vKYELInqy6dog=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR09MB0310;H:DM5PR0901MB2200.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: c8caa652-150a-4834-3757-08d52ae205c3
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603258);SRVR:BY2PR09MB0310;
+x-ms-traffictypediagnostic: BY2PR09MB0310:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(3231022)(93006095)(93001095)(10201501046)(3002001)(100000703101)(100105400095)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:BY2PR09MB0310;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BY2PR09MB0310;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Betsy,
+
+I agree with your assessment.  Let's shoot for 1 pm.  I will initiate
+the call, hopefully with Jack on the line.
+
+
+
+
+Tameka
+
+
+________________________________
+
+From: Cavendish, Betsy (EOM)
+Sent: Monday, November 13, 2017 3:45:45 PM
+To: Collier, Tameka (BEGA)
+Cc: Grimaldi, John J. (BEGA)
+Subject: RE: Letter to E. Adams re OOG=20
+=20
+
+Sure, glad to.  My day is kind of crazy =E2=80=93 I only have openings at noo=
+n,
+1 and 4-4:30.  I read Judge Adams as making a plea for more oversight of
+the Office of Open Government. =20
+
+=20
+
+From: Collier, Tameka (BEGA)=20
+Sent: Monday, November 13, 2017 2:02 PM
+To: Cavendish, Betsy (EOM)
+Cc: Grimaldi, John J. (BEGA)
+Subject: Letter to E. Adams re OOG
+
+=20
+
+Betsy,
+
+=20
+
+Please see attached.  Do you have time for a teleconference tomorrow to
+discuss?
+
+=20
+
+Tameka Collier
+
+Chairperson
+
+Board of Ethics and Government Accountability
+
+202.257.8463
+
+=20
+
+=20
+

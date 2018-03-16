@@ -1,0 +1,78 @@
+Received: from CY1PR09MB0316.namprd09.prod.outlook.com (10.160.161.28) by
+ CY1PR09MB0314.namprd09.prod.outlook.com (10.160.158.13) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.218.12 via Mailbox Transport; Tue, 14 Nov 2017 16:24:29 +0000
+Received: from BLUPR09MB0882.namprd09.prod.outlook.com (10.162.89.150) by
+ CY1PR09MB0316.namprd09.prod.outlook.com (10.160.161.28) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.218.12; Tue, 14 Nov 2017 16:24:28 +0000
+Authentication-Results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+Received: from BLUPR09MB0881.namprd09.prod.outlook.com (10.162.89.15) by
+ BLUPR09MB0882.namprd09.prod.outlook.com (10.162.89.150) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.218.12; Tue, 14 Nov 2017 16:24:27 +0000
+Received: from BLUPR09MB0881.namprd09.prod.outlook.com ([10.162.89.15]) by
+ BLUPR09MB0881.namprd09.prod.outlook.com ([10.162.89.15]) with mapi id
+ 15.20.0218.015; Tue, 14 Nov 2017 16:24:27 +0000
+From: "Cavendish, Betsy (EOM)" <betsy.cavendish@dc.gov>
+To: "Cavendish, Betsy (EOM)" <betsy.cavendish@dc.gov>,
+ "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Grimaldi, John J. (BEGA)"	<John.Grimaldi@dc.gov>,
+ "Anthony, Lavita (EOM)" <lavita.anthony@dc.gov>
+Subject: Call re: letter to E. Adams re OOG
+Thread-Topic: Call re: letter to E. Adams re OOG
+Thread-Index: AdNdZODiSXwK1VTTRj+66K7l9OvP2gAACafQ
+X-MS-Exchange-MessageSentRepresentingType: 1
+X-MS-Exchange-Calendar-Originator-Id:
+ b4a98ed3-0016-40f6-a0e9-e300583cb457;/O=EXCHANGELABS/OU=EXCHANGE
+ ADMINISTRATIVE GROUP
+ (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DDC38C7DA3C140B8A61117757A1B62F8-BETSY
+ CAVEN
+X-MS-Exchange-Calendar-Series-Instance-Id:
+ BAAAAIIA4AB0xbcQGoLgCAAAAAAgt6seO13TAQAAAAAAAAAAEAAAAC0Ad6rg9HJMjXtFsU2G8pI=
+Date: Tue, 14 Nov 2017 16:24:27 +0000
+Message-ID: <BLUPR09MB0881709A4CD16F0406A175F3EF280@BLUPR09MB0881.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <BLUPR09MB0881709A4CD16F0406A175F3EF280@BLUPR09MB0881.namprd09.prod.outlook.com>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: BLUPR09MB0881.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [164.82.32.13]
+X-MS-Exchange-Organization-Network-Message-Id:
+ bff38fbd-8833-4883-85cb-08d52b7c2d54
+X-MS-PublicTrafficType: Email
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR09MB0881;35:Iqq4KdQrua+K2qQJ16NUsVpK1OczDvkPteOUIRlZ94yvwJeitb0HQ2i9sheRmzO6LlcgdECzJr88d4Exy0+ufg==
+Return-Path: betsy.cavendish@dc.gov
+X-MS-Office365-Filtering-Correlation-Id: bff38fbd-8833-4883-85cb-08d52b7c2d54
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603199);SRVR:BLUPR09MB0882;
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR09MB0882;3:bnQgFgm90jIeF7ZHAnJj4MMScOBnJTZR2Lp2NghYuZGXNWP/bT5+Iv+wl+X2bVYBL4ZnUyXP4IYitHMjfwXhyYysRRni21SFjGqWEdQokEM9VSquWIQ6ccyJcUJW6WvyUk4x/in+UWAFcrN5jfjLXpujKNJDHZh+G0vaLAvzClooYsDxSoZw0rjD3h3H/KwtC49e2QYS8oGgQvUg8yxlg2Zf8KtwDbD3zZTUQspqtE34Ey2zzqYJa+nZ/8fFgL4A;25:rBLGxXuDWwV3ePwrcHXoVnxvyHSeBIIZbIGuz8Wny6GTfUoM3YC8W8Nrpso7kRfAKB9gmeHqpPFOu1ood1Q9WHuexZqJZF0fDI2rBWAkhiv02bxkk+H/gS0yl5QK/CZbRw1O7IlGMvX0ZML3TXaitPjDTVRMuV3ONnpF+xYg+rU6bQtUCCHTcpGwIUcQAsfiDM0gvRZuv3alvfu5EON65q/3NUhYkkDE3fqsnivQ9CFxmZxvFTqwZIbwxcet02eS/nsiKXgGQq48hqsEptxpp5SR8VXqpzvMa4AlbLyCg5iTWl8WpRx1+2QxYMxwM0P7KH/+Gkjcn5DPN/CcLio48g==;31:eYUIR5xD61M+EImk4Nqs+3Pb005v7HBaIAtPu17svWqiWfI4DaEw3LdDZnBQqAOriehGUJuvMoE1K+8dDrvx8/2/Yjl5vl8kHfQ/M4D98AbCMSVHj4NQSlQfeQcAvThv42HcMXB8oplIY1X7Wz7dpH1So7vqTV+zfdL7bevcckHFbsnsN0rHcS+FshZ/s+ldxtCwPG/qUfp26aU0Z9aUZj8v/rTb3ZR+/OG4+30G6Nc=
+X-MS-TrafficTypeDiagnostic: BLUPR09MB0882:|CY1PR09MB0316:
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR09MB0882;20:japyUSEOYs4X41CtrSyNTDnZTj15cdBy+wQOSLg3B9qO5XcVc8E0y4fYuH/aPls1GE5uX79UThY1bfF3rh15dc9J0HNAHfNQNf8416hh34e5QW8P8KLgTonMe9Jdn1t31oSs+yQVISzAGBVScJJWWZJDgB2Ah6JKEaJUKoYij4k0EwhXOI58nqZ5099pMpnz6axRV+fOPBwZeOwWGTC941qM/0zO0+idVieKO2vWmEazvDXfPVkx493OXmREdEChJLOOWU+2F6TmIF0FYG90iq9McFdCf5wL/JTQDbV70Bm1k7psMEdt2RdOaCimMr+2lCVqIlRvqlYMTOz/eCnJ/Jsw5frnxRBIm7sGlfPaJT1znmnpe2AEpVxZT2lWO3rKDlcWVbRh5nxwM0MYZbPgzXSrLHcstjyTW+Dfh9y04wnyngSdP6hVQA0t7uM6Dw8xFJqldZkgBYoqIdmQZa4XlbpuW96AOfuE+RxR7nXJagvtwZbsNUWmFoZMgim7mHCi;4:CP12nX3vMvUbExzuIHv3BhKAVAbmKWrY/PtR2WnYRRajUSgALhC5rGIJLi2fsU1OEnK7qu52PrhrwvBN9H4c5SEyBOZzvznx+ivslTPr0V6roGHgVPZsjQGlMcZ+sE+MgYPq6L4XTyzIyzOM4bxjf74UVVusENjYgOA1Cm+jjeYCOar1k83uJ3jRpmkTaRthSc6y09fOnqjrWbBD+VJ66jdaSPF5yt4MaVo6Ao2KSkdgO98WsZkdu4fZ1FdSB7MhR8iwC6qXJgaJq38iqzHzbqfau8Ikx6x4F44DNotd0XrMuuO/8fMba+JFwCPc1ISQ
+X-Exchange-Antispam-Report-Test: UriScan:(21748063052155);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(100000703101)(100105400095)(3002001)(93006095)(93001095)(3231022)(10201501046)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:BLUPR09MB0882;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BLUPR09MB0882;
+X-Forefront-Antispam-Report: SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR09MB0882;H:BLUPR09MB0881.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;;SKIP:1;
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR09MB0882;23:NevCpMjS9b4L4pWrcfCQF5V+/ClJZ1Xd7QdYdpLGoJGHaIDP8tGF74CskWp46xcW7bPjxJXt5DHs7M4BqDjFbJKYOP2s/+0Alq/4e7eruLuRn640iWO0ekeOUGTiDWtyhaD8IxTpAaHQES/hAa3xug==;6:KCUU8p+3ay+Xmzss2lLw1hRdK+we0Zr8NMM7UNT4Gq4Pvje6RB0SfZW92m9G1SmD1Y9ActAaCmjjA5S+eaY9Fy8REiQDQJaJFdhqhWTBh4FVNEgl7TgI2M0FHmiQPyTo2prJblB7yjVy9KlTk5iTeJ/SP49MF8Sec4S7U7eU4ORuJIKYLSuVQwsMw2iORiPj1k3L1nQHJdG1CvU39GbMFV4XJTR3Sm2sUiVkptW3gxguwg/C24OTJXu11XpmQ+KC50narDjJX6PxEECt+zo8meOSRVL4X/jC53c/tkwr1dmSFMpi4huIsDF+T2XgBM6vfaqXFDi+IYvfY1QqW84+zBewEsmnENBfzhXmpLFhb/M=;5:3fgpU0ciiqU7LGyB09iW7pduIpF9+ZQqmPS8L8fSYs5BURSfzTgrRSfPSgBMZb7lHxwyacH3+Xbb42jYq2xVjWjuruB9YATSZbPDzLTL2o7zKZguZKr+h+or0FSfWw4+6dtcU3dUGbYynypncEaWtwKYuNgpRdRrcqPqWLUDdBc=;24:tUJSOOM0uYUSfZV45eC04SQeJaqI5vJojkWneAy4TyKzQ8rnIRVKwx4c4R2nJt1oHxTsH/rLGSzhHr8tSlRDXjWX4VTe3TrPcN4yqyXjI/8=
+SpamDiagnosticOutput: 1:0
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR09MB0882;7:J4a93Skwmt9twz+/Gse7UjT30yMTP8t5TQcyvvl5UwYdmcL69Wqw56a8A4a+FeEPEPaz//cS4Zd7izYCHz9SyYlq86ZQbYAp//TXlEevHueDqDmDjQCsInrreMgCi6P+auj+9NVcAo1pFvHml2FFdKrOi9YXJLSlIWUVv3HGBH9iPlgQSDaLWagXgE3JAu8aXrgqZqC6AmjmyiPpRI+PsUwN4QcGwH+TGeH5NyMYgozOrZDkmHmnRYF0TPn4bJZi;20:mjyP8AnyvN1K7588sIOL4MP2wFZe5Vmb8zkLw4jTBLhm/1VWof+75s3e3w4Cz31GljWVdr+ePcsWso+ZVgy8PJT+lV2nWxEJX8j6FaLMQvo8fkiPfnMLvXxzLcBgT6eqbigFLebIcD+OfQv6q7UrP0Y5if5L+WyGMhJNJlZVQ8c=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 14 Nov 2017 16:24:27.7975 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ bff38fbd-8833-4883-85cb-08d52b7c2d54
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR09MB0882
+X-Microsoft-Exchange-Diagnostics: 1;CY1PR09MB0316;23:Ejd1rq0cHacgCt3fPalgBA/I2jNfi3Pz3yD9tuNO6sfpTSbdZ1VaQ+qdIXQ3H7aBHI5AvM8YRr6bWrFflUNKu5RJKHeKATxDIbhdm/rGH0/Oz1/jlwT9YchjZ8Iq4lk6EVNnQCO48SFuOuScLYu3Zg==
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.4631057
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.0218.008
+X-Microsoft-Exchange-Diagnostics: 	1;CY1PR09MB0314;9:hDcjmHPrqt2xbcQf806nBTg7oq+qvD5zy1iISglgBWoaNzUbSUepb8DXziItEn1TzDgV/eQQZtM6QS2wQsRAY9BK7y1gnxqnNYf+aBfx+wfQFP236euj4KREWLbTiJH9
+X-Microsoft-Antispam-Message-Info:
+X-Microsoft-Exchange-Diagnostics: 	1;CY1PR09MB0314;27:ICEdQZYjuc72j3J/55kbuye8hV2fYMNXRyJrrHIFahr7XEdxFs39Y91fO1r6+KeUBWO77PpSjpfCad4b9nS5alxt74F/mOm6k+hSTLMoGjjtANrRIRE9kWZ6op9kmtEy
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+

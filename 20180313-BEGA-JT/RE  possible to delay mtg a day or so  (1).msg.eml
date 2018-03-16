@@ -1,0 +1,134 @@
+Received: from CY1PR09MB0571.namprd09.prod.outlook.com (10.160.151.148) by
+ CY1PR09MB1129.namprd09.prod.outlook.com (10.166.196.21) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.77.7; Tue, 26 Sep 2017 13:35:42 +0000
+Received: from CY1PR09MB0571.namprd09.prod.outlook.com ([10.160.151.148]) by
+ CY1PR09MB0571.namprd09.prod.outlook.com ([10.160.151.148]) with mapi id
+ 15.20.0077.011; Tue, 26 Sep 2017 13:35:42 +0000
+From: "Anthony, Lavita (EOM)" <lavita.anthony@dc.gov>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>,
+ "Cavendish, Betsy (EOM)" <betsy.cavendish@dc.gov>,
+	"Seshasai, Karuna (EOM)" <karuna.seshasai@dc.gov>
+Subject: RE: possible to delay mtg a day or so? 
+Thread-Topic: possible to delay mtg a day or so? 
+Thread-Index: AQHTNf1N56Pnyp0Ro0+Eq6hWiqTzyaLFknIAgAALcHCAAX4BwIAAEHEA
+Date: Tue, 26 Sep 2017 13:35:42 +0000
+Message-ID: <CY1PR09MB0571604942386165E17BB576EF7B0@CY1PR09MB0571.namprd09.prod.outlook.com>
+References: <000C389E-5554-4E19-B240-2A625A00F9DB@dc.gov>
+ <DM2PR09MB0368C53750BE65602FAAF6FE917A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+ <CY1PR09MB0571710192173DEDD3BBFDC6EF7A0@CY1PR09MB0571.namprd09.prod.outlook.com>
+ <DM2PR09MB03683756E2C0589951BB2809917B0@DM2PR09MB0368.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB03683756E2C0589951BB2809917B0@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: CY1PR09MB0571.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 534554f5-0c96-46a6-54c9-08d504e37bc4
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY1PR09MB1129;24:LBZJ66abqdG2lFI5OMXYHD4esmasObXVc5peayHv4/TyiBH5VAVfBEKNKgsz6P35K2M9bQQXrUTjxYHuaO9/7MBtdPYleNMrlccd/Sy+gqo=;7:EiPIMrZAxN6NgfxErchEpo0Oc5mJ6hyXvN3elIyhx/IL4Mq0HDEUnYvdXabTUyWA/ozE9liUzPpAxTtG0eR/648ZPX8+ZBuInLPAszPOT301H7c4mRBeqo7hB+QFpiGDxxTnRSr8DpWwNMtlTfN7FCToHnb9UzEzVn+3wZARwd6HxiSWNkTrTh0nFqlMyGB8FTuOmPiLoXVhK65zynDWfUxORF+r0aiHMnCjaL/hHrI=;20:b2nz67SDS6h8pfY+L9b5SXelXQkQFcTnxlpb7fWfsnXAfujpR9hLA92H1br6G8lh+uwbpZtpkFZAaR1GcM/D3X80Z5+vQRfmbCruZpywGcLe7HFoYs14smx9JtYRmwrS9HSrjCAhuctvsr1Gp85VtecnLLt3phlKymPtrxxAiL0=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CY1PR09MB1129;H:CY1PR09MB0571.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 534554f5-0c96-46a6-54c9-08d504e37bc4
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254152)(2017052603199)(201703131423075)(201703031133081)(201702281549075);SRVR:CY1PR09MB1129;
+x-ms-traffictypediagnostic: CY1PR09MB1129:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(3002001)(10201501046)(100000703101)(100105400095)(93006095)(93001095)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:CY1PR09MB1129;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CY1PR09MB1129;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+How does Monday, October 2nd @ 11 am work for you guys?
+
+
+-----Original Message-----
+From: Grimaldi, John J. (BEGA)
+Sent: Tuesday, September 26, 2017 8:38 AM
+To: Anthony, Lavita (EOM)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Cavendish, Betsy (EOM); Se=
+shasai, Karuna (EOM)
+Subject: RE: possible to delay mtg a day or so?
+
+Thanks, LaVita, but neither today nor tomorrow work on our end.  However, we'=
+re generally open next Monday (Oct. 2) and late in the afternoon on Tuesday.
+
+Jack
+
+-----Original Message-----
+From: Anthony, Lavita (EOM)
+Sent: Monday, September 25, 2017 9:55 AM
+To: Grimaldi, John J. (BEGA)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Cavendish, Betsy (EOM); Se=
+shasai, Karuna (EOM)
+Subject: RE: possible to delay mtg a day or so?
+
+Good morning Jack,
+
+Below are possible windows to move the meeting:
+
+Tuesday, September 26th 2-5; or
+Wednesday, September 27th 3:30-5.
+
+Please let me know your availability.
+
+Thanks in advance.
+
+LaVita
+
+-----Original Message-----
+From: Grimaldi, John J. (BEGA)
+Sent: Monday, September 25, 2017 9:24 AM
+To: Cavendish, Betsy (EOM)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Anthony, Lavita (EOM)
+Subject: RE: possible to delay mtg a day or so?
+
+Sorry, Betsy, get her well.  Send us some suggested times to get together, th=
+ough note that Thursday and Friday are out for Brian and me this week.
+
+Jack
+
+-----Original Message-----
+From: Cavendish, Betsy (EOM)
+Sent: Monday, September 25, 2017 8:54 AM
+To: Anthony, Lavita (EOM); Grimaldi, John J. (BEGA)
+Subject: possible to delay mtg a day or so?
+
+home dealing with some kid health issues.  pls let Alana know.  thanks.
+
+Sent from my iPhone
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+

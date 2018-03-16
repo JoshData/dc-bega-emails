@@ -1,0 +1,70 @@
+Received: from CY4PR0901MB2193.namprd09.prod.outlook.com (52.132.97.148) by
+ BY2PR09MB1094.namprd09.prod.outlook.com (10.166.116.14) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.464.11; Thu, 1 Feb 2018 19:17:15 +0000
+Received: from CY4PR0901MB2193.namprd09.prod.outlook.com
+ ([fe80::380a:bfb4:7a50:995d]) by CY4PR0901MB2193.namprd09.prod.outlook.com
+ ([fe80::380a:bfb4:7a50:995d%13]) with mapi id 15.20.0444.016; Thu, 1 Feb 2018
+ 19:17:15 +0000
+From: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+To: "Walker, Steven (EOM)" <steven.walker@dc.gov>
+Subject: Re: Checking in
+Thread-Topic: Checking in
+Thread-Index: AQHTm4uOEIX+A79VWESGrn+XNgiJAaOP60Pn
+Date: Thu, 01 Feb 2018 19:17:15 +0000
+Message-ID: <CY4PR0901MB219377D1620C85019689AC34E6FA0@CY4PR0901MB2193.namprd09.prod.outlook.com>
+References: <01F84824-EE92-4F19-8B04-0268279EAC59@dc.gov>
+In-Reply-To: <01F84824-EE92-4F19-8B04-0268279EAC59@dc.gov>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+ CY4PR0901MB2193.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ bc212608-0fe4-4736-6371-08d569a86755
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [2600:387:3:803::a4]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY2PR09MB1094;5:igX0/lhWVyqY6FFV4wZTio+LBra3bLu8AphJKXW31bhiogUXKVJedfckc69E3PoTCF98ZiLEgRS4ffYmNfjvkx+JE0LOMsSajE5jWCTvGW6TnqUy8vsuufahUR1s6fPjct6JWL3k/qzfyDAm8lOPuHkyR2bRV+ugSzQhTnS/oU0=;24:Ys7m50EK3azDf6ztr/hJMzdDB52il/KWM9R0B6ihjA6n/WaYxLjUhYf5esG/GUR9evAvXF3UaiPMpMTFLS3f+FlcxjakKg0L9BZ54aZYeb4=;7:jwzUvo4u9P9SrZeOtlG3/7pXH6BDlhkR4TXH7aoKIhsrv/LSLKgW4p1KRBb+2PaFAQRrMpAOhUzF2EZm2k6rG4iNndmedTk8RVj8mu7AFG6bkuU3z3R5NT6rWHP8bEqU7YMmFODXp73cXvEHDVSubJ6hY6e0jhk6RKRUAGmsehdFa2liQQq7iScL83p4o5AJlWgbP0e7H761vfN4kM1m83CN86Iy6Jo2mWX7YfFy+xr7gCtsDbG5Xo6eLP9qb9T0;20:H/l2Y6DR5Q+7hV9IHV+O17GIEUwlaFaiqLMBr82/qQg5Z+UJVRz5/ZOPEkxVXYRwuyMRmDd1uyCSKSDBRc7KjFP2WU6ULDOln+KbjL1ZivepubNiduSQ4nfWRt1WX/KMYmMJLWJcC6/sQCbvaIqeLUXD6T4Q2+As6DeZIi6pHF0=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR09MB1094;H:CY4PR0901MB2193.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: bc212608-0fe4-4736-6371-08d569a86755
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(4652020)(5600026)(4604075)(3008032)(2017052603307)(7153060)(7193020);SRVR:BY2PR09MB1094;
+x-ms-traffictypediagnostic: BY2PR09MB1094:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(10201501046)(3002001)(93006095)(93001095)(3231101)(2400082)(944501161)(201708071742011);SRVR:BY2PR09MB1094;BCL:0;PCL:0;RULEID:;SRVR:BY2PR09MB1094;
+x-microsoft-antispam-message-info: sX8/3BdjLe8rdgYAkGBabFvHWu7X9RJJDpx5AdExn8C4aWcwwVMrGXEvngKCRKK/o99Lxjygz0sITqdomX3gcQ==
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Yes. Are you free next Friday to meet in person?=20
+________________________________
+
+From: Walker, Steven (EOM)
+Sent: Thursday, February 1, 2018 1:36:22 PM
+To: Collier, Tameka (BEGA)
+Subject: Checking in=20
+=20
+Do we need to meet to discuss a search?=20
+
+
+Steve Walker
+Director=20
+Mayor=E2=80=99s Office of Talent and Appointments (MOTA)
+
+1350 Pennsylvania Avenue, NW =E2=80=93 6th Floor
+Washington, DC 20004
+(o) 202 727- <tel:202%20727-1372> 6101=20
+
+
+
+Sent from an iPhone (Please excuse typos)
+

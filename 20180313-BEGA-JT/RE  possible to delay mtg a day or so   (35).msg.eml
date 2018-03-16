@@ -1,0 +1,224 @@
+Received: from BN3PR09MB0609.namprd09.prod.outlook.com (10.160.120.12) by
+ BN3PR09MB0340.namprd09.prod.outlook.com (10.160.115.15) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.178.6; Fri, 27 Oct 2017 20:14:53 +0000
+Received: from BN3PR09MB0609.namprd09.prod.outlook.com ([10.160.120.12]) by
+ BN3PR09MB0609.namprd09.prod.outlook.com ([10.160.120.12]) with mapi id
+ 15.20.0156.007; Fri, 27 Oct 2017 20:14:52 +0000
+From: "Intrieri, Alana (EOM)" <alana.intrieri@dc.gov>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>,
+ "Cavendish, Betsy (EOM)" <betsy.cavendish@dc.gov>
+Subject: RE: possible to delay mtg a day or so? 
+Thread-Topic: possible to delay mtg a day or so? 
+Thread-Index: AdNPIO+6ZQjM65ZwQyyG+/Wdvp1KSwAPgweg
+Date: Fri, 27 Oct 2017 20:14:51 +0000
+Message-ID: <BN3PR09MB0609149DE1E3D713E082A4CAF65A0@BN3PR09MB0609.namprd09.prod.outlook.com>
+References: <DM2PR09MB03687BCBE247653C0E1D3865915A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB03687BCBE247653C0E1D3865915A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: BN3PR09MB0609.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ ddbc01b6-2900-4d54-a909-08d51d7761c4
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BN3PR09MB0340;5:+4XDQS3T2Xcg53K1lS8OTeUwlQs/BZ6UCP4dawj5ZKMHjr1fEr0dYowSWlIBmc/bcy2NFtxd+w6qYqhpvELSw+uyHej4u/4AGjma550/be1KjpDwfgr9zhWw/iBYrcPbzMBQfd1j39677IzOZ5wcVpyifCmoYnBAJgfCeMqChSM=;24:w1T0plpXUGEHhbwafVfHTDRRKavv+pgWepkDfDHx0dsL9xERci4cOwIavobNToHthlg16bRrcSf5Jw5LLU2qPvvVSr+0J5aBKFR0BC0JxIE=;7:Ss708Gxs6ROyT+rfZ5k48wvvwtrQcHt77BrWX47nJvHMZ1jnHfMCBKWSnyc6nYGSuGXC9LMH4WZipJ0A7/Ty2MeKowgJHfdTMQG1NWRhb7vCHDaSIetwJAU14sMg7EPJ5Q6TesLgQvd+80UQay0wL/y6a3MfrAta4vfjYkVkdiZy1c9EEfd4xHWo7ypFgcX/f0+tO473dEsc1D7AHR3NgpoV3Wxkf926YJAEvt8uqCUIcM4itz1VwdMlre+zBKjd;20:7ehFI+PNgPW2aqA4sGlGhyxcJ1uheF4KPjYw+w1clLDx/vZzI3Voikna0ndmfSEKlJigpgotpsjL/N7ZuvG++S3ApGQkj8vy2H/9q6yIMUIL0FKhW0e+RXeqVlGvd/depG6dqcbKfEgtKg39j3FuFUcE2bqRFwBi9Wm74E1B760=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN3PR09MB0340;H:BN3PR09MB0609.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: ddbc01b6-2900-4d54-a909-08d51d7761c4
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(4534020)(4602075)(2017052603199);SRVR:BN3PR09MB0340;
+x-ms-traffictypediagnostic: BN3PR09MB0340:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(3002001)(3231020)(10201501046)(100000703101)(100105400095)(93006095)(93001095)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:BN3PR09MB0340;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BN3PR09MB0340;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Mr. Grimaldi:
+
+I am sorry that we have not been able to connect.
+
+I received one voicemail message from you. I returned that call, but was not =
+able to reach you. The same thing occurred just moments ago. I understand tha=
+t you met with Betsy Cavendish to discuss this issue. I intended to be at tha=
+t meeting, but it was rescheduled to a time that did not accommodate my sched=
+ule.=20
+
+Certainly, the Mayor support efforts to achieve ethical government, but, typi=
+cally, the Mayor does not take a position on measures prior to a hearing. As =
+of now that is the case for this measure.=20
+
+Nonetheless, I look forward to working with you and the Committee to refine t=
+he bill as necessary as it moves forward.
+
+Thanks,
+Alana
+
+-----Original Message-----
+From: Grimaldi, John J. (BEGA)=20
+Sent: Friday, October 27, 2017 11:58 AM
+To: Intrieri, Alana (EOM) <alana.intrieri@dc.gov>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>; Flowers, Brian (BEGA) <Br=
+ian.Flowers@dc.gov>; Cavendish, Betsy (EOM) <betsy.cavendish@dc.gov>
+Subject: RE: possible to delay mtg a day or so?=20
+
+Good morning, Alana.
+
+We are now less than a week from the Committee hearing on Bill 22-136.  The b=
+ill represents the first major overhaul of the Ethics Act since the Mayor (as=
+ then Chairperson of the Council Committee on Government Operations) lead the=
+ way to its passage in 2011.  I understand that, while vetting our current Bo=
+ard Chairperson, Tameka Collier, the Mayor even referred to the Ethics Act as=
+ "her baby."
+
+I am surprised, then, that you have not responded to my several efforts to ar=
+range a meeting to discuss the bill, beginning with my October 2 email immedi=
+ately below.  I followed up on the email by leaving you voicemail messages on=
+ October 6 and 16.
+
+That said, your silence leaves us to guess at what the Mayor's position is on=
+ the bill.  We want to be clear, however, as we anticipate answering question=
+s from Committee members and otherwise preparing for the hearing.  Please, th=
+en, let us know where the Mayor stands.  A meeting to have that discussion wo=
+uld still be welcome.
+
+Thanks.
+
+
+Jack Grimaldi
+
+-----Original Message-----
+From: Grimaldi, John J. (BEGA)=20
+Sent: Monday, October 02, 2017 1:51 PM
+To: Intrieri, Alana (EOM)
+Cc: Cavendish, Betsy (EOM); Flowers, Brian (BEGA)
+Subject: FW: possible to delay mtg a day or so?=20
+
+Alana, sorry we missed you at the meeting this morning to discuss Bill 22-136=
+.  Betsy suggested that Brian and I try to see you before the Committee heari=
+ng on November 2.  Please, then, suggest a few dates/times that would work on=
+ your end.
+
+Thanks.
+
+Jack Grimaldi
+Senior Attorney Advisor
+D.C. Board of Ethics and Government Accountability
+441 4th Street, N.W.,  Suite 830 South
+Washington, D.C.  20001
+Main:  (202) 481-3411
+Direct:  (202) 741-2129
+
+-----Original Message-----
+From: Grimaldi, John J. (BEGA)=20
+Sent: Tuesday, September 26, 2017 9:58 AM
+To: Anthony, Lavita (EOM)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Cavendish, Betsy (EOM); Se=
+shasai, Karuna (EOM)
+Subject: RE: possible to delay mtg a day or so?=20
+
+Sure does.  Thanks, LaVita.  See you then.
+
+-----Original Message-----
+From: Anthony, Lavita (EOM)=20
+Sent: Tuesday, September 26, 2017 9:36 AM
+To: Grimaldi, John J. (BEGA)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Cavendish, Betsy (EOM); Se=
+shasai, Karuna (EOM)
+Subject: RE: possible to delay mtg a day or so?=20
+
+How does Monday, October 2nd @ 11 am work for you guys?
+
+
+-----Original Message-----
+From: Grimaldi, John J. (BEGA)
+Sent: Tuesday, September 26, 2017 8:38 AM
+To: Anthony, Lavita (EOM)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Cavendish, Betsy (EOM); Se=
+shasai, Karuna (EOM)
+Subject: RE: possible to delay mtg a day or so?
+
+Thanks, LaVita, but neither today nor tomorrow work on our end.  However, we'=
+re generally open next Monday (Oct. 2) and late in the afternoon on Tuesday.
+
+Jack
+
+-----Original Message-----
+From: Anthony, Lavita (EOM)
+Sent: Monday, September 25, 2017 9:55 AM
+To: Grimaldi, John J. (BEGA)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Cavendish, Betsy (EOM); Se=
+shasai, Karuna (EOM)
+Subject: RE: possible to delay mtg a day or so?
+
+Good morning Jack,
+
+Below are possible windows to move the meeting:
+
+Tuesday, September 26th 2-5; or
+Wednesday, September 27th 3:30-5.
+
+Please let me know your availability.
+
+Thanks in advance.
+
+LaVita
+
+-----Original Message-----
+From: Grimaldi, John J. (BEGA)
+Sent: Monday, September 25, 2017 9:24 AM
+To: Cavendish, Betsy (EOM)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Anthony, Lavita (EOM)
+Subject: RE: possible to delay mtg a day or so?
+
+Sorry, Betsy, get her well.  Send us some suggested times to get together, th=
+ough note that Thursday and Friday are out for Brian and me this week.
+
+Jack
+
+-----Original Message-----
+From: Cavendish, Betsy (EOM)
+Sent: Monday, September 25, 2017 8:54 AM
+To: Anthony, Lavita (EOM); Grimaldi, John J. (BEGA)
+Subject: possible to delay mtg a day or so?
+
+home dealing with some kid health issues.  pls let Alana know.  thanks.
+
+Sent from my iPhone
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+

@@ -1,0 +1,2144 @@
+Received: from DM5PR09CA0015.namprd09.prod.outlook.com (2603:10b6:4::25) by
+ MWHPR0901MB2204.namprd09.prod.outlook.com (2603:10b6:301:81::32) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.323.15; Wed, 20
+ Dec 2017 08:24:53 +0000
+Received: from DM2GCC01FT010.eop-gcc01.prod.protection.outlook.com
+ (2a01:111:f400:7d01::201) by DM5PR09CA0015.outlook.office365.com
+ (2603:10b6:4::25) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.323.15 via Frontend
+ Transport; Wed, 20 Dec 2017 08:24:53 +0000
+Authentication-Results: spf=softfail (sender IP is 164.82.1.21)
+ smtp.mailfrom=mailings-q.law360.com; dcgovict.mail.onmicrosoft.com; dkim=fail
+ (signature did not verify) header.d=law360.com;dcgovict.mail.onmicrosoft.com;
+ dmarc=none action=none header.from=law360.com;
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ mailings-q.law360.com discourages use of 164.82.1.21 as permitted sender)
+Received: from hybrid.dc.gov (164.82.1.21) by
+ DM2GCC01FT010.mail.protection.outlook.com (10.97.3.132) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.20.302.6 via Frontend Transport; Wed, 20 Dec 2017 08:24:53 +0000
+Received: from CWM-EXMR-201.dcgov.priv (10.82.51.11) by
+ CWM-EX-HS-22.dcgov.priv (10.82.51.37) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Wed, 20 Dec 2017 03:24:52 -0500
+Received: from CWM-EXMR-204.dcgov.priv (10.82.51.14) by
+ cwm-exmr-201.dcgov.priv (10.82.51.11) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Wed, 20 Dec 2017 03:24:51 -0500
+Received: from smtp3.dc.gov (164.82.148.121) by CWM-EXMR-204.dcgov.priv
+ (10.82.51.14) with Microsoft SMTP Server id 15.0.1263.5 via Frontend
+ Transport; Wed, 20 Dec 2017 03:24:51 -0500
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: A0CtAQBp299Zh+kBWadEBBMDAxoMBoJwQAKBEG4ng3cDixOOPoJvgXwCk0aCAQUIGAEJhEpPExCEHlcBAgEBAQEBAhMBAQEKCwkIKC+FJQILAQEKBAUKEwcHEwQFAQEFAQIGNAIPCQQBCQIzOwUHDAUBAwICiC2BUAMNMql+AUUBAWqCJyeBHIFNL4MghQcIM1sTggyBHlgRgk9sghwZHSODUw8FgRABDgEBEgEPFQMXAwUGGoIPDDEWgkuINAyBVIIFhTESgVqFM4hfAYdegw9Tiz5dhReDfocKjBmJUoE5D4EXNAsyRl4IgWNlgXoBCwFDHIFndgEHiQsPGAMBghkBAQE
+X-IPAS-Result: A0CtAQBp299Zh+kBWadEBBMDAxoMBoJwQAKBEG4ng3cDixOOPoJvgXwCk0aCAQUIGAEJhEpPExCEHlcBAgEBAQEBAhMBAQEKCwkIKC+FJQILAQEKBAUKEwcHEwQFAQEFAQIGNAIPCQQBCQIzOwUHDAUBAwICiC2BUAMNMql+AUUBAWqCJyeBHIFNL4MghQcIM1sTggyBHlgRgk9sghwZHSODUw8FgRABDgEBEgEPFQMXAwUGGoIPDDEWgkuINAyBVIIFhTESgVqFM4hfAYdegw9Tiz5dhReDfocKjBmJUoE5D4EXNAsyRl4IgWNlgXoBCwFDHIFndgEHiQsPGAMBghkBAQE
+X-OCTO-Header: SPAM_Marketing_Email
+Received: from o4.mailings-q.law360.com ([167.89.1.233])  by smtp3.dc.gov with
+ ESMTP/TLS/DHE-RSA-AES128-SHA; 20 Dec 2017 03:24:46 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=law360.com;
+ 	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+ 	s=s1; bh=UAGo0V/fTglQoXq3sKQ0NwTDBXc=; b=wq29O9/NXdQxKuKVFPlnG0e
+	5uthA8UxHSyLTTpEJWmLoyIzaaT+dzawPDMjhu3VIwUQma183FEDZGWWqh8N/JV5
+	ji8Y4XCtbpWZiFRxKMddewjmLRtlNiLB9/0swtSAoRIaikVcNcETQXVlwlzUHIEq
+	bhz0Ye/rz7DhLoXrxH/g=
+Received: by filter1091p1mdw1.sendgrid.net with SMTP id
+ filter1091p1mdw1-2928-5A3A1E4E-6        2017-12-20 08:24:46.186530746 +0000
+ UTC
+Received: from www.law360.com (ec2-54-84-241-164.compute-1.amazonaws.com
+ [54.84.241.164])	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id
+ Xo7_Ek1DTXan9kpm-fhCxQ	for <carol.schwartz@dc.gov>; Wed, 20 Dec 2017
+ 08:24:46.102 +0000 (UTC)
+Date: Wed, 20 Dec 2017 08:24:46 +0000
+From: Public Policy Law360 <news-q@law360.com>
+To: <carol.schwartz@dc.gov>
+Message-ID: <5a3a1e4e68a5_fdb2ad252ab0f64109129d@ip-172-30-200-28.mail>
+Subject: GOP Tax Cut Bill Nears Finish Line After Senate Passage
+MIME-Version: 1.0
+X-SG-EID: 5MGxJcf98EXcV1SgUB5zke2Ru0S2HviiLg9u0We6lZyd0tMcaB1459PST/ERSmHf827TDfwqkytelV
+ KNKZsZsX+/TJaXID7OYHx/Et4ASaN/HpTgYDbl8Cxbi4HssaaKfQhhNeNSZ5LR4xcxLm7lSW9onjQ/
+ Jk9iQEhBc+Z2lnqPZWvXZ4APJdoPJidAx5abD+yVQWVq7DvoOfFKN0hsal4l03hY/HK9MFPAmiB4f2 Y=
+Return-Path: bounces+1121182-13cf-carol.schwartz=dc.gov@mailings-q.law360.com
+X-OrganizationHeadersPreserved: CWM-EX-HS-22.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ 2c0e1156-228f-4819-85a6-08d54783258e
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.82.1.21;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(2980300002)(3190300001)(199004)(11905935001)(189003)(59450400001)(97736004)(68736007)(606006)(15188155005)(19273905006)(105003)(1096003)(8936002)(230700001)(18926415007)(16799955002)(45080400002)(569274001)(53416004)(551944002)(561944003)(19627405001)(2351001)(64544003)(2361001)(36756003)(106466001)(5660300001)(6306002)(236005)(9686003)(86372001)(733005)(50466002)(23676004)(6916009)(8676002)(53946003)(81166006)(81156014)(861006)(16200700003)(356003)(53936002)(23846002)(105596002)(105626011)(110096011)(47956004)(569006);DIR:INB;SFP:;SCL:1;SRVR:MWHPR0901MB2204;H:hybrid.dc.gov;FPR:;SPF:SoftFail;PTR:InfoDomainNonexistent;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;DM2GCC01FT010;1:7hJKM8s0VpbgF4GAxkwh1WFgxTm6LUtUb2aY5kKzOiQg9QHUVN861xUFtDw5hYSjM9ZMLopPdGbZnCoxQaRkW74l0d2iBhmCGMemItkae2xSE71YbRLFr4oq37+++icL
+X-CrossPremisesHeadersPromoted:
+ DM2GCC01FT010.eop-gcc01.prod.protection.outlook.com
+X-CrossPremisesHeadersFiltered:
+ DM2GCC01FT010.eop-gcc01.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthSource: CWM-EXMR-204.dcgov.priv
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: dc.gov
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 2c0e1156-228f-4819-85a6-08d54783258e
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(5600026)(4604075)(2017052603307)(7153060);SRVR:MWHPR0901MB2204;
+X-Microsoft-Exchange-Diagnostics: 1;MWHPR0901MB2204;3:jVbRZanjpSew6MGqibrSp2AUtB9kQGOf9+Lw0rUFV+MW8rR3chSxCQiSPptliBEZmyAwhgMiRCYJqqrXocpz00Nyf0Jd2GUckJZXg/8a7Vt0koQHl6fZ6358gLO3VwnJ3bR/fB2gsJht8DB6MW7sa/TchAY+CtKrYb8j5c/6EBdD11y9GdMQKDmsKHsRY+1GL0f8MTwXGkMAyOBtyAvFXM9Z5jaSHA3yDd84bn600qy1xDfzvu3Iqf403RG+P9Faz0dEmiqm0v/MO8WCnCm4sEbcsH3c88vrEXugJdOSKDh564MrcO4y+0Fi07lP7pOUVFnZ98rIu1grWPtF64LWlA==;25:+6OeU6icPCSr3xyUNB4y+7m3iO/Po500QdFkmvgc5OOsSWH87sf5h4JuhetlGTtgmsPzptbSlZGKhMQiT3eAIm24alm0K6xMOUTiHreFdS2NO8D//AGvBDBKTTj27ZUHAiFU8RlqF33WeExl4+fc/xOWXLfZfbHIEo32uKdze5LAMqlmL0ozMxIKoQDrv3hXd6nVpsSnmCDLqPsV3ugd+F919FP8PbIJxcnkS8ZXPI19ddceuVTrOEFKWioGfzccQHpsNYe4Fue28sF1y+ayjo8N/fBEEbjHwbmG6S+x+0kOHc2eW1Xjx/OWhSVFpfu/PftuH169Q93lF1UyXhG+qQ==;31:mTA7ztvskcfTvmvGHd7d/lX14uE0B5uwBqZpOLVHAiJPnLpg+MnTejLR7t6NUVwXqpNTaoC0d897scEItYGa5yEk9oWCJle4vjsMEUElxgsOpMqZ7F2ru4Z74nGNvouK7erjnz6iH27hF5mJCGIo+XWqGzE8JUJPz1W64uFxBggUWxqVUdAMy1wmoloNG1nEJzN7r7Lbc3dl65b0FpBfP7a36yBudZpz81OZs+ZiWNE=
+X-MS-TrafficTypeDiagnostic: MWHPR0901MB2204:
+X-Microsoft-Exchange-Diagnostics: 1;MWHPR0901MB2204;20:DCt8Xl5eswxIRBNp2YDiebXuCr/t7TtPcc+SEsRTodfGMPKRTTIB8cwG0hwr14nhvsbzMaWz/cLOfR4C7RscGvTgpdIaqOOyHpD8uvQThNVR1ual5fvbtcZ7g35O6uR6DBqQ9NdJFpk2Fh5EcsG5s5bzgXF2v1Tezv76MXfPNfETghs2YMVMEwLStSzn9VSIgh3qGdrlwlL7mFIi6biDez+TriL4mMA4JsL/FLQYcdM7f6zvrICWSvKTGsE1PYcuhfBLCU8krv5DX+3JVXi8kuxtvt5UM1c3olVLKzb+zeYbvcNmmvZkiJLPaKzXIUY2HQqfONqh+7agKubtNl44OMIC/xbZJDut5w1FkI27y+A0wEfGDtB1zuy5L27GqnpMjaWnoHkaUMmvq35WTCF+QugREtgnSVgCSSInPFGmJw4rXXbc/KdbTXzftEAVPIQ63XoGM2NrtYqRgQcHeaZ9UmEXZrw0Bw/2t+kExxUU7KGsABLtlTSiI+e32ES1LdY0
+X-Exchange-Antispam-Report-Test: UriScan:(148322886591682)(35071873346772)(209352067349851)(192374486261705)(31418570063057)(211171220733660);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(2401047)(8121501046)(93006095)(93003095)(10201501046)(12181506113)(3002001)(3231023)(201708071742011);SRVR:MWHPR0901MB2204;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:MWHPR0901MB2204;
+X-Microsoft-Exchange-Diagnostics: 1;MWHPR0901MB2204;4:Mj2H14qutFviApwWbJk5Iug/N1fiYvjBXFCWhmKf9ouRMD9ukAPeR0GpE+qtTJ3EVOGtipv0W94h90gOpNXx6ijwIAoeEbwuVLZLysaGZ+C4k1U8ots2YaDPYo/ZIo0K8xbETFwhjvHMCtCPc7TaZOncIp1Azrtzr/XBUMYbrNzh1WnWwul66z5cb8Bw+JkBXGqtLgHsydab+bKMzXZc+hGF9bOeteof5pccJ90N8jeQYe8pwY7aaB6woYjfFBFI96avpRZ5rcsJom5yETHebY78yc95ozW6Rv37VadNy3x2vzolqEvFMrHebGGhkf9eg60GNHWVB+gDl6ZpngBDwnGbH5QxI3WmPjXjyzDnx0BSEfM/bkDGazIqjghkGc7lRqLn9WLCfbI1EAZAD9xH1j3UEU9Ls18zbw+LrNQpg5gQUOvCUVlSZJ9VbZxXuCHtQtrzLF5z+ytgJJPNUQEpOjXwlpiIpkQMRgVDZDt2c5A=
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics:
+ 1;MWHPR0901MB2204;23:EwmVn/oWm5Sq0gtXwv+kro5n4PVD6iKj3PveGZt
+Mx8+LMHJ82jGxv4CQVifjXDGBMU3RmVN18WPKAAmo1h0H7bQdSq9hQKUUMK2
+gdy+41oydhM7YURkrTlAn6M5aiu1RD9BR05IyfQcEjXk5dTHDU0aRlEnTymy
+h9VCcmFdPI3x3egRoKNDnUXZVdRCg+tBXEac1qWKZFuRz6S4XJrUpoDe28j3
+0qcyariw2G/qtZy4IVmxsZStks3bo2+FwG8FVhW6HS8AJes0zIpBkvZqGGdf
+P1pB8JN4ibX572zVID5RGX/y14e04iHE5y/OYRmAGkHCJ+uE+0CV7UF6ZSna
+qGNSufGeZbrh0NpzebFUdzIguGc4dViiEs79J8T78XaTb66cK0wKlG0V7Pwf
+ey/vtmpCAP7CSFc1u85SYJ85y/CAkns2rS+O3xvwr84gBIenz3MowkqiA1Vk
+OWpJ825ZnpJbEmy3PGq/lrxVDDiffnrx6zkLoMZNaV8KhA+Tt/oqDPsp9/df
+pVWcFw4LA2ICqJILg2Q8pyYWhE9mxU6qKIF9BOI96c36KBGZFL3eS5ZJAiJl
+i+LsBUDPx88wNbqBtG5OgD8YPCy54VHyVnxTn++v5cs0rnsH5J9Ff5jSaHdD
+wRcGjyVyBlPLEfe9BPM9QBeboFcCu90KCaguDtHuqMlJxUyleFNxBj6ny99z
+8aTGvW6XvBLU6Kzu708/XO86heEeRwp4SWuabMf8wq0YFJP+l8ikYfx8ZZvA
+vunbBDQhW9ZI+SL/z4wFcFfZxvjex846CrplqUPlOdAMGU/ObNWVpf1NPL0S
+uQVBUdO/iOA37dvOMdanlBOsH1UTntbkB9WYSprGnz6aZGPRQhwCN2vv9sHx
+2zbg8gIhn54Nflo7yOUf1IV/SwnBqruduhkO34hRLG7Zh5/DpJGusXfZqr8c
+Z1qe7+GQXGZ//bRPFcyaA8A3siUtbHOnqoSlv/IeyX2+arPC5VHotqdna24I
+Bxr36hbcAnB5lk9TaVXZcH0GytDkSy/HEwPi+wDVUXDFwyqgkAW6g4rG3Hvj
+fl8Lk2GdJOnKV2SUHFQB/+oeHzVJVqw8xkf/NreI9puNIIbGRqcUpu61BaIu
+3iaIvdm3IXiGbiL7BYHG+GecjNJPdvKMTO1RMFuCQMI2EIkTD0z7xToJGaXg
+8uRp791H1N76G8Ucbo1fQWPpNgclIn0H6UnXoi9dvAO8adKakL+DBSzWXQA==
+X-Microsoft-Exchange-Diagnostics: 1;MWHPR0901MB2204;6:Lnei3w6qGAjoq3ZlVQnVFF0AuAjxTaVCxoII+fC+VNYkpEtPMD1cyTo/j8AGqL9B9pPJN/2qkrZ4kJaqj15i85kLhX0lc9TwE9amwpQcTL8yV7uEpmq0xYlxA/lrj7EnxH3IL1C/sKgRKIwelCXoILVwmz/cDORjJoq2gT+cUEjgxrbeUApnaJMzOLFVYd04/KMX52Sbm75NuZDVmqJebzeOSjdMT1PezODOAjTA+jdnOldXotic8SZKTORDhthrsfi+VTzpniHBSiviiON4MiaL7IsyXHK5IjINGklzTHScjpMiq0xqYgfeFCdNo6iMkdrNHO9BFKTe//xamgvIZwRYrKLDyVFlRHAYIG6uPxY=;5:eKpIWl8kOqN5PVBmvRszj4sPI5hG7iU/DcM5igXEyc4JKYx8FGIWlYu9a60UT4Tmeahs+rRxqRtXhteK48+t83pOlSxAJGtORvJK2TjUQKfozEFzL1SXTK6ODyx1vKdv25C96X/vNrjoO6CdVa+K3RjUgg6ZiQLbNS+Xx1LbrkA=;24:+ViKOPsCk80TFtxq+j3ztvLw/LYAYeCPui4NZIO0NwEPbrpc1s0Tr13MJoyNe0dGia+rxGVrmlACfa55GoQ7lxh4rFcrGBuZcABtIi8c5jk=;7:9iZGvmXLA0bZuOKD38jp9ywRnkhzFQLaTWBGE6WQa0OgxW5DMmialIADa7uwJDLOrsloSCCSpBfc60G8ESe1yYn7A66d0H/lBZsqC6s6/RrO/W11CijtKCaGyvVM3fBdnfIQQg+KwFXROun8mAGdxOWsfgdikHCEIDkkS1Xu0KeLvl8hX5xbm7Qf3SAXGdIhy8AoXpA/9DNWAKs2moBAyuo/u2JZlKuaTZAVKtfEWCeH7ae3j0yA1Dx3fS17AeUp
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-Microsoft-Exchange-Diagnostics: 1;MWHPR0901MB2204;20:gZpjwO0a8cgn2xQL1oDognf0EsAW75bz1jHB+5wCJaTBFnrpnPgngX7o0D/0HTZ+jSf95GF2ol40yJYqB+2qpevsSnwc3I3QIcBe7MvR4FXfrTJvvbvaddhUjtbSsI/xFXOIw2qYPzWRZ7bIhz8WgUjke+2VxpXMpkDOuUZWEmA=
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Republicans' expansive $1.5 trillion tax cut bill cleared its
+penultimate hurdle in Congress early Wednesday and appeared to be mere
+hours away from being sent to the president's desk after the Senate
+approved the legislation by a simple majority vote.=20
+Law360 Public Policy
+<https://www.law360.com/publicpolicy?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+> 	 PUBLIC POLICY
+<https://www.law360.com/publicpolicy?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+>
+<https://www.law360.com/pixel?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c
+&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =09
+.
+Get 20% off all Law360 Job Board postings.
+.
+Enter LAW2017 at checkout to reach the best legal talent at our best
+rates ever.
+<http://jobs.law360.com/?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_
+source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy-banner>  	=
+
+=20
+________________________________
+
+Wednesday, December 20, 2017	 Follow Law360
+<https://twitter.com/Law360>  =09
+________________________________
+
+TOP NEWS
+
+________________________________
+
+
+GOP Tax Cut Bill Nears Finish Line After Senate Passage
+<https://www.law360.com/publicpolicy/articles/996681/gop-tax-cut-bill-ne
+ars-finish-line-after-senate-passage?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+> =20
+
+The Republicans' expansive $1.5 trillion tax cut bill cleared its
+penultimate hurdle in Congress early Wednesday and appeared to be mere
+hours away from being sent to the president's desk after the Senate
+approved the legislation by a simple majority vote. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996681/gop-tax-cut-bill-ne
+ars-finish-line-after-senate-passage?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+&read_more=3D1> =20
+
+House Must Vote Again On Final GOP Tax Bill
+<https://www.law360.com/publicpolicy/articles/996454/house-must-vote-aga
+in-on-final-gop-tax-bill?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_
+source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+The U.S. House of Representatives is expected to cast a second vote on
+the nearly $1.5 trillion Republican tax cut bill after the Senate
+parliamentarian ruled Tuesday that provisions in the bill violate
+procedures to pass the measure in the Senate with a simple majority.
+Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996454/house-must-vote-aga
+in-on-final-gop-tax-bill?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_
+source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_more=
+=3D1
+> =20
+
+Senate Panel Rejects Trump's Pick To Lead Ex-Im Bank
+<https://www.law360.com/publicpolicy/articles/996129/senate-panel-reject
+s-trump-s-pick-to-lead-ex-im-bank?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =
+=20
+
+The Senate Banking Committee on Tuesday voted down President Donald
+Trump=E2=80=99s pick to lead the beleaguered Export-Import Bank, Scott Garret=
+t,
+who had stirred controversy over his strong objections to the bank when
+he served as a Republican congressman. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996129/senate-panel-reject
+s-trump-s-pick-to-lead-ex-im-bank?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&re
+ad_more=3D1> =20
+
+Top State & Local Tax Legislation Of 2017: Year-In-Review
+<https://www.law360.com/publicpolicy/articles/996154/top-state-local-tax
+-legislation-of-2017-year-in-review?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb
+23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+From California enacting one of the nation=E2=80=99s biggest tax regime chang=
+es
+in decades to Illinois and Kansas raising taxes after voting to override
+a governor=E2=80=99s veto, 2017 was a busy year for state and local tax
+legislation. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996154/top-state-local-tax
+-legislation-of-2017-year-in-review?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb
+23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&
+read_more=3D1> =20
+
+Analysis
+
+Major Immigration Cases From 2017
+<https://www.law360.com/publicpolicy/articles/995779/major-immigration-c
+ases-from-2017?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnew
+sletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+This was a hectic year for immigration litigation, with a steady stream
+of big travel ban rulings and several immigration-related opinions from
+the U.S. Supreme Court, including ones on important issues like
+citizenship-stripping and bad attorney advice. Here are some of the
+biggest immigration cases from 2017. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/995779/major-immigration-c
+ases-from-2017?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnew
+sletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_more=3D1> =20
+
+Senators Mull Rule Change To Speed Trump Confirmations
+<https://www.law360.com/publicpolicy/articles/996709/senators-mull-rule-
+change-to-speed-trump-confirmations?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb
+23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+A key Senate panel debated sharply reducing the amount of time the
+Senate spends on judicial and other nominees Tuesday, potentially
+setting the stage to quickly confirm dozens of President Donald Trump's
+picks. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996709/senators-mull-rule-
+change-to-speed-trump-confirmations?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb
+23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&
+read_more=3D1> =20
+
+Analysis
+
+Tesla's Hard Line On Direct Sales Draws Mixed Results
+<https://www.law360.com/publicpolicy/articles/996303/tesla-s-hard-line-o
+n-direct-sales-draws-mixed-results?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+Tesla has gained ground to sell its cars directly to consumers in some
+states over the objections of traditional franchised dealerships that
+sell cars for other manufacturers, but it still faces an uphill battle
+in challenges to statutes limiting its direct-sales model and lawsuits
+from groups seeking to enforce dealer-franchise laws. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996303/tesla-s-hard-line-o
+n-direct-sales-draws-mixed-results?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&r
+ead_more=3D1> =20
+
+BANKING & SECURITIES
+
+________________________________
+
+
+Big Banks' Living Wills Pass Muster With The Feds
+<https://www.law360.com/publicpolicy/articles/996718/big-banks-living-wi
+lls-pass-muster-with-the-feds?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c
+&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+The Federal Reserve Board and Federal Deposit Insurance Corp. said
+Tuesday that the nation's eight largest banks have received passing
+grades on their latest round of so-called living wills, which detail how
+they can be safely wound down in the event they=E2=80=99re hit with a financi=
+al
+shock. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996718/big-banks-living-wi
+lls-pass-muster-with-the-feds?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c
+&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_m
+ore=3D1> =20
+
+Atty Legislator Tapped As NJ Banking And Insurance Czar
+<https://www.law360.com/publicpolicy/articles/996547/atty-legislator-tap
+ped-as-nj-banking-and-insurance-czar?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+> =20
+
+New Jersey Gov.-elect Phil Murphy announced Tuesday that he planned to
+nominate New Jersey Assemblywoman Marlene Caride, a partner with
+Gonzalez & Caride, to lead the state Department of Banking and
+Insurance, saying she will be a =E2=80=9Cwatchdog=E2=80=9D for Garden State r=
+esidents.
+Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996547/atty-legislator-tap
+ped-as-nj-banking-and-insurance-czar?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+&read_more=3D1> =20
+
+ENERGY & ENVIRONMENTAL
+
+________________________________
+
+
+EPA Says Glyphosate Weed Killer Not Likely To Cause Cancer
+<https://www.law360.com/publicpolicy/articles/996630/epa-says-glyphosate
+-weed-killer-not-likely-to-cause-cancer?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy> =20
+
+The U.S. Environmental Protection Agency on Monday said glyphosate, the
+primary ingredient in the weed killer Roundup and one of the most widely
+used herbicides in agriculture, likely does not cause cancer, a position
+at odds with California regulators who list the ingredient as a
+carcinogen. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996630/epa-says-glyphosate
+-weed-killer-not-likely-to-cause-cancer?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy&read_more=3D1> =20
+
+NJ Water Quality Standard For Chemical Declared Invalid
+<https://www.law360.com/publicpolicy/articles/996413/nj-water-quality-st
+andard-for-chemical-declared-invalid?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+> =20
+
+A New Jersey state appeals court on Tuesday invalidated a state
+groundwater quality standard for a toxic chemical used to make consumer
+products, finding that what were adopted as interim measures have become
+in effect permanent regulations in violation of state rulemaking
+procedures. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996413/nj-water-quality-st
+andard-for-chemical-declared-invalid?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+&read_more=3D1> =20
+
+NY Times Sues DOI Over Utah Monument Doc Request
+<https://www.law360.com/publicpolicy/articles/996294/ny-times-sues-doi-o
+ver-utah-monument-doc-request?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c
+&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+The New York Times Co. hit the U.S. Department of the Interior with a
+Freedom of Information Act suit Monday in New York federal court,
+alleging that the agency has failed to fork over documents related to a
+national monument in Utah that the federal government plans to shrink
+dramatically. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996294/ny-times-sues-doi-o
+ver-utah-monument-doc-request?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c
+&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_m
+ore=3D1> =20
+
+Enviros Sue BLM To Stop Methane Venting Rule Delay
+<https://www.law360.com/publicpolicy/articles/996592/enviros-sue-blm-to-
+stop-methane-venting-rule-delay?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2304
+2c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+A coalition of environmental groups filed suit on Tuesday in California
+federal court alleging that the U.S. Bureau of Land Management=E2=80=99s
+decision to suspend several provisions of a rule limiting oil and gas
+companies from venting and flaring methane on public lands wasn=E2=80=99t
+supported by the evidence. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996592/enviros-sue-blm-to-
+stop-methane-venting-rule-delay?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2304
+2c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read
+_more=3D1> =20
+
+HEALTH & LIFE SCIENCES
+
+________________________________
+
+
+Trump Asks High Court To Pause Abortion Order For Detainee
+<https://www.law360.com/publicpolicy/articles/996498/trump-asks-high-cou
+rt-to-pause-abortion-order-for-detainee?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy> =20
+
+The Trump administration on Monday asked the U.S. Supreme Court to step
+in and temporarily block a court order allowing for an abortion sought
+by a teenage girl under detention for allegedly being in the U.S.
+without authorization, arguing that it should not be forced to
+=E2=80=9Cfacilitate=E2=80=9D an unnecessary procedure. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996498/trump-asks-high-cou
+rt-to-pause-abortion-order-for-detainee?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy&read_more=3D1> =20
+
+MEDIA & ENTERTAINMENT
+
+________________________________
+
+
+County Votes To Move Miami Open To Dolphins Stadium
+<https://www.law360.com/publicpolicy/articles/996513/county-votes-to-mov
+e-miami-open-to-dolphins-stadium?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb230
+42c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>  =
+
+
+The Miami-Dade County commissioners signed off Tuesday on a long-term
+deal to move IMG Worldwide Inc.'s Miami Open tennis tournament to the
+Miami Dolphins' stadium. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996513/county-votes-to-mov
+e-miami-open-to-dolphins-stadium?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb230
+42c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&rea
+d_more=3D1> =20
+
+TRANSPORTATION & INFRASTRUCTURE
+
+________________________________
+
+
+Nashville Fairground Suit Nixed As MLS Comes To Town
+<https://www.law360.com/publicpolicy/articles/996421/nashville-fairgroun
+d-suit-nixed-as-mls-comes-to-town?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =
+=20
+
+A Tennessee chancellor has slapped down a lawsuit brought by Nashville
+activists to stop plans to build a new Major League Soccer stadium on a
+state fairground site, agreeing with the metropolitan government=E2=80=99s
+argument that the activists don=E2=80=99t have standing and that a new stadium
+won=E2=80=99t hurt existing fairground activities. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996421/nashville-fairgroun
+d-suit-nixed-as-mls-comes-to-town?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&re
+ad_more=3D1> =20
+
+EMPLOYMENT
+
+________________________________
+
+
+Microsoft Ends Forced Arbitration Of Sex Harassment Claims
+<https://www.law360.com/publicpolicy/articles/996424/microsoft-ends-forc
+ed-arbitration-of-sex-harassment-claims?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy> =20
+
+Microsoft announced Tuesday it is doing away with contractual
+requirements that its employees pursue sexual harassment claims in
+arbitration rather than in court and is backing bipartisan legislation
+that would ban the enforcement of such closed-door conditions. Read more
+=C2=BB
+<https://www.law360.com/publicpolicy/articles/996424/microsoft-ends-forc
+ed-arbitration-of-sex-harassment-claims?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy&read_more=3D1> =20
+
+CONSUMER PROTECTION
+
+________________________________
+
+
+Industry, GOP AGs Say Constitution Backs Trump=E2=80=99s CFPB Pick
+<https://www.law360.com/publicpolicy/articles/996193/industry-gop-ags-sa
+y-constitution-backs-trump-s-cfpb-pick?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy> =20
+
+Industry groups and Republican attorneys general on Monday blasted
+Consumer Financial Protection Bureau Deputy Director Leandra English=E2=80=99s
+bid to oust the White House official President Donald Trump chose to
+serve as the bureau=E2=80=99s acting director. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996193/industry-gop-ags-sa
+y-constitution-backs-trump-s-cfpb-pick?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy&read_more=3D1> =20
+
+16 AGs Blast DOT Move To Nix Baggage Fee Disclosure Rule
+<https://www.law360.com/publicpolicy/articles/996665/16-ags-blast-dot-mo
+ve-to-nix-baggage-fee-disclosure-rule?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84
+bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolic
+y> =20
+
+Attorneys general from Pennsylvania, California, New York, Washington,
+D.C., and 12 other states on Tuesday blasted the U.S. Department of
+Transportation=E2=80=99s decision to withdraw an Obama-era proposal requiring
+airlines to disclose baggage fee information at all points during a
+ticket sale, a move the AGs said would hamper the country=E2=80=99s
+transportation sector. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996665/16-ags-blast-dot-mo
+ve-to-nix-baggage-fee-disclosure-rule?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84
+bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolic
+y&read_more=3D1> =20
+
+AEROSPACE & DEFENSE
+
+________________________________
+
+
+Trump Rattles Trade Saber To Buttress Security Plan
+<https://www.law360.com/publicpolicy/articles/996058/trump-rattles-trade
+-saber-to-buttress-security-plan?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb230
+42c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>  =
+
+
+President Donald Trump=E2=80=99s blueprint for U.S. national security released
+Monday borrows heavily from his trade agenda, placing an onus on strong
+enforcement and tighter economic engagement with close allies. Read more
+=C2=BB
+<https://www.law360.com/publicpolicy/articles/996058/trump-rattles-trade
+-saber-to-buttress-security-plan?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb230
+42c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&rea
+d_more=3D1> =20
+
+TAX
+
+________________________________
+
+
+Writing Tax Reform Rules To Challenge IRS, Experts Say
+<https://www.law360.com/publicpolicy/articles/996409/writing-tax-reform-
+rules-to-challenge-irs-experts-say?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+With the Tax Cuts and Jobs Act set for passage this week, the Internal
+Revenue Service has until the end of the year to write regulations
+implementing many of the measures in the bill while also meeting the
+standards for valid guidance under the Administrative Procedure Act, a
+Washington tax attorney noted. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996409/writing-tax-reform-
+rules-to-challenge-irs-experts-say?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&r
+ead_more=3D1> =20
+
+Use Tax Expansion Could Raise $13.4B For States, GAO Says
+<https://www.law360.com/publicpolicy/articles/996198/use-tax-expansion-c
+ould-raise-13-4b-for-states-gao-says?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+> =20
+
+State and local governments across the nation will miss out on between
+$8.5 billion and $13.4 billion in revenue this year because they do not
+have the authority to require use tax collection from remote sellers
+without nexus in their jurisdictions, according to a report from the
+Government Accountability Office. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996198/use-tax-expansion-c
+ould-raise-13-4b-for-states-gao-says?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+&read_more=3D1> =20
+
+Californians Target Property Tax 'Loophole' In Initiative
+<https://www.law360.com/publicpolicy/articles/996145/californians-target
+-property-tax-loophole-in-initiative?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+> =20
+
+A ballot initiative was proposed in California that would close a
+so-called loophole for those paying industrial property taxes, so that
+schools would have better funding. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996145/californians-target
+-property-tax-loophole-in-initiative?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84b
+b23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy
+&read_more=3D1> =20
+
+IRS Can't Collect $37.6M In Preparer Fees During Appeal
+<https://www.law360.com/publicpolicy/articles/996253/irs-can-t-collect-3
+7-6m-in-preparer-fees-during-appeal?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb
+23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+More than a million tax preparers will have a little more jingle in
+their pockets this holiday season after the IRS failed on Monday to
+convince a skeptical D.C. federal court judge to let the agency collect
+$37.6 million in preparer fees while it appeals the court=E2=80=99s June order
+striking down the fees. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996253/irs-can-t-collect-3
+7-6m-in-preparer-fees-during-appeal?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb
+23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&
+read_more=3D1> =20
+
+UK Tax Authority Unveils Agenda Against Tax Avoidance
+<https://www.law360.com/publicpolicy/articles/996650/uk-tax-authority-un
+veils-agenda-against-tax-avoidance?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+The U.K. tax authority has staked out its agenda to curb tax avoidance,
+including a plan to support the British government=E2=80=99s effort to
+criminalize companies=E2=80=99 failure to adopt anti-evasion measures, and
+possibly to make multinationals=E2=80=99 reported finances available to the
+public.   Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996650/uk-tax-authority-un
+veils-agenda-against-tax-avoidance?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&r
+ead_more=3D1> =20
+
+BANKRUPTCY
+
+________________________________
+
+
+Probe Initiated After $6B Puerto Rico Gov't Stash Revealed
+<https://www.law360.com/publicpolicy/articles/996666/probe-initiated-aft
+er-6b-puerto-rico-gov-t-stash-revealed?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy> =20
+
+The Puerto Rican financial oversight board on Tuesday said it will
+launch an independent probe into the source of more than $6 billion in
+cash the bankrupt island=E2=80=99s government is reportedly holding in several
+bank accounts. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996666/probe-initiated-aft
+er-6b-puerto-rico-gov-t-stash-revealed?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy&read_more=3D1> =20
+
+IMMIGRATION
+
+________________________________
+
+
+Sanctuary City Order Wasn't Overreach, 9th Circ. Told
+<https://www.law360.com/publicpolicy/articles/996292/sanctuary-city-orde
+r-wasn-t-overreach-9th-circ-told?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb230
+42c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>  =
+
+
+The Trump administration on Monday told the Ninth Circuit that thanks to
+his misreading, a district judge wrongly blocked the president=E2=80=99s
+executive order to withhold federal funds from so-called sanctuary
+cities when it was within the bounds of existing executive branch
+authority. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996292/sanctuary-city-orde
+r-wasn-t-overreach-9th-circ-told?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb230
+42c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&rea
+d_more=3D1> =20
+
+NATIVE AMERICAN
+
+________________________________
+
+
+Indian Child Act Suit Rightly Tossed, Feds Tell 9th Circ.
+<https://www.law360.com/publicpolicy/articles/996455/indian-child-act-su
+it-rightly-tossed-feds-tell-9th-circ-?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84
+bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolic
+y> =20
+
+The federal government told the Ninth Circuit that a lower court was
+right to throw out a putative class action alleging several portions of
+the Indian Child Welfare Act discriminated based on race and violated
+the U.S. Constitution, arguing that adoptions in the case had made it
+entirely moot. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996455/indian-child-act-su
+it-rightly-tossed-feds-tell-9th-circ-?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84
+bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolic
+y&read_more=3D1> =20
+
+TELECOMMUNICATIONS
+
+________________________________
+
+
+GOP Rep. Blackburn Introduces 'Open Internet' Bill
+<https://www.law360.com/publicpolicy/articles/996672/gop-rep-blackburn-i
+ntroduces-open-internet-bill?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&
+utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+Rep. Marsha Blackburn, R-Tenn., on Tuesday introduced the Open Internet
+Preservation Act, a bill that would prohibit internet service providers
+from blocking or throttling internet content, following the FCC=E2=80=99s
+controversial vote on Thursday to repeal Obama-era net neutrality rules
+mandating that ISPs treat all online content equally. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996672/gop-rep-blackburn-i
+ntroduces-open-internet-bill?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&
+utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_mo
+re=3D1> =20
+
+Trump Security Plan's 5G Stance Is Key, Wireless Group Says
+<https://www.law360.com/publicpolicy/articles/996483/trump-security-plan
+-s-5g-stance-is-key-wireless-group-says?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy> =20
+
+The U.S. wireless industry's primary trade group Monday praised the
+Trump administration for including wireless communications and
+infrastructure improvements among priorities laid out in a national
+security strategy outline released this week, saying advances in
+next-generation wireless technology will help the U.S. establish itself
+as the global leader in 5G technology. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996483/trump-security-plan
+-s-5g-stance-is-key-wireless-group-says?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy&read_more=3D1> =20
+
+FirstNet Racks Up 40 States Ahead Of Opt-In Deadline
+<https://www.law360.com/publicpolicy/articles/996541/firstnet-racks-up-4
+0-states-ahead-of-opt-in-deadline?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =
+=20
+
+Emergency response network FirstNet, a multibillion-dollar project
+backed by AT&T aimed at delivering wireless broadband service to first
+responders, has now been adopted in 40 states, with Colorado, Illinois,
+South Dakota and Wisconsin joining this past week. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996541/firstnet-racks-up-4
+0-states-ahead-of-opt-in-deadline?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&re
+ad_more=3D1> =20
+
+EXPERT ANALYSIS
+
+________________________________
+
+
+Understanding The Tax Bill's Impact On Businesses
+<https://www.law360.com/publicpolicy/articles/996647/understanding-the-t
+ax-bill-s-impact-on-businesses?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042
+c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+The final language of the Tax Cuts and Jobs Act, which passed in the
+U.S. House on Tuesday and is scheduled for Senate consideration on
+Wednesday, has many provisions related to taxation of businesses that
+will profoundly affect how taxpayers carry out their business and
+nonbusiness activity, says Steven Klein of Sher Garner Cahill Richter
+Klein & Hilbert LLC. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996647/understanding-the-t
+ax-bill-s-impact-on-businesses?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042
+c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_
+more=3D1> =20
+
+Net Neutrality Rollback Raises Significant Questions
+<https://www.law360.com/publicpolicy/articles/996531/net-neutrality-roll
+back-raises-significant-questions?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =
+=20
+
+The Restoring Internet Freedom order leaves much to be desired in terms
+of clarity, particularly in presenting sound legal principles that
+govern claims against internet service providers. No question is more
+important than who is going to protect businesses and consumers, says
+Lauren Coppola of Partridge Snow & Hahn LLP. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996531/net-neutrality-roll
+back-raises-significant-questions?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&re
+ad_more=3D1> =20
+
+Are The Stars Aligning For Fannie And Freddie Reform?
+<https://www.law360.com/publicpolicy/articles/996260/are-the-stars-align
+ing-for-fannie-and-freddie-reform-?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+Jeb Hensarling, the Texas Republican who chairs the House Financial
+Services Committee, recently made it clear that he will negotiate and
+compromise when it comes to a reform plan for Fannie Mae and Freddie
+Mac. This represents a true opening for a bipartisan housing finance
+bill, says David Reiss of Brooklyn Law School. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996260/are-the-stars-align
+ing-for-fannie-and-freddie-reform-?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&r
+ead_more=3D1> =20
+
+2017: A Year Of Transition At The CPSC
+<https://www.law360.com/publicpolicy/articles/995678/2017-a-year-of-tran
+sition-at-the-cpsc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source
+=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+Democrats still hold the majority of seats on the U.S. Consumer Product
+Safety Commission, but new appointees are on the way. Recent rulemaking
+activity suggests that the current majority is trying to advance their
+key priorities before the makeup of the commission changes, say Sheila
+Millar and Nathan Cardon of Keller and Heckman LLP. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/995678/2017-a-year-of-tran
+sition-at-the-cpsc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source
+=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_more=3D1>  =
+
+
+Catching Our Balance: Opportunities For ESA Reform
+<https://www.law360.com/publicpolicy/articles/995936/catching-our-balanc
+e-opportunities-for-esa-reform?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042
+c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+When Congress enacted the Endangered Species Act, it emphasized the need
+to strike the proper balance between protecting species and allowing
+productive human activities. Now, the Trump administration has the
+opportunity =E2=80=94 and seemingly, the appetite =E2=80=94 to do more to ref=
+ine the ESA
+program, says Kerry McGrath of Hunton & Williams LLP. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/995936/catching-our-balanc
+e-opportunities-for-esa-reform?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042
+c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_
+more=3D1> =20
+
+A Closer Look At 2 Pro-Business Reversals At The NLRB
+<https://www.law360.com/publicpolicy/articles/995420/a-closer-look-at-2-
+pro-business-reversals-at-the-nlrb?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+In a return to more employer-friendly standards, last week the National
+Labor Relations Board issued two significant decisions that will help
+ease employers' risk of engaging in unfair labor practices under the
+National Labor Relations Act, says Steven Gutierrez of Holland & Hart
+LLP. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/995420/a-closer-look-at-2-
+pro-business-reversals-at-the-nlrb?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&r
+ead_more=3D1> =20
+
+LEGAL INDUSTRY=20
+________________________________
+
+
+Analysis
+
+How Clients Are Sharing Info On Law Firm Performance
+<https://www.law360.com/publicpolicy/articles/996200/how-clients-are-sha
+ring-info-on-law-firm-performance?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =
+=20
+
+Many corporate legal departments still use word-of-mouth as their
+primary method of finding the best law firms to represent them, but a
+few pioneers are stepping outside the box and looking for new ways to
+bring law firm performance data into the future. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996200/how-clients-are-sha
+ring-info-on-law-firm-performance?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&re
+ad_more=3D1> =20
+
+In Kozinski Fallout, Law Clerks Urged To Report Misconduct
+<https://www.law360.com/publicpolicy/articles/996379/in-kozinski-fallout
+-law-clerks-urged-to-report-misconduct?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy> =20
+
+The Federal Judicial Center amended a law clerk handbook Monday to
+clarify that confidentiality protocols do not prevent clerks from
+reporting harassment, in the wake of the sexual harassment scandal
+surrounding now-retired Ninth Circuit Judge Alex Kozinski. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996379/in-kozinski-fallout
+-law-clerks-urged-to-report-misconduct?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy&read_more=3D1> =20
+
+More BigLaw Firms Seeing Data Breaches
+<https://www.law360.com/publicpolicy/articles/996114/more-biglaw-firms-s
+eeing-data-breaches?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_sourc
+e=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =20
+
+More lawyers are reporting firm data breaches, and while unauthorized
+access to client data is slightly down, BigLaw firms have been hit the
+hardest in this area, according to the American Bar Association=E2=80=99s lat=
+est
+technology report. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996114/more-biglaw-firms-s
+eeing-data-breaches?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_sourc
+e=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&read_more=3D1> =
+=20
+
+ABA Data Shows Noncompliant Law Schools Still Lagging
+<https://www.law360.com/publicpolicy/articles/996358/aba-data-shows-nonc
+ompliant-law-schools-still-lagging?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>
+A number of law schools that have been found to be noncompliant with the
+American Bar Association=E2=80=99s rules regarding admissions standards have =
+not
+significantly improved the credentials of their incoming classes in the
+past year, new data released by the ABA shows. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996358/aba-data-shows-nonc
+ompliant-law-schools-still-lagging?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2
+3042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&r
+ead_more=3D1> =20
+
+Fla. Bar Taps Vero Beach Atty As Next President-Elect
+<https://www.law360.com/publicpolicy/articles/996714/fla-bar-taps-vero-b
+each-atty-as-next-president-elect?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy> =
+=20
+
+The Florida Bar announced Tuesday that Vero Beach attorney John M.
+Stewart will be the next president-elect designate of the bar and will
+helm the organization for the 2019-2020 year. Read more =C2=BB
+<https://www.law360.com/publicpolicy/articles/996714/fla-bar-taps-vero-b
+each-atty-as-next-president-elect?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23
+042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy&re
+ad_more=3D1> =20
+
+JOBS
+Search full listings <http://jobs.law360.com/>  or advertise your job
+opening <http://jobsearch.law360.com/jobs/products>  =09
+Law360 Pro Say Podcast <https://www.law360.com/podcasts> =20
+
+Listen to our new podcast here <https://www.law360.com/podcasts>=20
+
+LAW FIRMS
+
+Akin Gump
+<https://www.law360.com/firms/akin-gump?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy>=20
+
+Baker McKenzie
+<https://www.law360.com/firms/baker-mckenzie?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Ballard Spahr
+<https://www.law360.com/firms/ballard-spahr?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Bressler Amery
+<https://www.law360.com/firms/bressler-amery?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Caplin & Drysdale
+<https://www.law360.com/firms/caplin-drysdale?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+Clark Hill
+<https://www.law360.com/firms/clark-hill?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-c
+c84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpo
+licy>=20
+
+Cooper & Kirk
+<https://www.law360.com/firms/cooper-kirk?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+Duane Morris
+<https://www.law360.com/firms/duane-morris?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Earthjustice
+<https://www.law360.com/firms/earthjustice?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Fox Rothschild
+<https://www.law360.com/firms/fox-rothschild?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Fragomen Del Rey
+<https://www.law360.com/firms/fragomen-del-rey?nl_pk=3D4d0a4e6f-d80f-4498-
+bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpu
+blicpolicy>=20
+
+Gupta Wessler
+<https://www.law360.com/firms/gupta-wessler?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Holland & Hart
+<https://www.law360.com/firms/holland-hart?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Hunton & Williams
+<https://www.law360.com/firms/hunton-williams?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+Keker Van Nest & Peters
+<https://www.law360.com/firms/keker-van-nest-peters?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Keller and Heckman
+<https://www.law360.com/firms/keller-and-heckman?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+Mayer Brown
+<https://www.law360.com/firms/mayer-brown?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+McDermott Will
+<https://www.law360.com/firms/mcdermott-will?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Miller & Chevalier
+<https://www.law360.com/firms/miller-chevalier?nl_pk=3D4d0a4e6f-d80f-4498-
+bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpu
+blicpolicy>=20
+
+Motley Rice
+<https://www.law360.com/firms/motley-rice?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+Norris McLaughlin
+<https://www.law360.com/firms/norris-mclaughlin?nl_pk=3D4d0a4e6f-d80f-4498
+-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dp
+ublicpolicy>=20
+
+Partridge Snow
+<https://www.law360.com/firms/partridge-snow?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Paul Weiss
+<https://www.law360.com/firms/paul-weiss?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-c
+c84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpo
+licy>=20
+
+Quinn Emanuel
+<https://www.law360.com/firms/quinn-emanuel?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Saul Ewing
+<https://www.law360.com/firms/saul-ewing?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-c
+c84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpo
+licy>=20
+
+Sher Garner
+<https://www.law360.com/firms/sher-garner?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+Walsh Pizzi
+<https://www.law360.com/firms/walsh-pizzi?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+Western Environmental Law Center
+<https://www.law360.com/firms/western-environmental-law-center?nl_pk=3D4d0
+a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail
+&utm_campaign=3Dpublicpolicy>=20
+
+COMPANIES
+
+21st Century Fox Inc.
+<https://www.law360.com/companies/21st-century-fox-inc?nl_pk=3D4d0a4e6f-d8
+0f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_cam
+paign=3Dpublicpolicy>=20
+
+AT&T Inc.
+<https://www.law360.com/companies/at-t-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Air Transport Association of America
+<https://www.law360.com/companies/air-transport-association-of-america?n
+l_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medi
+um=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Altera Corporation
+<https://www.law360.com/companies/altera-corporation?nl_pk=3D4d0a4e6f-d80f
+-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campa
+ign=3Dpublicpolicy>=20
+
+American Bar Association
+<https://www.law360.com/companies/american-bar-association?nl_pk=3D4d0a4e6
+f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm
+_campaign=3Dpublicpolicy>=20
+
+American Civil Liberties Union
+<https://www.law360.com/companies/american-civil-liberties-union?nl_pk=3D4
+d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Dema
+il&utm_campaign=3Dpublicpolicy>=20
+
+Arkema SA
+<https://www.law360.com/companies/arkema-sa?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Association of Corporate Counsel
+<https://www.law360.com/companies/association-of-corporate-counsel?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+Bank of America Corporation
+<https://www.law360.com/companies/bank-of-america-corporation?nl_pk=3D4d0a
+4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&
+utm_campaign=3Dpublicpolicy>=20
+
+Best Buy Co.
+<https://www.law360.com/companies/best-buy-co?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+CTIA
+<https://www.law360.com/companies/ctia?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy>=20
+
+CUNA Mutual Group
+<https://www.law360.com/companies/cuna-mutual-group?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Center for Biological Diversity Inc.
+<https://www.law360.com/companies/center-for-biological-diversity-inc?nl
+_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_mediu
+m=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Citigroup Inc.
+<https://www.law360.com/companies/citigroup-inc?nl_pk=3D4d0a4e6f-d80f-4498
+-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dp
+ublicpolicy>=20
+
+Clean Air Task Force
+<https://www.law360.com/companies/clean-air-task-force?nl_pk=3D4d0a4e6f-d8
+0f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_cam
+paign=3Dpublicpolicy>=20
+
+Comcast Corporation
+<https://www.law360.com/companies/comcast-corporation?nl_pk=3D4d0a4e6f-d80
+f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_camp
+aign=3Dpublicpolicy>=20
+
+District of Columbia Bar Association
+<https://www.law360.com/companies/district-of-columbia-bar-association?n
+l_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medi
+um=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Ennis Inc.
+<https://www.law360.com/companies/ennis-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Environmental Defense Fund Inc.
+<https://www.law360.com/companies/environmental-defense-fund-inc?nl_pk=3D4
+d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Dema
+il&utm_campaign=3Dpublicpolicy>=20
+
+Etsy Inc.
+<https://www.law360.com/companies/etsy-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Fannie Mae
+<https://www.law360.com/companies/fannie-mae?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Florida Bar Association
+<https://www.law360.com/companies/florida-bar-association?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Freddie Mac
+<https://www.law360.com/companies/freddie-mac?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+General Motors
+<https://www.law360.com/companies/general-motors?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+Goldman Sachs Group Inc.
+<https://www.law360.com/companies/goldman-sachs-group-inc?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Google Inc.
+<https://www.law360.com/companies/google-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Home Depot, Inc.
+<https://www.law360.com/companies/home-depot-inc?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+IMG Worldwide Inc.
+<https://www.law360.com/companies/img-worldwide-inc?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Inter IKEA Systems BV
+<https://www.law360.com/companies/inter-ikea-systems-bv?nl_pk=3D4d0a4e6f-d
+80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_ca
+mpaign=3Dpublicpolicy>=20
+
+JPMorgan Chase & Co.
+<https://www.law360.com/companies/jpmorgan-chase-co?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Keurig Green Mountain Inc.
+<https://www.law360.com/companies/keurig-green-mountain-inc?nl_pk=3D4d0a4e
+6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&ut
+m_campaign=3Dpublicpolicy>=20
+
+Major League Soccer LLC
+<https://www.law360.com/companies/major-league-soccer-llc?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+MasterCard Incorporated
+<https://www.law360.com/companies/mastercard-incorporated?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Microsoft Corporation
+<https://www.law360.com/companies/microsoft-corporation?nl_pk=3D4d0a4e6f-d
+80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_ca
+mpaign=3Dpublicpolicy>=20
+
+Monsanto Company
+<https://www.law360.com/companies/monsanto-company?nl_pk=3D4d0a4e6f-d80f-4
+498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaig
+n=3Dpublicpolicy>=20
+
+Morgan Stanley
+<https://www.law360.com/companies/morgan-stanley?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+National Association of Manufacturers
+<https://www.law360.com/companies/national-association-of-manufacturers?
+nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_med
+ium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+National Association of Realtors
+<https://www.law360.com/companies/national-association-of-realtors?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+Natural Resources Defense Council
+<https://www.law360.com/companies/natural-resources-defense-council?nl_p
+k=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3D
+email&utm_campaign=3Dpublicpolicy>=20
+
+New York Times Co.
+<https://www.law360.com/companies/new-york-times-co?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Nike Inc.
+<https://www.law360.com/companies/nike-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Sierra Club
+<https://www.law360.com/companies/sierra-club?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+Spectrum Brands, Inc.
+<https://www.law360.com/companies/spectrum-brands-inc?nl_pk=3D4d0a4e6f-d80
+f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_camp
+aign=3Dpublicpolicy>=20
+
+Tesla Motors Inc.
+<https://www.law360.com/companies/tesla-motors-inc?nl_pk=3D4d0a4e6f-d80f-4
+498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaig
+n=3Dpublicpolicy>=20
+
+The Bank of New York Mellon Corp.
+<https://www.law360.com/companies/the-bank-of-new-york-mellon-corp?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+The Boeing Company
+<https://www.law360.com/companies/the-boeing-company?nl_pk=3D4d0a4e6f-d80f
+-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campa
+ign=3Dpublicpolicy>=20
+
+Twitter Inc.
+<https://www.law360.com/companies/twitter-inc?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+U.S. Chamber of Commerce
+<https://www.law360.com/companies/u-s-chamber-of-commerce?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Verizon Communications
+<https://www.law360.com/companies/verizon-communications?nl_pk=3D4d0a4e6f-
+d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_c
+ampaign=3Dpublicpolicy>=20
+
+Wayfair LLC
+<https://www.law360.com/companies/wayfair-llc?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+Wells Fargo & Co.
+<https://www.law360.com/companies/wells-fargo-co?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+Yahoo! Inc.
+<https://www.law360.com/companies/yahoo-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Yelp Inc.
+<https://www.law360.com/companies/yelp-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+YouTube Inc.
+<https://www.law360.com/companies/youtube-inc?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+eBay Inc.
+<https://www.law360.com/companies/ebay-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+GOVERNMENT AGENCIES
+
+Bureau of Citizenship and Immigration Services
+<https://www.law360.com/agencies/bureau-of-citizenship-and-immigration-s
+ervices?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter
+&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Bureau of Indian Affairs
+<https://www.law360.com/agencies/bureau-of-indian-affairs?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Bureau of Land Management
+<https://www.law360.com/agencies/bureau-of-land-management?nl_pk=3D4d0a4e6
+f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm
+_campaign=3Dpublicpolicy>=20
+
+California Environmental Protection Agency
+<https://www.law360.com/agencies/california-environmental-protection-age
+ncy?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm
+_medium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+California State Board of Equalization
+<https://www.law360.com/agencies/california-state-board-of-equalization?
+nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_med
+ium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Congressional Budget Office
+<https://www.law360.com/agencies/congressional-budget-office?nl_pk=3D4d0a4
+e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&u
+tm_campaign=3Dpublicpolicy>=20
+
+Consumer Financial Protection Bureau
+<https://www.law360.com/agencies/consumer-financial-protection-bureau?nl
+_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_mediu
+m=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Department of Commerce
+<https://www.law360.com/agencies/department-of-commerce?nl_pk=3D4d0a4e6f-d
+80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_ca
+mpaign=3Dpublicpolicy>=20
+
+Executive Office of the President
+<https://www.law360.com/agencies/executive-office-of-the-president?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+Export-Import Bank of the United States
+<https://www.law360.com/agencies/export-import-bank-of-the-united-states
+?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_me
+dium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Federal Communications Commission
+<https://www.law360.com/agencies/federal-communications-commission?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+Federal Deposit Insurance Corp.
+<https://www.law360.com/agencies/federal-deposit-insurance-corp?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+Federal Housing Administration
+<https://www.law360.com/agencies/federal-housing-administration?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+Federal Judicial Center
+<https://www.law360.com/agencies/federal-judicial-center?nl_pk=3D4d0a4e6f-
+d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_c
+ampaign=3Dpublicpolicy>=20
+
+Federal Reserve System
+<https://www.law360.com/agencies/federal-reserve-system?nl_pk=3D4d0a4e6f-d
+80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_ca
+mpaign=3Dpublicpolicy>=20
+
+Federal Trade Commission
+<https://www.law360.com/agencies/federal-trade-commission?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Fish and Wildlife Service
+<https://www.law360.com/agencies/fish-and-wildlife-service?nl_pk=3D4d0a4e6
+f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm
+_campaign=3Dpublicpolicy>=20
+
+Gila River Indian Community
+<https://www.law360.com/agencies/gila-river-indian-community?nl_pk=3D4d0a4
+e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&u
+tm_campaign=3Dpublicpolicy>=20
+
+Government Accountability Office
+<https://www.law360.com/agencies/government-accountability-office?nl_pk=3D
+4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Dem
+ail&utm_campaign=3Dpublicpolicy>=20
+
+Internal Revenue Service
+<https://www.law360.com/agencies/internal-revenue-service?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Missouri Department of Revenue
+<https://www.law360.com/agencies/missouri-department-of-revenue?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+NAFTA
+<https://www.law360.com/agencies/nafta?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy>=20
+
+National Labor Relations Board
+<https://www.law360.com/agencies/national-labor-relations-board?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+National Marine Fisheries Service
+<https://www.law360.com/agencies/national-marine-fisheries-service?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+Navajo Nation
+<https://www.law360.com/agencies/navajo-nation?nl_pk=3D4d0a4e6f-d80f-4498-
+bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpu
+blicpolicy>=20
+
+New Jersey Attorney General's Office
+<https://www.law360.com/agencies/new-jersey-attorney-general-s-office?nl
+_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_mediu
+m=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+New Jersey Department of Environmental Protection
+<https://www.law360.com/agencies/new-jersey-department-of-environmental-
+protection?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewslet
+ter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+New York Attorney General's Office
+<https://www.law360.com/agencies/new-york-attorney-general-s-office?nl_p
+k=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3D
+email&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Consumer Product Safety Commission
+<https://www.law360.com/agencies/u-s-consumer-product-safety-commission?
+nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_med
+ium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Customs and Border Protection
+<https://www.law360.com/agencies/u-s-customs-and-border-protection?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Department of Homeland Security
+<https://www.law360.com/agencies/u-s-department-of-homeland-security?nl_
+pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium
+=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Department of Justice
+<https://www.law360.com/agencies/u-s-department-of-justice?nl_pk=3D4d0a4e6
+f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm
+_campaign=3Dpublicpolicy>=20
+
+U.S. Department of Transportation
+<https://www.law360.com/agencies/u-s-department-of-transportation?nl_pk=3D
+4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Dem
+ail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Department of the Interior
+<https://www.law360.com/agencies/u-s-department-of-the-interior?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Department of the Treasury
+<https://www.law360.com/agencies/u-s-department-of-the-treasury?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Environmental Protection Agency
+<https://www.law360.com/agencies/u-s-environmental-protection-agency?nl_
+pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium
+=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. House of Representatives
+<https://www.law360.com/agencies/u-s-house-of-representatives?nl_pk=3D4d0a
+4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&
+utm_campaign=3Dpublicpolicy>=20
+
+U.S. Senate
+<https://www.law360.com/agencies/u-s-senate?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+U.S. Supreme Court
+<https://www.law360.com/agencies/u-s-supreme-court?nl_pk=3D4d0a4e6f-d80f-4
+498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaig
+n=3Dpublicpolicy>=20
+
+World Trade Organization
+<https://www.law360.com/agencies/world-trade-organization?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+ =09
+
+=20
+
+
+________________________________
+
+LAW FIRMS=09
+Ballard Spahr
+<https://www.law360.com/firms/ballard-spahr?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Gupta Wessler
+<https://www.law360.com/firms/gupta-wessler?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Akin Gump
+<https://www.law360.com/firms/akin-gump?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc
+84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpol
+icy>=20
+
+Baker McKenzie
+<https://www.law360.com/firms/baker-mckenzie?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Bressler Amery
+<https://www.law360.com/firms/bressler-amery?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Caplin & Drysdale
+<https://www.law360.com/firms/caplin-drysdale?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+Clark Hill
+<https://www.law360.com/firms/clark-hill?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-c
+c84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpo
+licy>=20
+
+Cooper & Kirk
+<https://www.law360.com/firms/cooper-kirk?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+Duane Morris
+<https://www.law360.com/firms/duane-morris?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Earthjustice
+<https://www.law360.com/firms/earthjustice?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Fox Rothschild
+<https://www.law360.com/firms/fox-rothschild?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Fragomen Del Rey
+<https://www.law360.com/firms/fragomen-del-rey?nl_pk=3D4d0a4e6f-d80f-4498-
+bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpu
+blicpolicy>=20
+
+Holland & Hart
+<https://www.law360.com/firms/holland-hart?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Hunton & Williams
+<https://www.law360.com/firms/hunton-williams?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+Keker Van Nest & Peters
+<https://www.law360.com/firms/keker-van-nest-peters?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Keller and Heckman
+<https://www.law360.com/firms/keller-and-heckman?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+Mayer Brown
+<https://www.law360.com/firms/mayer-brown?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+McDermott Will
+<https://www.law360.com/firms/mcdermott-will?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Miller & Chevalier
+<https://www.law360.com/firms/miller-chevalier?nl_pk=3D4d0a4e6f-d80f-4498-
+bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpu
+blicpolicy>=20
+
+Motley Rice
+<https://www.law360.com/firms/motley-rice?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+Norris McLaughlin
+<https://www.law360.com/firms/norris-mclaughlin?nl_pk=3D4d0a4e6f-d80f-4498
+-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dp
+ublicpolicy>=20
+
+Partridge Snow
+<https://www.law360.com/firms/partridge-snow?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Paul Weiss
+<https://www.law360.com/firms/paul-weiss?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-c
+c84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpo
+licy>=20
+
+Quinn Emanuel
+<https://www.law360.com/firms/quinn-emanuel?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Saul Ewing
+<https://www.law360.com/firms/saul-ewing?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-c
+c84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpo
+licy>=20
+
+Sher Garner
+<https://www.law360.com/firms/sher-garner?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+Walsh Pizzi
+<https://www.law360.com/firms/walsh-pizzi?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-
+cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicp
+olicy>=20
+
+Western Environmental Law Center
+<https://www.law360.com/firms/western-environmental-law-center?nl_pk=3D4d0
+a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail
+&utm_campaign=3Dpublicpolicy>=20
+
+ =09
+COMPANIES=09
+AT&T Inc.
+<https://www.law360.com/companies/at-t-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+American Bar Association
+<https://www.law360.com/companies/american-bar-association?nl_pk=3D4d0a4e6
+f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm
+_campaign=3Dpublicpolicy>=20
+
+Google Inc.
+<https://www.law360.com/companies/google-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Natural Resources Defense Council
+<https://www.law360.com/companies/natural-resources-defense-council?nl_p
+k=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3D
+email&utm_campaign=3Dpublicpolicy>=20
+
+Twitter Inc.
+<https://www.law360.com/companies/twitter-inc?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+U.S. Chamber of Commerce
+<https://www.law360.com/companies/u-s-chamber-of-commerce?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+21st Century Fox Inc.
+<https://www.law360.com/companies/21st-century-fox-inc?nl_pk=3D4d0a4e6f-d8
+0f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_cam
+paign=3Dpublicpolicy>=20
+
+Air Transport Association of America
+<https://www.law360.com/companies/air-transport-association-of-america?n
+l_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medi
+um=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Altera Corporation
+<https://www.law360.com/companies/altera-corporation?nl_pk=3D4d0a4e6f-d80f
+-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campa
+ign=3Dpublicpolicy>=20
+
+American Civil Liberties Union
+<https://www.law360.com/companies/american-civil-liberties-union?nl_pk=3D4
+d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Dema
+il&utm_campaign=3Dpublicpolicy>=20
+
+Arkema SA
+<https://www.law360.com/companies/arkema-sa?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Association of Corporate Counsel
+<https://www.law360.com/companies/association-of-corporate-counsel?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+Bank of America Corporation
+<https://www.law360.com/companies/bank-of-america-corporation?nl_pk=3D4d0a
+4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&
+utm_campaign=3Dpublicpolicy>=20
+
+Best Buy Co.
+<https://www.law360.com/companies/best-buy-co?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+CTIA
+<https://www.law360.com/companies/ctia?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy>=20
+
+CUNA Mutual Group
+<https://www.law360.com/companies/cuna-mutual-group?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Center for Biological Diversity Inc.
+<https://www.law360.com/companies/center-for-biological-diversity-inc?nl
+_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_mediu
+m=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Citigroup Inc.
+<https://www.law360.com/companies/citigroup-inc?nl_pk=3D4d0a4e6f-d80f-4498
+-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dp
+ublicpolicy>=20
+
+Clean Air Task Force
+<https://www.law360.com/companies/clean-air-task-force?nl_pk=3D4d0a4e6f-d8
+0f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_cam
+paign=3Dpublicpolicy>=20
+
+Comcast Corporation
+<https://www.law360.com/companies/comcast-corporation?nl_pk=3D4d0a4e6f-d80
+f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_camp
+aign=3Dpublicpolicy>=20
+
+District of Columbia Bar Association
+<https://www.law360.com/companies/district-of-columbia-bar-association?n
+l_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medi
+um=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Ennis Inc.
+<https://www.law360.com/companies/ennis-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Environmental Defense Fund Inc.
+<https://www.law360.com/companies/environmental-defense-fund-inc?nl_pk=3D4
+d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Dema
+il&utm_campaign=3Dpublicpolicy>=20
+
+Etsy Inc.
+<https://www.law360.com/companies/etsy-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Fannie Mae
+<https://www.law360.com/companies/fannie-mae?nl_pk=3D4d0a4e6f-d80f-4498-bb
+3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubl
+icpolicy>=20
+
+Florida Bar Association
+<https://www.law360.com/companies/florida-bar-association?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Freddie Mac
+<https://www.law360.com/companies/freddie-mac?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+General Motors
+<https://www.law360.com/companies/general-motors?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+Goldman Sachs Group Inc.
+<https://www.law360.com/companies/goldman-sachs-group-inc?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Home Depot, Inc.
+<https://www.law360.com/companies/home-depot-inc?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+IMG Worldwide Inc.
+<https://www.law360.com/companies/img-worldwide-inc?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Inter IKEA Systems BV
+<https://www.law360.com/companies/inter-ikea-systems-bv?nl_pk=3D4d0a4e6f-d
+80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_ca
+mpaign=3Dpublicpolicy>=20
+
+JPMorgan Chase & Co.
+<https://www.law360.com/companies/jpmorgan-chase-co?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Keurig Green Mountain Inc.
+<https://www.law360.com/companies/keurig-green-mountain-inc?nl_pk=3D4d0a4e
+6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&ut
+m_campaign=3Dpublicpolicy>=20
+
+Major League Soccer LLC
+<https://www.law360.com/companies/major-league-soccer-llc?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+MasterCard Incorporated
+<https://www.law360.com/companies/mastercard-incorporated?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Microsoft Corporation
+<https://www.law360.com/companies/microsoft-corporation?nl_pk=3D4d0a4e6f-d
+80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_ca
+mpaign=3Dpublicpolicy>=20
+
+Monsanto Company
+<https://www.law360.com/companies/monsanto-company?nl_pk=3D4d0a4e6f-d80f-4
+498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaig
+n=3Dpublicpolicy>=20
+
+Morgan Stanley
+<https://www.law360.com/companies/morgan-stanley?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+National Association of Manufacturers
+<https://www.law360.com/companies/national-association-of-manufacturers?
+nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_med
+ium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+National Association of Realtors
+<https://www.law360.com/companies/national-association-of-realtors?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+New York Times Co.
+<https://www.law360.com/companies/new-york-times-co?nl_pk=3D4d0a4e6f-d80f-
+4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai
+gn=3Dpublicpolicy>=20
+
+Nike Inc.
+<https://www.law360.com/companies/nike-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+Sierra Club
+<https://www.law360.com/companies/sierra-club?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+Spectrum Brands, Inc.
+<https://www.law360.com/companies/spectrum-brands-inc?nl_pk=3D4d0a4e6f-d80
+f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_camp
+aign=3Dpublicpolicy>=20
+
+Tesla Motors Inc.
+<https://www.law360.com/companies/tesla-motors-inc?nl_pk=3D4d0a4e6f-d80f-4
+498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaig
+n=3Dpublicpolicy>=20
+
+The Bank of New York Mellon Corp.
+<https://www.law360.com/companies/the-bank-of-new-york-mellon-corp?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+The Boeing Company
+<https://www.law360.com/companies/the-boeing-company?nl_pk=3D4d0a4e6f-d80f
+-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campa
+ign=3Dpublicpolicy>=20
+
+Verizon Communications
+<https://www.law360.com/companies/verizon-communications?nl_pk=3D4d0a4e6f-
+d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_c
+ampaign=3Dpublicpolicy>=20
+
+Wayfair LLC
+<https://www.law360.com/companies/wayfair-llc?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+Wells Fargo & Co.
+<https://www.law360.com/companies/wells-fargo-co?nl_pk=3D4d0a4e6f-d80f-449
+8-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D
+publicpolicy>=20
+
+Yahoo! Inc.
+<https://www.law360.com/companies/yahoo-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+Yelp Inc.
+<https://www.law360.com/companies/yelp-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+YouTube Inc.
+<https://www.law360.com/companies/youtube-inc?nl_pk=3D4d0a4e6f-d80f-4498-b
+b3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpub
+licpolicy>=20
+
+eBay Inc.
+<https://www.law360.com/companies/ebay-inc?nl_pk=3D4d0a4e6f-d80f-4498-bb3f
+-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublic
+policy>=20
+
+ =09
+GOVERNMENT AGENCIES=09
+U.S. Department of Justice
+<https://www.law360.com/agencies/u-s-department-of-justice?nl_pk=3D4d0a4e6
+f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm
+_campaign=3Dpublicpolicy>=20
+
+U.S. Supreme Court
+<https://www.law360.com/agencies/u-s-supreme-court?nl_pk=3D4d0a4e6f-d80f-4
+498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaig
+n=3Dpublicpolicy>=20
+
+Federal Communications Commission
+<https://www.law360.com/agencies/federal-communications-commission?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Department of the Interior
+<https://www.law360.com/agencies/u-s-department-of-the-interior?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+Executive Office of the President
+<https://www.law360.com/agencies/executive-office-of-the-president?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+Internal Revenue Service
+<https://www.law360.com/agencies/internal-revenue-service?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+U.S. Environmental Protection Agency
+<https://www.law360.com/agencies/u-s-environmental-protection-agency?nl_
+pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium
+=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Federal Deposit Insurance Corp.
+<https://www.law360.com/agencies/federal-deposit-insurance-corp?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Department of the Treasury
+<https://www.law360.com/agencies/u-s-department-of-the-treasury?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+U.S. House of Representatives
+<https://www.law360.com/agencies/u-s-house-of-representatives?nl_pk=3D4d0a
+4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&
+utm_campaign=3Dpublicpolicy>=20
+
+Bureau of Citizenship and Immigration Services
+<https://www.law360.com/agencies/bureau-of-citizenship-and-immigration-s
+ervices?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter
+&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Bureau of Indian Affairs
+<https://www.law360.com/agencies/bureau-of-indian-affairs?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Bureau of Land Management
+<https://www.law360.com/agencies/bureau-of-land-management?nl_pk=3D4d0a4e6
+f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm
+_campaign=3Dpublicpolicy>=20
+
+California Environmental Protection Agency
+<https://www.law360.com/agencies/california-environmental-protection-age
+ncy?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm
+_medium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+California State Board of Equalization
+<https://www.law360.com/agencies/california-state-board-of-equalization?
+nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_med
+ium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Congressional Budget Office
+<https://www.law360.com/agencies/congressional-budget-office?nl_pk=3D4d0a4
+e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&u
+tm_campaign=3Dpublicpolicy>=20
+
+Consumer Financial Protection Bureau
+<https://www.law360.com/agencies/consumer-financial-protection-bureau?nl
+_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_mediu
+m=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Department of Commerce
+<https://www.law360.com/agencies/department-of-commerce?nl_pk=3D4d0a4e6f-d
+80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_ca
+mpaign=3Dpublicpolicy>=20
+
+Export-Import Bank of the United States
+<https://www.law360.com/agencies/export-import-bank-of-the-united-states
+?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_me
+dium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+Federal Housing Administration
+<https://www.law360.com/agencies/federal-housing-administration?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+Federal Judicial Center
+<https://www.law360.com/agencies/federal-judicial-center?nl_pk=3D4d0a4e6f-
+d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_c
+ampaign=3Dpublicpolicy>=20
+
+Federal Reserve System
+<https://www.law360.com/agencies/federal-reserve-system?nl_pk=3D4d0a4e6f-d
+80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_ca
+mpaign=3Dpublicpolicy>=20
+
+Federal Trade Commission
+<https://www.law360.com/agencies/federal-trade-commission?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+Fish and Wildlife Service
+<https://www.law360.com/agencies/fish-and-wildlife-service?nl_pk=3D4d0a4e6
+f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm
+_campaign=3Dpublicpolicy>=20
+
+Gila River Indian Community
+<https://www.law360.com/agencies/gila-river-indian-community?nl_pk=3D4d0a4
+e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&u
+tm_campaign=3Dpublicpolicy>=20
+
+Government Accountability Office
+<https://www.law360.com/agencies/government-accountability-office?nl_pk=3D
+4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Dem
+ail&utm_campaign=3Dpublicpolicy>=20
+
+Missouri Department of Revenue
+<https://www.law360.com/agencies/missouri-department-of-revenue?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+NAFTA
+<https://www.law360.com/agencies/nafta?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc8
+4bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpublicpoli
+cy>=20
+
+National Labor Relations Board
+<https://www.law360.com/agencies/national-labor-relations-board?nl_pk=3D4d
+0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demai
+l&utm_campaign=3Dpublicpolicy>=20
+
+National Marine Fisheries Service
+<https://www.law360.com/agencies/national-marine-fisheries-service?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+Navajo Nation
+<https://www.law360.com/agencies/navajo-nation?nl_pk=3D4d0a4e6f-d80f-4498-
+bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpu
+blicpolicy>=20
+
+New Jersey Attorney General's Office
+<https://www.law360.com/agencies/new-jersey-attorney-general-s-office?nl
+_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_mediu
+m=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+New Jersey Department of Environmental Protection
+<https://www.law360.com/agencies/new-jersey-department-of-environmental-
+protection?nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewslet
+ter&utm_medium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+New York Attorney General's Office
+<https://www.law360.com/agencies/new-york-attorney-general-s-office?nl_p
+k=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3D
+email&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Consumer Product Safety Commission
+<https://www.law360.com/agencies/u-s-consumer-product-safety-commission?
+nl_pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_med
+ium=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Customs and Border Protection
+<https://www.law360.com/agencies/u-s-customs-and-border-protection?nl_pk
+=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3De
+mail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Department of Homeland Security
+<https://www.law360.com/agencies/u-s-department-of-homeland-security?nl_
+pk=3D4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium
+=3Demail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Department of Transportation
+<https://www.law360.com/agencies/u-s-department-of-transportation?nl_pk=3D
+4d0a4e6f-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Dem
+ail&utm_campaign=3Dpublicpolicy>=20
+
+U.S. Senate
+<https://www.law360.com/agencies/u-s-senate?nl_pk=3D4d0a4e6f-d80f-4498-bb3
+f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3Dpubli
+cpolicy>=20
+
+World Trade Organization
+<https://www.law360.com/agencies/world-trade-organization?nl_pk=3D4d0a4e6f
+-d80f-4498-bb3f-cc84bb23042c&utm_source=3Dnewsletter&utm_medium=3Demail&utm_
+campaign=3Dpublicpolicy>=20
+
+ =09
+
+JOBS
+Search full listings <http://jobs.law360.com/>  or advertise your job
+opening <http://jobs.law360.com/mediakit.php>  =09
+
+=20
+
+Not sure if your firm subscribes? Ask your librarian.
+
+We hope you found this message to be useful.=20
+However, if you'd rather not receive future emails of this sort,=20
+you may unsubscribe here
+<https://www.law360.com/unsubscribe?k=3D4d0a4e6f-d80f-4498-bb3f-cc84bb2304
+2c> .
+
+Please DO NOT reply to this email. For customer support inquiries,
+please call 1-646-783-7100 or visit our Contact Us
+<https://www.law360.com/about/contact>  page.
+
+Law360 | Portfolio Media, Inc, 111 West 19th Street, 5th Floor, New
+York, NY 10011
+
+=20
+<http://mailings-q.law360.com/wf/open?upn=3Da4ZyCjtkwnIfEsP7ECigyhAis86n9C
+PosiRE33Wz2n72PckouShASGIaUaltq-2Fy1m7Ny-2F5mNvQvHdfwS-2Baa3WzDIjnAUQu-2
+FoyH3QEiXY6kcXZJs0rk8jJXHR2FhCAEdMaMG-2FPv47dqxrZ5k1XdB7uSL-2BuD9ErimiGw
+5rcr29unOLHWFzPsE6-2BaUnZWksdy6Oj66N6U-2BNC-2FFSiad4va8th5AfoDZvMG-2BuuP
+qu3q9mGmw-3D>=20

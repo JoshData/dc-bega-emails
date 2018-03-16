@@ -1,0 +1,458 @@
+Received: from BN6PR09CA0055.namprd09.prod.outlook.com (10.173.158.17) by
+ BN6PR09MB1267.namprd09.prod.outlook.com (10.172.19.147) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.366.8; Thu, 28 Dec 2017 19:46:49 +0000
+Received: from CY1GCC01FT005.eop-gcc01.prod.protection.outlook.com
+ (2a01:111:f400:7d02::205) by BN6PR09CA0055.outlook.office365.com
+ (2603:10b6:404:7a::17) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.366.8 via Frontend
+ Transport; Thu, 28 Dec 2017 19:46:49 +0000
+Authentication-Results: spf=none (sender IP is 164.82.1.21)
+ smtp.mailfrom=dc.gov; dcgovict.mail.onmicrosoft.com; dkim=none (message not
+ signed) header.d=none;dcgovict.mail.onmicrosoft.com; dmarc=none action=none
+ header.from=dc.gov;
+Received-SPF: None (protection.outlook.com: dc.gov does not designate
+ permitted sender hosts)
+Received: from hybrid.dc.gov (164.82.1.21) by
+ CY1GCC01FT005.mail.protection.outlook.com (10.97.1.1) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.20.302.6 via Frontend Transport; Thu, 28 Dec 2017 19:46:42 +0000
+Received: from CWM-EXMR-201.dcgov.priv (10.82.51.11) by
+ CWM-EX-HS-23.dcgov.priv (10.82.51.38) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 28 Dec 2017 14:46:14 -0500
+Received: from CWM-EX-HS-21.dcgov.priv (10.82.51.21) by
+ cwm-exmr-201.dcgov.priv (10.82.51.11) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 28 Dec 2017 14:42:00 -0500
+Received: from gcc01-dm2-obe.outbound.protection.outlook.com (164.82.9.71) by
+ CWM-EX-HS-21.dcgov.priv (10.82.51.21) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5 via Frontend Transport; Thu, 28 Dec 2017 14:42:00 -0500
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) by
+ SN1PR09MB1103.namprd09.prod.outlook.com (10.166.68.145) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.345.14; Thu, 28 Dec 2017 19:35:58 +0000
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) by
+ SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) with mapi id
+ 15.20.0345.017; Thu, 28 Dec 2017 19:35:58 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+CC: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: Cold Emergency
+Thread-Topic: Cold Emergency
+Thread-Index: AQHTgBMVH1BJp+hVRkmaOiuQ8veVew==
+Date: Thu, 28 Dec 2017 19:35:58 +0000
+Message-ID: <SN1PR09MB110479C44CD0A9A8F06F90BCF5040@SN1PR09MB1104.namprd09.prod.outlook.com>
+References: <5a4545728cbcf_ebf3208480880639@prod-evo-admin5.as.gdi.mail>,<DM2PR09MB033389E86C734184E144DA348A040@DM2PR09MB0333.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB033389E86C734184E144DA348A040@DM2PR09MB0333.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;SN1PR09MB1103;7:P/2hdru0lRsSyJZplvRWpdO4O1C/CLODPHDyG3CRNaRYp5/c+Vnm6X/G2KnhhwKLgYUeeTn5hhjgLDBbJQE1zbKZBxUiuUnVSxKp7vKtRUTxpELSTven855mCTB63hf1Jk6JxQDcYY477U8pFnnh7t0uIuSC/g9tfjMtSL0mm7BNkwStzlLQNnhpmrYLWU/2Xm/kKswaAKk/GaYQEI3xz3I6Z3E7QHpvhJEf74pz1yduv9avg6Gk4I6fdnRAxuL4;20:yOTBVsZbIDnDyDm7AFETd8ijQ+BcUCxW8+UqOjAzNuIbs7uPC1auQ2sSp4pOvttQwNrm3OXoGHg2E2f5SgIWUc/0l8JNxDRTYJsNbTqDz5CLphzJ1IaQ9btIh7m3dRwCGhyteq5OxQHhfmD8xer0ndNik6cpO9xrs6n5fq4pQ+s=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+X-Forefront-Antispam-Report-Untrusted: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN1PR09MB1103;H:SN1PR09MB1104.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+X-MS-Office365-Filtering-Correlation-Id: 33c60e4f-4317-4ffa-58f5-08d54e2bbc5b
+X-Microsoft-Antispam-Untrusted: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(5600026)(4604075)(3008032)(2017052603307)(7153060);SRVR:SN1PR09MB1103;
+X-MS-TrafficTypeDiagnostic: SN1PR09MB1103:|BN6PR09MB1267:
+x-exchange-antispam-report-test: UriScan:(148322886591682)(277860510277777)(278428928389397)(209352067349851)(28212336023702)(31418570063057)(160423301992630)(183562729782952)(227993202845146)(57480815675085);UriScan:(148322886591682)(277860510277777)(278428928389397)(209352067349851)(28212336023702)(31418570063057)(160423301992630)(183562729782952)(227993202845146)(57480815675085);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(93006095)(93001095)(10201501046)(3002001)(3231023)(944501075)(201708071742011);SRVR:SN1PR09MB1103;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN1PR09MB1103;BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(3231023)(944501075)(93006095)(93003095)(10201501046)(3002001)(201708071742011);SRVR:BN6PR09MB1267;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:BN6PR09MB1267;
+X-Microsoft-Antispam-Message-Info-Original: IuiVMbwGmQhZdtTQf2DkGkmq5VBbyf7ZqBcXB1pCOsJGgQR5C5faFfJeQY135PdPHQtnFUfNoFz+LJJ/TXtxAg==
+SpamDiagnosticOutput: 1:0
+MIME-Version: 1.0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR09MB1103
+X-OrganizationHeadersPreserved: SN1PR09MB1103.namprd09.prod.outlook.com
+Return-Path: Mayor.Bowser@dc.gov
+X-CrossPremisesHeadersPromoted: CWM-EX-HS-21.dcgov.priv
+X-CrossPremisesHeadersFiltered: CWM-EX-HS-21.dcgov.priv
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-OrganizationHeadersPreserved: CWM-EX-HS-23.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ 33c60e4f-4317-4ffa-58f5-08d54e2bbc5b
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped:
+ CY1GCC01FT005.eop-gcc01.prod.protection.outlook.com
+X-Forefront-Antispam-Report: CIP:164.82.1.21;IPV:NLI;CTRY:US;EFV:NLI;;SKIP:1;
+X-Microsoft-Exchange-Diagnostics: 1;CY1GCC01FT005;1:9JoL0+UHFHzQDTy0hOgs/OQ27MCA90VCpQyESg6AebeSeSEzjW9R3qXw58/vFDTO+46U8po8lBJzl15h7mbvEZhKGQS1LkJPywbuurF5pttzIkrlzYa6Vf2lqBNVhGH2
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SN1PR09MB1104.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-antispam-report: SFV:SKI;SCL:-1;
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-CrossPremisesHeadersPromoted:
+ CY1GCC01FT005.eop-gcc01.prod.protection.outlook.com
+X-CrossPremisesHeadersFiltered:
+ CY1GCC01FT005.eop-gcc01.prod.protection.outlook.com
+X-OriginatorOrg: dc.gov
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(5600026)(4604075)(3008032)(2017052603307)(7153060);SRVR:BN6PR09MB1267;
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1267;3:D7tHUw4hVn2AHfoqyC1JVaPXqIrxro4W66nVMWzUnr92B5XVPxygxiTCwAJ/lJAAjZ7RTCq+vYmsWuxzALX//voLhM8YkG7ZSb2X2l1jYPejOhSmVs9oW/lthFD6/HaK0fLCuwLnKbLoeD8VWzEYc8HIdO+6J6hogKn/1AoFP6koTm561YwEY4Up6CC+eTV1yJgSzmSmXVKCf8ARaihNukmmOTb+zjc72rDiIHgW3FEa+1T54X7gtZeP5NOrl5ygEkPuyF9VSt3s3gZ8pERE58JxBWpuAEWuaJ45BFMPFf6xtfnJEZ2HkKML7/e1kD1K1oAw7mJk1jB08iXdoP0V7g==;25:zuHAfJs3dkmg9HaGCC/ksHqSBVk0QdXsUZJeoYrXhj/CKTNbZAcHKy06ngZd5W+95IXeaS1loK58ILQoVC2GY1pfj8f5PkSb9NS8+GpsAuFDzVmP1d0dDbdeWVfwmyexzYH7NAR8b1B/ZbcW8KmfRgAzyj3l4hfQkkWLB+03KdSfy9mKVkVkcZonpYi4QBVMFNm7OczOfCxG/tAQylcGiIGyM1ILCjLnyOhU0RHGprJ1AWGuMuuSBzYFkoMG2AM4Xqnl3Tq1wwnmWQ6kDzuELLJPCv+AD5EomMP7r8q9oT6JYdbhH6ZHwGxqjbzlxbr3eDcFTDQi4m17IDrcQYPUpw==;31:fuSZc4JKxiLazhHafANp9LfZIMp72aws9d7sfCCV+etQhR0tKtMJyML2tKbYTKzUjxgfrzcKKr1hZYvxuvQ1p4cHyikpd1v+x8elw3r94TXc60WuVOqokwgsD+vUqwbZ63XKbWF3xqe+m1IKEgUSlAT3MoU11b8SGE4YiL9qD1/0G03BtuDAMzMKwfUYyy7U46o28t5rfw7Z3oZf6ZeHtYrhlspFezrMNClAYnJV7ng=
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1267;20:WuymA87NLrhDj3zQVRZLAuXDVndHKBUZO1ineG9Y1UPzvQA8C2fjeU3oDjccekT8IplOhflyKyGEYAXEZeN35n02CceKqnM5IcwJK593alzsLQKrVb8VOrIlhO2TH63yGMVuwn9MpAJb3A7OmtvUTfUq+ZsygGbJQTkQ+WVxeauFxF/kG/+II0YlJIucSEvCQsg3LhvHhhWuNyLtuNJEydM0RkgWe40r7F3vBpq9a0evO0qMfckaT6CXhn3Qe5kT/xdY+lnAshIlLNm+zXxlUSUxNfF0S/TFwel/ebWOYB6nvxuL9erl7RaBCteDKZshfTPQkbFLayXHW9xMtzpyjJaTACiDnG1anH9eoAxoS48X+kA8GZP8oq902JZHo2Qe1qyb/0icqOvhAfnWhPtKr8aUNd8kP3kxOh45sUB8qPzpWaZX9UKX6u/24eOS8trkgbH+96PH1rTGN1txwQSjEg/Ss3X9eMvuNSHBVkpnx6shrsWZuPrXMSEOanCJ3M0X
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1267;4:Gr3u3+jSyzu1Y3+IbBb8qjg3OTLqFM/mZYEH9aM4OeU63rR5S7rwnNGy/lUNGk/7/s+K6Iwi2nkAIZyj48nKtvWBtlCF4TdSw6HJJwKdqf84pdxfeK3kVqxYWwvtKn9RxBgimAU/l7Q3ZgmPpSsmm3QFXnJ0WQE76GQuMMFz+HsX64CnljlK69wLkcVDLxJu/negMreLLDqbtLdQbMNO7bFA1M9XTkSYNxfuzdNIZ3KxT0wktkAKAAaaFy2SWul6jIx7TD7PAiqNB1gNSRDiehjgxWdPoFehner2XcC4Wa0jVYNA0ytM+i+GAuZAIGv24N1K+wjprR0bDb+px1+UehpyqhWrU26L0lQoroJ0UktJR4hrlQPBg07eKWf1W9ps3pZc/tZyUR1QtmWVEnqs3eDhxJmGZYozRE0kUlC8dDlT8xtUZ5wfoCZTD81mkkVx9H23ujN3tUpx4C9SLKKgsHjzWmGBmUD+Zkwu971xzNLlheLXo68sAlpng14vrNJuQHz/BpiRdzaa/35tGFFXI0xEB0qGO4Gx+PdlDbWoumHke6Bg9EczbDHrQn9IZ8GJXAiWAgXcx0WvkNfQu8V69NWsXkVGSOoDK43UmoRgbL3BRMp0WfmGzwy4BqXq6n4J;23:ao9iVgiDWm/vMwXfp0m5DDQyQMd0tgBzMdMf7f+89cfQq4Tb5i1rlQHz4AsLEm25KwqMNWnhwV8blYIizNiBf89/I4IF+zaUlJwPpciAtM3ATu2+HF/XQPBm1vVb3m13hBGzu95Rhq/R/EsgCZtZrA==
+X-Microsoft-Antispam-Message-Info: bfa0vPwi8R1R+jBJg7PqxZhMbb325P+m7/10XdfP9SRqHSQyOyOM/Dlyo+la7+vYm+LGextLZt//O5TkQD+7RA==
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1267;6:nJCcO1LXf3itCDJzbMZefL4BRyiKTTqozTi5XXhNxwTPDWproLNf8Q8mJcCgsLNrh5s96I2HPPcKTnejZzneo8XnHHEVgr1K/EKnqImg8S1tTA1ctTH++KYBral/kk9ka/MeXE7yrSu1QnfxtfhUyeqRRyY0XuBRBkSVFvkl6lAkKpNcuSDFN6nnKXZWAZllwaUL/3x8NtvhzmxL6bxwdKDrQYdvSIxwYgUzncGfdJ9MDz6I/mkl/n2+YNKA9tAmmBqJlef2NWG9yhkTG5dQ0NCWQLgp4kryzXQjChXfqklyosYSrjSkZwagVpyfBJSP3+3zI2v6RrwoTaX8Jz20RcPPHb13rGgoSms1ocwZm8cnHiJuIXnRkF6Nu9MFli2waPCst7ffCTqlQR1k3hEEYw==;5:Ldoz8/CShvNgAexntUVX2h3HqcCECaGRWOzG/GiekL8pkZxwKJNKK9NVe77AHgqmkydgcBFtUnzP1wb80WaUmsc3eugt0J45yQl5zLYOht20YWMcKagXzJEFMpvTY6+qjpqHLddRNjz/X2jY+3Zis61Ju6vhLbsVUAiClJpeRHI=;7:Jd0gemi2HSQ/Jw/E670MoBSADLk6sRmHB0UXSlhq0rDU3xOCN9/5Be3RxevA1xvtykX6796OZVz2DaDICjhbnFQaIadGfjJvVt5P1B7HstVO0es0tU9M8peioqBTUw+wRgIrJsEGiQOfEh+WEYp8ybVA4/iHkXGaYtL/EcPE+ZQNB4WyjH+7aObY5t/vylEydSU7Fpu8i+eyXo1mhrtOpCmpIW9wWQiJrSp8I/LCQD4MBplWH1G/qjkwfMVuaNzh
+X-Microsoft-Exchange-Diagnostics: 1;BN6PR09MB1267;20:NKnvw0SVZRu5pFSdYUTQz0YK6ipX+62KUzekzlBFn3JosE+fBpFZC+VL48hPvzaKklOuvextgH2BzhE4SbpGcS2lFx7ehjj5UnN2eFoLT+szdfpMTnkihQJlNt1HmnSVaS1etWVas13Xo5e/3SHkC0VE0DmfDkBiTemWA3X4eHM=
+BCC: <all.personnel@dc.gov>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+
+________________________________
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2358/green-header-hr_original.gif?1308456195>=20
+
+ Newsletter
+Banner<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/03/1252064/1249919/mmb-newsletter-banner-march-2017-01_crop.jpg>=20
+
+@TeamMuriel  <https://twitter.com/MayorBowser>=20
+
+	=20
+
+=20
+
+Muriel Bowser Ward 4 <https://www.facebook.com/MayorMurielBowser>=20
+
+	=20
+
+=20
+
+Instagram  <https://www.instagram.com/mayor_bowser/>=20
+
+	=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+John A. Wilson Building
+
+
+1350 Pennsylvania Avenue, NW, Washington, DC 20004
+
+
+Phone: (202) 727-2643
+Email: muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>=20
+
+=20
+Chief of Staff:
+John Falcicchio <mailto:john.falcicchio@dc.gov>=20
+
+City Administrator:
+Rashad Young <mailto:rashad.young@dc.gov>=20
+
+Director of the Mayor's Office of Legal Counsel:
+Mark Tuohey
+
+Senior Advisor:
+Beverly Perry
+<mailto:beverly.perry@dc.gov> =20
+Director of Mayor's Office of Community Affairs:
+Charon Hines <mailto:Charon.Hines@dc.gov>=20
+
+Director of Mayor's Office of Community Relations and Services:
+Tommie Jones <mailto:tommie.jones@dc.gov>=20
+<mailto:gregoryn.jackson@dc.gov> =20
+Scheduling Requests:
+mayor.dc.gov/page/invite-mayor <http://mayor.dc.gov/page/invite-mayor>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+December 28, 2017 | Vol. 3, Issue 52
+
+
+Letter from the Mayor
+
+
+Dear Washingtonians,
+
+Yesterday, we activated the District's Cold Emergency Plan
+<https://mayor.dc.gov/release/district-activate-cold-emergency-plan-toni
+ght> . The plan, which will remain activated until 7:00 a.m., Tuesday,
+January 2, ensures that we have additional services and supports
+available to protect residents from life-threatening illness and injury
+associated with severe cold weather.=20
+
+During this extreme cold, it is critical that we all watch out for one
+another's safety. Now is the time to call the Shelter Hotline when you
+see residents experiencing homelessness who are outside and to check on
+neighbors who might need assistance. To request transportation to
+shelter for someone experiencing homelessness, contact the Shelter
+Hotline by calling (202) 399-7093 or 311.
+
+Sincerely,=20
+
+ Muriel
+Bowser<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+013/03/159474/165038/bowser-sig-better_original_crop.jpg>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+ Cold
+Emergency<https://content.govdelivery.com/attachments/fancy_images/DCWAS
+H/2017/12/1716167/1680889/coldemergency_crop.png>=20
+
+Download and share the Shelter Hotline graphic on social media.=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+In This Week's Newsletter:
+
+
+*	ICYMI: Prepaying 2018 Property Taxes
+*	Join Mayor Bowser on New Year's Day at the Fit DC Fresh Start 5K
+*	Anacostia River Use Survey
+*	Christmas Tree Recycling
+*	A District Minute
+*	Pathways to the Middle Class: Solar Works DC Program
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+ICYMI: Prepaying 2018 Property Taxes
+
+
+Last week, Mayor Bowser, Congresswoman Eleanor Holmes Norton, and Chief
+Financial Officer Jeff DeWitt announced that District property owners
+can prepay their property taxes in preparation for the upcoming tax
+year. The federal tax reform legislation limits the amount of state and
+local income and real property taxes that individuals may deduct from
+their federal income tax, beginning in calendar year 2018. Under the new
+law, the amount that may be deducted is limited to $10,000 of the
+combined local income or sales taxes and real property taxes.=20
+
+How to Prepay Real Property Taxes
+
+Before making an advance payment, residents should consult a tax
+advisor.
+
+If a taxpayer chooses to prepay property taxes given their federal tax
+situation, they may choose to base their property tax prepayment on the
+amount paid in the previous half-year. The prepayment can be for the
+entire fiscal year (October 1, 2017-September 30, 2018). Once the
+prepayment for 2018 is made in 2017, adjustments based on the corrected
+amount will be included in subsequent billings. These adjustments may be
+due to factors such as the homestead deduction, senior deduction, or
+other changes that impact billings.
+
+Taxpayers can prepay online by going to the District Office of Tax and
+Revenue website at www.taxpayerservicecenter.com
+<http://www.taxpayerservicecenter.com>  and clicking on the prepay 2018
+tax banner. They can then put in their property information and, after
+it is selected, click the =E2=80=9CPay Here=E2=80=9D button at the bottom of =
+the page
+and then pay by e-check. They will need their checking or savings
+account number and routing number. This option is available until
+midnight on December 31.
+
+The other option is to go to any District Wells Fargo branch where they
+can pay via check or credit card. They will need to bring their latest
+property tax bill so their account is credited appropriately.  This
+option is available until close of business for the particular branch on
+Saturday, Dec 30.
+
+Learn more HERE
+<https://cfo.dc.gov/release/review-irs-advisory-prepayment-real-property
+-taxes> . =20
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Join Mayor Bowser on New Year's Day at the Fit DC Fresh Start 5K
+
+
+=20
+5k<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2017/
+12/1716826/1681658/5k-crop_crop.png>=20
+
+=20
+
+Join Mayor Bowser on New Year's Day at the Fit DC Fresh Start 5K and
+take a step toward better health in 2018! This year's 5K will be at
+Anacostia Park as we kickoff the celebration of the park's 100th
+anniversary. Registration begins at 9:00 a.m. and the walk/run begins at
+10:00 a.m.
+
+Register HERE
+<https://www.eventbrite.com/e/mayor-muriel-bowsers-fit-dc-fresh-start-5k
+-tickets-39963038524> .
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Anacostia River Use Survey
+
+
+=20
+Anacostia<https://content.govdelivery.com/attachments/fancy_images/DCWAS
+H/2017/12/1715924/1680629/jrc-anacostia_crop.jpeg>=20
+
+=20
+
+Take the Anacostia River Use Survey today and help us learn more about
+how you currently use the Anacostia River and how you would like to use
+it in the future.
+
+The survey, which you can find HERE
+<https://www.surveymonkey.com/r/ANACOSTIA-RIVER-USE> , takes
+approximately 5-7 minutes to complete.
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Christmas Tree Recycling
+
+
+ Tree
+Recycling<https://content.govdelivery.com/attachments/fancy_images/DCWAS
+H/2017/12/1715821/1680690/treerecycling_crop.png>=20
+
+=20
+
+The District offers two environmentally-friendly ways for residents to
+recycle Christmas trees and greenery. Between January 13 and February 2,
+residents can put their trees and greenery out with trash and recycling,
+to be collected on regularly scheduled recycling days
+<https://dpw.dc.gov/service/find-your-trash-and-recycling-collection-sch
+edule>  during this period. This collection service is only available to
+residents who are serviced by the Department of Public Works. (Note: In
+years past, residents could place their trees in the tree box space,
+adjacent to the curb. This is not the case this year, unless that is
+where recycling is normally collected.)
+
+Residents can also bring their trees and greenery to either of the
+District=E2=80=99s transfer stations - the Fort Totten Transfer Station (4900
+John F. McCormack Drive, NE) or the Benning Road Transfer Station (3200
+Benning Road, NE).
+
+Before disposing of a tree or greenery, all ornaments and lights should
+be removed. Residents are also asked not to bag their trees or greenery.
+Learn more HERE
+<https://dpw.dc.gov/release/how-recycle-your-christmas-tree-dc> .
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+A District Minute
+
+
+district minute video <https://www.youtube.com/watch?v=3DGZMjR4XVp-M>=20
+
+
+
+
+
+This week=E2=80=99s District Minute
+<https://www.youtube.com/watch?v=3DGZMjR4XVp-M>  features stories about
+the Mayor's Boards and Commissions Swearing-In Ceremony and the launch
+of the District=E2=80=99s first-ever Transitional Residential Program
+<https://does.dc.gov/release/mayor-bowser-launches-district%E2%80%99s-fi
+rst-ever-transitional-housing-program-combines-employment>  that
+combines employment and housing services.
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Pathways to the Middle Class: Solar Works DC Program
+
+
+ Job
+Search<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/12/1683793/1648740/job-posting_crop.png>=20
+
+This past summer, Mayor Bowser kicked off the first cohort of Solar
+Works DC <https://doee.dc.gov/service/solar-works-dc> , a job training
+program that installs cost-saving solar energy systems on the homes of
+low-income residents. A joint effort between the Department of Energy
+and Environment and the Department of Employment Services, the program
+provides on-the-job technical training to DC residents ages 18 and over.
+
+Applications for the upcoming spring cohort are being accepted until
+January 5, 2018. Learn more and apply HERE
+<https://gridalternatives.org/regions/midatlantic/solar-works-dc> .=20
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/02/1
+0564/modern-green-footer-shadow_original.jpg?1308456094>=20
+
+Mayor Muriel Bowser
+
+John A. Wilson Building | 1350 Pennsylvania Avenue, NW | Washington DC,
+20004=20
+
+(202) 727-2643
+
+muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>  | mayor.dc.gov
+<http://mayor.dc.gov>  | @mayorbowser
+
+________________________________
+
+DC Flag <http://dc.gov>=20
+
+STAY CONNECTED:
+
+Visit us on Facebook <https://www.facebook.com/MayorMurielBowser>=20
+
+Visit us on Twitter <https://twitter.com/MayorBowser>=20
+
+Instagram Logo <https://www.instagram.com/mayor_bowser/>=20
+
+ Visit us on YouTube
+<https://www.youtube.com/channel/UCMPbW-rxSm1ke9PkqDZWO3g> =20
+
+ Sign up for email updates
+<https://public.govdelivery.com/accounts/DCWASH/subscriber/new> =20
+
+=09
+
+We are Washington DC <http://dc.gov> =20
+
+=20
+
+=20
+
+
+=09
+=20
+
+=20
+
+=20
+
+=20
+

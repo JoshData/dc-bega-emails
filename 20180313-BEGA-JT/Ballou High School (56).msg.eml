@@ -1,0 +1,230 @@
+Received: from CWM-EXJS-202.dcgov.priv (10.82.51.200) by
+ cwm-exmr-201.dcgov.priv (10.82.51.11) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Fri, 1 Dec 2017 17:28:40 -0500
+Received: from CWM-EX-HS-13.dcgov.priv (10.86.51.38) by
+ CWM-EXJS-202.dcgov.priv (10.82.51.200) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Fri, 1 Dec 2017 17:28:40 -0500
+Received: from gcc01-dm2-obe.outbound.protection.outlook.com (164.82.40.16) by
+ CWM-EX-HS-13.dcgov.priv (10.86.51.38) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5 via Frontend Transport; Fri, 1 Dec 2017 17:28:40 -0500
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) by
+ SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.282.5; Fri, 1 Dec 2017 22:28:38 +0000
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) by
+ SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) with mapi id
+ 15.20.0282.007; Fri, 1 Dec 2017 22:28:38 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: Ballou High School
+Thread-Topic: Ballou High School
+Thread-Index: AQHTavO7d40CFpBJIEebale1qhupsw==
+Date: Fri, 01 Dec 2017 22:28:38 +0000
+Message-ID: <SN1PR09MB11044E498BED1BBB4699B6BFF5390@SN1PR09MB1104.namprd09.prod.outlook.com>
+References: <5a21d4e5a32de_1dd8e170e148940c6@prod-evo-admin6.ep.gdi.mail>
+ <DM2PR09MB06971B9C7419BDDCA2A9F928A9390@DM2PR09MB0697.namprd09.prod.outlook.com>,<BN6PR09MB1201594F12C43F1474C54659EB390@BN6PR09MB1201.namprd09.prod.outlook.com>
+In-Reply-To: <BN6PR09MB1201594F12C43F1474C54659EB390@BN6PR09MB1201.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-originating-ip: [164.82.1.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1PR09MB1104;20:RCM2RpAlm+cHXoxtZUUJBBiaGksLjLP9xahPxrQki4WLCEP0OD4vIxGZWs2so5G98KrnOeZ7xU4vxzWC7DxBacu2HgffWiIIAS7GQyEivMwUgI/zamckEXFBbbBReR9rqgDEqoNP9ALXPTmJq+KPZKYUBB8grpGUhZG7+X+1QF0=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN1PR09MB1104;H:SN1PR09MB1104.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: eeee031d-e0e8-4025-24de-08d5390ade27
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603286);SRVR:SN1PR09MB1104;
+x-ms-traffictypediagnostic: SN1PR09MB1104:
+x-exchange-antispam-report-test: UriScan:(148322886591682)(277860510277777)(28212336023702)(31418570063057)(280730625643796)(160423301992630)(57480815675085)(254730959083279)(86561027422486)(81227570615382);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(93006095)(93001095)(3231022)(3002001)(10201501046)(201708071742011);SRVR:SN1PR09MB1104;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN1PR09MB1104;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ eeee031d-e0e8-4025-24de-08d5390ade27
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Dec 2017 22:28:38.0950 (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR09MB1104
+X-OrganizationHeadersPreserved: SN1PR09MB1104.namprd09.prod.outlook.com
+Return-Path: Mayor.Bowser@dc.gov
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SN1PR09MB1104.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-antispam-report: SFV:SKI;SCL:-1;
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-CrossPremisesHeadersPromoted: CWM-EX-HS-13.dcgov.priv
+X-CrossPremisesHeadersFiltered: CWM-EX-HS-13.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ a4630a3e-1076-486c-77cb-08d5390adf88
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-OriginatorOrg: dc.gov
+BCC: <all.personnel@dc.gov>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+________________________________
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2358/green-header-hr_original.gif?1308456195>=20
+
+ Newsletter
+Banner<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/03/1252064/1249919/mmb-newsletter-banner-march-2017-01_crop.jpg>=20
+
+@TeamMuriel  <https://twitter.com/MayorBowser>=20
+
+	=20
+
+=20
+
+Muriel Bowser Ward 4 <https://www.facebook.com/MayorMurielBowser>=20
+
+	=20
+
+=20
+
+Instagram  <https://www.instagram.com/mayor_bowser/>=20
+
+	=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+John A. Wilson Building
+
+
+1350 Pennsylvania Avenue, NW, Washington, DC 20004
+
+
+Phone: (202) 727-2643
+Email: muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>=20
+
+=20
+Chief of Staff:
+John Falcicchio <mailto:john.falcicchio@dc.gov>=20
+
+City Administrator:
+Rashad Young <mailto:rashad.young@dc.gov>=20
+
+Director of the Mayor's Office of Legal Counsel:
+Mark Tuohey
+
+Senior Advisor:
+Beverly Perry
+<mailto:beverly.perry@dc.gov> =20
+Director of Mayor's Office of Community Affairs:
+Charon Hines <mailto:Charon.Hines@dc.gov>=20
+
+Director of Mayor's Office of Community Relations and Services:
+Tommie Jones <mailto:tommie.jones@dc.gov>=20
+<mailto:gregoryn.jackson@dc.gov> =20
+Scheduling Requests:
+mayor.dc.gov/page/invite-mayor <http://mayor.dc.gov/page/invite-mayor>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+December 1, 2017=20
+
+
+Letter from the Mayor
+
+
+Dear Washingtonians,
+
+By now, many of you have read or heard this week's NPR story on Ballou
+High School. I want you to hear directly from me that we take this
+seriously. It is important that all of our students get the education
+they need to be college and career ready.
+
+Today, after an initial assessment of the allegations made in the news
+report, I signed a Mayor's Order directing the Office of the State
+Superintendent of Education (OSSE), our state education department and
+regulator, to review district-wide policies and investigate specific
+allegations at the school level. OSSE is engaging the support of an
+outside firm to assist them with this review and investigation and will
+deliver its findings to me within 45 days.=20
+
+Parents, students, or educators who have questions or concerns should
+call the Office of the Deputy Mayor for Education at (202) 727-3636. We
+want to hear from you. =20
+
+Let me be very clear: we are working hard to remove barriers to student
+attendance. Several years ago, we ensured that every public school
+student can ride free on Metrobus and Metrorail. And just this year, we
+launched the Every Day Counts! campaign to gain community support for
+boosting student attendance and achievement.
+
+Now, we must ensure that our attendance policies are clear, transparent,
+and consistently administered for every child, at every school, and
+every day. I can ensure you that we will find out if mistakes were made
+and we will fix them.=20
+
+Sincerely,=20
+
+ Muriel
+Bowser<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+013/03/159474/165038/bowser-sig-better_original_crop.jpg>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/02/1
+0564/modern-green-footer-shadow_original.jpg?1308456094>=20
+
+Mayor Muriel Bowser
+
+John A. Wilson Building | 1350 Pennsylvania Avenue, NW | Washington DC,
+20004=20
+
+(202) 727-2643
+
+muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>  | mayor.dc.gov
+<http://mayor.dc.gov>  | @mayorbowser
+
+________________________________
+
+DC Flag <http://dc.gov>=20
+
+STAY CONNECTED:
+
+Visit us on Facebook <https://www.facebook.com/MayorMurielBowser>=20
+
+Visit us on Twitter <https://twitter.com/MayorBowser>=20
+
+Instagram Logo <https://www.instagram.com/mayor_bowser/>=20
+
+ Visit us on YouTube
+<https://www.youtube.com/channel/UCMPbW-rxSm1ke9PkqDZWO3g> =20
+
+ Sign up for email updates
+<https://public.govdelivery.com/accounts/DCWASH/subscriber/new> =20
+
+=09
+Questions? Contact Us
+<http://dc.gov/page/feedback-complaints-and-appeals>=20
+
+SUBSCRIBER SERVICES:=20
+
+We are Washington DC <http://dc.gov> =20
+
+=20
+
+=20
+
+|  Help <https://subscriberhelp.govdelivery.com/>=20
+
+=20
+
+=20
+
+=20
+
+=20
+

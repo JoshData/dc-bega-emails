@@ -1,0 +1,374 @@
+Received: from CWM-EX-HS-23.dcgov.priv (10.82.51.38) by
+ cwm-exmr-201.dcgov.priv (10.82.51.11) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 1 Feb 2018 14:35:53 -0500
+Received: from gcc01-dm2-obe.outbound.protection.outlook.com (164.82.9.71) by
+ CWM-EX-HS-23.dcgov.priv (10.82.51.38) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5 via Frontend Transport; Thu, 1 Feb 2018 14:35:52 -0500
+Received: from CY1PR09MB0726.namprd09.prod.outlook.com (10.161.173.142) by
+ CY1PR09MB0728.namprd09.prod.outlook.com (10.161.173.144) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.444.14; Thu, 1 Feb 2018 19:30:16 +0000
+Received: from CY1PR09MB0726.namprd09.prod.outlook.com ([10.161.173.142]) by
+ CY1PR09MB0726.namprd09.prod.outlook.com ([10.161.173.142]) with mapi id
+ 15.20.0444.021; Thu, 1 Feb 2018 19:30:16 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: Kicking Off Black History Month
+Thread-Topic: Kicking Off Black History Month
+Thread-Index: AQHTm5MWHQhdxWHH9UuqnMe5CylZeQ==
+Date: Thu, 01 Feb 2018 19:30:15 +0000
+Message-ID: <CY1PR09MB0726FA6E8616962E2B39F919F5FA0@CY1PR09MB0726.namprd09.prod.outlook.com>
+References: <5a7360803cde8_8cf51c9332064453@prod-evo-admin6.as.gdi.mail>
+ <DM2PR09MB0697405E8D1FDA7569C23C6AA9FA0@DM2PR09MB0697.namprd09.prod.outlook.com>,<DM2PR09MB06520DA342B2F6A191EEEEA1EBFA0@DM2PR09MB0652.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB06520DA342B2F6A191EEEEA1EBFA0@DM2PR09MB0652.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY1PR09MB0728;7:5MHm526E+04h/0t0ghdT0fVlouoN9EsqbOMVH084K0n4kg1TThBihC1Q6Q6kGIss/KJHSLBf8572RGIxoX0W/rHkS041BXF40FhCwto2AuDmEkSFxC4wUJ/4jmGzWt5oZY+Qn/ltEg8xCdA7Bdz2fbVxC1IOYA7X/qQqV/DljZK0u2ybURKQRSNcRkmKEj19ikoABvh0QK4reFzLQnbYYa+W7jIPTPPa6Xb9/YOS2VuULmKee64mNCafK7udjLkv;20:wyJGCMjpTiV+46q1cOQ09W1wODpsuxwxfPyvcnNcYTBPmNxiK/w00T7s4smsk6R40PU/ak+QzxB7aqeCGpSXSeSjdFcVcJMLFx7x7OUze/B4GcpL7Wlde0E4UaHp2P/E1HZkcOdWmGk7cUiAJOAV9eYRQjpCUGq1TW95fCWe9gM=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CY1PR09MB0728;H:CY1PR09MB0726.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: cadb9c07-f858-471e-89bf-08d569aa38c6
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(4652020)(5600026)(4604075)(3008032)(2017052603307)(7153060)(7193020);SRVR:CY1PR09MB0728;
+x-ms-traffictypediagnostic: CY1PR09MB0728:
+x-exchange-antispam-report-test: UriScan:(148322886591682)(277860510277777)(72170088055959)(28212336023702)(31418570063057)(280730625643796)(160423301992630)(57480815675085)(254730959083279)(86561027422486);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(93006095)(93001095)(3231101)(2400082)(944501161)(3002001)(10201501046)(201708071742011);SRVR:CY1PR09MB0728;BCL:0;PCL:0;RULEID:;SRVR:CY1PR09MB0728;
+x-microsoft-antispam-message-info: uvms6eXsXi6Fip3zUCws68XbB8CQVAGZ0EQG8eCYhl3aLGvz8w/RaK9pJ2PsfxCsOHwguP7UBLYLkmo7m2RsFw==
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ cadb9c07-f858-471e-89bf-08d569aa38c6
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Feb 2018 19:30:15.9904 (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR09MB0728
+X-OrganizationHeadersPreserved: CY1PR09MB0728.namprd09.prod.outlook.com
+Return-Path: Mayor.Bowser@dc.gov
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: CY1PR09MB0726.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-antispam-report: SFV:SKI;SCL:-1;
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-CrossPremisesHeadersPromoted: CWM-EX-HS-23.dcgov.priv
+X-CrossPremisesHeadersFiltered: CWM-EX-HS-23.dcgov.priv
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-Organization-Network-Message-Id:
+ dd26532f-3e9e-4f0d-8c45-08d569ab01c3
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+BCC: <all.personnel@dc.gov>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2358/green-header-hr_original.gif?1308456195>=20
+
+ Newsletter
+Banner<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/03/1252064/1249919/mmb-newsletter-banner-march-2017-01_crop.jpg>=20
+
+@TeamMuriel  <https://twitter.com/MayorBowser>=20
+
+	=20
+
+=20
+
+Muriel Bowser Ward 4 <https://www.facebook.com/MayorMurielBowser>=20
+
+	=20
+
+=20
+
+Instagram  <https://www.instagram.com/mayor_bowser/>=20
+
+	=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+John A. Wilson Building
+
+
+1350 Pennsylvania Avenue, NW, Washington, DC 20004
+
+
+Phone: (202) 727-2643
+Email: muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>=20
+
+=20
+Chief of Staff:
+John Falcicchio <mailto:john.falcicchio@dc.gov>=20
+
+City Administrator:
+Rashad Young <mailto:rashad.young@dc.gov>=20
+
+Director of the Mayor's Office of Legal Counsel:
+Mark Tuohey
+
+Senior Advisor:
+Beverly Perry
+<mailto:beverly.perry@dc.gov> =20
+Director of Mayor's Office of Community Affairs:
+Charon Hines <mailto:Charon.Hines@dc.gov>=20
+
+Director of Mayor's Office of Community Relations and Services:
+Tommie Jones <mailto:tommie.jones@dc.gov>=20
+<mailto:gregoryn.jackson@dc.gov> =20
+Scheduling Requests:
+mayor.dc.gov/page/invite-mayor <http://mayor.dc.gov/page/invite-mayor>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+February 1, 2018 | Vol. 4, Issue 5
+
+
+Letter from the Mayor
+
+
+Dear Washingtonians,
+
+There is no better place to be during Black History Month than
+Washington, DC. The District's history is black history, and while we
+celebrate this history all year round, February gives us a special
+opportunity to collectively recognize the many people, events, and
+movements that have shaped our history and inspired millions.
+
+Over the next few weeks, we will come together at art shows, book talks,
+film festivals, and more to celebrate our achievements and look forward
+to the future. We will honor the men and women whose shoulders we stand
+on while planning for the success of our children.=20
+
+Today, I am excited to release A Fair Shot: A Toolkit for African
+American Prosperity
+<https://dmgeo.dc.gov/sites/default/files/dc/sites/dmgeo/publication/att
+achments/PathwaytoProsperity.pdf>  =E2=80=93 a first-of-its-kind resource for
+African American residents that provides an overview of the many
+District-funded programs and services that support Washingtonians in
+reaching pathways to the middle class. This toolkit will serve as a
+guide for residents - outlining services available for individuals,
+seniors, families, and business owners - and ensure that those who could
+benefit most from these programs know about them. =20
+
+African American Washingtonians have always been here for DC, and we
+will continue to be here for you. =20
+
+Sincerely,=20
+
+ Muriel
+Bowser<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+013/03/159474/165038/bowser-sig-better_original_crop.jpg>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+In This Week's Newsletter:
+
+
+*	Open Enrollment Extended Through February 5, 2018
+*	Free Lifeguard Training
+*	Summer Camp Registration Opens Monday
+*	A District Minute
+*	Pathways to the Middle Class: District Department of
+Transportation, Traffic System Operator
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Open Enrollment Extended Through February 5, 2018
+
+
+=20
+Extension<https://content.govdelivery.com/attachments/fancy_images/DCWAS
+H/2018/01/1766530/1735762/extension_crop.png>=20
+
+=20
+
+On January 31, at the bill signing
+<https://mayor.dc.gov/release/signing-women%E2%80%99s-health-care-bill-m
+ayor-bowser-announces-open-enrollment-extension>  for the Defending
+Access to Women's Health Care Services Amendment Act of 2018, Mayor
+Bowser announced that open enrollment for District residents has been
+extended through Monday, February 5, 2018 at 11:59 p.m.
+
+Residents now have through Monday, February 5 to go to DCHealthLink.com
+<https://dchealthlink.com/>  or call (855) 532-5465 to shop for,
+compare, and enroll in affordable, high-quality insurance plans.=20
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Free Lifeguard Training
+
+
+ Lifeguard
+Training<https://content.govdelivery.com/attachments/fancy_images/DCWASH
+/2018/01/1767625/1736848/lifeguard-training_crop.png>=20
+
+=20
+
+The Department of Parks and Recreation (DPR) is offering free lifeguard
+training certification courses
+<https://dclifeguardtraining.splashthat.com/>  for summer 2018. Courses
+run through June, and DPR has waived all course fees until March 31,
+2018. Courses are available for residents ages 15 and up.
+
+Learn more HERE
+<https://dpr.dc.gov/release/dpr-offers-free-lifeguard-training-all> .
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Summer Camp Registration Opens Monday
+
+
+ DPR Summer
+Camp<https://content.govdelivery.com/attachments/fancy_images/DCWASH/201
+8/02/1768674/1738030/dpr-summer-camps_crop.png>=20
+
+=20
+
+Already planning ahead for this year's summer break? The DPR Summer Camp
+registration opens Monday, February 5, 2018. The 2018 summer camp season
+begins June 18 and ends August 17. Each camp session is typically two
+weeks long, but can vary depending on the camp offering.
+
+Registration will remain open until a session is at full capacity or
+until the first day of the summer camp session. Reduced rates are
+available for qualifying families, and before and after care is also
+available at most locations.
+
+For more information, go HERE <https://dpr.dc.gov/service/summer-camps>
+.=20
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+A District Minute
+
+
+district minute video
+<https://www.youtube.com/watch?v=3DNNxHjChZGHs&feature=3Dyoutu.be>=20
+
+=20
+
+This week=E2=80=99s District Minute
+<https://www.youtube.com/watch?v=3DNNxHjChZGHs&feature=3Dyoutu.be>  features
+stories about the kickoff of the application period
+<https://mayor.dc.gov/release/mayor-bowser-kicks-application-period-2018
+-mayor-marion-s-barry-summer-youth-employment>  for the Mayor Marion S.
+Barry Summer Youth Employment Program, the launch of Mayors and CEOs for
+U.S. Housing Investment <https://www.youtube.com/watch?v=3DKyIzfbIQPBk> ,
+and the UNCF Mayor's Masked Ball.=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Pathways to the Middle Class: District Department of Transportation,
+Traffic System Operator
+
+
+ Job
+Search<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/12/1683793/1648740/job-posting_crop.png>=20
+
+The District Department of Transportation (DDOT) is the District agency
+that manages and maintains transportation infrastructure in Washington,
+DC. DDOT's mission is to enhance the quality of life for District
+residents and visitors by ensuring that people, goods, and information
+move efficiently and safely with minimal adverse impact on residents and
+the environment.
+
+DDOT has an opening for a Traffic System Operator. This position is
+responsible for monitoring operations and functions of the Traffic
+Management System, including: special events, traffic incidents, traffic
+congestion, construction sites, and utility work zones. All details
+regarding this vacancy, including qualifications, can be found by
+visiting the job announcement
+<https://careers.dc.gov/psp/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_
+SEARCH_FL.GBL?Page=3DHRS_APP_JBPST_FL&Action=3DU&FOCUS=3DApplicant&SiteId=3D1=
+&Jo
+bOpeningId=3D2525&PostingSeq=3D1> .
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/02/1
+0564/modern-green-footer-shadow_original.jpg?1308456094>=20
+
+Mayor Muriel Bowser
+
+John A. Wilson Building | 1350 Pennsylvania Avenue, NW | Washington DC,
+20004=20
+
+(202) 727-2643
+
+muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>  | mayor.dc.gov
+<http://mayor.dc.gov>  | @mayorbowser
+
+________________________________
+
+DC Flag <http://dc.gov>=20
+
+STAY CONNECTED:
+
+Visit us on Facebook <https://www.facebook.com/MayorMurielBowser>=20
+
+Visit us on Twitter <https://twitter.com/MayorBowser>=20
+
+Instagram Logo <https://www.instagram.com/mayor_bowser/>=20
+
+ Visit us on YouTube
+<https://www.youtube.com/channel/UCMPbW-rxSm1ke9PkqDZWO3g> =20
+
+ Sign up for email updates
+<https://public.govdelivery.com/accounts/DCWASH/subscriber/new> =20
+
+=09
+Questions? Contact Us
+<http://dc.gov/page/feedback-complaints-and-appeals>=20
+
+SUBSCRIBER SERVICES:=20
+
+We are Washington DC <http://dc.gov> =20
+
+=20
+
+=20
+
+  |  Help <https://subscriberhelp.govdelivery.com/>=20
+
+=20
+
+=20
+
+=20
+
+=20
+

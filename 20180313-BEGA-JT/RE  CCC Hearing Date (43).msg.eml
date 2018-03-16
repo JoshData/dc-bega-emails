@@ -1,0 +1,118 @@
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com (10.160.247.24) by
+ BN6PR09MB1362.namprd09.prod.outlook.com (10.172.22.17) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.13.10; Tue, 5 Sep 2017 14:35:17 +0000
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::5801:642d:da9d:6128]) by DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::5801:642d:da9d:6128%15]) with mapi id 15.20.0013.018; Tue, 5 Sep 2017
+ 14:35:17 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "'Mitchell, Katherine (Council)'" <kmitchell@DCCOUNCIL.US>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>
+Subject: RE: CCC Hearing Date
+Thread-Topic: CCC Hearing Date
+Thread-Index: AdMmTlLi8Tb9QL1wTV+yceYnQzq5HgABcMww
+Date: Tue, 05 Sep 2017 14:35:17 +0000
+Message-ID: <DM2PR09MB0368350B7E25C6620571E7BF91960@DM2PR09MB0368.namprd09.prod.outlook.com>
+References: <dc188b9b10cb48568a883ee673eea77a@DCC-Exchange-1.Council.local>
+In-Reply-To: <dc188b9b10cb48568a883ee673eea77a@DCC-Exchange-1.Council.local>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM2PR09MB0368.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 61770a20-9928-4293-396d-08d4f46b53e7
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=John.Grimaldi@dc.gov; 
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BN6PR09MB1362;20:pB9ZA9W2EXe+Rohwv3DNCF0TrBXRU7spjSRBluO7HRSBtTmFgAIbET260gy2sfoaDcJ+AmYhP+HGhb6ZR0BkGflAiF6EXj1th67D6HAypDPQbRig1JrYlyUTynx2Cx5skt1YwXzVwjNYIs/UUVYwCZqGK1w7GGqihzfPpWnFgM8=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ld-processed: 8fe449f1-8b94-4fb7-9906-6f939da82d73,ExtAddr
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:NSPM;SFS:(10009020)(53754006)(377454003)(189002)(199003)(54356999)(101416001)(76176999)(189998001)(6246003)(4326008)(5660300001)(7116003)(50986999)(6916009)(53936002)(54906002)(99286003)(7736002)(2900100001)(25786009)(3660700001)(2950100002)(55016002)(97736004)(74316002)(236005)(6306002)(9686003)(2906002)(110136004)(53386004)(72206003)(54896002)(478600001)(3280700002)(790700001)(53546010)(86362001)(606006)(6116002)(229853002)(33656002)(8676002)(102836003)(5250100002)(66066001)(6506006)(14454004)(106356001)(105586002)(3480700004)(7696004)(8936002)(6436002)(68736007)(81166006)(81156014)(3846002)(15669805003);DIR:OUT;SFP:1101;SCL:1;SRVR:BN6PR09MB1362;H:DM2PR09MB0368.namprd09.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+x-ms-office365-filtering-correlation-id: 61770a20-9928-4293-396d-08d4f46b53e7
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(2017030254152)(300000503095)(300135400095)(2017052603199)(201703131423075)(201703031133081)(201702281549075)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:BN6PR09MB1362;
+x-ms-traffictypediagnostic: BN6PR09MB1362:
+x-exchange-antispam-report-test:
+ UriScan:(31418570063057)(21748063052155)(64217206974132);
+x-microsoft-antispam-prvs: <BN6PR09MB1362D965C6673FC9EEFE00D591960@BN6PR09MB1362.namprd09.prod.outlook.com>
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(6040450)(2401047)(8121501046)(5005006)(10201501046)(100000703101)(100105400095)(93006095)(93001095)(3002001)(6041248)(20161123558100)(20161123560025)(20161123555025)(20161123564025)(201703131423075)(201702281528075)(201703061421075)(201703061406153)(20161123562025)(6072148)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:BN6PR09MB1362;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BN6PR09MB1362;
+x-forefront-prvs: 0421BF7135
+received-spf: None (protection.outlook.com: dc.gov does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks, Kate.  Works for us.
+
+=20
+
+Jack
+
+=20
+
+From: Mitchell, Katherine (Council) [mailto:kmitchell@DCCOUNCIL.US]=20
+Sent: Tuesday, September 05, 2017 9:55 AM
+To: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Grimaldi, John J.
+(BEGA)
+Subject: CCC Hearing Date
+
+=20
+
+Hi all,
+
+=20
+
+Just confirming that the morning of 11/2 would work well for everyone
+for a hearing on B22-38, B22-136, and B22-344.
+
+=20
+
+Best,
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us <mailto:kmitchell@dccouncil.us>=20
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+

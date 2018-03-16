@@ -1,0 +1,290 @@
+Received: from CY1PR09MB0314.namprd09.prod.outlook.com (10.160.158.13) by
+ CY4PR09MB1366.namprd09.prod.outlook.com (10.172.67.12) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.282.5; Fri, 1 Dec 2017 13:47:10 +0000
+Received: from CY1PR09MB0314.namprd09.prod.outlook.com ([10.160.158.13]) by
+ CY1PR09MB0314.namprd09.prod.outlook.com ([10.160.158.13]) with mapi id
+ 15.20.0260.007; Fri, 1 Dec 2017 13:47:09 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "kmitchell@dccouncil.us" <kmitchell@dccouncil.us>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>,
+ "Weil, Sonia (Council) (sweil@DCCOUNCIL.US)"	<sweil@DCCOUNCIL.US>
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+Thread-Topic: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+Thread-Index:
+ AdNTDE4dduG/BoMbQ7aeHlSqeXWYFwACo6qgAADdNCAABDtHPgAAUYWQAAgEr0EF10flAA==
+Date: Fri, 01 Dec 2017 13:47:09 +0000
+Message-ID: <CY1PR09MB0314C45EAFAD6CAE3060BE9B91390@CY1PR09MB0314.namprd09.prod.outlook.com>
+References: <8660edc5461d4c7c8e871e72a8dd6aba@DCC-Exchange-1.Council.local>
+ <DM5PR09MB1370975DC852CF2E4711DC20835F0@DM5PR09MB1370.namprd09.prod.outlook.com>,<55b250798ab84888a2e7a2e256f37a35@DCC-Exchange-1.Council.local>
+ <DM2PR09MB0368DC40AFAE01C50CD413AD915F0@DM2PR09MB0368.namprd09.prod.outlook.com>,<30b822a194804e8fba85e81d00407080@DCC-Exchange-1.Council.local>
+ <DM2PR09MB03689EF087E61CDEC32BF02E915F0@DM2PR09MB0368.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB03689EF087E61CDEC32BF02E915F0@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: CY1PR09MB0314.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 564693a1-59d6-4a7e-bb41-08d538c2049a
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=John.Grimaldi@dc.gov; 
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY4PR09MB1366;20:enhbAeV6vvnQzh1jt/cyi0Qor6koVtKrDROstFeC8cifBP4IJBpRX58d0uS+bYyg6L8qFCE/OnbhEIvYb/3bEqa4dIh1Zv7lzuelObpOcn1TLi5H9otfA9fYdeBjhgQU/fFAHrcy2ZlBIdam1ZznV8V0SQZxVka4mv0l+x8Dwp0=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:NSPM;SFS:(10009020)(376002)(346002)(366004)(199003)(189002)(5423002)(3846002)(7110500001)(189998001)(72206003)(6116002)(53936002)(77096006)(54896002)(102836003)(790700001)(6246003)(6306002)(450100002)(9686003)(236005)(66066001)(97736004)(33656002)(4326008)(2900100001)(101416001)(6436002)(2351001)(6506006)(3660700001)(14454004)(15650500001)(2420400007)(2906002)(19609705001)(5640700003)(3280700002)(606006)(55016002)(86362001)(53546010)(149424003)(105586002)(106356001)(1730700003)(99286004)(7696005)(5890100001)(68736007)(229853002)(5660300001)(74316002)(54906003)(81156014)(81166006)(5630700001)(8676002)(93886005)(316002)(7736002)(2501003)(54356011)(8936002)(76176011)(25786009)(2950100002)(478600001)(6916009)(580364002)(15669805003);DIR:OUT;SFP:1101;SCL:1;SRVR:CY4PR09MB1366;H:CY1PR09MB0314.namprd09.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+x-ms-office365-filtering-correlation-id: 564693a1-59d6-4a7e-bb41-08d538c2049a
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603286);SRVR:CY4PR09MB1366;
+x-ms-traffictypediagnostic: CY4PR09MB1366:
+x-microsoft-antispam-prvs: <CY4PR09MB1366F49124AE80BE6A52B3C291390@CY4PR09MB1366.namprd09.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(31418570063057)(227612066756510)(21748063052155)(64217206974132)(211171220733660);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040450)(2401047)(8121501046)(5005006)(3231022)(10201501046)(3002001)(93006095)(93001095)(6041248)(20161123560025)(20161123562025)(201703131423075)(201702281528075)(201703061421075)(201703061406153)(20161123558100)(20161123555025)(20161123564025)(6072148)(201708071742011);SRVR:CY4PR09MB1366;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:CY4PR09MB1366;
+x-forefront-prvs: 05087F0C24
+received-spf: None (protection.outlook.com: dc.gov does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning, Kate.
+
+=20
+
+Just touching base.  Now that the record is closed on the CCC, we were
+wondering about next steps.  Also, can we get copies of all the
+testimony?  We=E2=80=99d especially like to see what those folks who didn=E2=
+=80=99t
+testify at the hearing had to say, so that we can factor their comments
+into decisions about revising the bill and the accompanying
+section-by-section analysis.
+
+=20
+
+Thanks.
+
+=20
+
+Jack
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Wednesday, November 01, 2017 4:26 PM
+To: Mitchell, Katherine (Council)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA)
+Subject: Re: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+=20
+
+Kate, here are e-copies of the PowerPoint and Tameka's testimony.  I'll
+bring a thumb drive with the PowerPoint on it (just in case) and 20 hard
+copies of the testimony.
+
+=20
+
+Thanks.  See you in the morning.
+
+=20
+
+Jack
+
+=20
+
+________________________________
+
+From: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>
+Sent: Wednesday, November 1, 2017 12:14 PM
+To: Grimaldi, John J. (BEGA)
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+I=E2=80=99d prefer 20. Thanks.
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]=20
+Sent: Wednesday, November 01, 2017 12:06 PM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US>; Flowers,
+Brian (BEGA) <brian.flowers@dc.gov>; Judiciary (Council)
+<Judiciary@DCCOUNCIL.US>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>
+Subject: Re: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+=20
+
+Thanks, Kate.  How many hard copies do you need for Tameka's testimony?
+
+=20
+
+Jack
+
+________________________________
+
+From: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US
+<mailto:kmitchell@DCCOUNCIL.US> >
+Sent: Wednesday, November 1, 2017 10:04:30 AM
+To: Flowers, Brian (BEGA); Judiciary (Council)
+Cc: Grimaldi, John J. (BEGA); Collier, Tameka (BEGA)
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+Ah. Got it. Thanks, Brian.
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Flowers, Brian (BEGA) [mailto:Brian.Flowers@dc.gov
+<mailto:Brian.Flowers@dc.gov> ]=20
+Sent: Wednesday, November 01, 2017 9:42 AM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US
+<mailto:kmitchell@DCCOUNCIL.US> >; Judiciary (Council)
+<Judiciary@DCCOUNCIL.US <mailto:Judiciary@DCCOUNCIL.US> >
+Cc: Grimaldi, John J. (BEGA) <john.grimaldi@dc.gov
+<mailto:john.grimaldi@dc.gov> >; Collier, Tameka (BEGA)
+<tameka.collier@dc.gov <mailto:tameka.collier@dc.gov> >
+Subject: RE: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+=20
+
+Kate =E2=80=93 I believe that our Chairperson, Tameka Collier is testifying on
+behalf of BEGA.
+
+=20
+
+Brian K. Flowers
+
+Interim Director/General Counsel, BEGA
+
+Desk: 202.481.3407
+
+Cell: 202.309.4254
+
+=20
+
+From: Mitchell, Katherine (Council) [mailto:kmitchell@DCCOUNCIL.US
+<mailto:kmitchell@DCCOUNCIL.US> ]=20
+Sent: Wednesday, November 01, 2017 8:26 AM
+To: Judiciary (Council)
+Subject: Notice of J&PS Public Hearing: 11/2/17, 9:30 a.m., Room 412
+
+=20
+
+Good morning,
+
+=20
+
+Tomorrow, Thursday, November 2, the Committee on the Judiciary & Public
+Safety will convene a public hearing to consider the following measures:
+
+=20
+
+1.    Bill 22-0038, the =E2=80=9CLobbyist Activity Reporting Transparency
+Amendment Act of 2017=E2=80=9D=20
+
+2.    Bill 22-0136, the =E2=80=9CComprehensive Code of Conduct of the District
+of Columbia Establishment and BEGA Amendment Act of 2017=E2=80=9D and
+
+3.    Bill 22-0344, the =E2=80=9CLobbying Disclosure Amendment Act of 2017=E2=
+=80=9D
+
+=20
+
+The hearing will begin at 9:30 a.m. in Room 412. A draft agenda and
+witness list is attached. Please let me know if you have any questions.
+
+=20
+
+Best,
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+

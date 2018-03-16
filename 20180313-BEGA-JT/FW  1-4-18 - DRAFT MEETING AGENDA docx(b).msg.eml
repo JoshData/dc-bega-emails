@@ -1,0 +1,228 @@
+Received: from CY1PR09MB0634.namprd09.prod.outlook.com (10.160.151.21) by
+ SN4PR0901MB2205.namprd09.prod.outlook.com (10.167.151.145) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.366.8; Fri, 29
+ Dec 2017 20:22:38 +0000
+Received: from CY1PR09MB0634.namprd09.prod.outlook.com ([10.160.151.21]) by
+ CY1PR09MB0634.namprd09.prod.outlook.com ([10.160.151.21]) with mapi id
+ 15.20.0366.007; Fri, 29 Dec 2017 20:22:38 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+Subject: FW: 1-4-18 - DRAFT MEETING AGENDA.docx
+Thread-Topic: 1-4-18 - DRAFT MEETING AGENDA.docx
+Thread-Index: AdOAAhek4aCzlXjDS/eBy7END5v8KQAqkGmxAAB4j3AAA2cz3QAAQZ4CAACTeOAACCREvQAAA+FAAAC8IAA=
+Date: Fri, 29 Dec 2017 20:22:37 +0000
+Message-ID: <CY1PR09MB0634EC550C4568612BDDD6D091050@CY1PR09MB0634.namprd09.prod.outlook.com>
+References: <DM5PR09MB1370812ACFC20DD4AD4F5BB383040@DM5PR09MB1370.namprd09.prod.outlook.com>
+ <BLUPR09MB0931BC41A4E80914DA72C7B1EA050@BLUPR09MB0931.namprd09.prod.outlook.com>,<CY1PR09MB06341BC3FCBC0F9E344D2AC591050@CY1PR09MB0634.namprd09.prod.outlook.com>,<101941AE-655E-43FC-B9D5-73F173925423@dc.gov>
+ <18C53EFD-979C-47A0-996F-9C56BEE43CC4@dc.gov>,<CY1PR09MB06341567EC304BD1AA879EAE91050@CY1PR09MB0634.namprd09.prod.outlook.com> <5E3E47A6-AE5E-4B6E-8664-0AC803EFC1B0@dc.gov>
+ <DM5PR09MB1370B0CC6328286A69898A8083050@DM5PR09MB1370.namprd09.prod.outlook.com>
+In-Reply-To: <DM5PR09MB1370B0CC6328286A69898A8083050@DM5PR09MB1370.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: CY1PR09MB0634.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 475f0ffe-d2fe-4d97-81c2-08d54ef9e77e
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN4PR0901MB2205;5:Yk6o/QCevhstaV/PxHiA77smgJ9AZOYq55iOyfVhAfbIIJr+jCcXtkqKCv+e/hzmHExfiQ+GATeWT7a89k7r0nLJXGbt0OZph5hJPCe1jIvwnQUr0/krCf+6x3fKK7GfSs9Di8w4JoBmSGcxeL/wrK3BPQLZcvftUUdNpKUrPnQ=;24:1rfvPoaZWJC2d0/Di1ywc5a8fToMO8VU/zyikE1c4lnwILBJphrz2Mdmupzv9Go6XsXgzV1T3XZ44UDqHVCRlPTglO6kYKRLMeaPKOYdx7M=;7:aOk94DSNpPhX9HCYKYBFXR3kCbdWmeQAVmfCUlI8goQohUgud52z+dXNIPH38W28MI6jxjAcIwcjMLd/Or1HybJp6JDbVo7UVXgf2BSB6K/S9mGK5VP+Zc7RauZRqD3Oj9fknKh1TNL0rlbjRbgbeuAhf751I7+7KNfWxzW5SH72ot+3q4FtDVal7T5Vgk4fJPo8FwN57vKTGGTCX/TExJH3smfVOX4xQDruX2SECeqopzFg7/qij3TYvZFXrKKN;20:aZfwGaggeoG/hTsiNkctZlk7uBzzNGQD4PymWUphedUdOOLTMM5hOuChYm2mCflTtblxxR7JLfPvrKkF9fhnZnMFy3st6UEcmpbA3A7xBsu1QpCzqUxZhHmwWs4bAKTLpvCSjvWLrAY/2liWrexdPOmY4xE9OkATZYY4pdSdQVo=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN4PR0901MB2205;H:CY1PR09MB0634.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 475f0ffe-d2fe-4d97-81c2-08d54ef9e77e
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(5600026)(4604075)(3008032)(2017052603307)(7153060);SRVR:SN4PR0901MB2205;
+x-ms-traffictypediagnostic: SN4PR0901MB2205:
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(3231023)(944501075)(93006095)(93001095)(3002001)(10201501046)(201708071742011);SRVR:SN4PR0901MB2205;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN4PR0901MB2205;
+x-microsoft-antispam-message-info: 5yL41jYoMAHKSL3CcYso5osMFy56yzCFQGCS0D7TiKxj6aCr/AqFH1usgSj53nUtXyDxyXfoXoMn6zdy2sn1Aw==
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+FYI
+
+=20
+
+From: Flowers, Brian (BEGA)=20
+Sent: Friday, December 29, 2017 3:01 PM
+To: Hughes, Traci (BEGA); Grimaldi, John J. (BEGA)
+Subject: RE: 1-4-18 - DRAFT MEETING AGENDA.docx
+
+=20
+
+Yes
+
+=20
+
+Brian K. Flowers
+
+General Counsel, BEGA
+
+Desk: 202.481.3407
+
+Cell: 202.309.4254
+
+=20
+
+From: Hughes, Traci (BEGA)=20
+Sent: Friday, December 29, 2017 3:01 PM
+To: Flowers, Brian (BEGA); Grimaldi, John J. (BEGA)
+Subject: Re: 1-4-18 - DRAFT MEETING AGENDA.docx
+
+=20
+
+Hi. I see that the agenda is posted in the BEGA site. Do you want to
+publish on our end?
+
+
+On Dec 29, 2017, at 11:08 AM, Grimaldi, John J. (BEGA)
+<John.Grimaldi@dc.gov> wrote:
+
+	Thanks, Traci.  I=E2=80=99ll see what the Board wants to do.
+
+	=20
+
+	Jack
+
+	=20
+
+	From: Hughes, Traci (BEGA)=20
+	Sent: Friday, December 29, 2017 10:51 AM
+	To: Grimaldi, John J. (BEGA)
+	Cc: Flowers, Brian (BEGA)
+	Subject: Re: 1-4-18 - DRAFT MEETING AGENDA.docx
+
+	=20
+
+	I forgot to note that the specific language for closure includes
+the appointment and removal of government employees, rather than a
+general personnel description. So, no OMA provision will be violated if
+the agenda is specific in this regard. See section 2-575:
+
+	=20
+
+	(10) To discuss the appointment, employment, assignment,
+promotion, performance evaluation, compensation, discipline, demotion,
+removal, or resignation of government appointees, employees, or
+officials;
+
+=09
+	On Dec 29, 2017, at 10:44 AM, Hughes, Traci (BEGA)
+<traci.hughes@dc.gov> wrote:
+
+		Hi Jack-
+
+		=20
+
+		Notice to the public requires that agenda items be
+stated with specificity. Although the discussion of personnel matters is
+an authorized reason for closure, the public is entitled to know the
+general subject matter as long as the listing the topic would not
+jeopardize privacy in the personnel matter itself. See OMA section
+2-576(5):
+
+		  (5) Each meeting notice shall include the date, time,
+location, and planned agenda to be covered at the meeting. If the
+meeting or any portion of the meeting is to be closed, the notice shall
+include, if feasible, a statement of intent to close the meeting or any
+portion of the meeting, including citations to the reason for closure
+under =C2=A7 2-575
+<https://beta.code.dccouncil.us/dc/council/code/sections/2-575.html>
+(b), and a description of the matters to be discussed.
+
+		=20
+
+		Traci
+
+		=20
+
+		=20
+
+		On Dec 29, 2017, at 9:12 AM, Grimaldi, John J. (BEGA)
+<John.Grimaldi@dc.gov> wrote:
+
+			Thanks, Traci, but why, if the Board does take
+up the OOG position in closed session, is a specific statement
+necessary?  Wouldn=E2=80=99t the reference to personnel matters (as in the
+attached draft) be sufficient?
+
+			=20
+
+			Jack=20
+
+			=20
+
+			From: Hughes, Traci (BEGA)=20
+			Sent: Friday, December 29, 2017 8:56 AM
+			To: Flowers, Brian (BEGA); Grimaldi, John J.
+(BEGA)
+			Subject: Re: 1-4-18 - DRAFT MEETING AGENDA.docx
+
+			=20
+
+			Good morning.
+
+			=20
+
+			The OOG agenda items are included in the
+attached.
+
+			Jack, if the board intends to discuss the
+appointment of the OOG director in closed session, it must be
+specifically stated in the closed session description. If so, please
+insert into the language in agenda, and send to Waddah for publication
+on the website.
+
+			=20
+
+			Thanks.
+
+			=20
+
+			Traci
+
+			=20
+
+		=09
+________________________________
+
+
+			From: Flowers, Brian (BEGA)
+			Sent: Thursday, December 28, 2017 12:34 PM
+			To: Hughes, Traci (BEGA)
+			Subject: 1-4-18 - DRAFT MEETING AGENDA.docx=20
+
+			=20
+
+			Traci =E2=80=93 attached is the draft meeting agenda for
+next week=E2=80=99s meeting.  If you already know your agenda items, would you
+provide them so we can post this promptly?
+
+			=20
+
+			Thanks
+
+			=20
+
+			=20
+
+			Brian K. Flowers
+
+			General Counsel, BEGA
+
+			Desk: 202.481.3407
+
+			Cell: 202.309.4254
+
+			=20
+
+			=20
+

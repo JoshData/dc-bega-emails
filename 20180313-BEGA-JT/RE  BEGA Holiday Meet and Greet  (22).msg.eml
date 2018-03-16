@@ -1,0 +1,237 @@
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com (10.172.39.10) by
+ DM5PR09MB2249.namprd09.prod.outlook.com (10.172.190.137) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.282.5; Thu, 30 Nov 2017 16:45:26 +0000
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) by
+ DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) with mapi id
+ 15.20.0282.006; Thu, 30 Nov 2017 16:45:26 +0000
+From: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+To: "Alexander, Marceline (FEMS)" <Marceline.Alexander@dc.gov>,
+ "Allsopp, Runako (DCRA)" <runako.allsopp@dc.gov>,
+ "Amato, Maria (DOC)"	<Maria.Amato@dc.gov>,
+ "Avery, Gail (DCPL)" <gail.avery@dc.gov>,
+ "Baatin, Victoria Murray (CAH)" <victoria.baatin@dc.gov>,
+ "Back, Mark (DDS)"	<mark.back@dc.gov>,
+ "Banks, Stephanie (DCPC)" <Stephanie.Banks@dc.gov>,"Barash, Scott (DCPS)"	<IMCEAEX-_o=DC+20Government_ou=Exchange+20Administrative+20Group+20+28
+FYDIBOHF23SPDLT+29_cn=Recipients_cn=scott+2Ebarash@namprd09.prod.outlook.com>,
+	"Barnes, Lafayette (EOM)" <lafayette.barnes@dc.gov>,
+ "Bassett, Kimberly (EOM)" <Kimberly.Bassett@dc.gov>,
+ "Blivess, Steven (FEMS)"	<steven.blivess@dc.gov>,
+ "Block, Elaine (OAG)" <elaine.block2@dc.gov>,
+	"Branson, Karen (OIG)" <karen.branson@dc.gov>,
+ "Brown, Lasheka (OEA)"	<lasheka.brown@dc.gov>,
+ "Bushman, Esther (DCOZ)" <Esther.Bushman@dc.gov>,
+	"Caspari, Amy (DPR)" <amy.caspari@dc.gov>,
+ "Caspari, Matthew (DBH)"	<Matthew.Caspari@dc.gov>,
+ "Cavendish, Betsy (EOM)" <betsy.cavendish@dc.gov>,
+	"Chandler, Cory (CFSA)" <cory.chandler@dc.gov>,"Chandy, Sunu (OHR)"	<IMCEAEX-_o=DC+20Government_ou=Exchange+20Administrative+20Group+20+2
+8FYDIBOHF23SPDLT+29_cn=Recipients_cn=sunu+2Echandy@namprd09.prod.outlook.com>,
+	"Cheek, John (DCHR)" <john.cheek@dc.gov>,
+ "Chisley-Missouri, Kimberly (MPD)"	<kimberly.missouri@dc.gov>,
+ "Cohen, Tracey (DCLB)" <Tracey.Cohen@dc.gov>,
+	"Crispino, Anthony D. (HSEMA)" <Anthony.Crispino3@dc.gov>,
+ "Davis - Shelton, Madeleine (DBH)" <madeleine.davis-shelton@dc.gov>,
+ "Davis, Calvin (DRES)"	<calvin.davis@dc.gov>,
+ "Davis, Christine (DPW)" <christine.davis@dc.gov>,
+	"DayMarshall, Maria (DCBC)" <maria.daymarshall@dcbc.dc.gov>,
+ "DeVillier, Mikelle (OCME)" <Mikelle.DeVillier@dc.gov>,
+ "DeWitt, Jeffrey (OCFO)"	<Jeffrey.DeWitt@dc.gov>,
+ "Donald, Brenda (CFSA)" <Brenda.Donald@dc.gov>,
+	"Dubin, Glenn (DDOT)" <glenn.dubin@dc.gov>,
+ "Fry, Linden (EOM)"	<linden.fry@dc.gov>,
+ "Fuller, Carlynn (RPTAC)" <carlynn.fuller@dc.gov>,
+	"Garcia, Michelle (EOM)" <michelle.garcia@dc.gov>,
+ "Gaston, Darrell (EOM)"	<darrell.gaston@dc.gov>,
+ "Giefer, Edward (OP)" <edward.giefer@dc.gov>,
+	"Glasser, David (DMV)" <david.glasser@dc.gov>,
+ "Evans, Gregory M. (EOM)"	<Gregory.Evans6@dc.gov>,
+ "Hapeman, Nancy (OCP)" <nancy.hapeman@dc.gov>,
+	"Hayworth, John-Paul (SBOE)" <John-Paul.Hayworth@dc.gov>,
+ "Hines, Charon (EOM)" <Charon.Hines@dc.gov>,
+ "Hoffman-Peak, Hillary (OSSE)"	<Hillary.Hoffman-Peak@dc.gov>,
+ "Howell, Charisma (CJCC)"	<Charisma.Howell@dc.gov>,
+ "Hyden, David  (OAG)" <david.hyden@dc.gov>,
+ "Isaac, Donald (EOM)" <Donald.Isaac@dc.gov>,
+ "Jenkins, Martha (ABRA)"	<Martha.Jenkins@dc.gov>,
+ "Johnson, Sheryl (DHCF)" <sheryl.johnson@dc.gov>,
+	"Kirkwood, Michael (DCOA)" <michael.kirkwood@dc.gov>,
+ "Krainak, Michael (EOM)" <Michael.Krainak@dc.gov>,
+ "Kreiswirth, Barry (EOM)"	<Barry.Kreiswirth@dc.gov>,
+ "Hughes, Kenneth (PSC)" <KHughes@psc.dc.gov>,
+	"Lambert, Tammi (EOM)" <tammi.lambert@dc.gov>,
+ "Lerner, Jacques (DFHV)"	<jacques.lerner@dc.gov>,
+ "Levy, Michael (EOM)" <michael.levy@dc.gov>,
+	"Libster, Jennifer (DCHBX)" <jennifer.libster@dc.gov>,
+ Linda Manley	<linda.manley@dcwater.com>,
+ "Lynch, Tara (EOM)" <tara.lynch@dc.gov>,
+	"Maxwell, Lindsey E. (PERB)" <lindsey.maxwell@dc.gov>,
+ "Miles, LaTonya (DHCD)" <latonya.miles@dc.gov>,
+ "Mohamed, Mohamed (OFRM)"	<Mohamed.Mohamed@dc.gov>,
+ "Natale, Vanessa (OAH)" <vanessa.natale@dc.gov>,
+	"Nesbitt, LaQuandra S. (DOH)" <laquandra.nesbitt@dc.gov>,
+ "Newland, Laura (DCOA)" <laura.newland@dc.gov>,
+ "Niles, Herbert (OCTFME)"	<Herbert.Niles@dc.gov>,
+ "Orders, Vonda (DHCD)" <vonda.orders@dc.gov>,
+	"Parker, Charlotte (DISB)" <Charlotte.Parker@dc.gov>,
+ "Peters, Dory (EOM)"	<dory.peters@dc.gov>,
+ "Pittell, Stacie (ODCA)" <Stacie.Pittell@dc.gov>,
+	"Preston, Herman (DCNG)" <herman.preston@dc.gov>,
+ "Reyes, Jackie (EOM)"	<Jackie.Reyes@dc.gov>,
+ "Scott, Ebony (OHR)" <ebony.scott@dc.gov>,
+ "Robinson, Tonya (DOES)" <tonya.robinson@dc.gov>,"Rothschild, Richard (CAB)"	<IMCEAEX-_o=DC+20Government_ou=First+20Administra
+tive+20Group_cn=Recipients_cn=Richard+2ERothschild@namprd09.prod.outlook.com>,
+	"Sabbakhan, Camille (DGS)" <camille.sabbakhan@dc.gov>,
+ "Samba, Mamadou (EOM)"	<mamadou.samba@dc.gov>,
+ "Sampson, Erie (DCRB)" <erie.sampson@dc.gov>,
+	"Sanford, William (OCF)" <william.sanford@dc.gov>,
+ "Saunders, Treva (OCFO)"	<treva.saunders@dc.gov>,
+ "Schreiber, Rudolf (DOH)" <rudolf.schreiber@dc.gov>,
+	"Scott, Eric (OPC)" <Eric.Scott@dc.gov>, Sean Sands <ssands@eventsdc.com>,
+	"Shreve, Brittany (OTA)" <brittany.shreve@dc.gov>,
+ "Simon, Gottlieb (ANC)"	<Gottlieb.Simon@dc.gov>,
+ "Slattery, Jim (EOM)" <Jim.Slattery@dc.gov>,
+ "Smruti Radkar" <sradkar@udc.edu>,"Streeter, Nicole (DCPS)"	<IMCEAEX-_o=DC+20Government_ou=First+20Adminis
+trative+20Group_cn=Recipients_cn=Nicole+2EStreeter@namprd09.prod.outlook.com>,
+	"Zimmerman, Justin (DCHR)" <justin.zimmerman@dc.gov>,
+ Alfreda Davis	<adavis@dccouncil.us>,
+ "Muslim, Amin (Council)" <AMuslim@DCCOUNCIL.US>,
+	"Phelps, Anne (Council)" <aphelps@DCCOUNCIL.US>,
+ Ari Weisbard	<aweisbard@dccouncil.us>,
+ "Austin, Keenan" <kaustin@dccouncil.us>, "Barbara Mack" <bmack@DCCOUNCIL.US>,
+ "Blackwell, Michele" <mblackwell@dccouncil.us>,
+	"Moore, Brian (COUNCIL)" <bmoore@DCCOUNCIL.US>,
+ "Brown, Joshua"	<jcbrown@dccouncil.us>,
+ Christopher Fleming <cfleming@dccouncil.us>,
+	Christopher Swartz <cjswartz@oge.gov>,
+ "Condell, Tonya (DHCD)"	<tonya.condell@dc.gov>,
+ Dale Christopher <dachrist@oge.gov>, Darby Hickey	<dhickey@dccouncil.us>,
+ "Desai, Sonia" <sdesai@dccouncil.us>, Ellen Efros	<eefros@DCCOUNCIL.US>,
+ "Fox, A" <afox@dccouncil.us>, "Geraldo, Manual"	<mgeraldo@dccouncil.us>,
+ "Gibson, Joshua" <jgibson@dccouncil.us>,
+ "Hart, Marie (OIG)" <marie.hart@dc.gov>, "Hunt, K" <khunt@dccouncil.us>,
+ James Brown	<jbrown@dccouncil.us>, "Kang, Irene" <ikang@dccouncil.us>,
+ Katherine Mitchell	<kmitchell@dccouncil.us>,
+ "Westcott, Katherine (COUNCIL)"	<KWestcott@DCCOUNCIL.US>,
+ "Lucas, Daniel W. (OIG)" <daniel.lucas@dc.gov>,
+	"Ludaway, Natalie (OAG)" <natalie.ludaway@dc.gov>,
+ "Magnus, Ron"	<rmagnus@dccouncil.us>,"Mahmud, Omar (DCPS)"	<IMCEAEX-_o=DC+20Government_ou=First+20Adm
+inistrative+20Group_cn=Recipients_cn=Omar+2EMahmud@namprd09.prod.outlook.com>,
+	"Marks, Laura" <lmarks@dccouncil.us>, Mary Thompson <mthompson@dccouncil.us>,
+	"McKenzie, Natasha" <nmckenzie@dccouncil.us>,
+ "Meadows, David"	<dmeadows@dccouncil.us>,
+ "Mendelson, Phil (COUNCIL)"	<PMENDELSON@DCCOUNCIL.US>,
+ Mike Shaffer <mshaffer@dccouncil.us>,
+ "Moir, Thomas (COUNCIL)" <TMoir@DCCOUNCIL.US>,
+ "Parker, Lindsey (EOM)"	<lindsey.parker@dc.gov>,
+ "Patterson, Kathy (ODCA)" <kathy.patterson@dc.gov>,
+	Peter Johnson <pjohnson@dccouncil.us>,
+ "Pittman, Lucy (OAG)"	<lucy.pittman@dc.gov>,
+ "Richards, K" <krichards@dccouncil.us>,
+ "Robins, Janet M. (OAG)" <janet.robins@dc.gov>,
+ Ronan Gulstone <RGulstone@DCCOUNCIL.US>,
+	"Rosen-Amy, Sam" <srosenamy@dccouncil.us>,
+ "Ross, Ronald (EOM)"	<ronald.ross@dc.gov>,
+ "Royster, C" <croyster@dccouncil.us>,
+ "Ryan, Terry (MPD)" <terry.ryan@dc.gov>,
+ "Silverman, Elissa" <esilverman@dccouncil.us>,
+	"Stevens, Anthony V. (EOM)" <anthony.stevens@dc.gov>,
+ Tania Jackson	<tjackson@dccouncil.us>, Tom Fazzini <tfazzini@dccouncil.us>,
+ "Tuohey, Mark (EOM)" <mark.tuohey@dc.gov>,
+ "Turner, Dolly" <dturner@dccouncil.us>,
+	"Viehmeyer, Mark (MPD)" <mark.viehmeyer@dc.gov>,
+ "Walker, Steven (EOM)"	<steven.walker@dc.gov>,
+ "Willingham, Jonathan" <jwillingham@dc.us>,
+	"carolofwdc@yahoo.com" <carolofwdc@yahoo.com>,
+ Darrin Sobin	<DSobin@dcbar.org>,
+ "Bender, Michael (OSSE)" <Michael.Bender@dc.gov>,
+	"Walter, Zachary (Council)" <zwalter@DCCOUNCIL.US>,
+ "Forman, SarahJane (OSSE)" <sarahjane.forman@dc.gov>,
+ "Kreiswirth, Barry (EOM)"	<Barry.Kreiswirth@dc.gov>,
+ "Sampson, Erie (DCRB)" <erie.sampson@dc.gov>,
+	"Chounoune, Rudy (FEMS)" <Rudy.Chounoune@dc.gov>,
+ "Collier-Montgomery, Cecily (OCF)" <cecily.collier-montgomery@dc.gov>,
+ "Sanford, William (OCF)"	<william.sanford@dc.gov>,
+ "Condell, Tonya (DHCD)" <tonya.condell@dc.gov>,
+	"Wade, Shomari (BEGA)" <shomari.wade@dc.gov>,
+ "Collier, Tameka (BEGA)"	<tameka.collier@dc.gov>,
+ "Norflis, Terrance (Council)"	<tnorflis@DCCOUNCIL.US>,
+ "Hutcheson, Norma (BEGA)" <norma.hutcheson@dc.gov>,
+	"Weil, Sonia (Council)" <sweil@DCCOUNCIL.US>,
+ Kenneth McGhie	<KMcGhie@dcboee.org>,
+ "Allen, Charles (COUNCIL)" <CAllen@DCCOUNCIL.US>,
+	"RSpagnoletti@dcbar.org" <RSpagnoletti@dcbar.org>
+CC: "Dow, Tyrell (BEGA)" <tyrell.dow@dc.gov>
+Subject: RE: BEGA Holiday Meet and Greet 
+Thread-Topic: BEGA Holiday Meet and Greet 
+Thread-Index: AdJP9i5Ib75VnKLXRjyM7YcuXfAHgkaADWtw
+Date: Thu, 30 Nov 2017 16:45:25 +0000
+Message-ID: <DM5PR09MB1370BD4112DF0B165B4FEFBA83380@DM5PR09MB1370.namprd09.prod.outlook.com>
+References: <bda65af54e7d45b2bd4af0fd1c227c11@CWM-EXMR-208.dcgov.priv>
+In-Reply-To: <bda65af54e7d45b2bd4af0fd1c227c11@CWM-EXMR-208.dcgov.priv>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM5PR09MB1370.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 4e40b621-c8f2-48a5-0275-08d53811c247
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;DM5PR09MB2249;7:E+y0WJiGeniCGGzI0l6eqv4/qPYzZShbyup1Vni2xnL+sL2QGisLKxgXyyUZbfFxx99Sd+sNXJAPvrNUga2dRuWTmM0lApqCuChrCG1aE6Lq9pbiDbraoACCU9Rr5xwWUTA52r4h53Vmpy09zhHnfPHeZgDgW7jqEjcgKnf2krhZWzIWwtNwYudTrziDYk9/zaMOSKF1NnPPXYVs+oGVHXDINAL0J3DQBDORNJbmwa9GofLbngV1bN2HMDB23BAw;20:XmwC6w5mCAQWZRF9XC0/txFVHnexgCVmn++V+YuoRoxsnewyFJNVZ/zLNSl6pkdrnGWsLffJF0X6f0oyDKOCuu329qWSFkhszc3fni0tnfq1wVnyyAvMfUrtC1Q1E95V6Pe5nTzF1TSjXRCD+Jd2EvcZVb2jkVGpV7gFjaY+Yao=
+x-ms-office365-filtering-correlation-id: 4e40b621-c8f2-48a5-0275-08d53811c247
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(5600026)(4604075)(2017052603286);SRVR:DM5PR09MB2249;
+x-ms-traffictypediagnostic: DM5PR09MB2249:
+x-ld-processed: 8fe449f1-8b94-4fb7-9906-6f939da82d73,ExtAddr
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(93006095)(93001095)(3002001)(10201501046)(3231022)(201708071742011);SRVR:DM5PR09MB2249;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:DM5PR09MB2249;
+x-forefront-antispam-report: SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM5PR09MB2249;H:DM5PR09MB1370.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Season=E2=80=99s greetings colleagues.  The Holiday Season is upon us.  Please
+join BEGA for our Annual Holiday Meet and Greet and share in the
+culinary talents of the BEGA staff as we see who can outdo the other in
+the kitchen.    We will be saying goodbye to former Ethics Board Member
+Carol Schwartz and welcoming a new Director of Government Ethics, Brent
+Wolfingbarger.  Please RSVP to Tyrell Dow =E2=80=93 copied on this email, NOT
+reply all.  Details below.
+=20
+What:  The BEGA Annual Holiday Meet and Greet
+When:  December 21th, 12 noon
+Where: the BEGA Board Room, 441 4th Street (One Judiciary Sq), Suite 540
+South.
+=20
+=20
+See you there!!
+=20
+=20
+Brian K. Flowers
+Interim Diector/General Counsel
+Board of Ethics and Government Accountability
+441-4th Street, N.W., Suite 830 South
+Washington, D.C. 20001
+(o) 202.481.3411
+(d) 202.481.3407
+brian.flowers@dc.gov <mailto:brian.flowers@dc.gov>=20
+=20
+Confidentiality Notice
+=20
+This message is sent by a lawyer and is intended exclusively for the
+individual or entity to which/whom it is addressed. This communication
+may contain information that is proprietary, privileged, or
+confidential, or otherwise legally exempt from disclosure.  If you are
+not the named addressee, you are not authorized to read, print, retain,
+copy or disseminate this message or any part of it. If you have received
+this message in error, please notify the sender immediately by email and
+delete all copies of the message.
+=20
+=20
+=20
+=20

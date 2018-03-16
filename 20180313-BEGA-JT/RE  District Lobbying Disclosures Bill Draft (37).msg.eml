@@ -1,0 +1,728 @@
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com (10.160.247.24) by
+ MWHPR09MB1375.namprd09.prod.outlook.com (10.172.51.13) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.13.10; Fri, 8 Sep 2017 18:59:00 +0000
+Received: from DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::5801:642d:da9d:6128]) by DM2PR09MB0368.namprd09.prod.outlook.com
+ ([fe80::5801:642d:da9d:6128%15]) with mapi id 15.20.0013.022; Fri, 8 Sep 2017
+ 18:58:59 +0000
+From: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+To: "'Porcello, Michael (Council)'" <mporcello@DCCOUNCIL.US>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>
+Subject: RE: District Lobbying Disclosures Bill Draft
+Thread-Topic: District Lobbying Disclosures Bill Draft
+Thread-Index:
+ AdKAwyqqmPc4xzjARlehw6nomeN3SwAhN2cDADGKsMIEKwq5MAACUoQwAAAUVgAAABFRoCWC8NEA
+Date: Fri, 08 Sep 2017 18:58:59 +0000
+Message-ID: <DM2PR09MB0368185CC45B8000B181E08491950@DM2PR09MB0368.namprd09.prod.outlook.com>
+References: <b73d2fb05b584bf59ccc3e6628f6c8ed@DCC-Exchange-1.Council.local>,<6CDFC372-D629-48A7-9697-42C5C7C134AA@dc.gov> <59d11d996cad4a489468ae3204892cd7@CWM-EXMR-107.dcgov.priv>
+ <7b62d77760e84594aa0b344a4c9f3e1d@CWM-EXMR-210.dcgov.priv>
+ <a7573b893d0a4bdd8c4ba5214ef7246c@DCC-Exchange-1.Council.local>
+ <9ccde4f56c454b9aa240ea84aff4338e@CWM-EXMR-210.dcgov.priv>
+ <c30b6019e0d842f88cf4f4187b8f9b76@DCC-Exchange-1.Council.local>
+In-Reply-To: <c30b6019e0d842f88cf4f4187b8f9b76@DCC-Exchange-1.Council.local>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM2PR09MB0368.namprd09.prod.outlook.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+ 8cea9a17-7308-4201-fefe-08d4f6eba9ed
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: DCCOUNCIL.US; dkim=none (message not signed)
+ header.d=none;DCCOUNCIL.US; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;MWHPR09MB1375;20:oiikCeIjr6p5JB/XWfftcPmP+ir8fe2YgFhySFoKw54Y4x7rLugZJW63e805CKSq3+kZhs983TkKTKD57UCcpEBz2yZHLm5SREUwR+fP//Y4v3zadBLmPGsnIsDDCyGT4F3Rd7XVCEVSa1hCf3TCfDdHLADObpYxDkrtv0wQq4U=
+x-ms-exchange-organization-avstamp-service: 1.0
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ld-processed: 8fe449f1-8b94-4fb7-9906-6f939da82d73,ExtAddr
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:MWHPR09MB1375;H:DM2PR09MB0368.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 8cea9a17-7308-4201-fefe-08d4f6eba9ed
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(300000502095)(300135100095)(22001)(2017030254152)(300000503095)(300135400095)(2017052603199)(49563074)(201703131423075)(201703031133081)(201702281549075)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:MWHPR09MB1375;
+x-ms-traffictypediagnostic: MWHPR09MB1375:
+x-exchange-antispam-report-test: UriScan:(148322886591682)(31418570063057)(86561027422486)(81227570615382)(21748063052155)(64217206974132);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(102415395)(9101524173)(2401047)(8121501046)(100000703101)(100105400095)(3002001)(93006095)(93001095)(10201501046)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:MWHPR09MB1375;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:MWHPR09MB1375;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6440633043427963747=="
+
+--===============6440633043427963747==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good afternoon, Michael.
+
+=20
+
+As you may know, Darrin left BEGA in July =E2=80=93 Brian is the Interim
+Director =E2=80=93 but I=E2=80=99m writing to confirm our continuing willingn=
+ess to
+testify in favor of Bill 22-344. =20
+
+=20
+
+Coincidentally, our own bill (Bill 22-136) also has been noticed for
+hearing on Nov. 2.  See attached Notice.  Needless to say, we=E2=80=99d
+appreciate Councilmember Cheh=E2=80=99s support.  Let me suggest, then, that =
+we
+get together in the near future to discuss the bills.  I know our
+Chairperson, Tameka Collier, who will likely be presenting the
+testimony, would appreciate the opportunity to meet you and the
+Councilmember in any event.
+
+=20
+
+Please, then, suggest a few good times for a meeting.
+
+=20
+
+Thanks.
+
+=20
+
+=20
+
+Jack Grimaldi
+
+Senior Attorney Advisor
+
+D.C. Board of Ethics and Government Accountability
+
+441 4th Street, N.W.,  Suite 830 South
+
+Washington, D.C.  20001
+
+Main:  (202) 481-3411
+
+Direct:  (202) 741-2129
+
+=20
+
+From: Porcello, Michael (Council) [mailto:mporcello@DCCOUNCIL.US]=20
+Sent: Wednesday, March 01, 2017 2:45 PM
+To: Sobin, Darrin (BEGA)
+Cc: Grimaldi, John J. (BEGA); Flowers, Brian (BEGA); Foster, Janet
+(BEGA)
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+=20
+
+Wonderful. We will be in touch.
+
+=20
+
+M
+
+=20
+
+Michael Porcello | Legislative Counsel
+
+Councilmember Mary M. Cheh (Ward 3)
+
+Council of the District of Columbia
+
+Tel: (202) 724-8062 | Fax: (202) 724-8118
+
+=20
+
+For legislative news and updates, follow our office on Twitter at
+@MaryCheh <https://twitter.com/marycheh> , =E2=80=98like=E2=80=99 us on Faceb=
+ook
+<https://www.facebook.com/cmmarycheh/> , or join Mary=E2=80=99s mailing list =
+on
+www.marycheh.com <http://www.marycheh.com/> .
+
+=20
+
+From: Sobin, Darrin (BEGA) [mailto:darrin.sobin@dc.gov]=20
+Sent: Wednesday, March 01, 2017 2:43 PM
+To: Porcello, Michael (Council) <mporcello@DCCOUNCIL.US>
+Cc: Grimaldi, John J. (BEGA) <john.grimaldi@dc.gov>; Flowers, Brian
+(BEGA) <brian.flowers@dc.gov>; Foster, Janet (BEGA)
+<janet.foster@dc.gov>
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+=20
+
+I would be happy to do it.
+
+=20
+
+Darrin P. Sobin
+
+Director of Government Ethics
+
+Board of Ethics and Government Accountability
+
+441 4th Street, N.W.,  Suite 830 South
+
+Washington, D.C.  20001
+
+Tel. 202-481-3411
+
+=20
+
+From: Porcello, Michael (Council) [mailto:mporcello@DCCOUNCIL.US]=20
+Sent: Wednesday, March 01, 2017 2:42 PM
+To: Sobin, Darrin (BEGA)
+Cc: Grimaldi, John J. (BEGA); Flowers, Brian (BEGA); Foster, Janet
+(BEGA)
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+=20
+
+Fantastic. Thanks so much for this, Darrin.
+
+=20
+
+This is thinking far ahead in the bill process, but, once the bill is
+introduced and a hearing is set, it would be great to have someone in
+your office testify about the need for the bill. I=E2=80=99ll keep you updated
+as that process moves forward.
+
+=20
+
+Best,
+
+=20
+
+Michael=20
+
+=20
+
+Michael Porcello | Legislative Counsel
+
+Councilmember Mary M. Cheh (Ward 3)
+
+Council of the District of Columbia
+
+Tel: (202) 724-8062 | Fax: (202) 724-8118
+
+=20
+
+For legislative news and updates, follow our office on Twitter at
+@MaryCheh <https://twitter.com/marycheh> , =E2=80=98like=E2=80=99 us on Faceb=
+ook
+<https://www.facebook.com/cmmarycheh/> , or join Mary=E2=80=99s mailing list =
+on
+www.marycheh.com <http://www.marycheh.com/> .
+
+=20
+
+From: Sobin, Darrin (BEGA) [mailto:darrin.sobin@dc.gov]=20
+Sent: Wednesday, March 01, 2017 1:37 PM
+To: Porcello, Michael (Council) <mporcello@DCCOUNCIL.US>
+Cc: Grimaldi, John J. (BEGA) <john.grimaldi@dc.gov>; Flowers, Brian
+(BEGA) <brian.flowers@dc.gov>; Foster, Janet (BEGA)
+<janet.foster@dc.gov>
+Subject: FW: District Lobbying Disclosures Bill Draft
+
+=20
+
+Michael,
+
+=20
+
+Apologies, but I don=E2=80=99t think we got back to you on this after our Boa=
+rd
+meeting a couple of weeks ago.  See below and attached.  The Board had
+no objection to the CM=E2=80=99s Bill.
+
+=20
+
+Darrin P. Sobin
+
+Director of Government Ethics
+
+Board of Ethics and Government Accountability
+
+441 4th Street, N.W.,  Suite 830 South
+
+Washington, D.C.  20001
+
+Tel. 202-481-3411
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Wednesday, February 08, 2017 8:28 AM
+To: Sobin, Darrin (BEGA)
+Cc: Flowers, Brian (BEGA); Foster, Janet (BEGA)
+Subject: RE: District Lobbying Disclosures Bill Draft
+
+=20
+
+See attached comparative print. I'm comfortable with the revised version
+of the CCC definition of "administrative decision" and their proposed
+amendment to "legislative action."
+
+=20
+
+________________________________
+
+From: Sobin, Darrin (BEGA)
+Sent: Tuesday, February 7, 2017 8:42 AM
+To: Grimaldi, John J. (BEGA)
+Cc: Foster, Janet (BEGA)
+Subject: Fwd: District Lobbying Disclosures Bill Draft=20
+
+=20
+
+Here it is
+
+Sent from my iPhone
+
+
+Begin forwarded message:
+
+	From: "Porcello, Michael (Council)" <mporcello@DCCOUNCIL.US>
+	Date: February 6, 2017 at 4:53:02 PM EST
+	To: "Foster, Janet (BEGA)" <janet.foster@dc.gov>, "Sobin, Darrin
+(BEGA)" <darrin.sobin@dc.gov>
+	Cc: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+	Subject: District Lobbying Disclosures Bill Draft
+
+	Hi Darin and Janet,
+
+	=20
+
+	I wanted to reach out to you all with a draft of the legislation
+related to updating the District=E2=80=99s lobbying disclosure laws to include
+procurement actions so as to fall in line with other jurisdictions. I=E2=80=
+=99m
+hoping you all might take a look at what I=E2=80=99ve drafted up, and tell me=
+ if
+you think it adequately addresses the issues you identified in your
+recent letter. Feel free to red line or give me a call to discuss any
+changes or issues with the text, as drafted.
+
+	=20
+
+	As I mentioned to Janet, there is no rush on getting edits back
+to me =E2=80=93 we would likely introduce any legislation next month at the
+earliest.
+
+	=20
+
+	Thanks for any thoughts.
+
+	=20
+
+	Best,
+
+	=20
+
+	Michael
+
+	=20
+
+	Michael Porcello | Legislative Counsel
+
+	Councilmember Mary M. Cheh (Ward 3)
+
+	Council of the District of Columbia
+
+	Tel: (202) 724-8062 | Fax: (202) 724-8118
+
+	=20
+
+	For legislative news and updates, follow our office on Twitter
+at @MaryCheh <https://twitter.com/marycheh> , =E2=80=98like=E2=80=99 us on Fa=
+cebook
+<https://www.facebook.com/cmmarycheh/> , or join Mary=E2=80=99s mailing list =
+on
+www.marycheh.com <http://www.marycheh.com/> .
+
+	=20
+
+PUBLIC SAFETY SURVEY: Let us know about your experiences and opinions
+regarding public safety in Washington, DC. Take the 10-minute survey
+Here <http://www.surveygizmo.com/s3/3128951/00cdba37fc5e> .
+#SaferStrongerDC=20
+
+PUBLIC SAFETY SURVEY: Let us know about your experiences and opinions
+regarding public safety in Washington, DC. Take the 10-minute survey
+Here <http://www.surveygizmo.com/s3/3128951/00cdba37fc5e> .
+#SaferStrongerDC=20
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+
+
+--===============6440633043427963747==
+Content-Type:
+ application/vnd.openxmlformats-officedocument.wordprocessingml.document
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+filename="Judiciary++Public+Safety+Committee+Public+Hearing+Notice+Ethics++Lobbying+Bills+11-2-17.docx"
+MIME-Version: 1.0
+
+UEsDBBQABgAIAAAAIQBruNnWrQEAAJsHAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAACAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0lU1P4zAQhu9I/A==
+h8jXVeKyB7RCTTkAe1yQtqs9u/aktYg/5JkC/fdMmjYC1OLy0UukZDzv+3jszIwvn1xbPEBCG3wtzg==
+qpEowOtgrJ/X4t/0d/lLFEjKG9UGD7VYAYrLyenJeLqKgAVne6zFgiheSIl6AU5hFSJ4jjQhOUX8mg==
+5jIqfa/mIH+ORudSB0/gqaROQ0zG19CoZUvFzRN/7kkStCiKq35h51ULFWNrtSImlQ/evHEpNw4VZw==
+rtfgwkb8wRhC7nToIvsNNnm3XJpkDRR3KtEf5RhDPoZkpAl66XgP1fsyOzhD01gNQ36nFlPQgMg1dw==
+bTVEnLJ+y7+Xwy/dDBJnfj/IIJ2FQFq1gN9P0OseaP/f0uKmaUDzjcsfisOyq3zVW7zIzbsBEdf7EA==
+k9f/QZk7edwoZxEeYfb3aBQvxLMgTQjkAx3j7AfpLAR4cySGrXIWoYOFdHbAvfvgleiFD/D3NFWzFg==
+jkGwkc5CEDd/kOvn1yuxlnnPktvkXQoReZikT2x7Oy267JL7b4REFoZ5savfDo48iL5cZ+hGnQGzww==
+W65H6+QZAAD//wMAUEsDBBQABgAIAAAAIQAekRq38wAAAE4CAAALAAgCX3JlbHMvLnJlbHMgogQCKA==
+oAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjJLbSgNBDA==
+hu8F32HIfTfbCiLS2d5IoXci6wOEmewBdw7MpNq+vaMgulDbXub058tP1puDm9Q7pzwGr2FZ1aDYmw==
+YEffa3htt4sHUFnIW5qCZw1HzrBpbm/WLzyRlKE8jDGrouKzhkEkPiJmM7CjXIXIvlS6kBxJCVOPkQ==
+zBv1jKu6vsf0VwOamabaWQ1pZ+9AtcdYNl/WDl03Gn4KZu/Yy4kVyAdhb9kuYipsScZyjWop9SwabA==
+MM8lnZFirAo24Gmi1fVE/1+LjoUsCaEJic/zfHWcA1peD3TZonnHrzsfIVksFn17+0ODsy9oPgEAAA==
+//8DAFBLAwQUAAYACAAAACEAYYF25pYBAADLBwAAHAAIAXdvcmQvX3JlbHMvZG9jdW1lbnQueG1sLg==
+cmVscyCiBAEooAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1JU9T8MwEEB3JP5D5J24KVCgagoDIA==
+MbBAEbPrXBpTxxfZF2j/PW6rpi0fZvHCEunOyd3TO9sZXS9qnbyDdQpNzrK0xxIwEgtlZjl7mdyfXA==
+ssSRMIXQaCBnS3Dsenx8NHoCLch/5CrVuMRXMS5nFVEz5NzJCmrhUmzA+JUSbS3Ih3bGGyHnYga83w==
+6w243a/Bxgc1k4ciZ/ah8P0ny8Z3/rs2lqWScIuyrcHQDy145StZrczcFxV2BpSzWihNOHxrCyWVsA==
+y5tCSmyNVDpt3fa1Ryw8wd2CwBqhGf8ZNTuNyUreIWwBcrYO+fqZpV7qbxC/MdRKWnRYUiqx5htVKw==
+RReHU+COlhrcq6LqrixBUucgZ9+WQhwXMV2AKQyS33rd2LaZEELWj8lQoqGJmOq9mXSpEEVUiM0Idg==
+GjZxqH0W04Fp6ylYfzfsCLpUCGIQE6JEpC+7oUuFILKoKlYtwe48bOLg0TyPaeEDps9A5Gexdyr2kg==
+QRP+lv8vl+pZTFT3zdg2E9J1FRMh3i+IH/yCx58AAAD//wMAUEsDBBQABgAIAAAAIQBx/50gSQ8AAA==
+PU8AABEAAAB3b3JkL2RvY3VtZW50LnhtbOwbyXLjNvY+VfMPKB7mpJaoxWpbEzOlzR13dbpdbnd15Q==
+NAWRUItjEmBAUIpyyockP5cvyQO4mJBINinZchafKJHgw9tX8Jtvf/I9tCY8dBm9NLpt00CE2sxx6Q==
+l0vj093Vq3MDhQJTB3uMkktjS0LjW+vf//pmM3KYHfmECgQgaDjaBPalsRIiGHU6ob0iPg7bvmtzFg==
+sqVo28zvsOXStUlnw7jT6ZldU/0KOLNJGMJ+U0zXODQScP4+NBYQCnstGfexCNuMf+n4mN9HwSuAHg==
+YOEuXM8VW4BtDlMw7NKIOB0lCL3KEJKvjGKEkkv6Bt+jomDf+M1ZwgG1Y4cTD3BgNFy5wQMZh0IDEg==
+VylK6yoi1r6XrtsE3cHefhnJdWQw43gDongAuAeugBlO/JLvxXyQ8n2Q6i7ErllFTCIRCSLDoQ4K+g==
+nikmPnZpBuYw1uSZCxZxjH6/4SwKMnQC9zho1/Q+gyUNswFm5lBZXp60sBGAPdP9uMIBMZBvj66/UA==
+xvHCA4w23QGSGmlY4CwWzNnKa4A2I3A2zu2lYZpnZ+bF8MJIb92A6ZnmpDs4m55lN2dkiSNP7C+/yQ==
+3VKQb7i88Piy6Khdp6G6hgG2Qa1hozX2Lo2BacDtTrIYrkHyEmP30qN8FJgLWOw6sIfEhGIfCPrfGw==
+NsH2vXxXEhSvnVMnW6kecPirKNTIKUfNx543xUENRDcjYU0l2iJGXsFsuFsVIyRgFlHb9RBbIrEiaA==
+5oaCu7aQ/6fMi/yFizUEJO8kGs8k1vq8exDyk8pHBq+R1DZQl4CTkPA1Mazph++/v767m8/Rh/fo7g==
+uzl6+2l2Pb0e3/6ANG6C4jyWnvwH+8F/0c2nybvrKfo4vprf/aBt9SK4nAcAxS8W3HsmIGOR2n8TLQ==
+PNfeE1dqfdIXzQbmvNtX3q7YCdXXVmmJ3xHMwWc9j9SCiaNUccGEYD5QqfymzNI88PObUfgzJIs99Q==
+K1b2rvxtM4+BD8eRYImDTeGkDGnmj79uqnXglUq32z8z0Q2hNNx6a0xdjMZrQiPSQu/bn9st9BlDKg==
+R78IRlto1p62ESSW5gAhXQtObUnRjjRyepw6uZOhdE9I8J78JFTg+7+dYmZDVUB4HCdZJDyXkndrLw==
+fdqNH6Qqod5dpILM2QhQodY0p2o8M3vDK6mRKhA3TSGelCppOykneucxK8Kfp6F+b5d2oCSlJk4rEg==
+EuuGiwZbSt8zjdMAn/gLwtF0hblHQjT2PAKmAH9dHkDJyOiBzulI+RQr2lf16VScb8prjYknFjTzfQ==
+VwgCIY6qhO9t5Li2i/kWJQlEHPY+4iURWw3R+j7mSGk/kVxPhv+fXFtzDreZgUg/MaZUegrwDTjJkA==
+NB3JKbNKkK7M8XxWO0FqZkfFCZweqnfxaZawNcOnMH/LIXACN34AS/qT18OruGJ/ZLuT6iIYVJEUqg==
+f8I1Pfl72mIhVUmRoAfznZu5fEV/oloeuTIjaVsIvAhlIgDXNIvwyFLI/Cdg0NnpD03V8NBWJDlaug==
+ZjA8T5siKThXdTYkJAUiTlVO7c2eJsEptoyJ63mo13tlmv3zlgqHmpbuGW9OEo9vLMUo/v7Lr+/YYg==
+sYW+DBrbwl1DvxvdkoBxIftbdxxT6D5waOFv0Ria845q0MNKWcNCz/3177/8pvvEOlr6opBJi/CFWQ==
+RqOa5ZTWi5T5PqPFWtJ1dPvDXRROyYRnd1sWeKgpTOM4WRGI9GsCEd9RHTSI/E4UO6Ky1jKaw6gR+g==
+bOFKuS2YOqLJ/M241JNpnH6xzQa2+cKsBsyCwP80NmyBhr/osOTtIT2xOjocV1nT1+ZgMi7qB/7j8w==
+a70QSRj1RNo+kQGyPxi0UJbGQs4KM0bbY2HEyRF+vnCSXC52fXnJJDmtgx65rDppBVVoIzr1twfYSA==
+AkHqSVKD1qYKMFLFksQsmdg30cH0ddlOuFtFPHTwFuY1bB23qnuaO81VbLnDAodu16qCfT7uz3qDzA==
+xWg8LTGnHCnFxZ4q2Fp6ubZD0uz89WQ2KWup5XawLkb9MvwfBVnzkfDUzxfkyG2IpdX22xrBUuGUwg==
+pvKXKlEltnRdrvrVlyu/kdx6XlMo1p9bBqNbjQc5duYm1imhTTk86JaaW1NQLfSWrSgat9Fn14PBEg==
+mkSuJw8hauj/nUVoVU+jD+TDfNKf9vuZW/rLqvLuLF5jR06rY73r93u989Iudt4rJjN9DVyhlu3EzA==
+HCP1JyW5xMHhsRCZi6vB+EqduNidb+tPToJMfzi86BUm1wWcySWYe4kDnDVZySazJLkwM0hOBkpXWw==
+cl7nA63j7xSAxtlDwtr45ZaKzZra7Gnh19GFWbo2aN+FF++ljd93l+i+O7+lpU3q0xN90JspmfjuQg==
+rmAzkp2Z5ERUwWj4IE5sZPN9F4eUulywqkBrxTwHBpFBPLNexeenEAyd7GToFLcItQ5/Vokc0VBvPQ==
+wIX2X9yCK22D1SAxpXoviMqDGY/eRGspaWazD1WfyQZdxpkDarScBkjR6V5JLzhiHddTtdzrezxIJw==
+LerAUM6VF6dAlRqVDDvL2V0M8w6YUyXF7uSsf3ahcnJhJVpYtf5ANJCyGIHvCQo8OHCKXIqOzviEVQ==
+kdRJUR6KbHKguCTLa6Hq7Ad0VFTyPFcHCeviKG5bo6rXtY1KK6ojOFW7jhJWaalUa3sokCoJjQ9HlA==
+G4el22xhoqK3125zWZP+RCUquXFqEv+/1oHpZQf505UPedZuNvFnxw98XuwKpXuBMYggDkQyDgN8NQ==
+Pcn8czabzvzzUZHLDSFAVunBfNbtwTcaFWEXwccRkA/ImDFhmDsy1ZiLlWvDqSC4/wZ6M5wmc2gb8g==
+HZCV+k6rYNqjT44SILdEfvFV2BzsyujOyY+RC91DLxmMS4rQ0vUI8hkVK2+LcDop52pSDmctXbFKPg==
+cODEFoxLnHOIxju3dZdTX4P+AAAA///UWNty2zYQ/RWMnpoZRaGom+2JNZVlOe1Mk3rszOQZJCERCQ==
+SaggKIV5yoe0P5cv6VmA1F22nLRN8ySRBBbYxdmzB2suG5533fUm7U6DLS90LqPbjVfDl8uL+a2mHw==
+w4O8+sXABU8uG4mYGpo1V/llw+96jRfDly/WI9+H9cBAmbj6aK1h0Nyarpa821iyfnUtprxIvs/+EA==
+COvq8G0sWG64ERGbFxp+Cqam7EomCfP95167028ygzFfPv85Vulci1hkuVwINlaRHTpWWVSEhmbRuA==
+a5kbLd3zWCVFGkjOJlghSGQepyIzjGcRu5q8GrERHiP7auQm+F578OXzX00mc2aUjbSNt92rruNmQw==
+OfG7o27D+sA+pslFPuehuGxgg7nQC9EYMk7W7Z6uFNcRbXBiYhnmdgOv1ELorFo8VEWGHcpEmtJ+3Q==
+drWadiemSqcHd93GdpmovbSLbpt4QrRaW37/34F0yv5uNR2Zf9PtjXp1Dt59D/QD9S7Vg3GOTF5eSA==
+l8/2LXnivp6WGp1ud5Uav6kgKGU2I/iHicoLLQ7i5AdGdzGPwBIW2pGYykwaqTJKqqT2HSmgxR+FhA==
+79E6DBjBQSahStMikyGnaTlbShMj0zB/KkPJEyYzazoRM5knGASGUZqJjyIs7EOgeRbGbh7xzAZZyQ==
+bJoUIgsp/qHKjOahyZtsK41wtlqp6UQTi5hyDqrI5yJJ7g3Xhogb0DjGL0MtMHmmeZpiifwku5Mseg==
+zGqTHETZEJrBfAjIWDbC5m2EDP8gMhaUNiwrVp2taOsEmuj0++f+aJVxLg2v2t3e+GAabg+3RbLX8w==
+zvvnlmZ/kCJ5vCRvnLCLxKTrD676D9WQtwAaeDyVxggBiC6kEahMFn6oZyGxPt4YOS3pMPGUFwFGsw==
+paYpgDR9TFVWttgoK1UmAOA8JqBuzOTGmtzBVUVCseAa43c/1lg91ROWx6pIIpsfQNhucrjFDhdScg==
+9+Hl273ujTd+KJDrIC4gB0TKZcLg9o7ZGHmpE5l9YPpCRpcN/Wt0RuiNoSmULi8bbbvGKlGd8xurVw==
+7K7vTZkg1E7D/VJbrfRZNcgM3xcRcY8uf45CUgChTFrFdnqjJqw2tcURe0ubw8EjWMDRn3zPf8YG/g==
+4PmZP+g1rcZA0i8kNBTiKzXLIFdQTkQi5jHhJINyEpo4YsYz+cnSJmiSgy8TaZ+cFSMNXP1JgmWz8g==
+WZMFOzHdCdbVaOD3bh46qnL3VI5bqIuppc+ijncOuCZiJ9iHo0Ol0orIoMAsked7a9ugVzX7q5d5DQ==
+icrLvYqwcmxHUD7BreHvoVE4J9bxTo/7cJu693hpA9DHUHWHigShC9FKxTGnMrwJFKqvqLmBoNKrlg==
+0PacpfyjTIuUhk6puqKWFcRm0LSYC2ituMoBS2aRBD4LnjxizcQa5FiZezgKm4y7HwU662MOn273MA==
+0t5JQ/iCv7uW7KpDDtECCaEKzWcI1/HLx8mEGxBt7622zdtnN4POpONI7XSQD80SJ18yl2jPcaHFjg==
+QzWXYpu89oC1Gf7DYSJ0OD7aq2DEWbiYTRnuiLkMErAVoLGqeJx2gCpYz1+hiYHSQqMVab8k2WeXBw==
+Th2akEcL6L7HCtDjjqHc7hz8itfXxea88WixuZp0Bn1X6v7rYrPp5DckzykXtqfezY6LrlNWcynlnQ==
+ee3JNZ0AtWiefD3c3wIMnZhTGze/evlT0/wG7Im7TMUty1gxYpIiQ7sDlX2tDvfFjnbEQ+rqH9J4zQ==
+ley0DR26TaypO+WQGnNcdqoUxU9189IiVDpqQegSg9DnOvc3zFTyERXFKVzqF5F7WwJ5J8Och4eJZg==
+Px4H8rHtPZ6QN15nAthQMP/9hHyAq3bpBbBwQD4VSe7+8KbkeczZPS4RcZPdi1AL3FBxCaxjbWVqkw==
+tTs9j92KLMvLBAwJUT1aiKwAKb9pvWthZoGrCoPSfAd7KERGZU123Rq3mO95Xrf1yHarZNyIavDV6g==
+6y0w4jDmVIkTfQAAgYdadK5msJUGhFZjaC3soqkO6DeotTe4PZOsZu3+MetbZPRE/3dY+SD3eSO/dw==
+Nj5Ec9UXG+ccJfN2BSHyuPpKO5oqZYRGN1JoSBa657iGBtoy1E9urAtau+2aEPPZ/ScMW+IG5VMXGw==
+/2P87525jjaaI7PXnJYzao73XTdEy1mM7nT9iBa3Uen6mXrj6ydwWCTQ5xv41rzb4+pxVuA6TF1Atw==
+n1CRqKx7tjTFeh2p8JWWEb7gEihupQmxy06/7rq7oNiGcKCi0v7BlIKIbvg3AAAA//8DAFBLAwQUAA==
+BgAIAAAAIQD7xA8bogIAAHEHAAAQAAAAd29yZC9mb290ZXIxLnhtbKxVTVPbMBC9d6b/QaNT25nEdg==
+aij14DCUhAwHSgbCrRfFlhOD9VFJjsm/78qynYQAw0cvlrTWvvf2rSUfnzywAq2o0rngMQ76PkaUJw==
+Is35Isa3s/PeEUbaEJ6SQnAa4zXV+GT4+dNxFWVGIcjmOqpkEuOlMTLyPJ0sKSO6z/JECS0y008E8w==
+RJblCfUqoVJv4Ad+PZNKJFRroDojfEU0buDYPpqQlANXJhQjRveFWniMqPtS9gBdEpPP8yI3a8D2Dw==
+WxgR41LxqBHU6wTZlMgJaoY2Q+1V8QSvyxyJpGSUm5rRU7QADYLrZS43ZbwXDUpctpJWLxWxYkW7rw==
+kkG4x9eV/JoejBSpoBUbwD24J8xIXRIrnA+2v5uuPkYM/JeKaTpiIToNr5Gwy9kqYSTnHcz7rNk2Fw==
+DsNHvu+JEqXs5Mj8Y2gX/L7DsmfyDcr8w/rkbZem3wSwd3RvlkRSjFgSXSy4UGRegKIqCJH9IvEQ7g==
+CZ2aZpgqO8lTVEUrUsS4F4QHPwZhGAxC7NlXqUimRJmr+d3WakKKgqp1mzQlC4p+l2wOlxb68ksYIw==
+GBIZsvGvOzC3PP9bUgD2dpFhCZqcGJiMeermyg1cTJUQmcurYy6h2wc5Z4IbOP1WpQRhcH2m1zH2/Q==
+UeiPg++4DY1oRsrCbL2pMxyPvDHrgrZlnQthqHL675I2mgCJi4IG2ci0GFmRni2Jgn3NbLaWYPycLg==
+4LtvpNt9znGujZrRB2Mv2EhLksBWqaimakXxEE1PJ2OE0J9v6HJ8PRmfX11fns6QtS1vM2sTa7D68Q==
+DL2mkihi6I6C1gzrws8jsGiEa2XPuV1FZjiw5GAvPDekz/anM+GxHZSnGynWwRpxu38QhGXdlW2d/w==
+o4+Wz9bY8cIPc/gPAAD//wMAUEsDBBQABgAIAAAAIQBSUSEIzwEAAMAFAAASAAAAd29yZC9mb290bg==
+b3Rlcy54bWyslNtu4yAQhu9X2newuE/AVbetrDi9qDer3lVt9wEoxjGqmUGA483bLyaxk62jqIe98Q==
+AZjv/4dhWNz+0U2ykdYphJykc0YSCQJLBeuc/H5ezW5I4jyHkjcIMidb6cjt8vu3RZdViB7QS5cEBg==
+uKwzIie19yaj1Ilaau7mWgmLDis/F6gpVpUSknZoS3rBUha/jEUhnQuCdxw23JE9Tk9paCQErQqt5g==
+3s3Rrqnm9rU1s0A33KsX1Si/DWx2NWAwJ62FbG9oNhrqQ7Kdof1riLCTLE7o7iILFK2W4KMitbIJHg==
+EFytzCGNz9JCivVgaXMuiY1uhnWdSS8nemPK76lBYXkXSnEATnAnNqPcBelmtw99fQ9VfUtM2blk9g==
+FekRo4f3WPhXc3CiuYIR87mtOd7c0BJfOd+/LLZmtGPU12j38Dqy+s78gDN2FTvvODX3IcCkdZ9qbg==
+JEm0yO7XgJa/NMFRl14m/Ykky6PbIukyvzVh1knDLfdoSRhSZU5maVxowm+4jsrHnDDG7i5Y8aNfEQ==
+hwpZ8bbx05mHfqhYXd+sfkaI7SVHBbpc0ECITxOfw9110plA8Ara2MtPb12y/2zypNg5wyGTwb1b/g==
+BQAA//8DAFBLAwQUAAYACAAAACEA9U7BJ88BAAC6BQAAEQAAAHdvcmQvZW5kbm90ZXMueG1srJRdbw==
+2yAUhu8n9T9Y3CfgqusqK04v6mbq3bRuP4BiHKOacxDgePn3w8R2ujqK+rEbfwDned/D4bC6/aObZA==
+J61TCDlJl4wkEgSWCrY5+f1rs7ghifMcSt4gyJzspSO364svqy6TUAJ66ZKAAJd1RuSk9t5klDpRSw==
+zd1SK2HRYeWXAjXFqlJC0g5tSS9ZyuKXsSikc0HvjsOOOzLg9JyGRkLQqtBq7t0S7ZZqbp9bswh0ww==
+vXpSjfL7wGbXIwZz0lrIBkOLyVAfkh0MDa8xws6yOKF7iCxQtFqCj4rUyiZ4QHC1Msc0PkoLKdajpQ==
+3bkkdroZ13UmvZrpTSm/pQaF5V0oxRE4w53YjPIQpJvDPvT1PVb1NTFl55IZKtIjJg9vsfCv5uhEcw==
+BRPmY1vzcnNDR3zmfH+32JrJjlGfoz3A88TqG/Mdzth17LyXqbl3AWat+1hzI0miRfawBbT8qQmOug==
+9CrpTyRZHy+LpMv83oRJJw233KMlYUiVOVmkcZ0Jv+EyKn/mhDF2d8mKr/2KOFTIireNn8/86IeKzQ==
+t5vNfYTYXnFSoOsVDYT4NPE53FynfAkEr6CNjfz42iP7zxZPip2xG9IYL931XwAAAP//AwBQSwMEFA==
+AAYACAAAACEAjaKRT80GAACUGgAAFQAAAHdvcmQvdGhlbWUvdGhlbWUxLnhtbOxZXYsbNxR9L/Q/DA==
+8+74a8YfS5xgj+1sm2wSYiclj7Ite5TVjMxI3o0JgZI8FgqlaelDA33rQ2kbSKAv6a9Jm9KmkL/QKw==
+zXgs2XKzWVJYStaweORzr47uvXOuZnT+4t2IOkc44YTFLbd8ruQ6OB6zCYlnLffmsF9ouA4XKJ4gyg==
+Ytxyl5i7Fy98+MF5tCdCHGEH7GO+h1puKMR8r1jkYxhG/Byb4xh+m7IkQgIuk1lxkqBj8BvRYqVUqg==
+FSNEYteJUQRur02nZIydoXTpXlg571G4jAWXA2OaDKRrbFgo7OSwLBF8yQOaOEeItlyYZ8KOh/iucA==
+HYq4gB9abkn9ucUL54toLzOiYoetZtdXf5ldZjA5rKg5k9kon9TzfK/Wzv0rABXbuF69V+vVcn8KgA==
+xmNYacpF9+l3mp2un2E1UPrV4rtb71bLBl7zX93i3Pblx8ArUOrf28L3+wFE0cArUIr3t/CeV68Eng==
+gVegFF/bwtdL7a5XN/AKFFISH26hS36tGqxWm0OmjO5b4U3f69crmfM1Cqohry45xZTFYletRegOSw==
++gCQQIoEiR2xnOMpGkMVB4iSUUKcK2QWQuHNUcw4DJcqpX6pCv/lx1PfVETQHkaateQFTPjWkOTj8A==
+cULmouV+DF5dDfL6+Y+vnz91Xjx49uLBLy8ePnzx4OfUkWG1j+KZbvXq+y/+fvyp89fT7149+sqO5w==
+Ov73nz777dcv7UBY6ToEL79+8sezJy+/+fzPHx5Z4O0EjXT4kESYO1fxsXODRbAwFQKTOR4lb2cxDA==
+EdEt2vGMoxjJWSz+eyI00FeXiCILroPNCN5KQGJswEuLOwbhQZgsBLF4vBxGBvCAMdphiTUKl+VcWg==
+mIeLeGafPFnouBsIHdnmDlBs5Le3mIO2EpvLIMQGzesUxQLNcIyFI39jhxhbVnebECOuB2ScMM6mwg==
+uU2cDiLWkAzJyKimtdE+iSAvSxtByLcRm4NbTodR26q7+MhEwl2BqIX8EFMjjJfQQqDI5nKIIqoH/A==
+ChKhjeRgmYx1XI8LyPQMU+b0Jphzm821BNarJf0yyIs97Qd0GZnIRJBDm88riDEd2WWHQYiiuQ07IA==
+cahjP+KHUKLIuc6EDX7AzDtEXkMeULwz3bcINtL9ZjW4CcqqU1oXiPxlkVhyeQkzo34HSzpFWEkNCA==
+v6HnEYnfKO4bsu7/t7IOQvry28eWVZ1VQW8nxHpH7W/I+C7cpngHLJmQs6/dXbSIr2O4XbYb2Hvpfg==
+L93u/166d93P716w1xoN8i23iulWXW3co5379imhdCCWFF/hauvOoTNN+jAo7dQzK86f4+YhfJV3Mg==
+TGDgZglSNk7CxCdEhIMQzWF/X3alkxnPXM+4M2cctv1q2Opb4ukiOmCT9HG1XJaPpql4cCTW4yU/Hw==
+h0cNkaJr9fUjWO5esZ2pR+UVAWn7NiS0yUwSVQuJ+mpQBkk9mEPQLCTUyt4Ji6aFRUO6X6VqiwVQyw==
+swJbJwc2XC3X98AEjOCJClE8kXlKU73Krkrmu8z0rmAaFQD7iFUFrDPdlFx3Lk+uLi21E2TaIKGVmw==
+SUJFRvUwHqIJzqpTjp6ExtvmurlOqUFPhkLNB6W1plFv/BuL0+Ya7Da1gca6UtDYOW65taoPJTNG8w==
+ljuFx374Gs2hdrjc8iI6g3dnY5GkN/xplGWecNFFPEwDrkQnVYOICJw4lEQtVy4/TwONlYYobuUKCA==
+wpkl1wRZOWvkIOlmkvF0isdCT7s2IiOdXoLCp1ph/VWZnx4sLdkC0j0IJ8fOiC6SGwhKzK+XZQAnhA==
+w9ufchrNCYHXmbmQretvozFlsqu/T1Q1lI4jOg9R1lF0MU/hSspzOuoqj4F2la0ZAqqFJGuEo5lssA==
+elCNbpp3jZTDzq77ZiMZOU001z3TUBXZNe0qZsywagMbsTxdk9dYrUIMmqZ3+FS6NyW3udK6jX1C3g==
+JSDgefwsXfcEDUGjtp7MoCYZb8uw1Oxs1OwdqwW+gdpJmoSm+rWV24245T3COh0Mnqrzg91m1cLQdA==
+ta9UkVbnHvrRBBvdAfHowkvgBRVcpRIOHhIEG6KB2pOksgG3yF2R3RrwzVkkpOXeK/ltL6j4QaHU8A==
+ewWv6pUKDb9dLbR9v1ru+eVSt1O5D41FhFHZT89c+vAqii6zkxc1vnX6Eq3etp0bs6jI1OlKURFXpw==
+L+VKdvqiTm9arvUYxiGgPvdqlX6z2uzUCs1qu1/wup1GoRnUOoVuLah3+93AbzT7913nSIG9djXwag==
+vUahVg6CglcryXU0moW6V6m0vXq70fPa97P9DIQg1ZEsKBBnRfDCPwAAAP//AwBQSwMEFAAGAAgAAA==
+ACEAbDKn9YAEAACBDAAAEQAAAHdvcmQvc2V0dGluZ3MueG1stFfbbts4EH1fYP/B0PM61t22UKeQLQ==
+a7dFsl2s0g+gJNomyotAUnHcr+9Ql6humKDYYp9Mzcw5HM4Mh+N3758YnT1iqYjgG8e7cZ0Z5pWoCQ==
+P26czw/5fOXMlEa8RlRwvHEuWDnvb3//7d05UVhrMFMzoOAqYdXGOWndJIuFqk6YIXUjGsxBeRCSIQ==
+DZ/yuGBIfmmbeSVYgzQpCSX6svBdN3YGGrFxWsmTgWLOSCWFEgdtIIk4HEiFh58RIX9m3x6ZiaplmA==
+627HhcQUfBBcnUijRjb2X9ngiKeR5PGtQzwyOtqdPfcty+G4ZyHrZ8TPuGcAjRQVVgoSxGh/XIYIfw==
+pvHCF0TPob6BUC/6vReGCuCe260mzxV9gbdku8/iHSklkn2aoQCMF6xKPhy5kKikUFRnL3RuoaK+Cg==
+wWbnpMGygiRBObquszAKOIw4FBppDGrVYEq7+qwoRkB2To4SMaisjdNLOkyND6il+gGVhRYNGD0i8A==
+eekPlNUJSVRpLIsGVcC2E1xLQUe7Wvwt9A6qVEIQeycOQmguNP5HGpfGLwCQeuPMvWujQdxttpisew==
+LOb1RDR8/MBzLR1proD9HTK+9Kuiv49AxBGDqPbS4Y7dixqbSLWSvEjcq4k3gC5qkJ8upvaNBPQPSQ==
+agyhprjQF4pzCGZBvuKU1x9bpQnc2u6m/YIHbzmAudn5E3Sbh0uDc4x0C2n7nzbrKiOnpLknUgr5gQ==
+11Crv7oZlMiUTmjGtTJ5NYt/oerGNLhuFLnreN3Hwmgnjeu7cTAU4Q+a1I9WOytm57tZZNN4ru9HQw==
+0q/ZvChI08CKWfk7P7VqtlEQWb32wzBYrmwYfxvuUt+qycMotXodBPHuFU0cr+2+BavoNba1l+73Ng==
+D4LtMs6t0QmDwI+2NszrmYu2UbS1njQOojC3Zm4ZxcHKmoVl6u39zObBKg0y3+r1euVmoRWzzsM0tw==
+VtU2iMO91YPd0g231jrI3Dj2rdHJQnfvWdmy1XKb2TF7P0yt58lyN91bz5Ply1VuzenejcJoeBuuKw==
+fr8N88xavfvM8/vbCPfXgODWssQMAqbP9yvTCmesb6M7xEpJ0OzejArQUFlSyi9bwkd9iWFUwt9rig==
+thyV83mvUAxRmsPbNSo6p1lSE9Vk+NDR0nskjxPvYCGtUngnPz5zmXcXyz+laJt+t7NETd/ixu28MA==
+HPgI13eEjXLVlsWI4vDcf6dqef3pURrCxRSec6JhSuyeijvEj2Mnw3z+uTCm0BGpLMwkie9R08ATDQ==
+JuXR2ziUHE/aM+1dw1cNE2X3UR79Qed3Ovgyuu4DVeZkYD0sjEG/BKthMcmCURZMMpiXertwkkWjLA==
+mmTxKIOJ9pyc4D2SMKx8gUd3XBr5QVAqzrj+axRunBeiPgjqhBoMeTWzDJSXSDrBMNyo2WOCn2BSwg==
+NdEwqDekZujJDE5+bOCDNUUX0eorW6Mzxs2VdFYjjQDepeoKDKmDyeval3NS44pAORYXVk6j003vOA==
+JUoXuIEpSwsJR+4GiT865um/w+03AAAA//8DAFBLAwQUAAYACAAAACEAyCBHFlkKAACWTQAAGgAAAA==
+d29yZC9zdHlsZXNXaXRoRWZmZWN0cy54bWzsXFtzo8YSfj9V+Q8U717rYktrV7Qpry9ZVzmbzcquPA==
+IzSyiIHhALLW+fXp6YHRCBjRI9iHXJ5kBqa/vn49lmn/+NO3KHReWZoFPJ65w3cD12Gxz5dB/Dxznw==
+Hu9O3rtOlnvx0gt5zGbuG8vcnz788L8ft5dZ/hayzAEBcXa5TfyZu87z5PL0NPPXLPKyd1Hgpzzjqw==
+/J3Po1O+WgU+O93ydHk6GgwH+FOScp9lGaBde/Grl7mFuKgujScsBqwVTyMvz97x9Pk08tKXTXIC0g==
+Ey8PFkEY5G8gezApxfCZu0njy0KhE6WQ2HIpFSo+yh1pzYoGXLnzhvubiMU5Ip6mLAQdeJytg2Rnxg==
+sdLAxHWp0ushI16jsHxumwzPanjKZEoMblJvC6HYCayJa3DGUm6KQukHEd9dVKsSh4NDxhQRESKUDg==
+FBX2MUtNIi+IlZjjXKM7F+qhS37/nPJNotRJgm7S7uMXJUuUpYVmgwlWnm5aZiWgVrrztZcw14n8yw==
+++eYp94iBI22wzNHZKT7Aahiyf0btvI2YZ6Jy/RLWlwWV/hxx+M8c7aXXuYHwSNQCEiJAhD46SrOAg==
+F+4wL8uvssBrvLkWTzXe8bNck/YxWAbuqUDM/gSZr144c0ejcuVaaLC3Fnrxc7nG4pOnua7JzFVLCw==
+kDtzvfRkfiWEnaKZ5admbrJnPFyhKonnQ+UBjrfKGZDQcAJMvL0MAxHd0flFefF1I5zrbXJegKAAAA==
+08XCZcXjwE3AVHPJ2HCXrR64/8KW8xxuzFzEgsWn+y9pwFOg0Zl7gZiwOGdR8ClYLploEEIP8WC8Dg==
+luz3NYufMrbcrf92h/RcSPT5Js5B/ckUsyDMlrfffJYImgQxsSci/FlsAA6DcGg4qNAm2GkjFyqouA==
++P8Scihj2IiyZp5oaQ7qfxAIrd50BhoJi3QDUK6VruPuIs66izjvLgLacVdfTLuLgINMVy1kbmhZSQ==
+D2rOfZl8ek6MLw6krNhRy6LWHbWkad1Ry5HWHbWUaN1Ry4DWHbWAt+6oxbd1Ry2cB3f4HhJXNYvG6A==
+DVJhPwZ5CH2yhemGHanuRjZa54uXes+pl6wd0Virah8iy/lmkdNURTo9niznecrFcbPFI9CdRekezQ==
+ybdRsvayAE7lbUAdXf8ojj7Oz2kAx9cWKEi1RpvwYNLYwr6Ens/WPFyy1Hlk32REaz4x7//Mnbk8ZQ==
+tCrXMawPwfM6d+BUKFpuK5g86NSja7ZEyn8IMvTBwW4+MZjSJpwUw4khL83Cf2HLYBOVriGcRiaSzw==
+LcJcgUAVD7vozDYTCwgRAIoJsl3Ym4DyCfrL5mIvX8SYor9sRUfKJ+gvG9eR8jE/DsfXmmlu4GsVhw==
+VF5TA2GaK+CahzxdbcKyBlrpYWpdwQqCZoJ1ESv5JJKYWlfwHn06V74Pv7lR8tQ6FjsetUCxDodEwQ==
+YqPbYh2UCu0NLSyyDlAFa2SB1Y1rLYCsSfcrew3El8C2zQBZWp01W8t5bPAAHIZIZ+jfNjxvP0OPDA==
+nEdFuY/h65KMOTS0saHyqGh6P7VJpm6NzyKZunVAC6BurdACyJAf5r6leiIdpHtztMCypmXVxbCAyQ==
+zDy1ZmYFZNcCeuqbhPOXoXrNuVDvmwQU6wDV+yYBxTo6lV6m+iYBq7e+ScAydA1zjHROtTHKum/qQA==
+irwJFvVD3gSgfsibANQPeROAupN3O0h/5E3AsuYGxak6eROA8BGbr1oUkE7eBCBrbpBsV3xnVPY9lA==
+cviX2x7Im4BiHaA6eRNQrKNjIm8CFj5ikwkVLEV1BKx+yJsA1A95E4D6IW8CUD/kTQDqh7wJQN3Juw==
+HaQ/8iZgWXOD4lSdvAlA1vSggHTyJgDhIzbc0EjeWPXfnbwJKNYBqpM3AcU6OhVCVYdUApZ1gCpYig==
+vAlY+IhNMhRYmNw2RvVD3gSL+iFvAlA/5E0A6oe8CUDdybsdpD/yJmBZc4PiVJ28CUDW9KCAdPImAA==
+WXNDI3ljMX538iagWAeoTt4EFOvoVAhV8RwByzpAFSxF3gQszJfO5E0AwkeOBbKxqB/yJljUD3kTgA==
++iFvAlB38m4H6Y+8CVjW3KA4VSdvApA1PSggnbwJQNbc0EjeWCPfnbwJKNYBqpM3AcU6OhVCVeRNwA==
+sg5QBUtRHQGrH/ImAGFidiZvAhA+cgQQVpFNmPohb4JF/ZA3Aag7ebeD9EfeBCxrblCcqpM3AciaHg==
+FJBO3gQga24Q79nC+6Lk11OHhiSgvmdQvtVABhwZgkQFLAz8ylYshalC1v52SEfA0kILREN6UE38yA==
++YtDe7F7bEgQMlSwCAOOr3S/4Vs62iDCeHpgkuDx12vnkxyAqe3DlNp/8wamh/RxIRxPEoNDoGf+lg==
+wMhOUr5ZLqTBMJCY6ypGgHAm9B4GgoqxHrFZzPnAgzhUVSzj320LVPwZ5k+X5TODwfn54GJSzEaYBg==
+pPAPP8V41Jm6aB6PKkax4GNvxmzmPgYRTLB+ZlvnK488fPepnDFrvIkzZo13fJihq0pDy7QhszMZow==
+7E9tyAzXtFkxdGCLy5WTi6COcbpKd3M57jSWiAsPhrR+FTNXtSDE8CZ50zp49qVcL2Gu114qBe6GWA==
+ymeKaO1OnWj8fq9vifr0ang7upEARdRfGEs+g4a4U1w8wDxcJv2qJuYWDGaCIS0hC/AO3+QiLx5eww==
+Ujmc7pMzcsK1MH6IH3vJUE4Oen8cGDgUN2+LIUSR/Hszh3s7dzOHYnk3c+iL919LvYZ3ZzdTPELggA==
+IjYeGO7DNz6RCXFZ/FEUzJveCfPaU8WHKHk+DBEeqM5iRkS9tocTItVaNQySoI/rCVAMlLQlAOhvSA==
+8VwMTxzQGYcrDtKKg48YM5ScovkilBkCP9zHgpe2xUCj5L/lN0+CwP1rFoa/eJhPOU/Mj4ZsJeoMBA==
+DQcy4kilStSC5zmPzPtTnKkwCgC36srIS2GE2d/xJlqwtJjQMLK4OGzV6AVGSXDdkAowOYp3js+FvQ==
+HN7RHbgsFcRUU+iTuoPAFb5rzPYW3RuYy9yjCkLZq+3B+WR8vSviorbX+4puIOBIyeI/IED2g1IQMA==
+FGcO3J5z/E0GeTMX/bnagvdou1rcxU1n7FwrVie7rak5GMuuMRf2fakz/9+ZnIHbdiPl36XbA6tXIw==
+KXo9LDclvn7aqsaMpbvA19m8LOHWMri5m76/u5XoRdMGIscpf/gs01uMMMiGlHA4KJ1N3he9WnsGGQ==
+TvA/PnIxhrkwWQ5SHtQDyu+nLgrrq74UVQHjdTvPHF0SZUTMrt0vAd2PjSVQP16Cq/5Oh9U7Dm/u1w==
+03cll23SV0raBcns439i+mrWV9NX3uqavlKKLGmza/9t6avmY6pOVzcwheHfYsA/ysAfzb6rHIz2XQ==
+Ofp4dn1V/D+S/375rX3foE6DH70w5DzGUehqTIp7ck7ahlo0oRR+qQSylW702BpYfs6eOXOe7kUnLA==
+vm7Ql8T3DOoaLdsdOYbvZdHqXzDItf4OlVUHHfJ8VyLSsNrYqBIIc0URvE5pqioEEKW+QlKebLIPfw==
+AQAA//8DAFBLAwQUAAYACAAAACEAT8H0GNQJAAClSgAADwAAAHdvcmQvc3R5bGVzLnhtbOxc23LbNg==
+EH3vTP+Bw/dEV0uxp0rH8aXxjOOmkT19pijIYk0SKknFcb++iwUJgReIC5N56OVJJkjsAfZyFpZ5/A==
+08/fotD5ypI04PHCHb0dug6Lfb4O4seF+3B//ead66SZF6+9kMds4b6w1P35/Y8//PR8lmYvIUsdMA==
+EKdnkb9wt1m2OxsMUn/LIi99y3cshpsbnkReBpfJ4yDykqf97o3Po52XBasgDLKXwXg4nLm5mYRihQ==
+bzaBzy65v49YnOH8QcJCsMjjdBvs0sLaM8XaM0/Wu4T7LE1h01Eo7UVeECszo2nNUBT4CU/5JnsLmw==
+GcgVDYQpmD4a4k9R6DqRf3bzGPPEW4XgvOfR1H0Pnltz/5JtvH2YpeIy+Zzkl/kVflzzOEud5zMv9Q==
+g+AeXAoGogBsfTyP08CFO8xLs/M08BpvbsVTjXf8NNOsfQjWgTsQiOlfYPOrFy7c8bgYuRArKI2FXg==
+/FiMsfjNw1JfycJVQyuwu3C95M3yXBgb4DaLT227u9Lm4QqXsvN8CAbgeJuMQVKMZpCYz2dhIHJwfA==
+clpcfNkLv3r7jOcgaADAdLNwWfE45ApkzlImMNxlm1vuP7H1MoMbCxexYPDh5nMS8ASSdOGeIiYMLg==
+WRR8DNZrJupFrEM8GG+DNft9y+KHlK0P479dY/LnFn2+jzNY/myOWRCm66tvPtuJtAUzsScifCcmQA==
+4kA4NBxc0D44rEYOVFBx8M8CciRj2IiyZZ6ocAfXfxQId73vDDQWO9I3gHat1jrpbmLa3cRJdxNAdg==
+XX0x724CeL3rKmRuaFlJD2rGfZl8ek5MTo+krJhRy6LWGbWkaZ1Ry5HWGbWUaJ1Ry4DWGbWAt86oxQ==
+t3VGLZxHZ/geElc1iyboDVJh3wdZyMT8owQ06kh1l7LROp+9xHtMvN3WEY21uuxjZLncrzLaUpFOXw==
+T5bLLOHxY6tHoDuL0n01J19Fu62XBnBKanH9uKPr78Wpx/klCdatUJBqjXvCg0ljC/scej7b8nDNEg==
+5559kxGt+cQ8/447S3nKaF1cx7DeBo/bzFluseW2gsmDTj265p1I+7dBij44Wkwzw1bajJNiODPkpQ==
+2fgntg72UeEawmlkJvncIswVCFzicRdNbTMxhxABoGxBtgv7LaB9wvplc7G3L2JMWb9sRa+0T1i/bA==
+XK+0j/lxPL7WTHMJv7Q6pPKaGwjTXAEXPOTJZh8WNdBKD3PrClYQtC1YF7GyTyKJuXUFl+jTOfd9+A==
+zY2Sp9axOPCoBYp1OCQKFht9L9ZBqdDeyGJH1gGqYI0tsLpxrQWQNel+YV8D8Z2YbTNAllZnzdZyng==
+GDwAhyHSGfq3Pc/az9BjA+dRUW5i+LokZQ4NbWKoPCqa3k9tkqlb47NIpm4d0AKoWyu0ADLkh7lvqQ==
+nkgH6d4cLbCsaVl1MSxgMjPPrZlZAdm1gJ76JuH8Zahecy7U+yYBxTpA9b5JQLGOTqWXqb5JwOqtbw==
+ErAMXcMcI51TbTZl3Td1IEXehB31Q94EoH7ImwDUD3kTgLqTdztIf+RNwLLmBsWpOnkTgPARm69aFA==
+kE7eBCBrbpBsl39nVPQ9tHL8l9seyJuAYh2gOnkTUKyjYyJvAhY+YpMJFSxFdQSsfsibANQPeROA+g==
+IW8CUD/kTQDqh7wJQN3Jux2kP/ImYFlzg+JUnbwJQNb0oIB08iYA4SM23NBI3lj13528CSjWAaqTNw==
+AcU6OhVCVYdUApZ1gCpYirwJWPiITTLkWJjcNpvqh7wJO+qHvAlA/ZA3Aagf8iYAdSfvdpD+yJuAZQ==
+zQ2KU3XyJgBZ04MC0smbAGTNDY3kjcX43cmbgGIdoDp5E1Cso1MhVMVzBCzrAFWwFHkTsDBfOpM3AQ==
+CB95LZDNjvohb8KO+iFvAlA/5E0A6k7e7SD9kTcBy5obFKfq5E0AsqYHBaSTNwHImhsayRtr5LuTNw==
+AcU6QHXyJqBYR6dCqIq8CVjWAapgKaojYPVD3gQgTMzO5E0AwkdeAYRVZBOmfsibsKN+yJsA1J282w==
+QfojbwKWNTcoTtXJmwBkTQ8KSCdvApA1N4j3bOF9UfLrqSNDElDfMyjeaiADjg1BogLmG/zCNiwBkQ==
+FWt/O6QjYLFDC0RDelC3+IHzJ4f2YvfEkCBkqGAVBhxf6X7Bt3Q0IcJkfkRJcP/rhfNRCmBq8zClyg==
+b96AekiXC6E8SQiHYJ3Zyw4kO7vizXJhDcRAQteVS4BQIncDgqBc1iMmC50PPIiiqnwY/26bo+LPIA==
+x1sXzwyHJyfD01mujTAJpPAPP7k8aqoumuVRuRQLPkoas4V7H0Qg6Ltjz84XHnn47lOhMWu8iRqzxg==
+O35aH8adaSKzqYxR+pcmMsMxTSuGDmxxuXJyHtQJqqt0Nxdyp4lEXHkg0vpVaK5qQYjhTfKmcfDsUw==
+MV7AXGy9RBo8iFiKZ/JoHU6duPlyr2+J+vx8dDW+lAB51J8Y293BCnGmuLgFPVwq/aoUcysGiktISw==
+yAK8w/eZyIvbr2GxOFT3SY2ccC3ID/GjlAyFctD744jgUNy8ykWIIvlLmsPSzIPmUAwfNIe+eP+1WA==
+1+h6ejnHIwQKFLHxgLgP3/hEJsRh8UdR2N78WmyvPVV8iJLng4jwSHXmGhH12h4qRKq1ahCSoI/rCQ==
+kAtK2hIA1m9I8UyIJ46sGcUVR2nFwUeMGUpO0WwVygyBH25iwUugq0WKkfy3/uZJELh/wcLwk4f5lA==
+8Z350ZBtRJ2BodFQRhypVJla8SzjkXl+gpoKowFwq74YeSk2YfZ3vI9WLAFR5BGf33Fx2KrRC0hJcA==
+3JAKoBzFO6/PhVIOH+gOXJYIYqot6KO6g8AVvmvM9pa1NzCXuUflhFKq7eHJbHJxKOK8trflhe4h4A==
+SMlCiQ3ZD4uCgKE5c+BKzvH3KeTNUvTnagsu0Xa1uPObzsS5UKxOdltTczCWXWMulH2pM/8/mZyB2w==
+DpLy79LtgdWrkRS9HoabEl8/bVVjxpJD4OtsXpRwaxlcXs/fXV9J9LxpA5Gjyh8+i/QWEgbZkHYcDg==
+StPZu7xXa88gwwkuwkdOJ6ALk+Ug7UE9oP1+6iLffdWXoipAXnfwzKtLooiI2bXlEtD92FgC9eMluA==
+6p90WL3m8OZ+PX03ctgmfaWlQ5DMPv43pq+2+2r6yltd01dakSVtdu1/LX2VPqbqdHUDUxj+LQb8ow==
+DPzR7LvKwajsyvGH6cV5/v9I/v/lt/Z9gzoNfvDCkPMYpdDVmOT3pE7ahlo0oxR+qQSylW702BpYfg==
+yR45cx5uRCfMv27Qh8T3DOoad3Y4cozeyaLVv2CQY/0dKqsOOub5rkSkYbWxUSUQ5ooieJ3SVFUIIA==
+Sn2FpDjZpO//BgAA//8DAFBLAwQUAAYACAAAACEAzEJgyO4BAADpAwAAEAAIAWRvY1Byb3BzL2FwcA==
+LnhtbCCiBAEooAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnFPBbtswDL0P2D8YvjdykqYLAkbFkA==
+YOhhWwPEbc+aTCfCZEmQlKDZ14+yG8fZeqpP5CP99PRIwf1ro7Mj+qCsWebjUZFnaKStlNkt86fy2w==
+zTzPQhSmEtoaXOYnDPk9//wJNt469FFhyIjChGW+j9EtGAtyj40IIyobqtTWNyJS6nfM1rWSuLby0A==
+oIlsUhR3DF8jmgqrG9cT5h3j4hg/SlpZmfSF5/LkSDCHEhunRUT+M8nRo8rGBliPQmmj0KVqkI8J7g==
+E9iIHQY+AdYF8GJ9FfhsegesC2G1F17ISA7yaTGbAxsA8NU5raSIZC7/oaS3wdYxe2xtyBIBsGELkA==
+NVuUB6/iiRfAhil8VyZJmQHrItLmxc4Ltw/8SxLYZ7CVQuOKDOC10AGBXQB4QJGGuxGKFMMxLo4oow==
+9VlQf2i8kzz7JQIm25b5UXglTCT7UluXtLF2IXpeqqiJm2pd3obDtmGsbpOz1EvBdWMCOw1UuFbXng==
+EB5rult8R+x4KLbV0EkdyBmE/Rn/sK5s44Q58fUqW9mDkUrTDN+wZPrv8ORKu07L8+bmNTjYgBcV9w==
+WyckzWk6m9NQLrswKMGWVgYrGu6Z8ALAAznvdTqV/jU7rM49/xfSdj13L5ePb0cFfe06nTHaif5J8Q==
+vwAAAP//AwBQSwMEFAAGAAgAAAAhAHNknzb1AQAAswUAABIAAAB3b3JkL2ZvbnRUYWJsZS54bWy8kw==
+32rbMBTG7wd7B6P7xrLjNq2pU9I0hsLYxdY+gKLItqglGR0lXt5+x/KfspXQFLY6YJLvSB/n/PKd2w==
+u1+qDg7CgjQ6I9GMkkBobnZSlxl5fsovrkkAjukdq40WGTkKIHfLr19u27Qw2kGA9zWkimekcq5Jww==
+EHglFIOZaYTGYmGsYg5/2jJUzL7smwtuVMOc3MpaumMYU3pFBht7jospCsnFg+F7JbTz90MranQ0Gg==
+KtnA6Nae49Yau2us4QIAZ1Z176eY1JNNlLwxUpJbA6ZwMxwm7DsKOyu8HlH/TdUkUDx9LLWxbFsjuw==
+NkrIcgAXtKlmCsU1q+XWSl9omDYgIqwdWJ0RGtOcXuK7+yR03r1J2DnwilkQbjpIe7lgStbHUYVWAg==
+9IVGOl6N+oFZ2TXUl0CWWNjDlmZkQ/GJ85z0SpSRBIXVelJibKp/ouHMfFIwOdiY9/FHohvvgwr6DA==
+t3yfYR+dNySepBIQfBdt8MMopk8QiekVkrhEHh2Z+YeIWO/rCX6ASLya5sdJ1jjK4joZ538lcvM+kQ==
+3ud8IkM2gm+yrNwJHrnPxWclZNX9kfHmr4TEdHE/TP/Kw+cBc/UPE/JTlEYEz48nUNz7SCR+WTog8w==
+/7ssEZL4Y1m6aGySxQhnQhGfEY2H95Zl2BpY/gYAAP//AwBQSwMEFAAGAAgAAAAhAF6o9bb4AgAAjQ==
+DAAAEgAAAHdvcmQvbnVtYmVyaW5nLnhtbLRXXW/aMBR9n7T/gCLtscQJ4aNRadW1Y2LqpmnrfoBJDA==
+seovOSYp/37XCUmBpChQ8dKAfX3uOb4n99Kbu1fOehnRKZVi6nh95PSIiGRMxWrq/HueXU2cXmqwiA==
+MZOCTJ0NSZ2728+fbvJQrPmCaAjsAYZIw1xFUycxRoWum0YJ4Tjtcxppmcql6UeSu3K5pBFxc6lj1w==
+Rx4qPiktI5KmgPOARYZTZwvHm2hSEQG5llJzbNK+1CuXY/2yVleArrChC8qo2QA2GlUwcuqstQi3hA==
+rmpC9khYEto+qhO6oaIlb3nyUUZrToQpMrqaMOAgRZpQ9SbjXDSQmFSUsmMiMs6quFx5QSNfLblLDQ==
+HjXOoRRvgA24lsuIy0Oclfdg6/tW1UNEDx0Ts62Ihag5dKGwn7NiwjEVNcx5V7N7ufBKfMTf37Vcqw==
+mo6iH0Obi5cay76ZJzBDo+LN25WWngTQeHX/JlgRp8ejcL4SUuMFA0a5F/SsI51b6BZ4kRqNI/NrzQ==
+e3vf5vHUQUWISGkMexlmsDIc+Gg0GziuPczXzNAnkhH2vFGkikk2C03jn3aP2b0y1nDFqgj//gGN7g==
+x9/KHZbZDQoPmxE+GsWgyaAAXSOEZgUH6HXaVMe98hw0uhmvF2MSUY63yQDrmbzWe1+8fp3qR1TBMA==
+sjTlsvqtrRwqrE67PHXGfkElwWJV9NzBCNlYNw+LYHhCDntol713yN67LlagFUEHyuDuvY5qmMyJfg==
+IsYQXTPfU+SfrMgLgjMk+Q1JXz8i6Y/kWLQrGrQp0nSVvF8k34OqQMnqKnmTDlUaHEoCjwGIOb1KRw==
+PRe06TnqOX8C9HfldDJdcCjncqYbniwJFJwhadiQdCnTjdoUHTddAB1wr0qdTAc/fBqN7QKmG7fpOQ==
+aroh9Nk9OZ1MNz6UcznTTU6XND5oC50kwS/q/Qp5lzLddZui46YbBQet4R3TwVzameh2PsGUBF3w1w==
+DvRy/OxEzO3EKyf7drxBZDHm4Fn+G3H7HwAA//8DAFBLAwQUAAYACAAAACEADHeYaX8BAABNAwAAFA==
+AAAAd29yZC93ZWJTZXR0aW5ncy54bWyUU1FrwjAQfh/sP5S8a9oiIsVWEHEMxhib+wFpmmpYkgtJbA==
+p79+Z6ubm3vQp1zuvu/LfXftdPapVdQI5yWYnCTDmETCcKikWefkfbUcTEjkAzMVU2BETnbCk1lxfw==
+N22zVpRvIgRE+ghVjM80z8kmBJtR6vlGaOaHYIXBYg1Os4BXt6aauY+tHXDQlgVZSiXDjqZxPCZHGQ==
+d40K1LXkYgF8q4UJHZ86oVARjN9I609q7TVqLbjKOuDCe/SjVa+nmTTfMsnoQkhL7sBDHYZohvYd0Q==
+gxTSk7iLtCKR5tnj2oBjpcIJtsmIFDi+Sjb+eEZtJiucfjxOR0k6SdIOUEK1W8gGiw1TWCX0AMfpPQ==
+iTqcsvF39lWuN/+kV2AvsXMIAfSfPDY0r9zhjfDDMbh1gkC/zwl+GxhYxtFFF3NQgMti2wB9G+qssw==
+25jlr45u47pz57dQabeFznQfFtP+7BYDNkgt92IJbu6g9cJ1C2BKQfvy/IAXBJ/9BMUXAAAA//8DAA==
+UEsDBBQABgAIAAAAIQDs9QGxbgEAAL8CAAARAAgBZG9jUHJvcHMvY29yZS54bWwgogQBKKAAAQAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAnJJdS8MwGIXvBf9DyZWCbdqO6VbaDpxMEAeDVRTvQvJuCzZJSQ==
+sq9/b9qu3USvvAzn9Mk5p0knB1F6O9CGK5mhKAiRB5IqxuU6Q2/FzB8hz1giGSmVhAwdwaBJfn2V0g==
+KqFKw0KrCrTlYDxHkiahVYY21lYJxoZuQBATOId04kppQaw76jWuCP0ia8BxGN5jAZYwYgmugX7VEw==
+0QnJaI+strpsAIxiKEGAtAZHQYTPXgtamD8/aJQLp+D2WLlOp7iXbEZbsXcfDO+N+/0+2A+aGC5/hA==
+P+avy6aqz2W9FQWUp4wmVAOxSufPSiuzufNeiODg3UzVVlJe3qb4wlPvWRJj5276FQf2eMyXoHdvyw==
+FP9WarOGHa9/Wh43jv7YgRaaSwssj8PowQ/HfjgsokEyHCdh+NkzO5NL24zTRgbmubpJO06nvA+mTw==
+xQydeaMiGiXxsOV1rqayu7UHilOffxM7QN6E/vnk8m8AAAD//wMAUEsBAi0AFAAGAAgAAAAhAGu42Q==
+1q0BAACbBwAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAA==
+AAAhAB6RGrfzAAAATgIAAAsAAAAAAAAAAAAAAAAA5gMAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAA==
+ACEAYYF25pYBAADLBwAAHAAAAAAAAAAAAAAAAAAKBwAAd29yZC9fcmVscy9kb2N1bWVudC54bWwucg==
+ZWxzUEsBAi0AFAAGAAgAAAAhAHH/nSBJDwAAPU8AABEAAAAAAAAAAAAAAAAA4gkAAHdvcmQvZG9jdQ==
+bWVudC54bWxQSwECLQAUAAYACAAAACEA+8QPG6ICAABxBwAAEAAAAAAAAAAAAAAAAABaGQAAd29yZA==
+L2Zvb3RlcjEueG1sUEsBAi0AFAAGAAgAAAAhAFJRIQjPAQAAwAUAABIAAAAAAAAAAAAAAAAAKhwAAA==
+d29yZC9mb290bm90ZXMueG1sUEsBAi0AFAAGAAgAAAAhAPVOwSfPAQAAugUAABEAAAAAAAAAAAAAAA==
+AAApHgAAd29yZC9lbmRub3Rlcy54bWxQSwECLQAUAAYACAAAACEAjaKRT80GAACUGgAAFQAAAAAAAA==
+AAAAAAAAACcgAAB3b3JkL3RoZW1lL3RoZW1lMS54bWxQSwECLQAUAAYACAAAACEAbDKn9YAEAACBDA==
+AAARAAAAAAAAAAAAAAAAACcnAAB3b3JkL3NldHRpbmdzLnhtbFBLAQItABQABgAIAAAAIQDIIEcWWQ==
+CgAAlk0AABoAAAAAAAAAAAAAAAAA1isAAHdvcmQvc3R5bGVzV2l0aEVmZmVjdHMueG1sUEsBAi0AFA==
+AAYACAAAACEAT8H0GNQJAAClSgAADwAAAAAAAAAAAAAAAABnNgAAd29yZC9zdHlsZXMueG1sUEsBAg==
+LQAUAAYACAAAACEAzEJgyO4BAADpAwAAEAAAAAAAAAAAAAAAAABoQAAAZG9jUHJvcHMvYXBwLnhtbA==
+UEsBAi0AFAAGAAgAAAAhAHNknzb1AQAAswUAABIAAAAAAAAAAAAAAAAAjEMAAHdvcmQvZm9udFRhYg==
+bGUueG1sUEsBAi0AFAAGAAgAAAAhAF6o9bb4AgAAjQwAABIAAAAAAAAAAAAAAAAAsUUAAHdvcmQvbg==
+dW1iZXJpbmcueG1sUEsBAi0AFAAGAAgAAAAhAAx3mGl/AQAATQMAABQAAAAAAAAAAAAAAAAA2UgAAA==
+d29yZC93ZWJTZXR0aW5ncy54bWxQSwECLQAUAAYACAAAACEA7PUBsW4BAAC/AgAAEQAAAAAAAAAAAA==
+AAAAAIpKAABkb2NQcm9wcy9jb3JlLnhtbFBLBQYAAAAAEAAQAAYEAAAvTQAAAAA=
+
+--===============6440633043427963747==--

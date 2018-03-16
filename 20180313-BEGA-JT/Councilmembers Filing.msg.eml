@@ -1,0 +1,87 @@
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com (10.172.39.10) by
+ DM5PR09MB1484.namprd09.prod.outlook.com (10.173.171.138) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.239.5; Fri, 17 Nov 2017 16:16:00 +0000
+Received: from DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) by
+ DM5PR09MB1370.namprd09.prod.outlook.com ([10.172.39.10]) with mapi id
+ 15.20.0239.007; Fri, 17 Nov 2017 16:16:00 +0000
+From: "Flowers, Brian (BEGA)" <Brian.Flowers@dc.gov>
+To: "Efros, Ellen (Council)" <eefros@DCCOUNCIL.US>,
+ "Walter, Zachary (Council)" <zwalter@DCCOUNCIL.US>,
+ "Smith, Nyasha (Council)"	<NSmith@DCCOUNCIL.US>,
+ "Mendelson, Phil (COUNCIL)" <PMENDELSON@DCCOUNCIL.US>,
+	"Collier, Tameka (BEGA)" <tameka.collier@dc.gov>
+CC: "Stewart-Mitchell, Asia (BEGA)" <asia.stewart-mitchell@dc.gov>
+Subject: Councilmembers Filing
+Thread-Topic: Councilmembers Filing
+Thread-Index: AdNfB1lAv4ncWOIKSyCs/3QldtcW1AAt0vnA
+Date: Fri, 17 Nov 2017 16:15:59 +0000
+Message-ID: <DM5PR09MB13707AB30EBAFF8FF18D9404832F0@DM5PR09MB1370.namprd09.prod.outlook.com>
+References: <SN1PR09MB0894E2021F1F735F2C9FE84C822E0@SN1PR09MB0894.namprd09.prod.outlook.com>
+In-Reply-To: <SN1PR09MB0894E2021F1F735F2C9FE84C822E0@SN1PR09MB0894.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM5PR09MB1370.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 00eccd27-d6cd-4c1d-7c17-08d52dd67de1
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=Brian.Flowers@dc.gov; 
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;DM5PR09MB1484;20:dEAMFTudWp2Rkx7/5cIKWF/RM7ncQ4eWFCVUnVTAKr3aTNCOnHAV2Bo2Ove6ptPQ4MpOzQEthzdbmFJrgDtQNDqrm0hXh8V2oDeHZMwnD0JrUIUBaR9lBWQaY7QpT8FUNJbVoxV77PDKM+TX/AXHC4J085gxp150D3uTezQuZQo=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;
+x-ms-office365-filtering-correlation-id: 00eccd27-d6cd-4c1d-7c17-08d52dd67de1
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603258);SRVR:DM5PR09MB1484;
+x-ms-traffictypediagnostic: DM5PR09MB1484:
+x-ld-processed: 8fe449f1-8b94-4fb7-9906-6f939da82d73,ExtAddr
+x-microsoft-antispam-prvs: <DM5PR09MB1484B788ECAE441C6EAD24D5832F0@DM5PR09MB1484.namprd09.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(227612066756510)(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(6040450)(2401047)(8121501046)(5005006)(3231022)(93006095)(93001095)(10201501046)(3002001)(100000703101)(100105400095)(6041248)(20161123562025)(20161123555025)(20161123558100)(20161123564025)(20161123560025)(201703131423075)(201702281528075)(201703061421075)(201703061406153)(6072148)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:DM5PR09MB1484;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:DM5PR09MB1484;
+x-forefront-prvs: 049486C505
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(346002)(376002)(189002)(199003)(76176999)(77096006)(55016002)(6506006)(54356999)(101416001)(6636002)(14454004)(86362001)(105586002)(50986999)(106356001)(189998001)(450100002)(2900100001)(68736007)(25786009)(2950100002)(81166006)(3480700004)(4326008)(81156014)(8676002)(66066001)(97736004)(8936002)(6436002)(2906002)(316002)(74316002)(102836003)(6116002)(790700001)(3846002)(7116003)(5660300001)(110136005)(7736002)(478600001)(99286004)(7696004)(3660700001)(966005)(72206003)(33656002)(149424003)(3280700002)(606006)(221733001)(54896002)(6306002)(9686003)(53936002)(236005)(921003)(1121003);DIR:OUT;SFP:1101;SCL:1;SRVR:DM5PR09MB1484;H:DM5PR09MB1370.namprd09.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: dc.gov does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning colleagues,
+
+=20
+
+The following link provides public access to the Councilmembers=E2=80=99
+November 15 Financial Disclosure Statements.  Note that Councilmember
+Gray requested and received an extension to file his November 15
+Statement.
+
+=20
+
+http://bega.dc.gov/service/financial-disclosure-statements
+
+=20
+
+If you have any questions, please let me know.
+
+=20
+
+Brian K. Flowers
+
+Interim Director/General Counsel, BEGA
+
+Desk: 202.481.3407
+
+Cell: 202.309.4254
+
+=20
+
+Take 5 Minutes to nominate an exemplary DC Government employee or team
+for the 17th Annual Cafritz Awards <https://www.cafritzawards.org/>
+(DEADLINE is NOV. 30)!
+

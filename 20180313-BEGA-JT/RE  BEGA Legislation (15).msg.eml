@@ -1,0 +1,541 @@
+Received: from CY4PR09CA0006.namprd09.prod.outlook.com (10.172.65.16) by
+ DM5PR09MB1371.namprd09.prod.outlook.com (10.172.39.11) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.77.7; Mon, 25 Sep 2017 14:31:03 +0000
+Received: from DM2GCC01FT009.eop-gcc01.prod.protection.outlook.com
+ (2a01:111:f400:7d01::208) by CY4PR09CA0006.outlook.office365.com
+ (2603:10b6:910:2::16) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.56.11 via Frontend
+ Transport; Mon, 25 Sep 2017 14:31:02 +0000
+Authentication-Results: spf=none (sender IP is 164.82.1.21)
+ smtp.mailfrom=dccouncil.us; dcgovict.mail.onmicrosoft.com; dkim=none (message
+ not signed) header.d=none;dcgovict.mail.onmicrosoft.com; dmarc=none
+ action=none header.from=DCCOUNCIL.US;
+Received-SPF: None (protection.outlook.com: dccouncil.us does not designate
+ permitted sender hosts)
+Received: from hybrid.dc.gov (164.82.1.21) by
+ DM2GCC01FT009.mail.protection.outlook.com (10.97.2.68) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.20.35.14 via Frontend Transport; Mon, 25 Sep 2017 14:31:02 +0000
+Received: from CWM-EXMR-204.dcgov.priv (10.82.51.14) by
+ CWM-EX-HS-22.dcgov.priv (10.82.51.37) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Mon, 25 Sep 2017 10:30:53 -0400
+Received: from CWM-EXMR-206.dcgov.priv (10.82.51.16) by
+ CWM-EXMR-204.dcgov.priv (10.82.51.14) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Mon, 25 Sep 2017 10:30:53 -0400
+Received: from smtp4-11.dc.gov (164.82.148.21) by CWM-EXMR-206.dcgov.priv
+ (10.82.51.16) with Microsoft SMTP Server id 15.0.1263.5 via Frontend
+ Transport; Mon, 25 Sep 2017 10:30:53 -0400
+Received: from mail.dccouncil.us (HELO dcc-exchange-01.council.local)
+ ([10.28.100.14])  by smtp4-11.dc.gov with ESMTP; 25 Sep 2017 10:30:53 -0400
+Received: from DCC-Exchange-2.Council.local (10.28.100.15) by
+ DCC-Exchange-1.Council.local (10.28.100.14) with Microsoft SMTP Server (TLS)
+ id 15.0.1178.4; Mon, 25 Sep 2017 10:30:51 -0400
+Received: from DCC-Exchange-2.Council.local ([fe80::9d22:d076:bfee:6e40]) by
+ DCC-Exchange-2.Council.local ([fe80::9d22:d076:bfee:6e40%19]) with mapi id
+ 15.00.1178.000; Mon, 25 Sep 2017 10:30:51 -0400
+From: "Weil, Sonia (Council)" <sweil@DCCOUNCIL.US>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>,
+ "Mitchell, Katherine (Council)"	<kmitchell@DCCOUNCIL.US>
+Subject: RE: BEGA Legislation
+Thread-Topic: BEGA Legislation
+Thread-Index: AdMtk1Ah2wqfC21+QVyTm+/23l2udwD9lTVAAArJAgAAFrm/sAEFPUYAAAZ4tkA=
+Date: Mon, 25 Sep 2017 14:30:51 +0000
+Message-ID: <21ba9408eceb4b369438149740d0f0c1@DCC-Exchange-2.Council.local>
+References: <DM2PR09MB0368E101E20619C9D3B156FC916F0@DM2PR09MB0368.namprd09.prod.outlook.com>,<4b74edddf07e4e71affde0c47e90dfda@DCC-Exchange-2.Council.local>
+ <DM2PR09MB0368D891CE3569BBAE97DC8D91600@DM2PR09MB0368.namprd09.prod.outlook.com> <406e65b3b15f44509e6d7e3df4e863ff@DCC-Exchange-2.Council.local>
+ <DM2PR09MB0368263B6EAC54D2DE4F41CA917A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB0368263B6EAC54D2DE4F41CA917A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [10.28.100.27]
+x-ironport-av: E=Sophos;i="5.42,436,1500955200";
+    d="dat'59?scan'59,208,59";a="322034508"
+x-crosspremisesheadersfilteredbysendconnector: DCC-Exchange-1.Council.local
+x-organizationheaderspreserved: DCC-Exchange-1.Council.local
+MIME-Version: 1.0
+Return-Path: sweil@dccouncil.us
+X-OrganizationHeadersPreserved: CWM-EX-HS-22.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ 82877b0c-81c0-44fd-5c85-08d504220c6c
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.82.1.21;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(2980300002)(428002)(3190300001)(189002)(66654002)(377454003)(52144002)(51914003)(199003)(512934002)(97736004)(53546010)(551944002)(15974865002)(2950100002)(108616004)(84326002)(3480700004)(54906003)(8676002)(1680700002)(189998001)(6862004)(14454004)(81166006)(4326008)(3846002)(93886005)(450100002)(229853002)(16586007)(8936002)(790700001)(98436002)(102836003)(606006)(356003)(24736003)(81156014)(54356999)(236005)(5250100002)(9686003)(54896002)(221733001)(86362001)(53386004)(55016002)(101416001)(53936002)(7696004)(6246003)(7736002)(1096003)(50986999)(5890100001)(107886003)(53946003)(6306002)(76176999)(15843345004)(6116002)(74482002)(7116003)(105586002)(2900100001)(106466001)(33646002)(5660300001)(68736007)(9326002)(63266004)(80162004)(80862006)(75396010)(579004)(559001)(15669805003);DIR:INB;SFP:;SCL:1;SRVR:DM5PR09MB1371;H:hybrid.dc.gov;FPR:;SPF:None;PTR:InfoDomainNonexistent;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;DM2GCC01FT009;1:JQ/qQ0cNCaKPDtUl0h8oyGWh6r4OqXjyE6IbblgJtkKHOksSzR23Q571/o2vNNiyBcTXgcZCU96k1o7ujAsf3FwHe7ezVRrt7ouDMyFj0JaQ8b5gxf5BY/wIZ1OIlc8L
+X-CrossPremisesHeadersPromoted:
+ DM2GCC01FT009.eop-gcc01.prod.protection.outlook.com
+X-CrossPremisesHeadersFiltered:
+ DM2GCC01FT009.eop-gcc01.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthSource: CWM-EXMR-206.dcgov.priv
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: dc.gov
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 82877b0c-81c0-44fd-5c85-08d504220c6c
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254152)(2017052603199)(201703131423075)(201703031133081);SRVR:DM5PR09MB1371;
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR09MB1371;3:bJ/Pi9xChndChIf0Pi/uHgNfJFH38gJnnWlZCluQDb43Bk4owW5wlHxxygKCx4nIwB4VWkrAM/5FjiF8hU7mZw/5QwqE4l1Wf+gDLP2GwDMcQSRmVZydAH9LQrzUGKVdFdCkGerwhYAz9S9uslBcDHSRrTkuLUJrnWqajdihwXq/9/Iajs6+UZnJj1WWgRtI21JXQagLkSr3x5cC+FwldkgNTBEKdVc0a5aymr61yCl4659A2QenndcmI7L01Ovy7NKtIZ2ciqRl4CczrGg6KAi/JCgAsL3e48TpjB1R9od42gDPJ/MHWqTRxLFNPM+svqR3K0gebCMx0S9tCRc3CQ==;25:3bp60smCmkWSzDZVO4NNBU+wCfl1l3J2XNy/8/4GliEmUaFu4WDyQ+6KERFUIy3GJF29fD9sE+ZPxn1gLwQFNsao57Va/N+AgpOOGmsvEI6OJxcjfVaK3tmBorPE87GFFjSZ1yHHk1p0K2Idn5mB16pj8LXLBJH1PdA4iCljWooR4ZW67jh5rDMKYFr87i3pNd/QsGnMz5cpyrwCcEVWbbFjJ5s/VWb2srvXYTa7CW0102k2DQaGVTIeYMuj+HEtiIJdF/2Nc5xnN9zUI/Wce1I3XHpNY3b+4TtMXpiO7tswx03Pqg6ST3A3/9sn1lLJu6JkiRNBH4vsQR15iOvLxg==;31:Rbfcx+IIzAvAOlRC4E0TEUwORwx6GRkR1JDTrUBA6qVDVYNkBDQ4i9zeUER24GqlnZ1w9mKEOYX8L5ey2B3ZNvuT0WuYgGFpOLcIOvywTQDyxJo16Ly+ZOE5/7RkA5cBuprp5YZvKcZh3nLqs4LjevWZGOlWujWU1KL9fh16dzKU7C/RJz0h+ka1D8Hm8uEpw2Ze4e2HgLVxDu7Fu6c67DWFYxA4CSBg9CYmkQfJNM8=
+X-MS-TrafficTypeDiagnostic: DM5PR09MB1371:
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR09MB1371;20:KwsXe8FiMimc6WkF7bRBQPxsXoftz/UyfWtgzxFeVXDKFkmW6npWrxQyuEMe4Re2XfsudRH+3CLVPcHYp3atycMIdjcgcUA3PP1uzIy8tqtfBgkgAhDJ7Sg8ez2dnUno+eV+AerUOgSd+cwgsAN27AhZewrc21w0b/yOe3spmsKOBHYmjgZvGauOMgJjTGEK+fpNeBcFWmkB+qDzB8BWcCpYsCkmlITyxp+VuK/LWFfLEiyz8ZkqZZjLArzsBLPmzae+P04pxH/DFkL9x0XdsgXwiiqirvzHA32BddhVUT8Wr4Pq7WD/VSsFwaYK0UwZjzs21xvCAXreJwAOlvJ2mAmA8JK/epg8mByOW1YCzaWA7wvUqnHn8FXwhpjlnSNk4HVlBp4W/ZS4XbMGbSOLXzTcAOuX7pCSsOAn3L1iMOCMUIJ/AByD/6sTtTzCeTymIPx6gHrHz/9Drw3nUBQ5FjqQoFeqUYSymwvpJdPeBJz/va6kO92rUKsFTz5a+50O;4:mOvUXX0AbzN1LWe3J9/YSfe7DZvjS09xuOhAWRSotINAkdHmPFYh7TrSPGCmN/mMLiALCfLDYA/uCbH8PlB0PzSjdLff2CbkhfbNvemN7/eYKn6dnoYXxKocAFHEIY4mOMSI4wK+BvBegrR9HQ3rUXHGXmravddT1jeHcDZhPwGcdtg7N7yPRg9MdGxa2aMCxMV263q3Ac+lLre4GJbU67alCHYgwhWsIC+Bb8ZJ/QIpjicAsPV41gxBpiQ4nOjVyFBUrveii+XyoElEvYovGXdSzz+8Qnv1f/e7sW42SMkAaWnj3OcrpGO69E7wYj09AswWdZmLiqrQZ0JHSCDiZ5q6JD+ZC/XvlLp4D9L9dIcrp7fMZVxGaUGvj+EF3J7c
+X-Exchange-Antispam-Report-Test:
+ UriScan:(31418570063057)(21748063052155)(64217206974132);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(2401047)(8121501046)(93006095)(93003095)(10201501046)(100000703101)(100105400095)(3002001)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:DM5PR09MB1371;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:DM5PR09MB1371;
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics:
+ 1;DM5PR09MB1371;23:a2K54Xqcae162cftt7flzl/AqyXE5n0kvRzh++vuF
+4eFeYVX8uC3BMP+JlcVPuZgqjaV+WMeM+nyg5ziMMEuA3dqqTmwIrhx58vq6
+7Q4BnGSf5wkVin5tXwLkPtrxKs27FPD1syzzio1HHWtL9Wz97apEOo5h/XTq
+exCLV3IUhm1OD03XbII/runlCt+z68SlbYhy0AYYdU5KJAzBHduh/1Lw0UIs
+McayfObcHIoTkfJKhYqZF6Ib3qzk2j/7EPx8Ko3K/WxSBIJF9dczGizw+39Z
+9C1cBJ+UPLfkESkD4yvqxme7PsnQLGQH3syMShPXKkcQ2hkqhrKrX+THrhrd
+EbQbJ6S9Y98IGc9IzmgEcXI0pNeyztDX0Z7rgrrUkGQhKhVfAHjlVWXmD1lL
+QV04ErRhiXRDGUG4gw3T4qR5Qakejw3PJGbj4qHfk+YK+YUdIThQw0R/87Wi
+I57U+6UK/BUmGVDa+6T4LvJv3tI/aJzMF32CBwuqa4X4xiRZfGFBUNdcR7ox
+BmmRLwRoElDXj1+/11XYyFmwCyrRUfBebwiuN0VxnNqOyo39mpNTGog3Bnu+
+aCa2JeltUPuu+anOquFR9cp850mpsbCBe7g4PuAp6Zjz+MUvEilv/UiuSumJ
+BRbGGwDaeueR5AgYv3g9mqt+nKr8/K7gcBi61+XT7lgD1QLHC/mC/oyCj454
+lDq7L5qmtNn38xrX9O/2a/VZlhokJ0zUfOBp4Lv25WG4uaYBDJe5aMkjJwIY
+pp45LziiHteC2oANH5y9LS0XmLiYkG3JomLejfWvt5OnkGDr6vMkVj3cj21N
+LxpQzrjNcECiqD0aDhXVgTUuO9i7/NofW5NVRd8CAz84R3LZInQ2+GwJEkBA
+y0yqyuID2bF9WITirjEyhOnOpy5GlItWcQXdvDfLmq4rkMEzNY8Ed9R/kcNh
+QPgJQ1dFeWWIC0n6LNnjMqUD9mzRkApwZaSs8LHHZj12Sk9H2/B/wwmzgS/u
+B8DvNV/Q85VLv8GFJz5F3S60EMTivnAP4QQsI03eeTEEtJM3/0gKvNjUSOgQ
+JijcRpIm6/Fi7RRl3AOc4EgsTDpOH746drqW/LQny1reAQkpg9QmTorLuoxX
+RGUkseRZdgQNx85fXJy2P173lzNE4mjvkoT9MKZ5NzK6ES1TgaXWN9mwL9PY
++UDUt9RXoL7wLQYFkwFJchUTASngjmaAoWgdR1YWVkvkrDYRYmvFuBsFTrUL
+kLuEO04GfgErz26sptbLQrDcnQfnhiuB/J0QYMHz+3dAaGqUxX/kvuvpLneb
+T5K35rrvTP93JBtofjmAiRxIs9dNXAwnInh6s+Ykzgz4Lk8JH8LKFrAACGLQ
+BQ5IeciK9tuiqPMRilz1jKY0sEL27KNBO+ohb+QntzA1crdwbit93KSKBZ1c
+dgpNGZ541nqg5HGOnwj3MJVZk/xS7DX/UccYfriCq6c8D8ZganhVhc6uN6mz
+M46J+ktOriaZKQdK78KPXHu7Z9GfFO6/CkhTiMbDQkA5rINlbfI7OHPsLcMi
+t9sKZ/sE8iTCJ3prlUHvC0HjhaU7LOnjAo+DtxWVI8mDOPm1nEF0Ego4UAG8
+qi/ghpWjbzSAxOrNviVxZGQEbR1hlhoNI0TeBPFsUcgdGxy2+kQwv17TnoPI
+7TSOkSkVleHKi3mX1gIyvcQ7GIA0L0oOuOP6kwYklC7NlE3iYxx2jZrkVl/y
+HpT4+FI9HXue0HoHYgBHAVv19bZTWkZgKznniKPEJOrI1ca87pHgOaY6SfOV1fdY2AHPF3W
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR09MB1371;6:zMR4SOdtNSTFraEZctWQ5Y5Clsa6SaDovatElYTB+EXogutmRmf7xSOPTSfrOHPPXUnD5/K1d6QqhU1fPbmGY+VQsFc6hHY96uJdNUiiC8j80/C1c6qaudaVzENAykfTewOxJrtOImTRQUEnabcdfJQ0oyrs5P8yQKhQ9Amljz8rCo4o8Vn9xz0imf5/UCNPg6HNtZhtHwQsTHjS6ZWdtaY5MpP0PigVxIteO6xR0rh73eF2S5iGrfAQ4o6//h6Wcyk7j8HoC6e5HEHWGDFeFE4Ky1bf2tpKxeu0F2MClv2C6mxC5sHYERiV1kam4tCJjGuviluyS0vIWAQ7kiOPuw==;5:QRv0gxr6IdiG3zwdiKieBR2fmu72lFFKS2xO6S1A1xo6ADRwbIE6lbjTXe5euaOd+jMizE6E7IBzN8amWvWov26aibHwdyFtLANJz7wA8pIYixVzyS66qYiVF60pI040duYmXpoA2uKyfy42EyWsGg==;24:4ow32fjWeTy00WXKaglumOdV30PEDIsHUqBUwCXS2hCdG/FBEAXS9+zt5a9reI4NcnpD5YWkFxPzHncsgGDGJsnJxcdSJrFkJpxr+54bx3w=;7:OAxiDDjns47cW9VhVth/ndP9NHraTWqnNGpEHdY2ABp+g5R14maBvp6uBvASN5eh8i8oZU0p9qE3cL9Q2urrjFt9X0GKSHN9CNs5SqeqhefJ0pEu9gbGYgZaMyA6qQneql6BGGOYMCFgHakf7TBIomJxVNawNQcbeQWx/gL/WU6YeMd+CoNmh5yqDbt0iPtdtBkDHJkUhzeuwVY1ANjVSIsDusAiAgBwoh3Vt13pPn8=
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR09MB1371;20:ye/uLzLktzQfynUVi9c5cAjCsqYt4MjO7MRgCcbwLJ5oyggCoFLq3A4+ykd3vus7ume++58DbcaYRX3IM393eR+V5Ib7oVS4h9nrSsYL4chmV6BGJXYhRQYmy6cZoWzwT2pgb6W5w3IokluS/gEXOW15tX85vznFkBLBQd6mlYc=
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Jack,
+
+=20
+
+That makes sense. Thanks!
+
+=20
+
+Sonia
+
+=20
+
+Sonia Weil
+
+Legislative Counsel
+
+Committee on the Judiciary & Public Safety
+
+Chair, Councilmember Charles Allen, Ward 6
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202-724-8197
+
+sweil@dccouncil.us <mailto:sweil@dccouncil.us>=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov]=20
+Sent: Monday, September 25, 2017 9:35 AM
+To: Weil, Sonia (Council) <sweil@DCCOUNCIL.US>
+Cc: Collier, Tameka (BEGA) <tameka.collier@dc.gov>; Flowers, Brian
+(BEGA) <brian.flowers@dc.gov>; Mitchell, Katherine (Council)
+<kmitchell@DCCOUNCIL.US>
+Subject: RE: BEGA Legislation
+
+=20
+
+Good morning, Sonia.
+
+=20
+
+After some further thought, we agree with Kate=E2=80=99s point below (see her
+Sept. 10 email) about avoiding a bind in the event the Board has more
+than one vacancy.  (We currently have one vacancy.)  So, rather than
+provide that a quorum be three Ethics Board members, we suggest going
+with a majority of the members.  A number of other boards and
+commissions operate that way, as does the Council itself.  See D.C. Code
+=C2=A7 1-204.12(c). =20
+
+=20
+
+Please give me a call if you want to discuss.
+
+=20
+
+Thanks.
+
+=20
+
+Jack
+
+(202) 741-2129
+
+=20
+
+From: Weil, Sonia (Council) [mailto:sweil@DCCOUNCIL.US]=20
+Sent: Wednesday, September 20, 2017 9:45 AM
+To: Grimaldi, John J. (BEGA); Mitchell, Katherine (Council)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA)
+Subject: RE: BEGA Legislation
+
+=20
+
+Hi Jack,
+
+=20
+
+I=E2=80=99m out of the office tomorrow and Friday, but can touch base about t=
+his
+on Monday.=20
+
+=20
+
+Thanks,
+
+Sonia
+
+=20
+
+Sonia Weil
+
+Legislative Counsel
+
+Committee on the Judiciary & Public Safety
+
+Chair, Councilmember Charles Allen, Ward 6
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202-724-8197
+
+sweil@dccouncil.us <mailto:sweil@dccouncil.us>=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov
+<mailto:John.Grimaldi@dc.gov> ]=20
+Sent: Tuesday, September 19, 2017 6:04 PM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US
+<mailto:kmitchell@DCCOUNCIL.US> >
+Cc: Weil, Sonia (Council) <sweil@DCCOUNCIL.US
+<mailto:sweil@DCCOUNCIL.US> >; Collier, Tameka (BEGA)
+<tameka.collier@dc.gov <mailto:tameka.collier@dc.gov> >; Flowers, Brian
+(BEGA) <brian.flowers@dc.gov <mailto:brian.flowers@dc.gov> >
+Subject: Re: BEGA Legislation
+
+=20
+
+Thanks to you all!  I'll touch base with Sonia on Thursday (I'm out
+tomorrow) to discuss final language. =20
+
+=20
+
+Jack
+
+=20
+
+________________________________
+
+From: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US
+<mailto:kmitchell@DCCOUNCIL.US> >
+Sent: Tuesday, September 19, 2017 4:58 PM
+To: Grimaldi, John J. (BEGA)
+Cc: Weil, Sonia (Council)
+Subject: RE: BEGA Legislation=20
+
+=20
+
+Hi Jack,
+
+=20
+
+CM Allen will move the emergency bill at the next legislative meeting on
+October 3. Sonia will prepare it for you. We also have a bill coming out
+of Committee in the next month or so =E2=80=93 B22-255 =E2=80=93 that=E2=80=
+=99s being converted
+into an omnibus bill, so we can tuck the permanent into that.
+
+=20
+
+Thanks,
+
+=20
+
+Kate Mitchell, Esq.
+
+Committee Director
+
+Councilmember Charles Allen, Ward 6
+
+Chair, Committee on the Judiciary & Public Safety
+
+Council of the District of Columbia
+
+1350 Pennsylvania Ave., NW, Ste. 109
+
+Washington, DC 20004
+
+202.727.8275 (direct)
+
+kmitchell@dccouncil.us <mailto:kmitchell@dccouncil.us>=20
+
+=20
+
+Email us
+<mailto:judiciary@dccouncil.us?subject=3DAdd%20Me%20to%20Your%20Mailing%20
+List>  to be added to the Committee=E2=80=99s mailing list.
+
+www.charlesallenward6.com | @CMCharlesAllen
+<https://twitter.com/CMCharlesAllen>  | facebook.com/charlesallendc/
+
+=20
+
+From: Grimaldi, John J. (BEGA) [mailto:John.Grimaldi@dc.gov
+<mailto:John.Grimaldi@dc.gov> ]=20
+Sent: Thursday, September 14, 2017 3:56 PM
+To: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US
+<mailto:kmitchell@DCCOUNCIL.US> >
+Subject: RE: BEGA Legislation
+
+=20
+
+Thanks, Kate.  Got your message.  Certainly willing to discuss final
+language.
+
+=20
+
+Jack
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Thursday, September 14, 2017 3:33 PM
+To: 'kmitchell@dccouncil.us'
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); 'Weil, Sonia
+(Council) (sweil@DCCOUNCIL.US <mailto:sweil@DCCOUNCIL.US> )'
+Subject: RE: BEGA Legislation
+
+=20
+
+Sorry, my goof! Meant to attach the emergency bill, not an earlier
+version of the dec. Dec(2) is the revised version that we=E2=80=99d like to
+discuss. =20
+
+=20
+
+Also, consider whether an amendment to require a majority of members for
+quorum purposes.  We=E2=80=99re not wedded to three.
+
+=20
+
+Thanks.
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Thursday, September 14, 2017 3:19 PM
+To: 'kmitchell@dccouncil.us'
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); 'Weil, Sonia
+(Council) (sweil@DCCOUNCIL.US <mailto:sweil@DCCOUNCIL.US> )'
+Subject: RE: BEGA Legislation
+
+=20
+
+Kate, here=E2=80=99s a revised quorum package.  Please give me a call to
+discuss. =20
+
+=20
+
+I=E2=80=99m also attaching a copy of R22-163, which I can explain when we tal=
+k.
+
+=20
+
+Thanks.
+
+=20
+
+Jack
+
+Direct:  (202) 741-2129
+
+=20
+
+=20
+
+From: Grimaldi, John J. (BEGA)=20
+Sent: Monday, September 11, 2017 9:56 AM
+To: kmitchell@dccouncil.us <mailto:kmitchell@dccouncil.us>=20
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Weil, Sonia (Council)
+(sweil@DCCOUNCIL.US <mailto:sweil@DCCOUNCIL.US> )
+Subject: RE: BEGA Legislation
+
+=20
+
+Re the emergency, Kate, we=E2=80=99ll huddle and get back to you.  Thanks.
+
+=20
+
+Jack
+
+=20
+
+________________________________
+
+From: Mitchell, Katherine (Council) <kmitchell@DCCOUNCIL.US
+<mailto:kmitchell@DCCOUNCIL.US> >
+Sent: Sunday, September 10, 2017 5:28:03 PM
+To: Grimaldi, John J. (BEGA)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Weil, Sonia (Council)
+Subject: Re: BEGA Legislation=20
+
+=20
+
+Hi Jack,
+
+=20
+
+Many thanks for the CCC materials. Super helpful as Sonia preps for the
+hearing.
+
+=20
+
+Re the emergency, from what I can recall, we didn't amend the quorum
+requirement when we increased the board size because of our fear that
+the Executive would delay in sending qualified nominees to us (as is
+always the case). I wouldn't want to put you in a bind where you have
+one or two vacancies and all your sitting members have to attend every
+meeting. Either way, can you make the case why it's an emergency? I'm
+generally a bit skittish of emergencies.
+
+=20
+
+Thanks much,
+
+=20
+
+Kate
+
+________________________________
+
+From: Grimaldi, John J. (BEGA) <John.Grimaldi@dc.gov
+<mailto:John.Grimaldi@dc.gov> >
+Sent: Friday, September 8, 2017 10:17 AM
+To: Mitchell, Katherine (Council)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Weil, Sonia (Council)
+Subject: BEGA Legislation=20
+
+=20
+
+Good morning, Kate.
+
+=20
+
+In follow-up to our meeting on August 29, I=E2=80=99m attaching the latest
+(redlined) version of the CCC bill and a clean copy of the accompanying
+section-by-section analysis.  The redlining reflects revisions to the
+bill made since the legislation was initially filed in 2015 (Bill
+21-250) and, as such, also reflects the differences between the latest
+version and the re-introduced Bill 22-136.  We=E2=80=99ll likely make a number
+of other revisions and will send them along as well in advance of the
+November 2 hearing as possible.
+
+=20
+
+The quorum package is intended to address what was likely an oversight
+(that is, increasing the Ethics Board=E2=80=99s quorum requirement) when the
+size of the Board was increased from three members to five.  See the
+dec.  We=E2=80=99re wondering (hoping, actually) if the Councilmember would
+introduce the package for us.  The package doesn=E2=80=99t include a permanent
+bill because we figure we could put the substantive amending provision
+in the CCC bill.  Please call if you have any questions or concerns.
+
+=20
+
+Thanks. =20
+
+=20
+
+=20
+
+Jack Grimaldi
+
+Senior Attorney Advisor
+
+D.C. Board of Ethics and Government Accountability
+
+441 4th Street, N.W.,  Suite 830 South
+
+Washington, D.C.  20001
+
+Main:  (202) 481-3411
+
+Direct:  (202) 741-2129
+
+=20
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov <http://attendance.dc.gov>  to
+learn more.
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov to learn more.
+
+The new school year is here and every day is a new opportunity for our
+students to learn and grow. We all have a role to play in ensuring
+students get to school, ready to learn, and understand that
+#EveryDayCounts. Go to attendance.dc.gov to learn more.
+

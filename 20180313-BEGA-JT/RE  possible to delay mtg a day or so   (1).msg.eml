@@ -1,0 +1,98 @@
+Received: from CY1PR09MB0571.namprd09.prod.outlook.com (10.160.151.148) by
+ CY1PR09MB1129.namprd09.prod.outlook.com (10.166.196.21) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.77.7; Mon, 25 Sep 2017 13:55:30 +0000
+Received: from CY1PR09MB0571.namprd09.prod.outlook.com ([10.160.151.148]) by
+ CY1PR09MB0571.namprd09.prod.outlook.com ([10.160.151.148]) with mapi id
+ 15.20.0077.011; Mon, 25 Sep 2017 13:55:29 +0000
+From: "Anthony, Lavita (EOM)" <lavita.anthony@dc.gov>
+To: "Grimaldi, John J. (BEGA)" <John.Grimaldi@dc.gov>
+CC: "Collier, Tameka (BEGA)" <tameka.collier@dc.gov>,
+ "Flowers, Brian (BEGA)"	<Brian.Flowers@dc.gov>,
+ "Cavendish, Betsy (EOM)" <betsy.cavendish@dc.gov>,
+	"Seshasai, Karuna (EOM)" <karuna.seshasai@dc.gov>
+Subject: RE: possible to delay mtg a day or so? 
+Thread-Topic: possible to delay mtg a day or so? 
+Thread-Index: AQHTNf1N56Pnyp0Ro0+Eq6hWiqTzyaLFknIAgAALcHA=
+Date: Mon, 25 Sep 2017 13:55:29 +0000
+Message-ID: <CY1PR09MB0571710192173DEDD3BBFDC6EF7A0@CY1PR09MB0571.namprd09.prod.outlook.com>
+References: <000C389E-5554-4E19-B240-2A625A00F9DB@dc.gov>
+ <DM2PR09MB0368C53750BE65602FAAF6FE917A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+In-Reply-To: <DM2PR09MB0368C53750BE65602FAAF6FE917A0@DM2PR09MB0368.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: CY1PR09MB0571.namprd09.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ e6e243f2-26ce-4345-2a95-08d5041d153b
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-ms-exchange-organization-messagedirectionality: Originating
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY1PR09MB1129;24:O2AWzkQVoksONuz8V5SRO8ERaE0my+zXAS8A73UKlItUeZvn8xq/waZGIWBeSfMENf7cEbJ/55bJQBL3uSfUYfCPBxmNovYLn+8BuVVbVUo=;7:dU/+Us4/CoAWRLBqWfh7lvm8HEpjNP4/czrSafsiPg12JsrFgq+HmuUwOT0zPDRUAha60IhiONGkJwQ5+FwAynLiDzYk2zVYET3VloburZpVXrOgV+U7s+Q3zr95yjXHOJr5WIWamLs7RFKJZFEW5hhZG22Hs8JeVk56hLJALHEXewMMpXdhcTbeCEJBNERUmj4ESxSgllvMoHx/GakXq1sop57moF9qmK3hW4EK32w=;20:YK7riXduWlM3sV3X5msk6RYEGBx/juZ38LDzJIBSpVVu+E6D6x5lVQS5pCbLzaA+UcD/IbTJpV1N3jvogTPki5cTlfps+I8v10sLAQ2lvRoql5t1P6bQwux+4oKKKk4G4w20deMmfEDCkFyywZffUu7SMnMRM8S7/b2IAelMEx8=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-ms-exchange-organization-antispam-report: SFV:SKI;SCL:-1;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CY1PR09MB1129;H:CY1PR09MB0571.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: e6e243f2-26ce-4345-2a95-08d5041d153b
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254152)(2017052603199)(201703131423075)(201703031133081)(201702281549075);SRVR:CY1PR09MB1129;
+x-ms-traffictypediagnostic: CY1PR09MB1129:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(9101524173)(2401047)(8121501046)(3002001)(10201501046)(93006095)(93001095)(100000703101)(100105400095)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:CY1PR09MB1129;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CY1PR09MB1129;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning Jack,
+
+Below are possible windows to move the meeting:
+
+Tuesday, September 26th 2-5; or
+Wednesday, September 27th 3:30-5.
+
+Please let me know your availability.
+
+Thanks in advance.
+
+LaVita
+
+-----Original Message-----
+From: Grimaldi, John J. (BEGA)
+Sent: Monday, September 25, 2017 9:24 AM
+To: Cavendish, Betsy (EOM)
+Cc: Collier, Tameka (BEGA); Flowers, Brian (BEGA); Anthony, Lavita (EOM)
+Subject: RE: possible to delay mtg a day or so?
+
+Sorry, Betsy, get her well.  Send us some suggested times to get together, th=
+ough note that Thursday and Friday are out for Brian and me this week.
+
+Jack
+
+-----Original Message-----
+From: Cavendish, Betsy (EOM)
+Sent: Monday, September 25, 2017 8:54 AM
+To: Anthony, Lavita (EOM); Grimaldi, John J. (BEGA)
+Subject: possible to delay mtg a day or so?
+
+home dealing with some kid health issues.  pls let Alana know.  thanks.
+
+Sent from my iPhone
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+
+The new school year is here and every day is a new opportunity for our studen=
+ts to learn and grow. We all have a role to play in ensuring students get to =
+school, ready to learn, and understand that #EveryDayCounts. Go to attendance=
+.dc.gov<http://attendance.dc.gov> to learn more.
+

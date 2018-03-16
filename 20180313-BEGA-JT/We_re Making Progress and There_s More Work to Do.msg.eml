@@ -1,0 +1,453 @@
+Received: from CWM-EXMR-106.dcgov.priv (10.86.51.16) by
+ cwm-exmr-201.dcgov.priv (10.82.51.11) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 4 Jan 2018 13:32:07 -0500
+Received: from CWM-EX-HS-21.dcgov.priv (10.82.51.21) by
+ cwm-exmr-106.dcgov.priv (10.86.51.16) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Thu, 4 Jan 2018 13:32:07 -0500
+Received: from gcc01-CY1-obe.outbound.protection.outlook.com (164.82.9.71) by
+ CWM-EX-HS-21.dcgov.priv (10.82.51.21) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5 via Frontend Transport; Thu, 4 Jan 2018 13:32:07 -0500
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) by
+ SN1PR09MB1103.namprd09.prod.outlook.com (10.166.68.145) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.366.8; Thu, 4 Jan 2018 18:32:05 +0000
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) by
+ SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) with mapi id
+ 15.20.0366.009; Thu, 4 Jan 2018 18:32:05 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: We're Making Progress and There's More Work to Do
+Thread-Topic: We're Making Progress and There's More Work to Do
+Thread-Index: AdOFiZ7XULKjv61+SNK0ohc2AgG9rwAADI4w
+Date: Thu, 04 Jan 2018 18:32:05 +0000
+Message-ID: <SN1PR09MB11049896F75D85C2F30C21E0F51F0@SN1PR09MB1104.namprd09.prod.outlook.com>
+References: <BN6PR09MB1201E37C5D4DBC265252D2B4EB1F0@BN6PR09MB1201.namprd09.prod.outlook.com>
+In-Reply-To: <BN6PR09MB1201E37C5D4DBC265252D2B4EB1F0@BN6PR09MB1201.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-originating-ip: [73.134.141.84]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1PR09MB1103;7:2ELiRlnDvqMt2JD2tGbNNA05vOy1/x530GAs7IotFUZi/IDYBuSdPWp0bUVslwvGPI7Oq3L4K3MS7jIqyKXwlDj7BADcMcSD7Pw74ys2fWQ9yHLy4tKB5HdNtsjFN12wKOSyjPLf9xBtXOn7iMcjMaLE3weLAbdJt4HB1NAN2TVihHI3ubtbqNBtfmcdV7y3SnYc8QIWn/okr8jSzNQ5X4+Vs6tpMiEGCZ83JMzn0auZ4RqA9I0kT468b3/JgwEt;20:GplzJ5i+4ApRTI1Pr6fX12/4reHrh+NKAqUz+SSlCiLpMPTbrhSNflRJCKEiEB2556eikB8P3XO1JHOT/4WO3Q4eKV+nVkvz+uln22zOGGHbDtBEfzttW1bRpNqaqwFtfDfhslt2bgWaN5VBQxKsGlHlnZ/stbP3reS5UuFZGiU=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN1PR09MB1103;H:SN1PR09MB1104.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: cbd21455-fc7f-4672-e05d-08d553a17495
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(5600026)(4604075)(3008032)(2017052603307)(7153060);SRVR:SN1PR09MB1103;
+x-ms-traffictypediagnostic: SN1PR09MB1103:
+x-exchange-antispam-report-test: UriScan:(148322886591682)(277860510277777)(28212336023702)(192374486261705)(31418570063057)(280730625643796)(160423301992630)(183562729782952)(227993202845146)(57480815675085);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(3231023)(944501075)(3002001)(10201501046)(93006095)(93001095)(201708071742011);SRVR:SN1PR09MB1103;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN1PR09MB1103;
+x-microsoft-antispam-message-info: F628hTcCfgkB4pRK6LqdHy1XO+2+SwVKmX0fHnLQlYfMld4n3Z8Q0wH/8ywZy1Cu2JoEOo0wFwhW6frXR616AA==
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ cbd21455-fc7f-4672-e05d-08d553a17495
+X-MS-Exchange-CrossTenant-originalarrivaltime: 04 Jan 2018 18:32:05.2518 (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR09MB1103
+X-OrganizationHeadersPreserved: SN1PR09MB1103.namprd09.prod.outlook.com
+Return-Path: Mayor.Bowser@dc.gov
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SN1PR09MB1104.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-antispam-report: SFV:SKI;SCL:-1;
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-CrossPremisesHeadersPromoted: CWM-EX-HS-21.dcgov.priv
+X-CrossPremisesHeadersFiltered: CWM-EX-HS-21.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ a6e373ac-cba5-4584-2497-08d553a175e2
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-OriginatorOrg: dc.gov
+BCC: <all.personnel@dc.gov>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+________________________________
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2358/green-header-hr_original.gif?1308456195>=20
+
+ Newsletter
+Banner<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/03/1252064/1249919/mmb-newsletter-banner-march-2017-01_crop.jpg>=20
+
+@TeamMuriel  <https://twitter.com/MayorBowser>=20
+
+	=20
+
+=20
+
+Muriel Bowser Ward 4 <https://www.facebook.com/MayorMurielBowser>=20
+
+	=20
+
+=20
+
+Instagram  <https://www.instagram.com/mayor_bowser/>=20
+
+	=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+John A. Wilson Building
+
+
+1350 Pennsylvania Avenue, NW, Washington, DC 20004
+
+
+Phone: (202) 727-2643
+Email: muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>=20
+
+=20
+Chief of Staff:
+John Falcicchio <mailto:john.falcicchio@dc.gov>=20
+
+City Administrator:
+Rashad Young <mailto:rashad.young@dc.gov>=20
+
+Director of the Mayor's Office of Legal Counsel:
+Mark Tuohey
+
+Senior Advisor:
+Beverly Perry
+<mailto:beverly.perry@dc.gov> =20
+Director of Mayor's Office of Community Affairs:
+Charon Hines <mailto:Charon.Hines@dc.gov>=20
+
+Director of Mayor's Office of Community Relations and Services:
+Tommie Jones <mailto:tommie.jones@dc.gov>=20
+<mailto:gregoryn.jackson@dc.gov> =20
+Scheduling Requests:
+mayor.dc.gov/page/invite-mayor <http://mayor.dc.gov/page/invite-mayor>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+January 4, 2018 | Vol. 4, Issue 1
+
+
+Letter from the Mayor
+
+
+Dear Washingtonians,
+
+Tonight, I will release my Year Three Transition Plan Accountability
+Report <https://year3accountabiltyupdate.eventbrite.com/> , a
+comprehensive look into my Administration's goals and priorities, our
+progress, and the work we still have left to do. When I was sworn into
+office, I pledged to work with all of you to make a greener, healthier,
+safer, and more fiscally stable city.=20
+
+By making bold and pragmatic plans and executing them every day, we've
+made tremendous progress:
+
+*	Through unprecedented investments and a renewed sense of
+urgency, we have sparked the creation or preservation of nearly 10,000
+units of affordable housing. And after our first full year of
+implementing Homeward DC, we saw a 22 percent reduction in family
+homelessness and a 10.5 percent reduction in overall homelessness. But
+until every Washingtonian has a safe and affordable place to live, we
+have more work to do.
+*	Our Safer, Stronger DC plan is working - since 2014, total crime
+is down 14 percent and violent crime is down 28 percent. But we won't be
+satisfied with any level of crime, so we have more work to do.
+*	After ten years of education reform, our public schools are not
+only serving more families, they continue to raise student achievement
+and expand opportunities for our young people both inside and outside
+the classroom. But until all students are performing at the highest
+levels and we have eliminated long-standing opportunity and achievement
+gaps, there is more work to do.=20
+
+*	And by connecting residents to jobs, health care, education, and
+housing, we are getting more Washingtonians on pathways to the middle
+class. But even as we reduce unemployment and continue adding new jobs,
+we know that stark disparities still exist in our community, so we have
+more work to do.=20
+
+Together, we will continue to build on our city's progress. Washington,
+DC has never experienced better days and our best days are yet to come.
+
+Sincerely,=20
+
+ Muriel
+Bowser<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+013/03/159474/165038/bowser-sig-better_original_crop.jpg>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+ Shelter
+Hotline<https://content.govdelivery.com/attachments/fancy_images/DCWASH/
+2018/01/1721926/1687276/shelterhotline_crop.png>=20
+
+Download and share the Shelter Hotline graphic on social media.=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+In This Week's Newsletter:
+
+
+*	Register Today: MLK Day of Service
+*	Now Open: My School DC=20
+*	Join Us at the DMPED Open House
+*	ICYMI: Christmas Tree Recycling
+*	A District Minute
+*	Pathways to the Middle Class: DC Homeland Security and Emergency
+Management Agency, Fusion Intelligence Analyst
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Register Today: MLK Day of Service
+
+
+ Weekend of
+Service<https://content.govdelivery.com/attachments/fancy_images/DCWASH/
+2018/01/1722640/1687277/screen-shot-2018-01-04-at-7-29-06-am_crop.png>=20
+
+Join Mayor Bowser, the Thursday Network, and Serve DC to help assemble
+and distribute care packages for residents experiencing homelessness.
+Residents have two opportunities to volunteer during the Martin Luther
+King Jr. Day of Service Weekend - Saturday, January 13 and Monday,
+January 15 (MLK Day).=20
+
+Dr. King once said, =E2=80=9CEverybody can be great because everybody can
+serve." This MLK Day, be great and show your #DCValues by volunteering
+to help District residents in need. =20
+
+Register HERE
+<https://www.eventbrite.com/e/thursday-network-and-serve-dcs-mlk-day-bla
+nket-toiletries-drive-registration-40990776516> .
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Now Open: My School DC=20
+
+
+ My School
+DC<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2018/
+01/1721895/1687278/myschooldc_crop.png>=20
+
+=20
+
+The My School DC lottery application for school year 2018-2019 is now
+open. My School DC is the city=E2=80=99s common application and public school
+lottery for DC Public Schools (DCPS) and the majority of public charter
+schools (grades PK3-12).=20
+
+Families must use the My School DC lottery application to apply to:
+
+*	DCPS PK3 / PK4 programs (including programs at in-boundary DCPS
+schools);=20
+*	DCPS citywide and out-of-boundary schools (PK3-12);
+*	DCPS selective high schools (9-12); and=20
+*	all participating public charter schools (PK3-12)
+
+The application deadlines are February 1, 2018 for grades 9-12 and March
+1, 2018 for grades PK3-8.=20
+
+Have questions or need help with your application? Call the My School DC
+hotline at (202) 888-6336, Monday through Friday from 8:00 a.m. to 5:00
+p.m. or visit the My School DC team at CentroN=C3=ADa (1420 Columbia Road,
+NW) on Wednesdays from 3:00 p.m. to 6:00 p.m.=20
+
+For more information and to apply, go to www.myschooldc.org
+<http://www.myschooldc.org> .
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Join Us at the DMPED Open House
+
+
+ Open
+House<https://content.govdelivery.com/attachments/fancy_images/DCWASH/20
+18/01/1721837/1687279/dmped-open-house_crop.png>=20
+
+=20
+
+The District's Economic Development cluster has 14 different agencies
+that oversee a range of areas, including arts, business, transportation,
+regulations, and the environment. On January 11, Deputy Mayor Brian
+Kenner is bringing all of the agencies together for a cluster-wide Open
+House at the Convention Center. The event will provide residents with
+the opportunity to meet agency leadership and learn about the many
+programs and services the cluster offers.=20
+
+Find more information and RSVP HERE
+<https://www.eventbrite.com/e/dc-economic-development-cluster-open-house
+-2018-tickets-41435343227> .=20
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+ICYMI: Christmas Tree Recycling
+
+
+ Tree
+Recycling<https://content.govdelivery.com/attachments/fancy_images/DCWAS
+H/2017/12/1715821/1680690/treerecycling_crop.png>=20
+
+=20
+
+The District offers two environmentally-friendly ways for residents to
+recycle Christmas trees and greenery. Between January 13 and February 2,
+residents can put their trees and greenery out with trash and recycling,
+to be collected on regularly scheduled recycling days
+<https://dpw.dc.gov/service/find-your-trash-and-recycling-collection-sch
+edule>  during this period. This collection service is only available to
+residents who are serviced by the Department of Public Works. (Note: In
+years past, residents could place their trees in the tree box space,
+adjacent to the curb. This is not the case this year, unless that is
+where recycling is normally collected.)
+
+Residents can also bring their trees and greenery to either of the
+District=E2=80=99s transfer stations - the Fort Totten Transfer Station (4900
+John F. McCormack Drive, NE) or the Benning Road Transfer Station (3200
+Benning Road, NE).
+
+Before disposing of a tree or greenery, all ornaments and lights should
+be removed. Residents are also asked not to bag their trees or greenery.
+Learn more HERE
+<https://dpw.dc.gov/release/how-recycle-your-christmas-tree-dc> .
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+A District Minute
+
+
+district minute video
+<https://www.youtube.com/watch?v=3D06wh3HjM8W8&feature=3Dyoutu.be>=20
+
+=20
+
+This week=E2=80=99s District Minute
+<https://www.youtube.com/watch?v=3D06wh3HjM8W8&feature=3Dyoutu.be>  features
+stories about Mayor Bowser's public safety announcement
+<https://mayor.dc.gov/release/mayor-bowser-and-mpd-chief-newsham-announc
+e-closure-multiple-homicide-cases> , the Fourth Annual Fit DC Fresh
+Start 5K Run/Walk
+<https://mayor.dc.gov/release/mayor-bowser-hosts-4th-annual-fit-dc-fresh
+-start-5k-runwalk> , and the Administration=E2=80=99s multiagency approach
+<https://mayor.dc.gov/release/mayor-bowser-highlights-2017-year-end-crim
+e-reductions-and-lauds-turnaround-department>  to achieving building a
+safer, stronger DC.=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+Pathways to the Middle Class: DC Homeland Security and Emergency
+Management Agency, Fusion Intelligence Analyst
+
+
+ Job
+Search<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/12/1683793/1648740/job-posting_crop.png>=20
+
+The mission of the DC Homeland Security and Emergency Management Agency
+(DC HSEMA) is to support and coordinate homeland security and emergency
+management efforts, ensuring that Washington, DC is prepared to protect
+against, plan for, respond to, and recover from natural and human-made
+hazards.
+
+The Fusion Intelligence Analyst provides intelligence support and
+disseminates information to members of local and federal homeland
+security agencies throughout Washington, DC, the National Capital
+Region, and the United States. All details regarding this vacancy,
+including qualifications, can be found by visiting the job announcement
+<https://careers.dc.gov/psp/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_
+SEARCH_FL.GBL?Page=3DHRS_APP_JBPST_FL&Action=3DU&FOCUS=3DApplicant&SiteId=3D1=
+&Jo
+bOpeningId=3D2240&PostingSeq=3D1> .=20
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/02/1
+0564/modern-green-footer-shadow_original.jpg?1308456094>=20
+
+Mayor Muriel Bowser
+
+John A. Wilson Building | 1350 Pennsylvania Avenue, NW | Washington DC,
+20004=20
+
+(202) 727-2643
+
+muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>  | mayor.dc.gov
+<http://mayor.dc.gov>  | @mayorbowser
+
+________________________________
+
+DC Flag <http://dc.gov>=20
+
+STAY CONNECTED:
+
+Visit us on Facebook <https://www.facebook.com/MayorMurielBowser>=20
+
+Visit us on Twitter <https://twitter.com/MayorBowser>=20
+
+Instagram Logo <https://www.instagram.com/mayor_bowser/>=20
+
+ Visit us on YouTube
+<https://www.youtube.com/channel/UCMPbW-rxSm1ke9PkqDZWO3g> =20
+
+ Sign up for email updates
+<https://public.govdelivery.com/accounts/DCWASH/subscriber/new> =20
+
+=09
+Questions? Contact Us
+<http://dc.gov/page/feedback-complaints-and-appeals>=20
+
+SUBSCRIBER SERVICES:=20
+
+We are Washington DC <http://dc.gov> =20
+
+=20
+
+=20
+
+|  Help <https://subscriberhelp.govdelivery.com/>=20
+
+=20
+
+=20
+
+=20
+
+=20
+

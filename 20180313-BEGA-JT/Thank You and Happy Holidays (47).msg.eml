@@ -1,0 +1,170 @@
+Received: from CWM-EX-HS-23.dcgov.priv (10.82.51.38) by
+ CWM-EX-HS-11.dcgov.priv (10.86.51.34) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Fri, 22 Dec 2017 10:30:28 -0500
+Received: from gcc01-dm2-obe.outbound.protection.outlook.com (164.82.9.71) by
+ CWM-EX-HS-23.dcgov.priv (10.82.51.38) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5 via Frontend Transport; Fri, 22 Dec 2017 10:30:28 -0500
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) by
+ SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.323.15; Fri, 22 Dec 2017 15:30:26 +0000
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) by
+ SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) with mapi id
+ 15.20.0323.018; Fri, 22 Dec 2017 15:30:26 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: Thank You and Happy Holidays
+Thread-Topic: Thank You and Happy Holidays
+Thread-Index: AdN7Mtc8qhWLgfI/Q++gXtHLVh3X+gABlPUwAAAEO+A=
+Date: Fri, 22 Dec 2017 15:30:26 +0000
+Message-ID: <SN1PR09MB11047863F28E88941AF1AE10F5020@SN1PR09MB1104.namprd09.prod.outlook.com>
+References: <DM2PR09MB0697DFF80EB55199B41A42D1A9020@DM2PR09MB0697.namprd09.prod.outlook.com>
+ <BN6PR09MB12012A49D89348F7D1E4A916EB020@BN6PR09MB1201.namprd09.prod.outlook.com>
+In-Reply-To: <BN6PR09MB12012A49D89348F7D1E4A916EB020@BN6PR09MB1201.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: dc.gov; dkim=none (message not signed)
+ header.d=none;dc.gov; dmarc=none action=none header.from=dc.gov;
+x-originating-ip: [164.82.32.13]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1PR09MB1104;5:exljUQTdk1xrUUc5jOAxzvGHtc84FIkt6kIVQcxppvTWgiOj34p/29Pi/eIs5mdiSrtoFYctdvsoE91jgrB/kDBIYv5Ne+DpGiszkq2hG+6+aaDE+oFEkb6UJlQuzD865VcDbkbOG195e4l+Zu/iyNySUqC/hPjYGAPV6/2pmsY=;24:5+YcthmcdV9roZkRC97H6BO9ma0Nj/NTI4mJly/JAdDMl9sbamlezJioMDt8nbiItgpOmfwXCT/ThxLEjQQ3JlnxKTj8p7JCSxaoweuQ1SA=;7:o154pK9SHmcIgAkWnhzdt12oFwcDYYT5GPQvPNdrwbLwIScgizeJI9bDaokeetUB8EDnItcfoqphy2mLla1p3i0syny9aBtjv9WGOCLQc6qRaoMhEG+ZIaxymUeckLfMdDXMobVLbH/cOeCzv7JkIPsnj3NNH8mD3YGu4Sf32QuIVORGtfFbN9a4KGPpgnNttMBNito/SWQcqd20Mn9/OnMIyVZUsmR+OzPjxiK12YLLW80cVffWh+z/BWObM5f4;20:5TzU9zz9JE7ephW4oXzfF1ZPIviou3/nFtkUyyVZ7CHqvCHtbsfags1IoXgbhsFiRZegKkcdoohT0doTb/RIoQGr6HzFWkpoPR4QtMjBYMDSykGpUaclK6gBP/jSGcVUhDEu4eR4Yp7wj4PYy98To5r0nL1JfZjueXYG0CJjQwE=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN1PR09MB1104;H:SN1PR09MB1104.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 16c84e84-ff64-4cb0-8f98-08d54950eccf
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4604075)(3008031)(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603307)(7153060)(49563074);SRVR:SN1PR09MB1104;
+x-ms-traffictypediagnostic: SN1PR09MB1104:
+x-exchange-antispam-report-test: UriScan:(21748063052155)(140756675033571);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415395)(9101524173)(2401047)(8121501046)(93006095)(93001095)(10201501046)(3002001)(3231023)(201708071742011);SRVR:SN1PR09MB1104;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN1PR09MB1104;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ 16c84e84-ff64-4cb0-8f98-08d54950eccf
+X-MS-Exchange-CrossTenant-originalarrivaltime: 22 Dec 2017 15:30:26.0467 (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR09MB1104
+X-OrganizationHeadersPreserved: SN1PR09MB1104.namprd09.prod.outlook.com
+Return-Path: Mayor.Bowser@dc.gov
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SN1PR09MB1104.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-antispam-report: SFV:SKI;SCL:-1;
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-CrossPremisesHeadersPromoted: CWM-EX-HS-23.dcgov.priv
+X-CrossPremisesHeadersFiltered: CWM-EX-HS-23.dcgov.priv
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-Organization-Network-Message-Id:
+ 1fab9ce9-0e0b-4b14-0d94-08d54950edfd
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+BCC: <AllPersonnel.ExcludingDCCouncil@dc.gov>
+Content-Type: multipart/mixed; boundary="===============4089098199956037136=="
+
+--===============4089098199956037136==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Colleagues,=20
+
+=20
+
+As we prepare to welcome a new year, I want to thank all of you =E2=80=93 the
+dedicated employees of DC Government =E2=80=93 for your service and commitment
+to the residents of Washington, DC throughout 2017. Because of you, we
+are getting more Washingtonians the support and resources they need to
+thrive, reaching more students, connecting residents to 21st century
+jobs, building safer, stronger neighborhoods, and helping small and
+local businesses open and grow in every corner of our city. We are
+taking care of the basics =E2=80=93 filling potholes, picking up trash on tim=
+e,
+and repairing hundreds of alleys across all eight wards =E2=80=93 while
+promoting and defending the values that make Washington, DC the greatest
+city in the world.
+
+=20
+
+Our community relies on you to do your job and do it well, and your
+efforts this year have not gone unnoticed. When I am out in the
+community, residents are eager to share stories of DMV employees who
+make a pleasant experience out of a routine task, social workers who go
+above and beyond, and 311 operators who show real concern about local
+issues.
+
+=20
+
+Your work shapes the way residents and visitors experience our city, and
+you have helped raise pride in Washington, DC to an all-time high.
+
+=20
+
+Wishing you and your family a safe and happy holiday,
+
+=20
+
+https://admin.govdelivery.com/attachments/fancy_images/DCWASH/2013/03/15
+9474/bowser-sig-better_original.jpg
+
+Mayor Muriel Bowser
+
+=20
+
+
+--===============4089098199956037136==
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="image001.jpg"
+MIME-Version: 1.0
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMgIw==
+IigtOTAoKjYrIiMyRDI2Oz1AQEAmMEZLRT5KOT9APf/AAAsIAFwAtAEBEQD/xAAfAAABBQEBAQEBAQ==
+AAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicQ==
+FDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZQ==
+ZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0g==
+09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/aAAgBAQAAPwD2Xv0paKSlpMj1ozmlopMijNYOtw==
+410Lw8CupajCso/5ZIdz/wDfIrDX4mi5w+n+G9cuoieJFt8A/SrCfEm0jOdT0nWdOQdZJ7Q7F+pGaw==
+p9P1Oz1O2FxY3UVxC38cbAj/AOtVuloooooooooopDXnN147vLf4vRaBlP7PZRGVxzvK7s5r0YUtIQ==
+6VXubmGytZbi5lWKGJSzu5wFA65Nedtrmv8AxDupbbw0zaZoaNsk1Fwd83qEFdHoHw80HQdskdoLqw==
+vOWubn53J9eeldQFwMDgD0pCNwIIGO+a5rUPCca3LahoEn9mal6oP3U/tInQj3HNXPDuvf2zDPFcQA==
+bbUbR/KurdjyjdiPVT1BrcoooooooooopD0rwTV3A+KV3qmPmttXt4wc9jkEfpXvYpaQnjmvM/Es0w==
+eOfGieFbWR00myxNqUiHG89Qmf8AP6V6HZ2dvp9pHa2sSxW8ShURBgKBVmlpMUh/CuP1ll0z4kaHcQ==
+GNv9pRSWk5/vbRuT8c5rsqKKKKKKKKKKQ14Jq7hfFmqKnX/hILcjP45r3sUtZ+r340zRb2+fpbwvJw==
+5CvLfA3i3SfCGkJ/bq3MV9qpN68/lllZSSF5H0P512lt8T/CVy4CaxCn/XRSv863bLWtN1JAbG/tZw==
+B/55yhv61od6Wkrhddf+0fix4eso+fsMEt3L7AjaK7uiiiiiiikPTmsuTXdKg1RdMlvoEvZACsLOAw==
+EHpj8q1MgCjINeCNC+pfGybT1H7s6ks759EGa967c+tRtJGmN7ou44GT1Ncv8TpGi+HusFDyYgPwJA==
+A1f8NWFs3hHSIZYYpVW0jA3oG/hHrXES6Np1t8bfstxYW01rqNjvETxgqrDuBjH8NdBq3w68HJBLew==
+cWcenqg3NPDKYtnvxxWb8MNXvdRudVgjnuLzRLZwtndXQ/eN6rnuK9GJ/wD11na1rFnoOlzajfyBIA==
+hXJz/EewA7k1y3w90+6u57/xTqsZju9VYeTG3WKAfdHtn/Cu6JFYmp+LtB0e5+z6jqltBMR/q2f5hw==
+1rTtLu3v7ZLizmjmgkGVkjYFSPY1ZyBijIozmlpM0mc+1eQ/ErRre18XjVdRUixvrNoFuef9FnUZRg==
+46cgfrXfeB9Sm1jwZpl5dbmmkhAkY/xEcbvxxmruua5Y+HdMkvtTmWOGMcDPLHsAO5ryL4e+INJuvg==
+IWp6trEi2l9dtttInU4G4+vrjH517gOnSuc8VeErbxV9hNxczW72c4kVoj19V/SmfES2N14A1mPrtg==
+3LjP+zz/AEq34On+0+DdHl7taRnj/dFef/FPVbvw9460HVrK086ZIXVA2cOTxjjuM1zS6le6/dfafA==
+dR67Laocpa2tsVj/ABNeoeF/GnhW8jg03SZY7N0GI7WVDEfoM8E1a8T+OtF8LQk3lwJbn+C2hO5yfw==
+pXOad4e1nxvqkGs+LkW10uH95a6aG4J7M9dF4g1jVo7q30vw5YpLdTJva4mH7iBOnJHU+wrC1LXvFg==
++FbOWfxAlnd2DoUN1ZIQ1u54BZT1GayPhLpmgavol1qF9FDeaoJWNy90A5QdQQD0GO9W9H8U3Et3ew==
+a+APDCzWCTFnnkl8uJn77R0H4Vqj4mWtlouo3Gr2v2a9sJBE8CSCRZJCMgK44Pv6Vi6X8RvEkevaTQ==
+vrml2sNpqxHkpGcSIpPDEZ/mK9VHXpTq5bxi3iK3tre88Oskv2Zt9xaMuWuE9Aex46VNoXjDRtfthA==
+tvdxxSjiS2mYJJE3cEHmuY8f+JrbWoR4U0Lyr/UL5xHJtG9IEzyxPTIqW18EeJ9As1tfDvigC2AGIQ==
+uoQ+z12n09qn0/4cSXepx6j4t1aXWJ4mDRwkbYUP+73rmrbw9Br9p493WytPHdsbZ1UbkZASAvp0rA==
+vRh478W6ONatL2SIaYixW8C5X7QVxnjucetdcnxk0qPS1+0Wl2NXHyNYiIhi/wBfT9azrrx7rSWN7Q==
+t4s8PXNtZ6hCy2728e4oGGMNWL4N8ReM9Q0yy0zwvZxLb6cpWWWcfLI2c4JPTgjgc0/xhqPjBdY8Pw==
+c61pNnDJb3X+jeXINsrnHBOeBxXWNf8AxOvCRHpek2anoZJNxH5GuZ8a+FdZbRJdS8WeIbCOWAF7eA==
+IYQpZ+wDcGuLt9P0f+xtI1a+ladGuJI9RVJgZV/uEDr6813el+JTN8F7+KXU4Y7pBJDAZZf3jR54GA==
+65xxWd4e8erofwpmtjfF9VkkeOzjQ7njBxyfQDJroYvG+nj4RtJqmpxX1/LavE0TEb2dsgAj2yPyrg==
+O1DTf+EX8G6LqFncvZ67dwNHNaqCTcRMTyR2wMVr/D3T9d8T+GI9OtNTi0zR4HZZvs3NxKScnJ7Dng==
+tR/FW00jw54f0rQ9LZBLFOZ5I2O6Rsj7zn3rq/AXhC5mu18U+JJFudUmUeQikFIExgYA4zj8q9F5FA==
+uaCM1z+r+B/D+u3Bn1LS4ZJ+8q5Vm+pGM1Y0bwto3h5T/ZWnw2xYYZ1GWI+p5rYAHaiuD+HfGteLlA==
+jpqjcfUV26RJCgSNFVQScKMCoH0+zkuVupLSBrkD5ZDGCw/GrbKCvIB+tcDpTnwv8Tb/AEtzsstaXw==
+tdt2AlH31Huf8K1fHPhD/hMdLt7Rbn7NJDOJVl2546Ef59KzW8G+LR+7j8bTCDG3DWq7gPrml0/4Uw==
+pcdwl3rV1eaxcqc5uZCUz/u//Xq5ffDPwrqN411NpSiRjkrG5RT+A4/KkT4W+EkuRP8A2Qm4chS7FQ==
+/LNaNr4K8PWOpG/t9ItY7nswXIH0HQVUHw18LjVf7Q/smLzt2/aWOzPrt6Vi+J9D1fTfG8XijS9Ojw==
+Vo1tvIa1ZsNF7p+H865vwz8NtduIr3VEvZ/D15cTHy4U5HlnnBA6deK6G1+DmjPZSLq91d399MweSw==
+ottYY7DOeKG+EQs8/wBieItTsE7IH3KP5U6L4e+JBdW7y+Nr144nB27CMgfjzXoi8KATk+vrTqKKKQ==
+K4TwN+68Z+MoOQ32xJPwIruwc0tIehrnfF/hoeJNLCQy+RqNs4ms5x1jccj8D3qt4P8AFJ1uCSw1FA==
+Ntrdl+7u7c8En++vsetdWCAKMijIopaKKKKKKKKKKKQ9K8+0p2sPjRrNsSAuoWUc6+5Xj/GvQRS0Ug==
+EZrl/E3hFdZuI9S024aw1q1GIbpBw4/uuO4qhpfjmWzuU0zxjajSr48JOebef3VugPsa6557eO2a4Q==
+5EEKAszlhtA+tSRyLKgdDuVhkMOmKlpaKKKKKKKKKKKQ9DXB6jY3ifGPSr6K1ka1ayaKWcLlR1PJ/A==
+vzrvBzS0UlHTvVS+0611S1e2v7eO4gYcpIoINcpJ8LdFfMUNzqkFm5+a0jum8pgOoIPY12MUKRRLHA==
+YxGgCqB2AqUd+aWiiiiiiiiiiikowKKWiiikooxS0UUUUUUUV//Z
+
+--===============4089098199956037136==--

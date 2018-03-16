@@ -1,0 +1,385 @@
+Received: from cwm-exia-102.dcgov.priv (10.86.51.42) by
+ cwm-exmr-201.dcgov.priv (10.82.51.11) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Fri, 24 Nov 2017 12:23:11 -0500
+Received: from CWM-EX-HS-22.dcgov.priv (10.82.51.37) by
+ CWM-EXIA-102.dcgov.priv (10.86.51.42) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5; Fri, 24 Nov 2017 12:23:11 -0500
+Received: from gcc01-dm2-obe.outbound.protection.outlook.com (164.82.9.71) by
+ CWM-EX-HS-22.dcgov.priv (10.82.51.37) with Microsoft SMTP Server (TLS) id
+ 15.0.1263.5 via Frontend Transport; Fri, 24 Nov 2017 12:23:11 -0500
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com (10.166.68.146) by
+ SN1PR09MB1102.namprd09.prod.outlook.com (10.166.68.144) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.260.4; Fri, 24 Nov 2017 17:23:10 +0000
+Received: from SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) by
+ SN1PR09MB1104.namprd09.prod.outlook.com ([10.166.68.146]) with mapi id
+ 15.20.0260.006; Fri, 24 Nov 2017 17:23:09 +0000
+From: Mayor Bowser <Mayor.Bowser@dc.gov>
+To: Mayor Bowser <Mayor.Bowser@dc.gov>
+Subject: #ShopSmallDC
+Thread-Topic: #ShopSmallDC
+Thread-Index: AQHTZUjmyPGAuD5UhU6a/lzZ5/Oy4w==
+Date: Fri, 24 Nov 2017 17:23:09 +0000
+Message-ID: <SN1PR09MB110481ADDD34112BF293CF56F5260@SN1PR09MB1104.namprd09.prod.outlook.com>
+References: <5a18347fddbb5_88f81f4dfac62754@prod-evo-admin8.ep.gdi.mail>,<BN6PR09MB1201755BB282DC2D4FBA8284EB260@BN6PR09MB1201.namprd09.prod.outlook.com>
+In-Reply-To: <BN6PR09MB1201755BB282DC2D4FBA8284EB260@BN6PR09MB1201.namprd09.prod.outlook.com>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [73.134.141.84]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1PR09MB1102;20:Ps36feEuzjsnjDjaE0hoSm7FZ7/vSEqU0tlZrPXDbaMsCUIfLK/P/qTYzWqe2sUICstnk47CaBb0e1ApKka3Afh6QJXDx/X7le5wanAGHlmZEbtGqB3tjVpVB+5eUhdYuAG1XvMszc5tPsVoW2iG8zAwF/a0jONrcIXk9Q4j6+c=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;SSOR;
+x-forefront-antispam-report: SFV:SKI;SCL:-1;SFV:SKI;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:SN1PR09MB1102;H:SN1PR09MB1104.namprd09.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(4534020)(4602075)(4627115)(201703031133081)(201702281549075)(2017052603199);SRVR:SN1PR09MB1102;
+x-ms-traffictypediagnostic: SN1PR09MB1102:
+x-ms-office365-filtering-correlation-id: 4fa651a1-1892-4e15-b6d6-08d5336008b2
+x-exchange-antispam-report-test: UriScan:(148322886591682)(277860510277777)(28212336023702)(31418570063057)(280730625643796)(160423301992630)(183562729782952)(227993202845146)(57480815675085)(254730959083279);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(9101524173)(2401047)(8121501046)(10201501046)(3231022)(93006095)(93001095)(3002001)(201708071742011);SRVR:SN1PR09MB1102;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN1PR09MB1102;
+spamdiagnosticoutput: 1:0
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+ 4fa651a1-1892-4e15-b6d6-08d5336008b2
+X-MS-Exchange-CrossTenant-originalarrivaltime: 24 Nov 2017 17:23:09.6412 (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR09MB1102
+X-OrganizationHeadersPreserved: SN1PR09MB1102.namprd09.prod.outlook.com
+Return-Path: Mayor.Bowser@dc.gov
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: SN1PR09MB1104.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-antispam-report: SFV:SKI;SCL:-1;
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-CrossPremisesHeadersPromoted: CWM-EX-HS-22.dcgov.priv
+X-CrossPremisesHeadersFiltered: CWM-EX-HS-22.dcgov.priv
+X-MS-Exchange-Organization-Network-Message-Id:
+ 815d3bb4-9af4-4edb-9eb0-08d5336009f0
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+BCC: <all.personnel@dc.gov>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+________________________________
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2358/green-header-hr_original.gif?1308456195>=20
+
+ Newsletter
+Banner<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+017/03/1252064/1249919/mmb-newsletter-banner-march-2017-01_crop.jpg>=20
+
+@TeamMuriel  <https://twitter.com/MayorBowser>=20
+
+	=20
+
+=20
+
+Muriel Bowser Ward 4 <https://www.facebook.com/MayorMurielBowser>=20
+
+	=20
+
+=20
+
+Instagram  <https://www.instagram.com/mayor_bowser/>=20
+
+	=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+John A. Wilson Building
+
+
+1350 Pennsylvania Avenue, NW, Washington, DC 20004
+
+
+Phone: (202) 727-2643
+Email: muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>=20
+
+=20
+Chief of Staff:
+John Falcicchio <mailto:john.falcicchio@dc.gov>=20
+
+City Administrator:
+Rashad Young <mailto:rashad.young@dc.gov>=20
+
+Director of the Mayor's Office of Legal Counsel:
+Mark Tuohey
+
+Senior Advisor:
+Beverly Perry
+<mailto:beverly.perry@dc.gov> =20
+Director of Mayor's Office of Community Affairs:
+Charon Hines <mailto:Charon.Hines@dc.gov>=20
+
+Director of Mayor's Office of Community Relations and Services:
+Tommie Jones <mailto:tommie.jones@dc.gov>=20
+<mailto:gregoryn.jackson@dc.gov> =20
+Scheduling Requests:
+mayor.dc.gov/page/invite-mayor <http://mayor.dc.gov/page/invite-mayor>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2370/a-white-dotted-line_original.gif?1308456206>=20
+
+
+November 24, 2017 | Vol. 3, Issue 47
+
+
+Letter from the Mayor
+
+
+Dear Washingtonians,
+
+In recent years, local creatives, makers, and entrepreneurs across all
+eight wards have helped bring District-made retail back to Washington,
+DC. Our small and local businesses continue to drive economic
+development, employ DC residents, and invest in our communities.Today,
+people are happy and proud to shop in Washington, DC.=20
+
+When Washingtonians share their talents and creativity with our city, we
+want to do all we can to support them. Last month, we celebrated the
+opening of Shop Made in DC <http://shopmadeindc.com/> , a new brick and
+mortar store and caf=C3=A9 stocked exclusively with DC brands and concepts.
+Tomorrow, I will celebrate Small Business Saturday on Minnesota Avenue,
+DC's newest Main Streets designee. And next week, the Council and I will
+host a variety of District-based entrepreneurs at the Wilson Building
+for a pop-up Made in DC: Holiday Bazaar
+<https://www.eventbrite.com/e/mayor-bowser-hosts-john-a-wilson-building-
+holiday-bazaar-tickets-40111761358> .
+
+Small businesses are the backbone of our economy - the reason our
+private sector job growth continues to outpace public sector growth. It
+is my great pleasure to celebrate our local makers. Tomorrow, next week,
+and throughout the year, I hope you will join me in supporting the local
+entrepreneurs, risk-takers, and go-getters who support our city.
+
+Sincerely,=20
+
+ Muriel
+Bowser<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2
+013/03/159474/165038/bowser-sig-better_original_crop.jpg>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+Shop Small Video <https://www.youtube.com/watch?v=3DWA7esRwjHvg>=20
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+ICYMI: In the spirit of giving thanks, it is once again time to
+recognize the people who provide outstanding public service in our
+community. Nominate an outstanding DC Government employee or an
+innovative team for the 17th Annual Morris & Gwendolyn Cafritz
+Foundation Awards. The nomination deadline is November 30, 2017. Visit
+cafritzawards.org <http://www.cafritzawards.org/>  to learn more.
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/03/1
+2307/new-main-hr_original.gif?1308456128>=20
+
+
+In This Week's Newsletter:
+
+
+*	Home for the Holidays
+*	Mayor Bowser & Born This Way Foundation Join the Joyful Food
+Market at Hendley Elementary
+*	Join Mayor Bowser at the Fit DC Fresh Start 5K Run/Walk
+*	A District Minute
+*	Pathways to the Middle Class: Department of Employment Services,
+Workforce Development Specialist
+
+
+Home for the Holidays
+
+
+ Lease
+Up<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2017/
+11/1659089/1626397/leaseup_crop.png>=20
+
+=20
+
+On Monday, Mayor Bowser launched Home for the Holidays
+<https://mayor.dc.gov/release/mayor-bowser-launches-campaign-move-400-fa
+milies-and-individuals-permanent-housing-during> , a citywide campaign
+to place 400 of the District=E2=80=99s most vulnerable households into perman=
+ent
+housing during the holiday season. The Mayor made the announcement at
+the 72nd lease-agreement signing of the campaign, standing alongside a
+District resident as she signed the lease for her family=E2=80=99s new home.
+
+In addition to working with landlords throughout the city to move
+families and individuals into permanent housing, the Administration has
+also called on residents to donate housewares and other items to help
+furnish the new housing. Donations of new or gently used kitchenware,
+toys, housewares, and professional clothing will be collected from the
+community and disseminated throughout the campaign. Residents can drop
+off donations at the Adams Place Day Center (2210 Adams Place, NE) or
+email homefortheholidays@dc.gov <mailto:homefortheholidays@dc.gov>  for
+more information.
+
+Back to Top
+
+
+Mayor Bowser & Born This Way Foundation Join the Joyful Food Market at
+Hendley Elementary
+
+
+ Joyful
+Food<https://content.govdelivery.com/attachments/fancy_images/DCWASH/201
+7/11/1659362/1626398/joyful-food_crop.png>=20
+
+=20
+
+Last week, Mayor Bowser and Born This Way Foundation
+<https://mayor.dc.gov/release/mayor-bowser-and-born-way-foundation-join-
+students-families-and-volunteers-hendley> joined Martha=E2=80=99s Table
+<https://mayor.dc.gov/release/mayor-bowser-and-born-way-foundation-join-
+students-families-and-volunteers-hendley>  at the Joyful Food Markets
+program at Hendley Elementary School to assist with loading and
+distributing bags of groceries for students and families. Throughout the
+year, the Joyful Food Markets program hosts pop-up grocery stores at
+elementary schools and other locations to bring healthy, non-perishable
+groceries and fresh produce to families in Wards 7 and 8. Martha=E2=80=99s Ta=
+ble
+launched the program in 2015, in partnership with the Capital Area Food
+Bank, to increase access to and encourage consumption of fresh fruits
+and vegetables east of the Anacostia River.=20
+
+Born This Way Foundation was launched by Lady Gaga and her mother
+Cynthia Germanotta in 2012 with the goal of creating a kinder and braver
+world. The foundation works to connect young people to the services they
+need to thrive and provide them with opportunities, resources, and
+platforms to have their voices heard.=20
+
+Learn more about supporting Martha's Table HERE
+<https://t.co/FJvnn6mnx8> .=20
+
+Back to Top
+
+
+Join Mayor Bowser at the Fit DC Fresh Start 5K Run/Walk
+
+
+=20
+5K<https://content.govdelivery.com/attachments/fancy_images/DCWASH/2017/
+11/1653431/1618586/fresh-start-5k-eventbrite-header-02-6_crop.png>=20
+
+Take a step toward better health in the New Year! On January 1, 2018,
+join us at Mayor Bowser's 4th Annual Fit DC Fresh Start 5K Walk/Run.
+
+Register HERE
+<https://www.eventbrite.com/e/mayor-muriel-bowsers-fit-dc-fresh-start-5k
+-tickets-39963038524> .
+
+
+A District Minute
+
+
+district minute video
+<https://www.youtube.com/watch?v=3DdyeFjGfF8u4&feature=3Dyoutu.be>=20
+
+
+
+
+
+This week=E2=80=99s District Minute
+<https://www.youtube.com/watch?v=3DdyeFjGfF8u4&feature=3Dyoutu.be>  features
+stories about the Archer Park ribbon-cutting, Washington, DC's
+Age-Friendly recognition, the Home for the Holidays campaign, and the
+Mayor's volunteer efforts with Born This Way Foundation and Martha's
+Table.=20
+
+
+Pathways to the Middle Class: Department of Employment Services,
+Workforce Development Specialist
+
+
+ Pathways to the Middle
+Class<https://content.govdelivery.com/attachments/fancy_images/DCWASH/20
+17/11/1640759/1605477/job-posting_crop.png>=20
+
+The Department of Employment Services (DOES) provides comprehensive
+employment services to ensure a competitive workforce, full employment,
+life-long learning, economic stability, and the highest quality of life
+for all District residents.
+
+DOES has an opening for a Workforce Development Specialist. This
+position is located in the American Job Center and will play a vital
+role in the delivery of services for residents receiving unemployment
+benefits. All details regarding this vacancy, including qualifications,
+can be found by visiting the job announcement
+<https://careers.dc.gov/psp/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_
+SEARCH_FL.GBL?Page=3DHRS_APP_JBPST_FL&Action=3DU&FOCUS=3DApplicant&SiteId=3D1=
+&Jo
+bOpeningId=3D1697&PostingSeq=3D1> . =20
+
+Back to Top
+
+=20
+<http://content.govdelivery.com/attachments/fancy_images/stock/2011/02/1
+0564/modern-green-footer-shadow_original.jpg?1308456094>=20
+
+Mayor Muriel Bowser
+
+John A. Wilson Building | 1350 Pennsylvania Avenue, NW | Washington DC,
+20004=20
+
+(202) 727-2643
+
+muriel.bowser@dc.gov <mailto:muriel.bowser@dc.gov>  | mayor.dc.gov
+<http://mayor.dc.gov>  | @mayorbowser
+
+________________________________
+
+DC Flag <http://dc.gov>=20
+
+STAY CONNECTED:
+
+Visit us on Facebook <https://www.facebook.com/MayorMurielBowser>=20
+
+Visit us on Twitter <https://twitter.com/MayorBowser>=20
+
+Instagram Logo <https://www.instagram.com/mayor_bowser/>=20
+
+ Visit us on YouTube
+<https://www.youtube.com/channel/UCMPbW-rxSm1ke9PkqDZWO3g> =20
+
+ Sign up for email updates
+<https://public.govdelivery.com/accounts/DCWASH/subscriber/new> =20
+
+=09
+Questions? Contact Us
+<http://dc.gov/page/feedback-complaints-and-appeals>=20
+
+SUBSCRIBER SERVICES:=20
+
+We are Washington DC <http://dc.gov> =20
+
+=20
+
+=20
+
+  |  Help <https://subscriberhelp.govdelivery.com/>=20
+
+=20
+
+=20
+
+=20
+
+=20
+

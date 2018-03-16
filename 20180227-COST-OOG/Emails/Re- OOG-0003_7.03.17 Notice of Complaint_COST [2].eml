@@ -1,0 +1,447 @@
+Received: from mwhpr09cu001.internal.outlook.com by
+ BLUPR09MB0931.namprd09.prod.outlook.com with HTTP via
+ MWHPR09CA0021.NAMPRD09.PROD.OUTLOOK.COM; Thu, 2 Nov 2017 16:50:30 +0000
+Received: from BY1PR09MB0343.namprd09.prod.outlook.com
+ ([fe80::3dbc:8e00:89d:2918]) by BY1PR09MB0343.namprd09.prod.outlook.com
+ ([fe80::3dbc:8e00:89d:2918%14]) with mapi id 15.20.0178.015; Thu, 2 Nov 2017
+ 16:50:30 +0000
+From: "Adams, Eugene (OAH)" <eugene.adams@dc.gov>
+To: "Hughes, Traci (BEGA)" <traci.hughes@dc.gov>
+Subject: Re: OOG-0003_7.03.17 Notice of Complaint_COST 
+Thread-Topic: OOG-0003_7.03.17 Notice of Complaint_COST 
+Thread-Index: AQHS9b89Slcpqd6JokC1Za5BfBPzIaMAg04sgAAiTCGAAAN8xoAAB3g1gAAL8WiAAAzUD4ABEnm0gAAuF9E=
+Date: Thu, 2 Nov 2017 16:50:30 +0000
+Message-ID: <A81166BF-D169-4FA6-93DA-0690CEC364C4@dc.gov>
+References: <16B42E71-2953-472F-97F8-ADA68B1DF01E@dc.gov>,<BLUPR09MB093117370212E52DF7DDD560EA5F0@BLUPR09MB0931.namprd09.prod.outlook.com>,<E984F806-EF2A-4291-A6FC-5BA4960F41F9@dc.gov>,<BLUPR09MB0931F70521193138108368F0EA5F0@BLUPR09MB0931.namprd09.prod.outlook.com>,<08358023-FCA1-4655-8414-7FB6FCB378D5@dc.gov>,<BLUPR09MB0931569E72AD1EABE8F27A7BEA5F0@BLUPR09MB0931.namprd09.prod.outlook.com>,<FBF3B149-1175-4D3F-9FDC-A228E969EEFC@dc.gov>,<BLUPR09MB0931CE37A2E9F0A690FD1C54EA5C0@BLUPR09MB0931.namprd09.prod.outlook.com>
+In-Reply-To: <BLUPR09MB0931CE37A2E9F0A690FD1C54EA5C0@BLUPR09MB0931.namprd09.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <A81166BF-D169-4FA6-93DA-0690CEC364C4@dc.gov>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: BY1PR09MB0343.namprd09.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [2600:1003:b11a:86db:b8c6:d70a:b634:5313]
+X-MS-Exchange-Organization-Network-Message-Id: 065804ee-4cc1-466f-2f86-08d52211d3f5
+X-MS-PublicTrafficType: Email
+X-Microsoft-Exchange-Diagnostics: 1;BY1PR09MB0343;35:MNNh9cCQ6ZMEZXgWVYI7sSsitwb2Sa6ksUJJr8QUEtDoEQ/rdZrfJl5BRfHf+NwleEQU/WHPSF7Z4xZqE1rVrA==;20:+A8CVBDaOQcZkDqdYTMvXcCEdtjUhpVFSU9A1AV3N3gb/7EUphItJiWA4dVNwcoDtHMqsLM8hoWsQ0RsSn+hXEDuR/CQqs3OJEBmpj180Y/Zui9D6yLVDvyQYWGDVBx8sT3W+87QnrsLPTXerXoHNovqb8AvJqUDgzuTogi65G2VCdK66gyqcl36fOXFvYGrTMjfrhSRHeX+GbVJss9SRLlvVn5oW8gq1P7muwyD3GTaZzgZemwZ8ADbPs9tPqKzwrHQH8St/OZIQfo1POr8MhotLshq/4gbgfabv4Qmo5s/stBe8gWEMEvA3GjOREZCNVxQAC23gtzWnzDO656NNWI9F4m25xK9sYmC1RZz3lS+wDFTw8J8w8uWfPff1auvL4KwUxzofB2ZPFXAx+iJrHuXyXnH7J2Qr1anwpR8kmayBnVUgsICpjwH3ODv0Da+fmUfyYM/8tWcnWmuO209PlAKGmTIHSS8XLJwQzz5wpIoF6YINRD7+DDkkGWA70EG
+X-MS-Exchange-Antispam-SRFA-Diagnostics: SSOS;SSOR;
+X-MS-Exchange-Organization-Antispam-Report: SFV:SKI;SCL:-1;
+X-Forefront-Antispam-Report: SFV:SKI;SCL:-1;
+Return-Path: eugene.adams@dc.gov
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4747649
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.0178.015
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR09MB0931;9:V9hmiHIgZgSHWmsHy9G1AHTYYVvUqdvGQZ45zKHcS5QHw18TXKEf4rl2YSFD4ezTHVnwGOFcURo3IMd4/+ECvRwrM+z6Db8/0nCQTppr9VPxchk4y/hOej0TBIA2Djbg
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR09MB0931;27:hUWDcVd+xtcMlH7Y5zccMELTT7kfuaYnnFgNbX8+UHibELaXVe2St1k3+BfpPXK4KJNypahLfdvNYNRfnlNeAc6+Dyxz1QLdfLNF8Fzrksoiuhfky1f2U8kNV71lBmqH
+Content-type: multipart/alternative;
+	boundary="B_3602071444_2057483756"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3602071444_2057483756
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+So, the 30-day embargo we talked about is off the table?  I told you yester=
+day that we probably wouldn=E2=80=99t need 30 days to do what we wanted to do, but=
+ are you unilaterally withdrawing that offer?
+
+Eugene A. Adams=20
+Chief ALJ
+Office of Administrative Hearings
+202/442-5823
+
+On Nov 2, 2017, at 11:12 AM, Hughes, Traci (BEGA) <traci.hughes@dc.gov> wro=
+te:
+
+Good morning, Gene:
+
+
+
+I assure you that the complaints/issues raised are fully outlined in the op=
+inion. There are no other matters the OOG intends to address.  And, as I hav=
+e confirmed, the OAH may submit its reply to the opinion if it so chooses. T=
+he reply will be posted along  with the opinion.
+
+
+
+When we met on Monday, you asked that I give you time to find out whether t=
+here is documentation clearing the gaps in the COST member terms. Have you f=
+ound that information?  That missing documentation is the only information t=
+hat would change the analysis  in the opinion.=20
+
+
+
+Otherwise, there is no reason to further delay issuance. Please let me know=
+.
+
+
+
+Thanks,
+
+
+
+Traci
+
+From: Adams, Eugene (OAH)
+Sent: Wednesday, November 1, 2017 5:43 PM
+To: Hughes, Traci (BEGA)
+Subject: Re: OOG-0003_7.03.17 Notice of Complaint_COST=20
+=20
+So that leaves OAH in a situation where we can have no information about th=
+e second complaint that was the genesis of your broader inquiry?  I understa=
+nd why you might describe your notes as work product (although it=E2=80=99s questi=
+onable   whether  that privilege even applies in your capacity as the Direct=
+or, which is not an attorney position), but how are we then to know 1) wheth=
+er the complainant even provided all the information required by your regula=
+tions when making a complaint or 2) what the specifics  of the complaint wer=
+e?=20
+
+This seems inconsistent with the role and responsibilities of your agency a=
+s they apply to Open Government.=20
+
+Eugene A. Adams=20
+Chief ALJ
+Office of Administrative Hearings
+202/442-5823
+
+On Nov 1, 2017, at 5:03 PM, Hughes, Traci (BEGA) <traci.hughes@dc.gov> wrot=
+e:
+
+
+
+As much as I would like to help, the notes I took in relation to the second=
+ complaint are attorney work product. I cannot turn them over, even in redac=
+ted form.
+
+
+From: Adams, Eugene (OAH)
+Sent: Wednesday, November 1, 2017 4:14 PM
+To: Hughes, Traci (BEGA)
+Subject: Re: OOG-0003_7.03.17 Notice of Complaint_COST=20
+=20
+Do you or any one else have written notes that would memorialize the allega=
+tions made?  I=E2=80=99m assuming there is some written record of the allegations =
+made by the anonymous complainant?  If so, can we have a redacted version of=
+ those that we can treat as  the second complaint? =20
+
+Eugene A. Adams=20
+Chief ALJ
+Office of Administrative Hearings
+202/442-5823
+
+On Nov 1, 2017, at 3:48 PM, Hughes, Traci (BEGA) <traci.hughes@dc.gov> wrot=
+e:
+
+It was in person. There was no complaint form filled out for the second com=
+plaint.
+
+
+From: Adams, Eugene (OAH)
+Sent: Wednesday, November 1, 2017 3:35 PM
+To: Hughes, Traci (BEGA)
+Subject: Re: OOG-0003_7.03.17 Notice of Complaint_COST=20
+=20
+T=E2=80=94=20
+
+Since your inquiry was also triggered by the anonymous complainant that vis=
+ited you, can you also please send me that individual=E2=80=99s actual complaint (=
+redacted, of course)?  Thanks!
+
+Eugene A. Adams=20
+Chief ALJ
+Office of Administrative Hearings
+202/442-5823
+
+On Nov 1, 2017, at 1:34 PM, Hughes, Traci (BEGA) <traci.hughes@dc.gov> wrot=
+e:
+
+Hi Gene.
+
+
+
+As requested, attached is the notice of the complaint, and a copy of the co=
+mplaint OOG received in writing.
+
+
+
+Traci
+
+
+From: Hughes, Traci (BEGA)
+Sent: Wednesday, July 5, 2017 2:48 PM
+To: Adams, Eugene (OAH); Natale, Vanessa (OAH)
+Cc: Barton, Johnnie (BEGA)
+Subject: OOG-0003_7.03.17 Notice of Complaint_COST=20
+=20
+Dear Chief Judge Adams, and Ms. Natale --
+
+=20
+
+Please see the attached Notice of Complaint. As always, I remain available =
+to answer any questions you may have.
+
+=20
+
+Kind Regards,
+
+Traci
+
+=20
+
+<OOG-0003_7.03.17 Notice of Complaint_COST.pdf>
+<News Room oah.pdf>
+<Borbely_Redacted.pdf>
+
+
+--B_3602071444_2057483756
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body dir=3D"auto">
+So, the 30-day embargo we talked about is off the table? &nbsp;I told you y=
+esterday that we probably wouldn=E2=80=99t need 30 days to do what we wanted to do=
+, but are you unilaterally withdrawing that offer?<br>
+<br>
+<div id=3D"AppleMailSignature">Eugene A. Adams
+<div>Chief ALJ</div>
+<div>Office of Administrative Hearings</div>
+<div>202/442-5823</div>
+</div>
+<div><br>
+On Nov 2, 2017, at 11:12 AM, Hughes, Traci (BEGA) &lt;<a href=3D"mailto:traci=
+.hughes@dc.gov">traci.hughes@dc.gov</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+<div id=3D"divtagdefaultwrapper" style=3D"font-size: 12pt; color: rgb(0, 0, 128=
+); font-family: Cambria, Georgia, serif, Georgia, EmojiFont, &quot;Apple Col=
+or Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI S=
+ymbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;" dir=3D"ltr">
+<p>Good morning, Gene:</p>
+<p><br>
+</p>
+<p>I assure you that the complaints/issues raised are fully&nbsp;outlined i=
+n the opinion. There are no other matters the OOG intends to address. &nbsp;=
+And, as I have confirmed, the OAH may submit its reply to the opinion if it =
+so chooses. The reply will be posted along
+ with the opinion.</p>
+<p><br>
+</p>
+<p>When we met on Monday, you asked that I give you time to find out whethe=
+r there is documentation clearing the gaps in the COST member terms. Have yo=
+u found that information? &nbsp;That missing documentation is the only infor=
+mation that would change the analysis
+ in the opinion.&nbsp;</p>
+<p><br>
+</p>
+<p>Otherwise, there is no reason to further delay issuance. Please let me k=
+now.</p>
+<p><br>
+</p>
+<p>Thanks,</p>
+<p><br>
+</p>
+<p>Traci</p>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" style=3D"f=
+ont-size:11pt" color=3D"#000000"><b>From:</b> Adams, Eugene (OAH)<br>
+<b>Sent:</b> Wednesday, November 1, 2017 5:43 PM<br>
+<b>To:</b> Hughes, Traci (BEGA)<br>
+<b>Subject:</b> Re: OOG-0003_7.03.17 Notice of Complaint_COST </font>
+<div>&nbsp;</div>
+</div>
+<div dir=3D"auto">So that leaves OAH in a situation where we can have no info=
+rmation about the second complaint that was the genesis of your broader inqu=
+iry? &nbsp;I understand why you might describe your notes as work product (a=
+lthough it=E2=80=99s questionable &nbsp; whether
+ that privilege even applies in your capacity as the Director, which is not=
+ an attorney position), but how are we then to know 1) whether the complaina=
+nt even provided all the information required by your regulations when makin=
+g a complaint or 2) what the specifics
+ of the complaint were?&nbsp;
+<div><br>
+</div>
+<div>This seems inconsistent with the role and responsibilities of your age=
+ncy as they apply to Open Government.&nbsp;<br>
+<br>
+<div id=3D"x_AppleMailSignature">Eugene A. Adams
+<div>Chief ALJ</div>
+<div>Office of Administrative Hearings</div>
+<div>202/442-5823</div>
+</div>
+<div><br>
+On Nov 1, 2017, at 5:03 PM, Hughes, Traci (BEGA) &lt;<a href=3D"mailto:traci.=
+hughes@dc.gov">traci.hughes@dc.gov</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+<div id=3D"x_divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size: 12pt; color: r=
+gb(0, 0, 128); font-family: Cambria, Georgia, serif, Georgia, EmojiFont, &qu=
+ot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quo=
+t;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;">
+<p><br>
+</p>
+<p>As much as I would like to help, the notes I took&nbsp;in relation to th=
+e second complaint&nbsp;are attorney work product. I cannot turn them over, =
+even in redacted form.</p>
+<br>
+<br>
+<div style=3D"color:rgb(0,0,0)">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"x_divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" color=3D=
+"#000000" style=3D"font-size:11pt"><b>From:</b> Adams, Eugene (OAH)<br>
+<b>Sent:</b> Wednesday, November 1, 2017 4:14 PM<br>
+<b>To:</b> Hughes, Traci (BEGA)<br>
+<b>Subject:</b> Re: OOG-0003_7.03.17 Notice of Complaint_COST </font>
+<div>&nbsp;</div>
+</div>
+<div>Do you or any one else have written notes that would memorialize the a=
+llegations made? &nbsp;I=E2=80=99m assuming there is some written record of the al=
+legations made by the anonymous complainant? &nbsp;If so, can we have a reda=
+cted version of those that we can treat as
+ the second complaint? &nbsp;<br>
+<br>
+<div id=3D"x_AppleMailSignature">Eugene A. Adams
+<div>Chief ALJ</div>
+<div>Office of Administrative Hearings</div>
+<div>202/442-5823</div>
+</div>
+<div><br>
+On Nov 1, 2017, at 3:48 PM, Hughes, Traci (BEGA) &lt;<a href=3D"mailto:traci.=
+hughes@dc.gov">traci.hughes@dc.gov</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+<div id=3D"x_divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size: 12pt; color: r=
+gb(0, 0, 128); font-family: Cambria, Georgia, serif, Georgia, EmojiFont, &qu=
+ot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quo=
+t;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;">
+<p>It was in person. There was no complaint form filled out for the second =
+complaint.</p>
+<br>
+<br>
+<div style=3D"color:rgb(0,0,0)">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"x_divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" color=3D=
+"#000000" style=3D"font-size:11pt"><b>From:</b> Adams, Eugene (OAH)<br>
+<b>Sent:</b> Wednesday, November 1, 2017 3:35 PM<br>
+<b>To:</b> Hughes, Traci (BEGA)<br>
+<b>Subject:</b> Re: OOG-0003_7.03.17 Notice of Complaint_COST </font>
+<div>&nbsp;</div>
+</div>
+<div>T=E2=80=94
+<div><br>
+</div>
+<div>Since your inquiry was also triggered by the anonymous complainant tha=
+t visited you, can you also please send me that individual=E2=80=99s actual compla=
+int (redacted, of course)? &nbsp;Thanks!<br>
+<br>
+<div id=3D"x_AppleMailSignature">Eugene A. Adams
+<div>Chief ALJ</div>
+<div>Office of Administrative Hearings</div>
+<div>202/442-5823</div>
+</div>
+<div><br>
+On Nov 1, 2017, at 1:34 PM, Hughes, Traci (BEGA) &lt;<a href=3D"mailto:traci.=
+hughes@dc.gov">traci.hughes@dc.gov</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+<div id=3D"x_divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size:12pt; color:rgb=
+(0,0,128); font-family:Cambria,Georgia,serif,Georgia,EmojiFont,&quot;Apple C=
+olor Emoji&quot;,&quot;Segoe UI Emoji&quot;,NotoColorEmoji,&quot;Segoe UI Sy=
+mbol&quot;,&quot;Android Emoji&quot;,EmojiSymbols">
+<p>Hi Gene.</p>
+<p><br>
+</p>
+<p>As requested, attached is the notice of the complaint, and a copy of the=
+ complaint OOG received in writing.</p>
+<p><br>
+</p>
+<p>Traci</p>
+<br>
+<br>
+<div style=3D"color:rgb(0,0,0)">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"x_divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" color=3D=
+"#000000" style=3D"font-size:11pt"><b>From:</b> Hughes, Traci (BEGA)<br>
+<b>Sent:</b> Wednesday, July 5, 2017 2:48 PM<br>
+<b>To:</b> Adams, Eugene (OAH); Natale, Vanessa (OAH)<br>
+<b>Cc:</b> Barton, Johnnie (BEGA)<br>
+<b>Subject:</b> OOG-0003_7.03.17 Notice of Complaint_COST </font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div class=3D"x_WordSection1">
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Cha=
+rter&quot;,serif">Dear Chief Judge Adams, and Ms. Natale --</span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Cha=
+rter&quot;,serif">&nbsp;</span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Cha=
+rter&quot;,serif">Please see the attached Notice of Complaint. As always, I =
+remain available to answer any questions you may have.</span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Cha=
+rter&quot;,serif">&nbsp;</span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Cha=
+rter&quot;,serif">Kind Regards,</span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Cha=
+rter&quot;,serif">Traci</span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;Cha=
+rter&quot;,serif">&nbsp;</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div>&lt;OOG-0003_7.03.17 Notice of Complaint_COST.pdf&gt;</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div>&lt;News Room oah.pdf&gt;</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div>&lt;Borbely_Redacted.pdf&gt;</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</body>
+</html>
+
+
+--B_3602071444_2057483756--
+
